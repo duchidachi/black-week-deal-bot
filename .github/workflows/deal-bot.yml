@@ -1,0 +1,36 @@
+name: Black-Week Deal-Bot
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"    # alle 5 min (Minimum bei GitHub, Läufe kommen oft ein paar Minuten später)
+  workflow_dispatch: {}       # manuell startbar
+
+permissions:
+  contents: write             # um state.json zurückzuschreiben
+
+concurrency:
+  group: deal-bot
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Preise prüfen
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+        run: python3 deal_bot.py
+      - name: State speichern
+        run: |
+          git config user.name "deal-bot"
+          git config user.email "deal-bot@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "state update" && git push

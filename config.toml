@@ -1,0 +1,203 @@
+# Black-Week-Watchlist für deal_bot.py
+# target  = "guter Deal"   → 🔥 Alarm
+# buy_now = "sofort kaufen" → 🚨 Alarm
+# Außerdem gibt es einen Alarm, wenn der Preis um drop_alert_pct unter den ersten gemessenen Preis fällt.
+
+[settings]
+run_every_min = 5         # muss zum Cron-Intervall passen
+geizhals_every_min = 30   # Geizhals nur alle 30 min abfragen (höflich)
+ebay_every_min = 15       # eBay-API alle 15 min (Limit 5.000 Abfragen/Tag)
+delay_s = 4               # Pause zwischen Geizhals-Seiten
+drop_alert_pct = 12
+
+# ------------------------------------------------ PRIO 1: CFexpress Type B 1 TB
+[[product]]
+prio = "PRIO 1"
+name = "Wise CFX-B 1TB (CFexpress 2.0)"
+url = "https://geizhals.eu/wise-advanced-cfx-b-series-r1700-w1550-cfexpress-1-0-type-b-1tb-cfx-b1024-a2358469.html"
+target = 300
+buy_now = 250
+
+[[product]]
+prio = "PRIO 1"
+name = "Wise CFX-B Mk-II 1TB"
+url = "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html"
+target = 300
+buy_now = 250
+
+[[product]]
+prio = "PRIO 1"
+name = "Angelbird AV PRO MK2 1TB"
+url = "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html"
+target = 300
+buy_now = 250
+
+[[product]]
+prio = "PRIO 1"
+name = "Lexar Professional SILVER 4.0 1TB"
+url = "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html"
+target = 300
+buy_now = 250
+
+# ------------------------------------------------ PRIO 2: externe SSD
+[[product]]
+prio = "PRIO 2"
+name = "Samsung T7 Shield 2TB"
+url = "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html"
+target = 320
+buy_now = 280
+
+# ------------------------------------------------ PRIO 2: Archiv-NAS
+[[product]]
+prio = "PRIO 2"
+name = "UGREEN NASync DXP2800 (leer)"
+url = "https://geizhals.eu/ugreen-dxp2800-a3162972.html"
+target = 299
+buy_now = 269
+
+[[product]]
+prio = "PRIO 2"
+name = "Seagate IronWolf 12TB"
+url = "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html"
+target = 400
+buy_now = 360
+
+[[product]]
+prio = "PRIO 2"
+name = "WD Red Plus 12TB"
+url = "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html"
+target = 400
+buy_now = 360
+
+# ======================================================= Deal-Feeds (EU)
+# Pepper-Netzwerk: neue Deals aus DE, AT, FR, ES, NL, UK (pepper.it ist seit 08/2025 geschlossen)
+[[feed]]
+name = "mydealz"
+flag = "🇩🇪"
+url = "https://www.mydealz.de/rss/alles"
+
+[[feed]]
+name = "Preisjäger"
+flag = "🇦🇹"
+url = "https://www.preisjaeger.at/rss/alle"
+
+[[feed]]
+name = "Dealabs"
+flag = "🇫🇷"
+url = "https://www.dealabs.com/rss/tous"
+
+[[feed]]
+name = "Chollometro"
+flag = "🇪🇸"
+url = "https://www.chollometro.com/rss/nuevos"
+
+[[feed]]
+name = "Pepper NL"
+flag = "🇳🇱"
+url = "https://nl.pepper.com/rss/nieuw"
+
+[[feed]]
+name = "hotukdeals"
+flag = "🇬🇧"
+url = "https://www.hotukdeals.com/rss/new"
+note = "UK: Zoll + Einfuhr-USt (~19 %) einrechnen, Preis grob in € umgerechnet"
+
+# ======================================================= Regeln
+# Statt fester Modelle: Kategorie + €/TB-Grenze (Mehrfachpacks werden pro Stück gerechnet)
+#   all = alle Begriffe nötig · any = mind. einer · none = Ausschluss
+#   max_eur_per_tb → 🛒 Deal · hot_eur_per_tb → 🚨 TOP-DEAL · max_price = absolute Grenze
+# Reihenfolge zählt: die erste passende Regel gewinnt.
+
+[[watch]]
+label = "CFexpress Type B"
+all = ["cfexpress"]
+none = ["type a", "typ a", "type-a", "tipo a", "lecteur", "reader", "lesegerät", "lector", "lettore"]
+max_eur_per_tb = 320      # Virtual Foto: 2× AV PRO SE 1 TB für 423 € ≈ 212 €/TB
+hot_eur_per_tb = 250
+alert_unknown = true      # auch melden, wenn Preis/Kapazität nicht im Titel steht
+
+[[watch]]
+label = "Portable SSD"
+any = ["t7", "t9", "extreme portable", "extreme pro portable", "sandisk extreme", "crucial x9", "crucial x10", "lexar sl", "ssd externe", "ssd portable", "externe ssd", "portable ssd"]
+none = ["microsd", "sd card", "sd-karte", "sdxc", "carte sd"]
+max_eur_per_tb = 150
+hot_eur_per_tb = 115
+
+[[watch]]
+label = "HDD Archiv/NAS"
+any = ["ironwolf", "wd red", "n300", "exos", "ultrastar", "mg08", "mg09", "mg10", "wd elements", "seagate expansion", "my book", "toshiba canvio", "red plus", "red pro"]
+max_eur_per_tb = 28
+hot_eur_per_tb = 22
+
+[[watch]]
+label = "NAS-Gehäuse"
+any = ["dxp2800", "dxp4800", "dxp480t", "ds225+", "ds224+", "ds425+", "ds923+", "ds423+", "ts-264", "ts-464", "as5402", "as5404"]
+max_price = 450
+
+[[watch]]
+label = "Angelbird / Nextorage / ProGrade"
+any = ["angelbird", "nextorage", "prograde", "delkin"]
+
+[[watch]]
+label = "Manfrotto ONE"
+all = ["manfrotto", "one"]
+
+[[watch]]
+label = "Leatherman"
+all = ["leatherman"]
+max_price = 120
+
+[[watch]]
+label = "Licht"
+any = ["amaran", "aputure", "godox ml", "nanlite", "zhiyun molus"]
+
+[[watch]]
+label = "Molton"
+any = ["molton"]
+
+# ======================================================= eBay (offizielle Browse API)
+# Nur Neuware, Sofortkauf, Versand nach DE, Preis inkl. Versand.
+# Die Bewertung wird anhand der passenden [[watch]]-Regel (rule = label) berechnet.
+# Budget: Suchen × Marktplätze × 4/h × 24 muss unter 5.000 Abfragen/Tag bleiben (aktuell 6 × 4 × 96 = 2.304).
+[ebay]
+marketplaces = ["EBAY_DE", "EBAY_IT", "EBAY_FR", "EBAY_ES"]
+deliver_to = "DE"
+min_feedback_pct = 98.5        # Schutz vor Fake-/Betrugsangeboten (gefälschte Karten sind auf eBay häufig)
+min_feedback_count = 200
+max_alerts_per_search = 5
+
+[[ebay.search]]
+q = "cfexpress type b 1tb"
+rule = "CFexpress Type B"
+min_price = 120
+max_price = 700
+
+[[ebay.search]]
+q = "(angelbird, nextorage, prograde) cfexpress"
+rule = "CFexpress Type B"
+min_price = 120
+max_price = 900
+
+[[ebay.search]]
+q = "(samsung t7, samsung t9, sandisk extreme portable, crucial x9, crucial x10) 2tb"
+rule = "Portable SSD"
+min_price = 100
+max_price = 400
+
+[[ebay.search]]
+q = "(samsung t7, samsung t9, sandisk extreme portable, crucial x9, crucial x10) 4tb"
+rule = "Portable SSD"
+min_price = 200
+max_price = 700
+
+[[ebay.search]]
+q = "(ironwolf, wd red plus, seagate exos, toshiba n300, wd ultrastar) (12tb, 14tb, 16tb, 18tb, 20tb)"
+rule = "HDD Archiv/NAS"
+min_price = 150
+max_price = 700
+
+[[ebay.search]]
+q = "(wd elements, seagate expansion, wd my book) (12tb, 14tb, 16tb, 18tb, 20tb)"
+rule = "HDD Archiv/NAS"
+min_price = 150
+max_price = 700
