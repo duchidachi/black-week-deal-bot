@@ -52,13 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://nl.pepper.com/aanbiedingen/milwaukee-aanslaghoekdriehoek-18-cm-metrisch-at-amazon-428632",
-  "https://nl.pepper.com/aanbiedingen/amazon-basics-aaa-alkalinebatterijen-36-stuks-at-amazon-nl-428615",
-  "https://nl.pepper.com/aanbiedingen/8-korting-bij-visiondirectnl-428656",
-  "https://nl.pepper.com/aanbiedingen/sarah-j-maas-throne-of-glass-box-set-complete-serie-8-paperbacks-engels-428611",
-  "https://nl.pepper.com/aanbiedingen/prodent-5-tubes-voor-eur370-kruidvat-428655",
-  "https://nl.pepper.com/aanbiedingen/goudse-jonge-kaas-428653",
-  "https://nl.pepper.com/aanbiedingen/eeigier-t5s-428652",
   "https://nl.pepper.com/aanbiedingen/terstal-black-days-30-extra-korting-op-alles-428651",
   "https://nl.pepper.com/aanbiedingen/sonoff-swv-zne-hydro-one-lite-zigbee-sproeitimer-at-amazon-428631",
   "https://nl.pepper.com/kortingscode/black-friday-korting-op-hele-assortiment-428650",
@@ -1551,7 +1544,14 @@
   "https://www.chollometro.com/ofertas/black-friday-decathlon-hasta-un-20-extra-con-el-cupon-black26-solo-en-la-app-2084835",
   "https://www.chollometro.com/ofertas/chaqueta-helly-hansen-hombre-impermeable-2084855",
   "https://www.hotukdeals.com/deals/star-wars-grogu-with-learning-tablet-plush-5043318",
-  "https://www.hotukdeals.com/deals/bankhall-single-malt-whiskey-5043317"
+  "https://www.hotukdeals.com/deals/bankhall-single-malt-whiskey-5043317",
+  "https://www.mydealz.de/deals/combi-kwk-eon-highspeed-300-ab-3390eur-glasfaser-westconnect-2878978",
+  "https://www.dealabs.com/bons-plans/puma-smash-v2-l-basketsmixte-taille-414243-3465704",
+  "https://www.hotukdeals.com/deals/dyson-v15-detect-absolute-cordless-vacuum-5043324",
+  "https://www.hotukdeals.com/deals/6-x-quality-street-gift-boxes-220g-ps299-each-5043323",
+  "https://www.hotukdeals.com/deals/berghaus-deluge-pro-30-jacket-burnt-orange-3xl-only-5043322",
+  "https://www.hotukdeals.com/deals/under-armour-mens-3-pack-performance-cotton-boxer-brief-6-inseam-breathable-moisture-wicking-soft-touch-size-s-xl-xxl-3xl-5xl-5043321",
+  "https://www.hotukdeals.com/deals/the-body-shop-classic-24-piece-beauty-advent-calendar-5043320"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,6 +1564,6 @@
  ],
  "last_run": {
   "geizhals": 1795385332.1588724,
-  "ebay": 1795385332.1588724
+  "ebay": 1795386283.7684188
  }
 }
