@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-22T22:08:58+00:00"
+   "checked": "2026-11-22T22:40:03+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,61 +13,45 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-22T22:09:07+00:00"
+   "checked": "2026-11-22T22:40:13+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-22T22:09:12+00:00"
+   "checked": "2026-11-22T22:40:18+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
    "first_seen": "2026-11-10T20:04:35+00:00",
    "lowest": 365.83,
    "last": 372.85,
-   "checked": "2026-11-22T22:09:17+00:00"
+   "checked": "2026-11-22T22:40:23+00:00"
   },
   "https://geizhals.eu/ugreen-dxp2800-a3162972.html": {
    "baseline": 348.56,
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-22T22:09:22+00:00"
+   "checked": "2026-11-22T22:40:27+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-22T22:09:26+00:00"
+   "checked": "2026-11-22T22:40:33+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-22T22:09:31+00:00"
+   "checked": "2026-11-22T22:40:37+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/air-jordan-skyline-low-mens-shoes-trainers-3-colours-sizes-3-16-5042883",
-  "https://www.hotukdeals.com/deals/neom-real-luxury-350g-scrub-5042882",
-  "https://www.hotukdeals.com/deals/ajmal-chivalry-eau-de-parfum-100ml-for-men-long-lasting-fresh-fragrance-ss-ps1067-5042881",
-  "https://www.hotukdeals.com/deals/seconique-nevada-6-door-2-drawer-wardrobe-in-white-gloss-black-ps21999-5042880",
-  "https://www.hotukdeals.com/deals/lee-cooper-mens-jeans-classic-regular-fit-with-5-pockets-design-zip-fly-belt-loop-heavy-duty-denim-wash-stretch-plain-casual-5042878",
-  "https://www.hotukdeals.com/deals/the-legend-of-zelda-ocarina-of-time-nintendo-switch-2-free-cc-5042877",
-  "https://www.hotukdeals.com/deals/glorious-gmmk-2-full-size-96-mechanical-keyboard-pink-uk-layout-5042876",
-  "https://www.hotukdeals.com/deals/logitech-g-pro-tkl-mechanical-gaming-keyboard-gx-blue-clicky-black-5042875",
-  "https://www.hotukdeals.com/deals/rubies-5ft-blow-up-man-inflatable-prop-for-adult-hen-or-stag-party-skin-tone-5042874",
-  "https://www.hotukdeals.com/deals/farmagia-ps5-5042871",
-  "https://www.hotukdeals.com/deals/angostura-1787-15-year-old-special-reserve-rum-70cl-5042867",
-  "https://www.hotukdeals.com/deals/paw-patrol-mardhall-rc-fire-truck-5042866",
-  "https://www.hotukdeals.com/deals/assassins-creed-valhalla-ps5-5042865",
-  "https://www.mydealz.de/deals/mannesmann-steckschlussel-satz-215-tlg-m98430-amazon-2878740",
-  "https://www.dealabs.com/bons-plans/the-witcher-3-wild-hunt-remastered-sur-xbox-series-xs-pc-dematerialise-store-xbox-pologne-1999eur-sur-store-france-3465404",
-  "https://www.dealabs.com/bons-plans/epilateur-lumiere-pulsee-3465403",
   "https://www.dealabs.com/bons-plans/canape-dangle-compresse-gauche-fixe-gutent-3-places-velours-cotele-vert-3465402",
   "https://www.chollometro.com/ofertas/sudadera-off-white-2084253",
   "https://www.chollometro.com/ofertas/funko-pop-jumbo-30-en-cupon-para-gastar-en-la-tienda-carrefour-valladolid-2084250",
@@ -1551,7 +1535,23 @@
   "https://www.mydealz.de/deals/xbox-wireless-controller-nano-4699eur-fur-xbox-series-x-xbox-series-s-xbox-onexbox-cloud-pc-amazon-prime-mediamarkt-saturn-abholen-2878979",
   "https://www.dealabs.com/bons-plans/bras-ecran-pc-suptek-17-35-a-ressort-a-gaz-11-kg-max-vesa-75100-rotation-360-noir-vendeur-tiers-3465707",
   "https://www.chollometro.com/ofertas/ravensburger-minecraft-builders-biomes-juego-para-2-4-jugadores-2084876",
-  "https://www.hotukdeals.com/deals/under-armour-charge-surge-4-black-trainers-5043327"
+  "https://www.hotukdeals.com/deals/under-armour-charge-surge-4-black-trainers-5043327",
+  "https://www.mydealz.de/deals/vorwerk-thermomix-tm7-black-weeks-angebot-0-2878983",
+  "https://www.mydealz.de/deals/prime-sks-speedrocker-xl-set-schutzblech-set-fur-gravelbikes-2878982",
+  "https://www.dealabs.com/bons-plans/soundcore-select-3-via-5eur-de-bienvenue-3465713",
+  "https://www.dealabs.com/bons-plans/stanley-etabli-pliant-fatmax-express-fmst1-75672-85-x-60-x-80-cm-3465712",
+  "https://www.dealabs.com/bons-plans/cafetiere-rouge-filtre-subito-moulinex-3465710",
+  "https://www.dealabs.com/bons-plans/piano-smeg-induction-promo-smeg-3465709",
+  "https://www.chollometro.com/ofertas/x2-total-112-lavados-mimosin-suavizante-concentrado-caricias-56-lavados-2084879",
+  "https://www.chollometro.com/ofertas/soporte-central-barbecook-dynamic-centre-stand-36-cm-de-acero-de-6-mm-2084878",
+  "https://www.chollometro.com/ofertas/nsv-qwixx-juego-de-dados-y-estrategia-mental-edicion-en-espanol-2084877",
+  "https://www.hotukdeals.com/deals/felt-fr-advanced-ultegra-di2-carbon-road-bike-2025-5043335",
+  "https://www.hotukdeals.com/deals/shinobi-art-of-vengeance-pc-steam-steam-deck-5043334",
+  "https://www.hotukdeals.com/deals/reign-storm-peach-nectarine-355ml-york-5043333",
+  "https://www.hotukdeals.com/deals/kayalinvanilla-28-5043331",
+  "https://www.hotukdeals.com/deals/under-armour-charged-bandit-3-trail-running-trainers-blackblue-uk-78-10-5043330",
+  "https://www.hotukdeals.com/deals/shinobi-art-of-vengeance-pc-steam-steam-deck-sold-by-cdkeynogap-5043329",
+  "https://www.hotukdeals.com/deals/elemis-pro-collagen-night-cream-morning-matrix-50ml-day-to-night-anti-aging-skincare-for-firmer-smoother-5043328"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1563,7 +1563,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795385332.1588724,
-  "ebay": 1795386283.7684188
+  "geizhals": 1795387198.2665105,
+  "ebay": 1795387198.2665105
  }
 }
