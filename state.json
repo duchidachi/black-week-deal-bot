@@ -52,19 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/visseuse-a-choc-dewalt-mclaren-sans-fil-brushless-18v-1-x-4ah-li-ion-3463030",
-  "https://www.dealabs.com/bons-plans/fanatec-base-clubsport-dd-3463027",
-  "https://www.dealabs.com/bons-plans/jeu-de-societe-asmodee-unlock-enchanted-adventures-3463026",
-  "https://www.dealabs.com/bons-plans/50-de-reduction-3463024",
-  "https://www.dealabs.com/bons-plans/piano-yamaha-p45-3463025",
-  "https://www.dealabs.com/bons-plans/sac-a-dos-imprime-adidas-enfants-2283-litres-bleu-44-cm-x-31-cm-3463022",
-  "https://www.dealabs.com/bons-plans/ecran-panoramique-93-gokana-a-5990-eur-via-60-eur-en-ticket-eleclerc-au-lieu-de-11990-eur-3463021",
-  "https://www.dealabs.com/bons-plans/59-maybelline-new-york-coffret-3-blush-levres-teddy-tint-mat-tenue-12h-3462999",
-  "https://www.dealabs.com/bons-plans/les-fourmis-edition-standard-sur-ps5-3463020",
-  "https://www.dealabs.com/bons-plans/figurine-star-wars-viii-elite-guard-50cm-3463016",
-  "https://www.dealabs.com/bons-plans/lot-de-162-couches-bebe-biolane-tailles-2-3-6-kg-et-3-4-9-kg-3463015",
-  "https://www.dealabs.com/bons-plans/figurine-support-stormtrooper-3463010",
-  "https://www.dealabs.com/bons-plans/maillot-manches-longues-domicile-allemagne-26-blanc-du-xs-au-3xl-3463013",
   "https://www.dealabs.com/bons-plans/short-rbk-collegiate-pour-homme-tailles-xs-au-xl-3463012",
   "https://www.dealabs.com/bons-plans/20-sur-les-manettes-a-palette-esport-gamesir-exemple-tarantula-8k-3462973",
   "https://www.dealabs.com/bons-plans/sac-a-dos-velo-decathlon-speed-500-velotaff-reflectif-visible-la-nuit-20-25l-rolltop-emplacement-pc-mousse-dernieres-pieces-3463007",
@@ -1551,7 +1538,20 @@
   "https://www.hotukdeals.com/deals/oral-b-io-kids-marvel-toothbrush-5042952",
   "https://www.hotukdeals.com/deals/johnny-cree-single-malt-scotch-whisky-40-vol-70cl-ss-1615-5042951",
   "https://www.hotukdeals.com/deals/oral-b-io2-electric-toothbrush-with-travel-case-night-black-5042950",
-  "https://www.hotukdeals.com/deals/olay-regenerist-retinol-night-cream-retinol-peptides-moisturiser-50ml-5042949"
+  "https://www.hotukdeals.com/deals/olay-regenerist-retinol-night-cream-retinol-peptides-moisturiser-50ml-5042949",
+  "https://www.mydealz.de/deals/garmin-varia-rearvue-820-stvzo-radar-mit-rucklicht-garmin-artikelnummer-010-03180-00-2878770",
+  "https://www.mydealz.de/deals/aldi-nord-funko-pop-figuren-pikachu-star-wars-grogu-2878768",
+  "https://www.dealabs.com/bons-plans/application-business-card-maker-logo-card-gratuite-sur-android-dematerialise-play-store-3465423",
+  "https://www.dealabs.com/bons-plans/nettoyeur-de-sol-roborock-f25-rt-gen2-20-kpa-position-a-plat-180-autonomie-38-min-vendeur-darty-3465418",
+  "https://www.dealabs.com/bons-plans/anker-maggo-batterie-externe-magsafe-qi2-15w-10000mah-3465422",
+  "https://www.dealabs.com/bons-plans/telescope-celestron-21035-ads-travel-scope-70-refractor-telescope-kit-avec-sac-a-dos-3465421",
+  "https://www.dealabs.com/bons-plans/banquette-convertible-selma-3-places-velours-cotele-avec-coffre-gris-clair-3465420",
+  "https://www.chollometro.com/ofertas/natures-variety-no-grain-pienso-para-gatos-esterilizados-con-pavo-7kg-2084293",
+  "https://www.chollometro.com/ofertas/zapatillas-mujer-reebok-classics-classic-az-trainers-2084292",
+  "https://www.chollometro.com/ofertas/la-roche-posay-serum-b3-facial-antiedad-con-retinol-y-vitamina-b3-30-ml-2084279",
+  "https://nl.pepper.com/aanbiedingen/flipper-zero-laagste-prijs-ooit-at-amazon-428664",
+  "https://www.hotukdeals.com/deals/lego-batman-legacy-of-the-dark-knight-standard-edition-playstation-5-5042954",
+  "https://www.hotukdeals.com/deals/homcom-12v-electric-battery-powered-quad-bike-ride-on-atv-car-w-forward-reverse-functions-music-led-lights-for-ages-3-5-years-white-5042953"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,6 +1564,6 @@
  ],
  "last_run": {
   "geizhals": 1795362845.8832827,
-  "ebay": 1795362845.8832827
+  "ebay": 1795363793.2905304
  }
 }
