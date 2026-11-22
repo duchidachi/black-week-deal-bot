@@ -109,16 +109,20 @@ def save_state(state: dict) -> None:
 
 
 def telegram(text: str, dry: bool) -> None:
+    print("\n[ALARM]\n" + html.unescape(re.sub(r"<[^>]+>", "", text)) + "\n")  # immer ins Log
     if dry:
-        print("\n[TELEGRAM]\n" + re.sub(r"<[^>]+>", "", text) + "\n")
         return
     token, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
     if not token or not chat:
-        sys.exit("TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID fehlen")
+        print("(nicht gesendet: TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID fehlen)")
+        return
     data = urllib.parse.urlencode(
         {"chat_id": chat, "text": text, "parse_mode": "HTML", "disable_web_page_preview": "false"}
     ).encode()
-    urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", data=data, timeout=20)
+    try:
+        urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", data=data, timeout=20)
+    except Exception as e:  # noqa: BLE001 – ein Telegram-Fehler soll den Lauf nicht abbrechen
+        print(f"FEHLER Telegram: {e}")
 
 
 # --------------------------------------------------------------- geizhals
@@ -401,14 +405,17 @@ def main() -> None:
         return
     cfg = tomllib.loads(CONFIG.read_text())
     state = load_state()
+    force = dry or "--all" in sys.argv
     alerts = check_feeds(cfg, state, dry)
-    minute = datetime.now(timezone.utc).minute  # Geizhals seltener abfragen
-    every = cfg["settings"].get("geizhals_every_min", 30)
-    step = cfg["settings"].get("run_every_min", 10)
-    if dry or "--all" in sys.argv or minute % every < step:
+    # Geizhals/eBay seltener abfragen – nach verstrichener Zeit, nicht nach Uhrzeit
+    now = time.time()
+    last = state.setdefault("last_run", {})
+    if force or now - last.get("geizhals", 0) >= cfg["settings"].get("geizhals_every_min", 30) * 60 - 30:
         alerts += check_products(cfg, state, dry)
-    if dry or "--all" in sys.argv or minute % cfg["settings"].get("ebay_every_min", 15) < step:
+        last["geizhals"] = now
+    if force or now - last.get("ebay", 0) >= cfg["settings"].get("ebay_every_min", 15) * 60 - 30:
         alerts += check_ebay(cfg, state, dry)
+        last["ebay"] = now
     for a in alerts:
         telegram(a, dry)
     if not dry:

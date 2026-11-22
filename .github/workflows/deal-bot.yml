@@ -1,9 +1,15 @@
 name: Black-Week Deal-Bot
 
+# GitHub startet zeitgesteuerte Workflows oft nur alle paar Stunden.
+# Deshalb läuft jeder Start ~5,5 h und prüft darin alle 5 min.
+# Die stündlichen Starts warten in der Warteschlange (concurrency) und übernehmen nahtlos.
 on:
   schedule:
-    - cron: "*/5 * * * *"    # alle 5 min (Minimum bei GitHub, Läufe kommen oft ein paar Minuten später)
-  workflow_dispatch: {}       # manuell startbar
+    - cron: "7 * * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ["config.toml", "deal_bot.py"]   # nach Änderungen sofort neu starten
 
 permissions:
   contents: write             # um state.json zurückzuschreiben
@@ -15,22 +21,28 @@ concurrency:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Preise prüfen
+      - name: Preise prüfen (Schleife, alle 5 min)
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
           EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
-        run: python3 deal_bot.py
-      - name: State speichern
         run: |
           git config user.name "deal-bot"
           git config user.email "deal-bot@users.noreply.github.com"
-          git add state.json
-          git diff --cached --quiet || git commit -m "state update" && git push
+          end=$(( $(date +%s) + 330*60 ))
+          while [ "$(date +%s)" -lt "$end" ]; do
+            git pull -q --rebase || true            # Änderungen an config.toml übernehmen
+            python3 deal_bot.py || echo "Lauf fehlgeschlagen, weiter geht's"
+            git add state.json
+            if ! git diff --cached --quiet; then
+              git commit -q -m "state update" && (git push -q || (git pull -q --rebase && git push -q)) || true
+            fi
+            sleep 300
+          done

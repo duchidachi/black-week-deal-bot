@@ -1,26 +1,63 @@
 #!/usr/bin/env bash
-# Trägt Telegram- und eBay-Zugangsdaten als GitHub-Secrets ein.
-# Die Eingaben werden nicht angezeigt und nirgends gespeichert, außer verschlüsselt bei GitHub.
+# Verbindet den Deal-Bot mit Telegram (und optional eBay).
+# - fragt das Bot-Token verdeckt ab und prüft es
+# - holt deine Chat-ID automatisch, sobald du dem Bot "Start" drückst
+# - speichert alles verschlüsselt als GitHub-Secrets und schickt eine Testnachricht
+# Die Werte werden nicht angezeigt und nirgends lokal gespeichert.
 set -euo pipefail
 cd "$(dirname "$0")"
 
-ask() {  # $1 = Secret-Name, $2 = Beschreibung, $3 = optional?
-  local val
-  read -r -s -p "$2${3:+ (Enter = überspringen)}: " val; echo
-  if [[ -z "$val" ]]; then
-    [[ -n "${3:-}" ]] && { echo "  → $1 übersprungen"; return; }
-    echo "  → $1 ist Pflicht"; exit 1
-  fi
-  printf '%s' "$val" | gh secret set "$1" && echo "  ✓ $1 gesetzt"
-}
+api() { curl -fsS "https://api.telegram.org/bot${TOKEN}/$1" "${@:2}"; }
 
-echo "== Telegram =="
-ask TELEGRAM_BOT_TOKEN "Bot-Token von @BotFather"
-ask TELEGRAM_CHAT_ID   "Chat-ID (aus getUpdates)"
-echo "== eBay (optional) =="
-ask EBAY_CLIENT_ID     "eBay App ID / Client ID" opt
-ask EBAY_CLIENT_SECRET "eBay Cert ID / Client Secret" opt
+echo "== 1/3 Telegram-Bot =="
+echo "Füge das Token von @BotFather ein (Format 123456789:ABC…), die Eingabe ist unsichtbar:"
+read -r -s TOKEN; echo
+TOKEN="$(printf '%s' "$TOKEN" | tr -d '[:space:]')"
+ME="$(api getMe 2>/dev/null || true)"
+USERNAME="$(printf '%s' "$ME" | python3 -c 'import sys,json;print(json.load(sys.stdin)["result"]["username"])' 2>/dev/null || true)"
+if [[ -z "$USERNAME" ]]; then
+  echo "✗ Token ungültig. Kopiere es nochmal komplett aus dem BotFather-Chat (inkl. Zahl vor dem Doppelpunkt)."; exit 1
+fi
+echo "✓ Bot gefunden: @$USERNAME"
+api deleteWebhook >/dev/null || true
 
 echo
-echo "Starte Testlauf auf GitHub …"
-gh workflow run deal-bot.yml && echo "✓ Läuft. Status: gh run list --workflow deal-bot.yml"
+echo "== 2/3 Chat verbinden =="
+echo "Öffne jetzt auf dem Handy: https://t.me/$USERNAME"
+echo "und tippe unten auf START (oder schreib ihm irgendwas). Ich warte bis zu 3 Minuten …"
+open "https://t.me/$USERNAME" 2>/dev/null || true
+CHAT=""
+for _ in $(seq 1 36); do
+  CHAT="$(api getUpdates | python3 -c '
+import sys,json
+r=json.load(sys.stdin).get("result",[])
+ids=[u[k]["chat"]["id"] for u in r for k in ("message","my_chat_member") if k in u]
+print(ids[-1] if ids else "")')"
+  [[ -n "$CHAT" ]] && break
+  sleep 5
+done
+if [[ -z "$CHAT" ]]; then
+  echo "✗ Keine Nachricht angekommen. Hast du beim richtigen Bot (@$USERNAME) auf START getippt? Skript einfach nochmal starten."; exit 1
+fi
+api sendMessage --data-urlencode "chat_id=$CHAT" --data-urlencode "text=✅ Black-Week-Bot ist verbunden. Ab jetzt kommen hier die Deals." >/dev/null
+echo "✓ Chat verbunden, Testnachricht gesendet. Schau aufs Handy!"
+printf '%s' "$TOKEN" | gh secret set TELEGRAM_BOT_TOKEN
+printf '%s' "$CHAT"  | gh secret set TELEGRAM_CHAT_ID
+echo "✓ In GitHub gespeichert"
+
+echo
+echo "== 3/3 eBay (optional, Enter = überspringen) =="
+read -r -s -p "eBay App ID / Client ID: " EID; echo
+if [[ -n "$EID" ]]; then
+  read -r -s -p "eBay Cert ID / Client Secret: " ESEC; echo
+  printf '%s' "$EID"  | gh secret set EBAY_CLIENT_ID
+  printf '%s' "$ESEC" | gh secret set EBAY_CLIENT_SECRET
+  echo "✓ eBay gespeichert"
+else
+  echo "→ eBay übersprungen (später einfach Skript nochmal starten)"
+fi
+
+echo
+echo "Starte den Bot auf GitHub neu …"
+for id in $(gh run list --workflow deal-bot.yml --status in_progress --json databaseId -q '.[].databaseId'); do gh run cancel "$id" >/dev/null || true; done
+gh workflow run deal-bot.yml && echo "✓ Fertig. Der Bot läuft und meldet sich, sobald ein Deal auftaucht."
