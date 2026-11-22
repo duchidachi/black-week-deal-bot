@@ -52,10 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/assassins-creed-animus-board-game-ps2799-with-voucher-5042913",
-  "https://www.mydealz.de/deals/garmin-varia-rearvue-820-stvzo-radar-mit-rucklicht-garmin-artikelnummer-010-03180-00-2878748",
-  "https://www.mydealz.de/deals/kinder-schokolade-1-packung-mit-je-8-einzelriegeln-8-x-125-g-prime-2878744",
-  "https://www.mydealz.de/deals/expert-lg-86mrgb88b9b-86-zoll-4k-mini-rgb-evo-tv-2026-144-hz-hdmi-21-webos-26-2878747",
   "https://www.mydealz.de/deals/penny-app-4eur-auf-deinen-einkauf-ab-10eur-coupon-2878746",
   "https://www.mydealz.de/deals/nigrin-entfroster-spray-scheiben-enteiser-fur-autoscheiben-jumbo-dose-400-ml-bis-20-wirksam-2878745",
   "https://www.mydealz.de/deals/cloer-181-waffeleisen-fur-eine-herzwaffel-2878743",
@@ -1551,7 +1547,11 @@
   "https://www.hotukdeals.com/deals/jean-paul-gaultier-le-male-giftset-125ml-eau-de-toilette-75ml-shower-gel-wcoupon-ps4605-for-joy-plus-members-5043342",
   "https://www.hotukdeals.com/deals/timberland-parker-street-mid-lace-boots-black-uk-7-10-125-5043340",
   "https://www.hotukdeals.com/deals/arima-conditioner-spray-150ml-york-5043339",
-  "https://www.hotukdeals.com/deals/clarks-suede-torhill-boots-suede-black-5043338"
+  "https://www.hotukdeals.com/deals/clarks-suede-torhill-boots-suede-black-5043338",
+  "https://www.mydealz.de/deals/samsung-beispiel-tv-m70h-65-deutsche-version-cb-bis-30-plus-8-und-ohne-vsk-mit-samsung-account-2878984",
+  "https://www.hotukdeals.com/deals/lego-batman-switch-2-john-lewis-5043345",
+  "https://www.hotukdeals.com/deals/timberland-exeter-full-zip-hoodie-green-5043344",
+  "https://www.hotukdeals.com/deals/destiny-2-the-collection-pc-steam-5043343"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,6 +1564,6 @@
  ],
  "last_run": {
   "geizhals": 1795387198.2665105,
-  "ebay": 1795387198.2665105
+  "ebay": 1795388151.131221
  }
 }
