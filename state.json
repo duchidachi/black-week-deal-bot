@@ -52,20 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/itaca-maleta-mediana-4-ruedas-dobles-carcasa-rigida-champagne-2081277",
-  "https://www.chollometro.com/ofertas/drones-camaras-de-accion-y-360-samsung-t9-tarjeta-microsd-256-gb-con-lector-usb-uhs-i-u3-fullhd-4k-uhd-mb-mh256tww-2081275",
-  "https://www.chollometro.com/ofertas/logitech-lift-raton-ergonomico-vertica-2081271",
-  "https://www.chollometro.com/ofertas/lorus-automatico-rl425cx9-2081269",
-  "https://www.chollometro.com/ofertas/playmobil-porsche-carrera-gt-71859-coche-deportivo-de-coleccion-con-conductor-4-anos-2081267",
-  "https://www.chollometro.com/ofertas/huawei-4g-mobile-wifi-3-con-pantalla-router-movil-con-tarjeta-sim-negro-2081276",
-  "https://www.chollometro.com/ofertas/apple-ipad-air-de-11-pulgadas-m4-128gb-2081274",
-  "https://www.chollometro.com/ofertas/switch-asterix-maxi-collection-standard-edition-2081266",
-  "https://www.chollometro.com/ofertas/well-home-sartenes-20-22-24-cm-acero-inoxidable-sin-antiadherente-tamanos-disponibles-2081262",
-  "https://www.chollometro.com/ofertas/real-techniques-travel-fantasy-mini-brush-kit-pinceles-con-estuche-10-uds-2081265",
-  "https://www.chollometro.com/ofertas/vevor-calentador-diesel-portatil-5-8kw-todo-en-uno-12-v24-v-con-control-por-aplicacion-bluetooth-control-remotopantalla-de-visualizacion-2081263",
-  "https://www.chollometro.com/ofertas/davidoff-cool-water-eau-de-toilette-125ml-fragancia-aromatica-masculina-fresca-y-con-notas-de-cilantro-menta-y-lavanda-2081259",
-  "https://www.chollometro.com/ofertas/songmics-cajas-de-zapatos-12-organizadores-apilables-desde-espana-2081257",
-  "https://www.chollometro.com/ofertas/adidas-handball-spezial-beige-y-blanco-tallas-36-a-48-por-45-eur-con-codigo-en-asos-2081255",
   "https://nl.pepper.com/aanbiedingen/lego-76477-norbert-hagrids-babydraak-428370",
   "https://nl.pepper.com/aanbiedingen/philips-multigroom-5000-serie-alles-in-een-12-delige-trimmer-scheerapparaat-tondeuse-voor-gezicht-hoofd-lichaam-mg595230-426159",
   "https://nl.pepper.com/aanbiedingen/eastpak-reader-m-tas-515-l-428365",
@@ -1551,7 +1537,21 @@
   "https://www.hotukdeals.com/deals/sandisk-extreme-sd-memory-card-128gb-up-to-230mbs-read-speeds-uhs-i-5043013",
   "https://www.hotukdeals.com/deals/nickelback-everything-under-the-sun-cd-exclusive-amazon-signed-edition-5043012",
   "https://www.hotukdeals.com/deals/riace-linea-white-flat-designer-radiator-350x1000mm-single-panel-1352-btu-horizontal-bars-free-cc-from-east-midlands-or-huddersfield-5043011",
-  "https://www.hotukdeals.com/deals/philips-lumea-7000-series-ipl-hair-removal-5043010"
+  "https://www.hotukdeals.com/deals/philips-lumea-7000-series-ipl-hair-removal-5043010",
+  "https://www.mydealz.de/deals/prime-eastpak-padded-pakr-rucksack-24l-wasserabweisend-schulrucksack-farbe-army-olive-2878809",
+  "https://www.mydealz.de/deals/lego-city-offroad-gelandewagen-60447-fur-1239-euro-eol-122026-amazon-prime-2878807",
+  "https://www.mydealz.de/deals/apple-magic-mouse-weiss-2878806",
+  "https://www.chollometro.com/ofertas/pack-5-cajas-almacenaje-ropa-con-asas-reforzadas-packs-disponibles-2084393",
+  "https://www.chollometro.com/ofertas/lampara-led-batten-alta-eficiencia-energetica-2084392",
+  "https://www.chollometro.com/ofertas/figura-articulada-ultimate-gohan-dragon-ball-super-coleccion-limit-breaker-series-bandai-tambien-en-amazon-2084391",
+  "https://www.chollometro.com/ofertas/10000-a-12v-arrancador-baterias-coche-con-compresor-aire-2084390",
+  "https://www.chollometro.com/ofertas/blackshark-v2-x-rosa-2084389",
+  "https://www.chollometro.com/ofertas/enermax-ets-t41-ventilador-para-cpu-2-x-120-mm-2084388",
+  "https://www.hotukdeals.com/deals/my-arcade-atari-gamestation-go-retro-portable-gaming-console-with-200-games-7-inch-screen-wi-fi-rechargeable-battery-5043019",
+  "https://www.hotukdeals.com/deals/kaze-and-the-wild-masks-nintendo-switch-game-pegi-7-5043018",
+  "https://www.hotukdeals.com/deals/sandisk-high-endurance-video-monitoring-for-dashcams-5043017",
+  "https://www.hotukdeals.com/deals/ocado-m-s-super-soft-towels-5043016",
+  "https://www.hotukdeals.com/deals/arcade1up-atari-50th-anniversary-arcade-machine-64-games-ps20-voucher-5043009"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,6 +1564,6 @@
  ],
  "last_run": {
   "geizhals": 1795366688.067778,
-  "ebay": 1795366688.067778
+  "ebay": 1795367639.0465984
  }
 }
