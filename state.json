@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-22T21:37:45+00:00"
+   "checked": "2026-11-22T22:08:58+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,56 +13,45 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-22T21:37:55+00:00"
+   "checked": "2026-11-22T22:09:07+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-22T21:38:00+00:00"
+   "checked": "2026-11-22T22:09:12+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
    "first_seen": "2026-11-10T20:04:35+00:00",
    "lowest": 365.83,
-   "last": 365.83,
-   "checked": "2026-11-22T21:38:05+00:00"
+   "last": 372.85,
+   "checked": "2026-11-22T22:09:17+00:00"
   },
   "https://geizhals.eu/ugreen-dxp2800-a3162972.html": {
    "baseline": 348.56,
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-22T21:38:10+00:00"
+   "checked": "2026-11-22T22:09:22+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-22T21:38:14+00:00"
+   "checked": "2026-11-22T22:09:26+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-22T21:38:19+00:00"
+   "checked": "2026-11-22T22:09:31+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/hogwarts-legacy-lheritage-de-poudlard-version-ps4-3465367",
-  "https://www.chollometro.com/ofertas/arena-air-speed-mirror-gafas-de-natacion-competicion-unisex-adulto-2084240",
-  "https://www.chollometro.com/ofertas/muneca-barbie-fashionistas-con-autismo-y-accesorios-2084239",
-  "https://www.chollometro.com/ofertas/zapatillas-under-armour-halo-runner-tallas-41-y-44-a-475-2084242",
-  "https://www.chollometro.com/ofertas/music-star-microfono-karaoke-2084237",
-  "https://www.chollometro.com/ofertas/baby-smile-set-mesa-y-2-sillas-de-madera-winnie-the-pooh-2084231",
-  "https://www.chollometro.com/ofertas/puma-axelion-refresh-blackdark-grayred-zapatillas-deportivas-de-hombre-en-varias-tallas-2084226",
-  "https://www.chollometro.com/ofertas/barbie-fashionista-armario-portatil-para-ropa-de-muneca-incluye-3-looks-completos-6-perchas-y-muneca-2084225",
-  "https://www.chollometro.com/ofertas/apocalypse-now-final-cut-4k-uhd-bluray-2084222",
-  "https://www.chollometro.com/ofertas/the-red-cathedral-2084221",
-  "https://www.chollometro.com/ofertas/sleepy-hollow-bluray-2084216",
   "https://www.chollometro.com/ofertas/nilfisk-core-125-hidrolimpiadora-de-alta-presion-1400-w-2084215",
   "https://www.chollometro.com/ofertas/einhell-sierra-de-calar-tc-js-601-400-w-corte-60-mm-carrera-20-mm-max-3000-carrerasmin-cambio-de-hoja-sierra-sin-herramienta-2084212",
   "https://www.chollometro.com/ofertas/pack-de-candelabros-bloomingville-2084211",
@@ -1551,7 +1540,18 @@
   "https://www.dealabs.com/bons-plans/airsoft-fusil-a-pompe-m870-golden-eagle-fusil-a-pompe-gaz-8887rw-noir-3465694",
   "https://www.dealabs.com/bons-plans/ecran-pc-gaming-tcl-32g64-315-180-hz-qhd-support-vesa-100x100-3465693",
   "https://www.chollometro.com/ofertas/maqueta-rompecabezas-3d-star-wars-c-3po-y-r2-d2-de-4d-build-416-piezas-reacondicionado-como-nuevo-2084834",
-  "https://www.chollometro.com/ofertas/next-level-racing-gt-lite-2084832"
+  "https://www.chollometro.com/ofertas/next-level-racing-gt-lite-2084832",
+  "https://www.mydealz.de/deals/knipex-universal-gripzange-verzinkt-250-mm-2878970",
+  "https://www.mydealz.de/deals/iniu-45w-powerbank-10000mah-black-friday-amazon-2878969",
+  "https://www.mydealz.de/deals/kitchenaid-k400-standmixer-verschiedene-farben-2878968",
+  "https://www.preisjaeger.at/deals/muller-ritzenhoff-breker-geschirrspuler-sendai-16tlg-373134",
+  "https://www.dealabs.com/bons-plans/f417pro-drone-avec-camera-4k-telecommande-avec-lcd-ecran-mini-fpv-drone-brushless-reglable-flip-3d-type-c-3465698",
+  "https://www.dealabs.com/bons-plans/the-corner-boursobank-lave-linge-11kg-samsung-bespoke-ai-ww11db7b94geu3-auto-dose-via-code-black5-paypal-odr-100eur-3465697",
+  "https://www.dealabs.com/bons-plans/sony-alpha-6400-boitier-nu-3465696",
+  "https://nl.pepper.com/aanbiedingen/alle-pizza-750-bij-popolo-rotterdam-alleen-afhalen-428703",
+  "https://www.hotukdeals.com/deals/resident-evil-hd-remaster-pc-europe-uk-key-5043310",
+  "https://www.hotukdeals.com/deals/adidas-adistar-5-trainers-multi-blue-5043308",
+  "https://www.hotukdeals.com/deals/american-tourister-ryanair-cabin-bag-black-friday-deal-5043307"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1563,7 +1563,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795383460.346498,
-  "ebay": 1795384420.2580752
+  "geizhals": 1795385332.1588724,
+  "ebay": 1795385332.1588724
  }
 }
