@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-22T23:11:09+00:00"
+   "checked": "2026-11-22T23:42:12+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,50 +13,45 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-22T23:11:18+00:00"
+   "checked": "2026-11-22T23:42:21+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-22T23:11:23+00:00"
+   "checked": "2026-11-22T23:42:26+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
    "first_seen": "2026-11-10T20:04:35+00:00",
    "lowest": 365.83,
    "last": 372.85,
-   "checked": "2026-11-22T23:11:28+00:00"
+   "checked": "2026-11-22T23:42:31+00:00"
   },
   "https://geizhals.eu/ugreen-dxp2800-a3162972.html": {
    "baseline": 348.56,
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-22T23:11:33+00:00"
+   "checked": "2026-11-22T23:42:35+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-22T23:11:38+00:00"
+   "checked": "2026-11-22T23:42:40+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-22T23:11:42+00:00"
+   "checked": "2026-11-22T23:42:45+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/csl-sprint-5756-gaming-pc-ryzen-7-7800x3d-rx-9070xt-16gb-ddr5-1tb-ssd-konfigurierbar-2878772",
-  "https://www.dealabs.com/bons-plans/braun-tondeuse-barbe-homme-series-7-bt7545-grise-3465441",
-  "https://www.dealabs.com/bons-plans/funko-pop-movies-dc-superman-krypto-3465440",
-  "https://www.dealabs.com/bons-plans/batterie-start-stop-varta-a7-silver-dynamic-agm-xev-ready-12v-70ah-760a-3465439",
-  "https://www.chollometro.com/ofertas/ecosoft-pure-aquacalcium-mint-osmosis-inversa-para-el-hogar-2084338",
   "https://www.chollometro.com/ofertas/adidas-2084337",
   "https://www.chollometro.com/ofertas/biotherm-aquasource-gel-crema-hidratante-piel-normal-y-mixta-50-ml-2084336",
   "https://www.chollometro.com/ofertas/mochila-de-peluche-pokemon-tamano-37-cm-mochila-producto-oficial-y-original-2084335",
@@ -1551,7 +1546,12 @@
   "https://www.dealabs.com/bons-plans/integrale-blu-ray-4k-ultra-hd-rocky-6-films-3465766",
   "https://www.dealabs.com/bons-plans/montre-connectee-apple-watch-se-3-gps-44mm-boitier-midnight-vendeur-tiers-darty-3465757",
   "https://www.hotukdeals.com/deals/ugreen-laptop-stand-aluminum-adjustable-laptop-riser-with-heat-vent-for-10-17-laptops-sold-by-ugreen-group-limited-uk-fba-5043364",
-  "https://www.hotukdeals.com/deals/ring-door-view-cam-with-ring-intercom-5043363"
+  "https://www.hotukdeals.com/deals/ring-door-view-cam-with-ring-intercom-5043363",
+  "https://www.mydealz.de/deals/3x-lidl-connect-starterpaket-gratis-ab-10eur-mindesteinkaufswert-2879015",
+  "https://www.dealabs.com/bons-plans/lot-de-5-t-shirts-de-sport-pour-homme-a-manches-courtes-et-encolure-ronde-matiere-permeable-a-lair-3465772",
+  "https://www.dealabs.com/bons-plans/speed-ball-calculateur-de-vitesse-de-frappe-6-mr400-3465765",
+  "https://www.dealabs.com/bons-plans/persona-3-reload-switch-2-3465770",
+  "https://www.hotukdeals.com/deals/shark-hd436sluk-flexstyle-4-in-1-air-styler-hair-dryer-in-stone-5043365"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1563,7 +1563,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795389063.3991206,
-  "ebay": 1795390015.339608
+  "geizhals": 1795390927.0101252,
+  "ebay": 1795390927.0101252
  }
 }
