@@ -400,8 +400,16 @@ def check_ebay(cfg: dict, state: dict, dry: bool) -> list[str]:
 # ------------------------------------------------------------------- main
 def main() -> None:
     dry = "--dry-run" in sys.argv
-    if "--test" in sys.argv:
-        telegram("✅ Black-Week-Bot ist verbunden.", dry=False)
+    if "--test" in sys.argv:  # prüft die gespeicherten Zugangsdaten, Fehler → Exit-Code 1
+        token, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
+        if not token or not chat:
+            sys.exit("TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID fehlen")
+        data = urllib.parse.urlencode({"chat_id": chat, "text": "✅ Test von GitHub: Der Deal-Bot kann dir schreiben."}).encode()
+        try:
+            urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", data=data, timeout=20)
+        except Exception as e:  # noqa: BLE001
+            sys.exit(f"Telegram-Test fehlgeschlagen: {e}")
+        print("Telegram-Test ok")
         return
     cfg = tomllib.loads(CONFIG.read_text())
     state = load_state()
