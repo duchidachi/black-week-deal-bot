@@ -52,17 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/abonnement-standard-nordvpn-2-ans-10-appareils-3464951",
-  "https://www.dealabs.com/bons-plans/uno-no-mercy-3464947",
-  "https://www.dealabs.com/bons-plans/hypershell-x-pro-s-exosquelette-marche-3464946",
-  "https://www.dealabs.com/bons-plans/disque-dur-externe-seagate-8to-3464945",
-  "https://www.chollometro.com/ofertas/dvd-the-best-of-depeche-mode-videos-i-2083392",
-  "https://www.chollometro.com/ofertas/posca-rotuladores-acrilicos-juego-10-rotuladores-de-punta-extrafina-de-07-mm-2083391",
-  "https://www.chollometro.com/ofertas/sarten-de-hierro-de-buyer-mineral-b-pro-24-cm-20-cm-a-265eur-2083390",
-  "https://www.chollometro.com/ofertas/dvd-depeche-mode-touring-the-angel-live-in-milan-2083389",
-  "https://www.chollometro.com/ofertas/victorinox-navaja-podadera-jardineria-hoja-curva-2083388",
-  "https://www.chollometro.com/ofertas/noble-estatua-sauron-el-senor-de-los-anillos-17cm-2083387",
-  "https://www.chollometro.com/ofertas/x3-anadir-3-unidadespringles-original-185g-aperitivo-salado-y-crujiente-de-pringles-con-sabor-clasico-en-tubo-2083386",
   "https://www.chollometro.com/ofertas/herma-etiquetas-unicornio-autoadhesivas-6-etiquetas-76-x-35-mm-2083385",
   "https://www.chollometro.com/ofertas/logitech-mx-master-3s-raton-inalambrico-de-alto-rendimiento-2083383",
   "https://www.chollometro.com/ofertas/bosch-kit-basico-de-bateria-y-cargador-rapido-2083381",
@@ -1551,7 +1540,18 @@
   "https://www.hotukdeals.com/deals/donkey-kong-country-returns-hd-nintendo-switch-5043266",
   "https://www.hotukdeals.com/deals/mi-goreng-40-pack-noodles-5043265",
   "https://www.hotukdeals.com/deals/ugg-tazz-ll-slippers-5043264",
-  "https://www.hotukdeals.com/deals/lego-creater-3-in-1-fierce-dinosaur-5043263"
+  "https://www.hotukdeals.com/deals/lego-creater-3-in-1-fierce-dinosaur-5043263",
+  "https://www.mydealz.de/deals/jysk-bettwasche-selma-washed-cotton-135x200-blasses-khaki-2878946",
+  "https://www.mydealz.de/deals/prime-salomon-ultra-flow-2-damen-sportschuhe-laufschuhe-trailrunning-2878944",
+  "https://www.dealabs.com/bons-plans/ninja-creami-scoop-swirl-machine-a-cremes-glacees-et-glaces-a-litalienne-13-en-1-3465672",
+  "https://www.dealabs.com/bons-plans/apple-watch-se-3-3465671",
+  "https://www.dealabs.com/bons-plans/four-a-pizza-a-gaz-17-3465669",
+  "https://www.chollometro.com/ofertas/einarex-pulse-p100-rgb-cristal-templado-blanca-2084777",
+  "https://nl.pepper.com/aanbiedingen/apple-airpods-5-met-anc-en-draadloze-oplaadcase-amazon-fr-428698",
+  "https://www.hotukdeals.com/deals/walking-pad-treadmill-3-modes-with-display-remote-control-exercise-mats-5043275",
+  "https://www.hotukdeals.com/deals/lego-pokeball-ps16199-with-voucher-5043274",
+  "https://www.hotukdeals.com/deals/lego-worlds-nintendo-switch-5043273",
+  "https://www.hotukdeals.com/deals/jack-jones-mens-jacbasic-trunks-7-pack-noos-jnr-trunks-pack-of-7-5043267"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,6 +1564,6 @@
  ],
  "last_run": {
   "geizhals": 1795381596.749446,
-  "ebay": 1795381596.749446
+  "ebay": 1795382548.1143155
  }
 }
