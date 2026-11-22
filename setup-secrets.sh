@@ -10,9 +10,17 @@ cd "$(dirname "$0")"
 api() { curl -fsS "https://api.telegram.org/bot${TOKEN}/$1" "${@:2}"; }
 
 echo "== 1/3 Telegram-Bot =="
-echo "Füge das Token von @BotFather ein (Format 123456789:ABC…), die Eingabe ist unsichtbar:"
-read -r -s TOKEN; echo
-TOKEN="$(printf '%s' "$TOKEN" | tr -d '[:space:]')"
+echo "Kopiere das Token (oder die ganze BotFather-Nachricht) und drück dann einfach Enter."
+echo "(Du kannst es auch hier einfügen, die Eingabe ist unsichtbar.)"
+read -r -s RAW || true; echo
+[[ -z "$RAW" ]] && RAW="$(pbpaste 2>/dev/null || true)" && echo "→ nehme Token aus der Zwischenablage"
+TOKEN="$(printf '%s' "$RAW" | grep -oE '[0-9]{8,12}:[A-Za-z0-9_-]{30,}' | head -1 || true)"
+unset RAW
+if [[ -z "$TOKEN" ]]; then
+  echo "✗ Kein Token gefunden. Es sieht aus wie 1234567890:AAH… (Zahl, Doppelpunkt, lange Zeichenkette)."
+  echo "  Tipp: In Telegram auf das orange Token klicken, das kopiert es. Dann Skript neu starten und nur Enter drücken."
+  exit 1
+fi
 ME="$(api getMe 2>/dev/null || true)"
 USERNAME="$(printf '%s' "$ME" | python3 -c 'import sys,json;print(json.load(sys.stdin)["result"]["username"])' 2>/dev/null || true)"
 if [[ -z "$USERNAME" ]]; then
@@ -28,11 +36,14 @@ echo "und tippe unten auf START (oder schreib ihm irgendwas). Ich warte bis zu 3
 open "https://t.me/$USERNAME" 2>/dev/null || true
 CHAT=""
 for _ in $(seq 1 36); do
-  CHAT="$(api getUpdates | python3 -c '
+  CHAT="$( (api getUpdates || true) | python3 -c '
 import sys,json
-r=json.load(sys.stdin).get("result",[])
+try:
+    r=json.load(sys.stdin).get("result",[])
+except Exception:
+    r=[]
 ids=[u[k]["chat"]["id"] for u in r for k in ("message","my_chat_member") if k in u]
-print(ids[-1] if ids else "")')"
+print(ids[-1] if ids else "")' )"
   [[ -n "$CHAT" ]] && break
   sleep 5
 done
