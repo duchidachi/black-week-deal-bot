@@ -52,17 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.preisjaeger.at/deals/arctic-liquid-freezer-iii-280-a-rgb-white-cpu-wasserkuhler-amd-intel-pc-kuhler-373010",
-  "https://www.preisjaeger.at/deals/lego-horizon-adventures-nintendo-switch-fur-1199eur-373009",
-  "https://www.preisjaeger.at/deals/hofer-40-auf-alle-kaffeebohnen-und-kakaogetranke-373008",
-  "https://www.preisjaeger.at/deals/hofer-barissimo-kaffeebohnen-crema-1kg-373007",
-  "https://www.preisjaeger.at/deals/muller-raclettepfannchen-juri-von-kela-373006",
-  "https://www.preisjaeger.at/deals/knipex-montage-zangen-set-3-tlg-160-200-mm-373002",
-  "https://www.preisjaeger.at/deals/drehstuhl-helene-in-schwarzweiss-373005",
-  "https://www.preisjaeger.at/deals/muller-swiffer-bodenwischtucher-trocken-nachfullpackung-36-stuck-373004",
-  "https://www.preisjaeger.at/deals/amazon-akko-creamy-yellow-u1-100-lineare-5-pin-switches-45-gf-vorgeschmiert-pom-stem-373003",
-  "https://www.preisjaeger.at/deals/2111-mumok-freier-eintritt-mit-jahreskarte-der-wiener-linien-373001",
-  "https://www.preisjaeger.at/deals/bmw-connected-drive-dienste-blackweek-20-373000",
   "https://www.preisjaeger.at/deals/lenovo-multi-port-usb-c-100w-gan-charger-2x-usb-c-1x-usb-a-371982",
   "https://www.preisjaeger.at/deals/gran-turismo-7-zwei-kostenlose-rennwagen-porsche-911-gt3-r-992-22-dunlop-lackierung-red-bull-x2019-competition-fanatec-lackierung-372999",
   "https://www.dealabs.com/bons-plans/lego-10365-3463992",
@@ -1551,7 +1540,18 @@
   "https://www.hotukdeals.com/deals/crucial-p510-2tb-pcie-gen5-nvme-m2-ssd-5043034",
   "https://www.hotukdeals.com/deals/adidas-run-84-trainers-olive-uk-7-10-5043033",
   "https://www.hotukdeals.com/deals/nsta360-x5-essentials-bundle-8k-360-camera-with-dual-1128-sensors-5043032",
-  "https://www.hotukdeals.com/deals/spain-portugal-and-cape-verde-cruise-from-southampton-3-december-2026-18-nights-p-o-ventura-5043031"
+  "https://www.hotukdeals.com/deals/spain-portugal-and-cape-verde-cruise-from-southampton-3-december-2026-18-nights-p-o-ventura-5043031",
+  "https://www.mydealz.de/deals/die-besten-handyvertrage-kw-4647-tarife-mit-24-monate-laufzeit-o-mtl-kundbar-tarife-mitohne-hardware-dsl-kabel-2878821",
+  "https://www.dealabs.com/codes-promo/code-squeezie15-15eur-de-remises-des-75eur-pour-les-nouveaux-clients-cumulable-avec-hello10-3465494",
+  "https://www.dealabs.com/bons-plans/lot-de-2-paquets-de-couches-culottes-pampers-baby-dry-pants-80-sur-le-2eme-at-eleclerc-3465493",
+  "https://www.dealabs.com/codes-promo/10eur-reduction-en-drive-ou-livraison-des-80eur-dachat-3465492",
+  "https://www.dealabs.com/bons-plans/roborock-qrevo-edge-2-set-robot-aspirateur-laveur-25-000-pa-798cm-mince-3465491",
+  "https://www.dealabs.com/bons-plans/songmics-poubelle-de-cuisine-a-pedale-20-l-couvercle-a-fermeture-douce-3465490",
+  "https://www.chollometro.com/ofertas/switch2-yakuza-kiwami-3-dark-ties-2084443",
+  "https://www.hotukdeals.com/deals/blink-arc-dual-aspect-security-solution-with-2-mini-2k-cameras-5043039",
+  "https://www.hotukdeals.com/deals/insulated-lunch-box-with-adjustable-shoulder-straps-tableware-pouch-multi-pockets-pack-5043038",
+  "https://www.hotukdeals.com/deals/maxi-cosi-lara-select-baby-puschair-0-4-years-0-22-kg-edition-black-5043037",
+  "https://www.hotukdeals.com/deals/up-to-50-off-black-friday-sale-5-off-wdfc-code-20-off-selected-items-wcode-eg-rayban-polarised-rb4115-sunglasses-5043036"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,6 +1564,6 @@
  ],
  "last_run": {
   "geizhals": 1795368551.5223248,
-  "ebay": 1795368551.5223248
+  "ebay": 1795369506.7721772
  }
 }
