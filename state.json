@@ -52,10 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/under-armour-hustle-sackpack-00-unisex-2084340",
-  "https://www.chollometro.com/ofertas/gorra-adidas-2084339",
-  "https://nl.pepper.com/aanbiedingen/just-dance-2026-edition-code-in-een-box-nintendo-switch-speelbaar-op-nintendo-switch-2-428658",
-  "https://www.hotukdeals.com/deals/portable-chicken-holder-bag-poultry-transport-bag-chicken-sling-carrier-with-handle-sold-by-keyue-best-service-management-store-choice-5042977",
   "https://www.hotukdeals.com/deals/evdance-ev-charger-3-pin-plug-type-2-charging-cable-for-ev-phev-6m-sold-by-yuanshu-technology-fba-5042976",
   "https://www.hotukdeals.com/deals/apple-iphone-17-pro-512gb-cosmic-orange-new-sealed-5042975",
   "https://www.hotukdeals.com/deals/lego-lucky-cat-40813-5042974",
@@ -1551,7 +1547,11 @@
   "https://www.dealabs.com/bons-plans/ensemble-matelas-ressort-7-zones-h28cm-sommier-couette-oreillers-3465780",
   "https://www.dealabs.com/bons-plans/retour-vers-le-futur-lintegrale-blu-ray-via-remise-au-panier-3465779",
   "https://www.dealabs.com/bons-plans/manette-ps5-sans-fil-dualsense-edge-3465778",
-  "https://www.chollometro.com/ofertas/ssd-adata-legend-710-2-tb-m2-nvme-pcie-30-2084955"
+  "https://www.chollometro.com/ofertas/ssd-adata-legend-710-2-tb-m2-nvme-pcie-30-2084955",
+  "https://www.dealabs.com/bons-plans/chargeur-anker-nano-ii-65w-3465783",
+  "https://www.dealabs.com/bons-plans/selection-de-boite-de-briques-en-promotion-ex-lego-classic-la-boite-de-briques-creatives-lego-10696-via-495-eur-de-fidelite-3465786",
+  "https://www.dealabs.com/bons-plans/coffret-wizarding-world-integrale-harry-potter-les-animaux-fantastiques-11-films-4k-ultra-hd-3465785",
+  "https://www.hotukdeals.com/deals/asus-vivobook-14-copilot-pc-intel-core-ultra-5-16gb-ram-512gb-ssd-14-inch-laptop-x1407aa-ly012w-5043369"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,6 +1564,6 @@
  ],
  "last_run": {
   "geizhals": 1795390927.0101252,
-  "ebay": 1795390927.0101252
+  "ebay": 1795391877.7794802
  }
 }
