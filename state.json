@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-22T20:04:35+00:00"
+   "checked": "2026-11-22T20:35:39+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,59 +13,45 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-22T20:04:45+00:00"
+   "checked": "2026-11-22T20:35:49+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-22T20:04:50+00:00"
+   "checked": "2026-11-22T20:35:54+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
    "first_seen": "2026-11-10T20:04:35+00:00",
    "lowest": 365.83,
    "last": 365.83,
-   "checked": "2026-11-22T20:04:55+00:00"
+   "checked": "2026-11-22T20:35:58+00:00"
   },
   "https://geizhals.eu/ugreen-dxp2800-a3162972.html": {
    "baseline": 348.56,
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-22T20:05:00+00:00"
+   "checked": "2026-11-22T20:36:03+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-22T20:05:04+00:00"
+   "checked": "2026-11-22T20:36:08+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-22T20:05:09+00:00"
+   "checked": "2026-11-22T20:36:13+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/oclean-flow-elektrische-zahnburste-usb-c-schallzahnburste-mit-180-tagen-akkulaufzeit-5-putzmodi-ipx7-weiss-oder-blau-prime-2878282",
-  "https://www.mydealz.de/deals/hotelscom-shoop-nur-heute-8-cashback-fur-deine-nachste-hotelbuchung-2866985",
-  "https://www.mydealz.de/deals/lidl-keine-versandkosten-ab-49eur-2878279",
-  "https://www.preisjaeger.at/deals/lidl-plus-monsieur-cuisine-smart-nach-abzug-cashback-quasi-349eur-373057",
-  "https://www.preisjaeger.at/deals/zgonc-ypl-notfall-kurbelradio-mit-solar-powerbank-led-licht-2000-mah-373056",
-  "https://www.preisjaeger.at/deals/amazon-glucksrad-373055",
-  "https://www.preisjaeger.at/deals/hervis-app-1500-punkte-15eur-geschenkt-373054",
-  "https://www.preisjaeger.at/deals/ugreen-dockingstation-fur-windows-laptop-mit-unterstutzung-fur-bis-zu-3-monitore-2x-hdmi-4k-usb-10-gbps-lan-sdtf-373053",
-  "https://www.preisjaeger.at/deals/sky-alle-filme-der-gesamte-live-sport-inkl-paramount-fur-1-jahr-100eur-wunschgutschein-geschenkt-373052",
-  "https://www.dealabs.com/bons-plans/lego-icons-10329-les-plantes-miniatures-3464900",
-  "https://www.dealabs.com/bons-plans/blu-ray-4k-blu-ray-boyz-n-the-hood-3464898",
-  "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-mx-anywhere-3s-silencieuse-3464897",
-  "https://www.dealabs.com/bons-plans/coffret-blu-ray-vikings-lintegrale-de-la-serie-3464896",
-  "https://www.dealabs.com/bons-plans/console-production-audio-tout-en-un-rode-rodecaster-duo-3464895",
   "https://www.dealabs.com/bons-plans/vinyle-picture-disc-serge-gainsbourg-love-on-the-beat-3464892",
   "https://www.dealabs.com/bons-plans/dyson-v16-piston-station-accueil-offerte-3464894",
   "https://www.dealabs.com/bons-plans/yugo-kanno-jojos-bizarre-adventure-golden-wind-original-motion-picture-soundtrack-3464893",
@@ -1551,7 +1537,21 @@
   "https://www.hotukdeals.com/deals/iphone-17-pro-max-256gb-reduced-from-tomorrow-to-ps99598-at-costco-5043180",
   "https://www.hotukdeals.com/deals/samsung-ue55u8020hkxxu-55-inch-led-4k-ultra-hd-65-ps39598-85-ps82798-5-year-warranty-5043205",
   "https://www.hotukdeals.com/deals/samsung-qe65s93haexxu-65-inch-oled-4k-ultra-hd-smart-tv-claim-vat-cashback-5043204",
-  "https://www.hotukdeals.com/deals/kingdom-hearts-collection-i-iii-nintendo-switch-2-5043203"
+  "https://www.hotukdeals.com/deals/kingdom-hearts-collection-i-iii-nintendo-switch-2-5043203",
+  "https://www.mydealz.de/deals/cb-philips-5000-series-steam-airfryer-dual-basket-2878913",
+  "https://www.mydealz.de/deals/google-50-auf-ai-plus-pro-fur-1-jahr-google-one-abonnenten-2878917",
+  "https://www.mydealz.de/deals/adidas-unisex-3stripes-cushioned-sportswear-crew-socks-3er-pack-socken-prime-2850507",
+  "https://www.dealabs.com/bons-plans/smartphone-samsung-galaxy-z-fold-8-256go-colorie-aux-choix-3465635",
+  "https://www.dealabs.com/bons-plans/aspirateur-robot-roborock-rbk06922-3465630",
+  "https://www.dealabs.com/bons-plans/rechauffeur-dair-diesel-vevor-12-v24-v-8-kw-bleu-3465633",
+  "https://www.dealabs.com/bons-plans/ooni-karu-2-pro-3465632",
+  "https://www.hotukdeals.com/deals/the-1-club-book-1-the-bestselling-quiz-book-the-perfect-gift-for-all-quiz-and-puzzle-fan-5043220",
+  "https://www.hotukdeals.com/deals/lego-star-wars-k-2so-security-droid-75434-5043219",
+  "https://www.hotukdeals.com/deals/tonys-chocolonely-littl-bits-chocolate-mix-balls-mini-milk-caramel-sea-salt-biscuit-chocolates-in-sharing-pouch-100g-ps185-ss-5043218",
+  "https://www.hotukdeals.com/deals/the-north-face-summer-trucker-unisex-cap-redwhite-dune-5043217",
+  "https://www.hotukdeals.com/deals/kikkoman-naturally-brewed-original-soy-sauce-1-litre-ps354-via-subscribe-save-5043216",
+  "https://www.hotukdeals.com/deals/skechers-womens-swift-fit-arch-comfy-20-trainer-3-colours-5043215",
+  "https://www.hotukdeals.com/deals/the-grinch-2-saving-christmas-nintendo-switch-5043214"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1563,7 +1563,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795377870.6139095,
-  "ebay": 1795378822.1268253
+  "geizhals": 1795379734.6129832,
+  "ebay": 1795379734.6129832
  }
 }
