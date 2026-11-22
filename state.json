@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-22T19:02:30+00:00"
+   "checked": "2026-11-22T19:33:34+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,55 +13,45 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-22T19:02:39+00:00"
+   "checked": "2026-11-22T19:33:43+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-22T19:02:44+00:00"
+   "checked": "2026-11-22T19:33:48+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
    "first_seen": "2026-11-10T20:04:35+00:00",
    "lowest": 365.83,
    "last": 365.83,
-   "checked": "2026-11-22T19:02:49+00:00"
+   "checked": "2026-11-22T19:33:53+00:00"
   },
   "https://geizhals.eu/ugreen-dxp2800-a3162972.html": {
    "baseline": 348.56,
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-22T19:02:54+00:00"
+   "checked": "2026-11-22T19:33:58+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-22T19:02:59+00:00"
+   "checked": "2026-11-22T19:34:02+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-22T19:03:03+00:00"
+   "checked": "2026-11-22T19:34:07+00:00"
   }
  },
  "mydealz_seen": [
-  "https://nl.pepper.com/aanbiedingen/steam-ghost-of-tsushima-directors-cut-428468",
-  "https://www.hotukdeals.com/deals/lego-40820-up-scaled-santa-minifigure-set-5041857",
-  "https://www.hotukdeals.com/deals/daewoo-kensington-4-slice-toaster-grey-5041856",
-  "https://www.hotukdeals.com/deals/alan-wakes-american-nightmare-5041855",
-  "https://www.hotukdeals.com/deals/nike-mens-zoom-rival-waffle-6-running-shoes-red-size-65-5041854",
-  "https://www.hotukdeals.com/deals/lego-icons-40820-up-scaled-santa-minifigure-set-5041853",
-  "https://www.hotukdeals.com/deals/new-english-teas-vintage-victorian-tea-tins-with-loose-leaf-tea-english-breakfast-5041852",
-  "https://www.hotukdeals.com/deals/gears-of-war-e-day-steam-5041850",
-  "https://www.hotukdeals.com/vouchers/get-10-off-galaxy-watches-and-buds-with-code-5041848",
-  "https://www.hotukdeals.com/vouchers/get-10-extra-off-micro-rgb-t-get-an-extra-10-off-micro-rgb-tvs-and-the-frame-pro-with-code-via-samsung-5041847",
   "https://www.hotukdeals.com/deals/oral-b-pro-precision-clean-electric-toothbrush-head-pack-of-4-ps759-ps679-5041846",
   "https://www.hotukdeals.com/deals/video-doorbell-e340-battery-powered-with-chime-2-dual-cameras-for-parcels-and-also-colour-night-vision-5041844",
   "https://www.hotukdeals.com/deals/adam-audio-d3v-active-desktop-studio-monitor-speakers-black-or-white-5041843",
@@ -1551,7 +1541,17 @@
   "https://nl.pepper.com/aanbiedingen/philips-hue-gradient-signe-vloerlamp-white-and-color-ambiance-428687",
   "https://www.hotukdeals.com/deals/toblerone-milk-chocolate-honey-almond-nougat-fruit-nut-large-bar-360-g-amazon-fresh-selected-locations-5043142",
   "https://www.hotukdeals.com/deals/baby-jogger-city-tour-2-double-travel-pushchair-lightweight-foldable-portable-double-buggy-5043141",
-  "https://www.hotukdeals.com/deals/cadbury-dairy-milk-whole-nut-bar-120g-ps127-ss-5043140"
+  "https://www.hotukdeals.com/deals/cadbury-dairy-milk-whole-nut-bar-120g-ps127-ss-5043140",
+  "https://www.mydealz.de/deals/westwing-normann-copenhagen-whiskyglaser-roger-2er-set-2-shoop-cashback-2878884",
+  "https://www.mydealz.de/deals/cb-deal-fossil-herrenuhr-neutra-44-mm-chronograph-lederarmband-verschiedene-farben-fur-1014-eur-uber-cb-uvp-169eur-pvg-13174eur-2878883",
+  "https://www.dealabs.com/bons-plans/offre-pneus-bridgestone-chez-speedy-50-sur-le-montage-en-ligne-jusqua-150-eur-rembourses-sous-48h-3465586",
+  "https://www.dealabs.com/bons-plans/souris-ergonomique-verticale-sans-fil-logitech-lift-blanche-3465585",
+  "https://www.dealabs.com/bons-plans/google-pixel-buds-2a-a-prix-casse-3465583",
+  "https://www.dealabs.com/bons-plans/via-app-selection-de-baskets-skechers-slip-ins-go-walk-flex-homme-avec-le-code-bf15-ex-skechers-go-walk-flex-hands-up-bleu-marine-3465579",
+  "https://www.hotukdeals.com/deals/ingersoll-the-rim-gents-automatic-watch-i16201-5043147",
+  "https://www.hotukdeals.com/deals/nestle-after-eight-mint-chocolate-thins-300-g-amazon-fresh-selected-locations-5043145",
+  "https://www.hotukdeals.com/deals/ghd-platinum-smart-hair-straightener-styler-2x-more-colour-protection-5043144",
+  "https://www.hotukdeals.com/deals/cuktech-240w-usb-c-cable-with-oled-display-wva-monitoring-6a-480mbps-2m-braided-cable-48v5a-5043143"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1563,7 +1563,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795374144.7374465,
-  "ebay": 1795375097.010526
+  "geizhals": 1795376008.9065802,
+  "ebay": 1795376008.9065802
  }
 }
