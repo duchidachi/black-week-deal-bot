@@ -52,15 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/4-x-glossy-box-mystery-boxes-one-off-purchase-ps26-free-delivery-5043040",
-  "https://www.mydealz.de/deals/kaufland-hasseroder-premium-pils-20-x-05-l-mit-xtra-card-799eur-2878828",
-  "https://www.mydealz.de/deals/ea-pc-split-fiction-koop-co-op-metacritic-90-ea-pc-2878826",
-  "https://www.chollometro.com/ofertas/lego-adornos-de-munecos-de-nieve-2084476",
-  "https://www.chollometro.com/ofertas/arozzi-nova-24-monitor-gaming-ips-fhd-200-hz-1-ms-freesync-hdr-altavoces-integrados-negro-2084475",
-  "https://www.chollometro.com/ofertas/altavoz-lg-xboom-power5000-260w-efectos-dj-3-altavoces-2usb-2084474",
-  "https://www.chollometro.com/ofertas/x2-loreal-paris-elvive-mascarilla-acido-hialuronico-hidratacion310ml-13-sistema-cuidado-con-hialuronico-purohasta-100h-de-hidratacion-2084473",
-  "https://www.chollometro.com/ofertas/silla-gaming-trust-gxt-704-roniq-black-rgb-apoya-brazos-fijo-control-remoto-inalambrico-2084472",
-  "https://www.chollometro.com/ofertas/apple-ipad-11-2794-cms-liquid-retina-chip-a16-128-gb-wifi-ipados-18-plata-2084469",
   "https://www.chollometro.com/ofertas/2-x-finish-abrillantador-para-lavavajillas-800ml-200-lavados-sin-marcas-328eur-cada-bote-2084467",
   "https://www.chollometro.com/ofertas/braun-recortadora-de-barba-hombre-series-9-bt9565-titanio-2084464",
   "https://www.chollometro.com/ofertas/audio-technica-lp60xbk-giradiscos-automatico-estereo-de-traccion-por-correa-negro-2084463",
@@ -1551,7 +1542,16 @@
   "https://nl.pepper.com/aanbiedingen/iiyama-xub2293hsu-b7-215-ips-slanke-rand-100hz-1ms-full-hd-1920x1080-hdmidpusb-tco-gecertificeerd-in-hoogte-verstelbare-standaard-428728",
   "https://www.hotukdeals.com/deals/casio-g-shock-mens-quartz-black-dial-48mm-resin-watch-5043517",
   "https://www.hotukdeals.com/deals/samsung-bespoke-ai-series-8-ww11db8b95gbu1-11kg-1400rpm-washing-machine-in-black-5-year-warranty-5043516",
-  "https://www.hotukdeals.com/deals/4-x-fully-fitted-goodyear-eagle-f1-asymmetric-6-tyres-22540r18-92y-xl-fp-2-for-ps15196-5043515"
+  "https://www.hotukdeals.com/deals/4-x-fully-fitted-goodyear-eagle-f1-asymmetric-6-tyres-22540r18-92y-xl-fp-2-for-ps15196-5043515",
+  "https://www.mydealz.de/deals/tcl-65c7l-65-sqd-mini-led-4k-tv-144-hz-google-tv-hdr-dolby-vision-2879035",
+  "https://www.mydealz.de/deals/rewe-lokal-mutti-pizzasauce-oder-tomtenmark-3-fach-fur-1-eur-je-dose-2879069",
+  "https://www.preisjaeger.at/deals/ugreen-usb4-dockingstation-40-gbits-usb-c-hub-usb-c-auf-dp-kabel-25g-ethernet-140w-pd-373141",
+  "https://www.preisjaeger.at/deals/baseus-vd1-pro-dashcam-4k1080p-rundumschutz-fur-ihr-auto-mit-nachtsicht-gps-64-gb-karte-373125",
+  "https://www.dealabs.com/bons-plans/coffret-4-films-sos-fantomes-blu-ray-4k-3465843",
+  "https://www.dealabs.com/bons-plans/jouet-lego-city-60316-le-commissariat-de-police-batiment-a-3-etages-via-494eur-sur-la-carte-fidelite-3465842",
+  "https://www.dealabs.com/bons-plans/fast-and-furious-lintegrale-10-films-4k-ultra-hd-3465841",
+  "https://www.dealabs.com/bons-plans/super-mario-bros-le-film-super-mario-galaxy-le-film-blu-ray-4k-3465840",
+  "https://www.hotukdeals.com/deals/hisense-65e8stuk-65-inch-mini-led-4k-uhd-smart-tv-5-year-warranty-5043518"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,6 +1564,6 @@
  ],
  "last_run": {
   "geizhals": 1795409564.0578206,
-  "ebay": 1795409564.0578206
+  "ebay": 1795410512.9476883
  }
 }
