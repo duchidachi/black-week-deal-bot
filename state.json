@@ -52,14 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/marvel-avengers-mascara-de-poder-vibranium-de-black-panther-articulo-electronico-para-juego-de-rol-con-efectos-luminicos-2084484",
-  "https://www.chollometro.com/ofertas/figura-naruto-shippuden-minix-2084483",
-  "https://www.chollometro.com/ofertas/ninja-staysharp-taco-de-cuchillos-con-afilador-6-piezas-blanco-2084482",
-  "https://www.chollometro.com/ofertas/pack-de-2-pokeballs-surtidas-mega-construx-pokemon-mattel-2084481",
-  "https://www.chollometro.com/ofertas/x2-total-10-tabletaslindt-chocolate-excellence-70-tableta-de-chocolate-puro-chocolate-negro-aromatico-extrafino-delicado-e-intenso-2084480",
-  "https://www.chollometro.com/ofertas/bola-de-nieve-disney-toy-story-alien-remix-buzz-lightyear-licencia-oficial-2084479",
-  "https://www.chollometro.com/ofertas/star-wars-zero-company-xbox-series-x-2084478",
-  "https://www.chollometro.com/ofertas/2-x-vanish-oxi-action-quitamanchas-especial-manchas-de-mascota-en-alfombras-y-tapicerias-spray-sin-lejia-pack-de-3-x-750-ml-2084462",
   "https://nl.pepper.com/aanbiedingen/slim-fit-wandbeugel-samsung-tv-oa-voor-alle-2026-oled-modellen-428675",
   "https://nl.pepper.com/aanbiedingen/kruidvat-catrice-makeup-50-cent-428674",
   "https://www.hotukdeals.com/deals/ugreen-16-2560x1600-1610-165hz-portable-monitor-with-stand-qhd-500-nits-hdr400-65mm-thin-usb-c-mini-hdmi-at-ugreenfba-5043057",
@@ -1551,7 +1543,15 @@
   "https://www.mydealz.de/deals/om-system-om-5-mark-ii-mzuiko-12-40mm-f28-pro-ii-kit-silber-20-mp-ibis-ip53-fur-1495-eur-amazon-2879074",
   "https://www.mydealz.de/deals/mediamarktsaturn-via-ebay-call-of-duty-modern-warfare-4-nintendo-switch-2-code-in-box-fur-5999-eur-2879073",
   "https://www.mydealz.de/deals/prime-santana-supernatural-19-studioalbum-1999-vinyl-lp-2lps-inkl-maria-maria-2879072",
-  "https://nl.pepper.com/aanbiedingen/oplaadbare-elektrische-handwarmer-2-stuks-4-standen-426958"
+  "https://nl.pepper.com/aanbiedingen/oplaadbare-elektrische-handwarmer-2-stuks-4-standen-426958",
+  "https://www.mydealz.de/deals/bruder-mannesmann-werkzeugkoffer-87-teilig-werkzeugset-mit-werkzeug-aus-chrom-vanadium-stahl-inkl-schraubendreher-zangen-etc-at-prime-2829751",
+  "https://www.dealabs.com/bons-plans/jeu-blue-prince-sur-steam-3465857",
+  "https://www.dealabs.com/bons-plans/lego-editions-43020-trophee-officiel-de-la-coupe-du-monde-de-la-fifa-via-217eur-sur-la-carte-fidelite-livraison-uniquement-3465856",
+  "https://www.hotukdeals.com/deals/anaconda-6-film-collection-5043534",
+  "https://www.hotukdeals.com/deals/hollister-mens-100-cotton-must-have-tee-6-colours-sizes-xs-xxl-member-price-free-click-collect-5043533",
+  "https://www.hotukdeals.com/deals/haribo-tangfastics-party-tub-1kg-fizzy-fruity-jelly-sweets-ss-ps465-5043532",
+  "https://www.hotukdeals.com/deals/sonic-the-hedgehog-3-movie-collection-itunes-5043531",
+  "https://www.hotukdeals.com/deals/carlsberg-danish-pilsner-lager-beer-18-x-440ml-can-ps855-ps765-ss-5043530"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,6 +1564,6 @@
  ],
  "last_run": {
   "geizhals": 1795411422.7869864,
-  "ebay": 1795411422.7869864
+  "ebay": 1795412370.1655865
  }
 }
