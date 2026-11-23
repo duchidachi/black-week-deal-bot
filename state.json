@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-23T05:54:45+00:00"
+   "checked": "2026-11-23T06:25:44+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,59 +13,45 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-23T05:54:54+00:00"
+   "checked": "2026-11-23T06:25:53+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-23T05:54:58+00:00"
+   "checked": "2026-11-23T06:25:58+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
    "first_seen": "2026-11-10T20:04:35+00:00",
    "lowest": 365.83,
    "last": 372.85,
-   "checked": "2026-11-23T05:55:03+00:00"
+   "checked": "2026-11-23T06:26:02+00:00"
   },
   "https://geizhals.eu/ugreen-dxp2800-a3162972.html": {
    "baseline": 348.56,
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-23T05:55:08+00:00"
+   "checked": "2026-11-23T06:26:07+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-23T05:55:12+00:00"
+   "checked": "2026-11-23T06:26:12+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-23T05:55:17+00:00"
+   "checked": "2026-11-23T06:26:16+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/swarovski-idyllia-coleccion-pendientes-2084546",
-  "https://www.chollometro.com/ofertas/solgar-calcio-y-magnesio-con-zinc-100-comprimidos-vegetales-favorece-el-sistema-nervioso-y-muscular-formula-combinada-de-tres-minerales-2084544",
-  "https://www.chollometro.com/ofertas/acceso-anticipado-al-black-friday-en-the-north-face-hasta-un-40-de-descuento-en-articulos-seleccionados-2084543",
-  "https://www.chollometro.com/ofertas/auriculares-deportivos-jlab-go-air-sport-2084541",
-  "https://www.chollometro.com/ofertas/rotuladores-para-pizarra-blanca-amazon-basics-de-bajo-olor-punta-fina-color-negro-paquete-de-36-unidades-2084540",
-  "https://nl.pepper.com/aanbiedingen/voor-de-koffieliefhebbers-the-world-atlas-of-coffee-3rd-edition-james-hoffman-428680",
-  "https://www.hotukdeals.com/deals/adizero-evo-sl-5043102",
-  "https://www.hotukdeals.com/deals/caol-ila-10-yr-old-signatory-vintage-single-malt-whisky-70cl-46-5043101",
-  "https://www.hotukdeals.com/deals/falco-the-sound-of-musik-the-greatest-hits-2x-vinyl-5043099",
-  "https://www.hotukdeals.com/deals/felix-cat-treats-christmas-stocking-170g-5043097",
-  "https://www.mydealz.de/deals/migaku-lifetime-fur-ca-183-eur-statt-ca-457-eur-japanisch-andere-sprachen-mit-anime-youtube-netflix-lernen-2878870",
-  "https://www.mydealz.de/deals/playstation-5-pro-b-ware-inkl-controller-2-jahre-gewahrleistung-2878869",
-  "https://www.mydealz.de/deals/loewe-esencia-eau-de-toilette-wurzig-gruner-herrenduft-aus-dem-jahr-1988-8010-auf-parfumo-50ml-fur-3999eur-oder-100ml-fur-6899eur-2878868",
-  "https://www.dealabs.com/bons-plans/adherents-pack-smartphone-63-oled-120-hz-google-pixel-11-enceinte-bluetooth-jbl-grip-256-go-12-go-ram-tensor-g6-3465554",
   "https://www.chollometro.com/ofertas/amazon-basics-funda-de-asiento-de-automovil-para-mascotas-100-repelente-al-agua-resistencia-600d-color-negro-2084551",
   "https://www.hotukdeals.com/deals/givenchy-gentleman-reserve-privee-eau-de-parfum-100ml-with-code-5043104",
   "https://www.hotukdeals.com/deals/maltesers-milk-chocolate-christmas-sharing-pouch-240g-amazon-fresh-selected-locations-5043103",
@@ -1551,7 +1537,21 @@
   "https://www.chollometro.com/ofertas/reloj-casio-edifice-solar-2085119",
   "https://www.hotukdeals.com/deals/dji-neo-2-flymore-combo-additional-battery-bundle-5043562",
   "https://www.hotukdeals.com/deals/wolfcraft-tacocraft-6-hand-stapler-set-1000-staples-5043561",
-  "https://www.hotukdeals.com/deals/hisense-kitchenfit-5i-series-wf5i1045bwq-105kg-washing-machine-white-5043560"
+  "https://www.hotukdeals.com/deals/hisense-kitchenfit-5i-series-wf5i1045bwq-105kg-washing-machine-white-5043560",
+  "https://www.mydealz.de/deals/guinness-draught-00-alkoholfrei-24-dosen-sparabo-3014eur6eur-pfand-2879107",
+  "https://www.mydealz.de/deals/netto-mit-hund-250g-weihenstephan-butter-099eur-frija-h-milch-15-fett-1l-je-066eur-ab-30112026-2879105",
+  "https://www.mydealz.de/deals/amazon-prime-bosch-heissluftfritteuse-serie-6-doublestack-kompakt-mafd661b0-2879104",
+  "https://www.preisjaeger.at/deals/marktguru-30-cashback-beim-einkauf-von-1-packung-merci-finest-selection-373148",
+  "https://www.dealabs.com/bons-plans/support-tablette-home-trainer-van-rysel-3465881",
+  "https://www.dealabs.com/bons-plans/baskets-converse-chuck-taylor-all-star-lift-hi-tailles-44-au-48-3465880",
+  "https://nl.pepper.com/aanbiedingen/lg-oled-evo-c6-65c69lb-2026-428734",
+  "https://www.hotukdeals.com/deals/11-verbal-reasoning-practice-papers-1000-multiple-choice-questions-with-20-practice-papers-with-answers-5043569",
+  "https://www.hotukdeals.com/deals/lego-icons-ford-model-t-11376-5043568",
+  "https://www.hotukdeals.com/deals/lego-editions-fifa-world-cup-official-trophy-43020-5043567",
+  "https://www.hotukdeals.com/deals/viners-stainless-steel-cocktail-jigger-dual-spirit-measuring-cup-30ml-60ml-brushed-silver-finish-easy-pour-5043566",
+  "https://www.hotukdeals.com/deals/the-dark-knight-trilogy-4k-dolby-vision-batman-begins-dark-knight-dark-knight-rises-to-buy-5043565",
+  "https://www.hotukdeals.com/deals/top-trumps-independent-and-unofficial-guide-to-fortnite-volume-2-gamer-gifts-for-ages-12-plus-5043564",
+  "https://www.hotukdeals.com/deals/hisense-ax5125h-512-ch-soundbar-with-wireless-subwoofer-and-rear-speakers-soundbar-for-tv-512-channel-500w-5043563"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1563,7 +1563,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795413280.3317502,
-  "ebay": 1795414228.1376936
+  "geizhals": 1795415139.1218286,
+  "ebay": 1795415139.1218286
  }
 }
