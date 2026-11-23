@@ -104,6 +104,23 @@ def weight_kg(title: str) -> float | None:
     return max(ws) if ws else None
 
 
+VOL_PLUS_RE = re.compile(r"(\d+(?:[.,]\d+)?)\s?\+\s?(\d+(?:[.,]\d+)?)\s?(?:l|liter|litre)\b")
+VOL_MULTI_RE = re.compile(r"(\d{1,3})\s?[x×]\s?(\d+(?:[.,]\d+)?)\s?(?:l|liter|litre)\b")
+VOL_RE = re.compile(r"(\d+(?:[.,]\d+)?)\s?(?:l|liter|litre)\b")
+
+
+def volume_l(title: str) -> float | None:
+    """Volumen in Litern: '6+2 Liter' → 8 · '2 x 10 l' → 20 · '12l' → 12"""
+    low = title.lower()
+    f = lambda s: float(s.replace(",", "."))  # noqa: E731
+    if m := VOL_PLUS_RE.search(low):
+        return f(m.group(1)) + f(m.group(2))
+    if m := VOL_MULTI_RE.search(low):
+        return int(m.group(1)) * f(m.group(2))
+    vs = [f(v) for v in VOL_RE.findall(low)]
+    return max(vs) if vs else None
+
+
 def eur(v: float) -> str:
     return f"{v:,.2f} €".replace(",", "X").replace(".", ",").replace("X", ".")
 
@@ -240,6 +257,16 @@ def evaluate(w: dict, title: str, price: float | None) -> tuple[str, str] | None
             return None
         detail = f"≈ {eur(per_kg)}/kg ({kg:g} kg)" + (f" · bisher {eur(w['ref_eur_per_kg'])}/kg" if w.get("ref_eur_per_kg") else "")
         if w.get("hot_eur_per_kg") and per_kg <= w["hot_eur_per_kg"]:
+            return ("🚨 TOP-DEAL", detail)
+    if w.get("max_eur_per_l"):
+        liters = volume_l(title)
+        if not (price and liters):
+            return ("❔ prüfen", "Preis/Liter nicht erkannt") if w.get("alert_unknown") else None
+        per_l = price / liters
+        if per_l > w["max_eur_per_l"]:
+            return None
+        detail = f"≈ {eur(per_l)}/Liter ({liters:g} l)" + (f" · üblich {eur(w['ref_eur_per_l'])}/l" if w.get("ref_eur_per_l") else "")
+        if w.get("hot_eur_per_l") and per_l <= w["hot_eur_per_l"]:
             return ("🚨 TOP-DEAL", detail)
     return ("🛒 Deal", detail)
 

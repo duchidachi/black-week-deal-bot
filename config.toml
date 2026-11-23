@@ -213,6 +213,15 @@ ref_eur_per_kg = 4.80
 alert_unknown = true      # z. B. "20 % auf catz finefood" ohne Gewicht im Titel trotzdem melden
 
 [[watch]]
+label = "Katzenstreu (fein klumpend)"
+any = ["katzenstreu", "klumpstreu", "coshida", "cachet", "k-classic katzen", "cat litter", "litière", "arena para gatos"]
+none = ["silikat", "silica", "kristall", "crystal", "holz", "pellet", "mais", "tofu", "papier", "streuschaufel", "katzenklo", "toilette"]
+max_eur_per_l = 0.50      # Coshida/Cachet-Aktionspreis (z. B. 8 l für 3,99 €)
+hot_eur_per_l = 0.42
+ref_eur_per_l = 0.62      # üblicher Discounter-Normalpreis
+alert_unknown = true
+
+[[watch]]
 label = "Tier-Shop-Aktion"
 any = ["bitiba", "zooplus", "fressnapf", "zooroyal"]
 none = ["hund", "dog", "pferd", "aquarium", "vogel"]
