@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-23T03:50:53+00:00"
+   "checked": "2026-11-23T04:21:52+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,46 +13,45 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-23T03:51:02+00:00"
+   "checked": "2026-11-23T04:22:01+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-23T03:51:07+00:00"
+   "checked": "2026-11-23T04:22:05+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
    "first_seen": "2026-11-10T20:04:35+00:00",
    "lowest": 365.83,
    "last": 372.85,
-   "checked": "2026-11-23T03:51:11+00:00"
+   "checked": "2026-11-23T04:22:10+00:00"
   },
   "https://geizhals.eu/ugreen-dxp2800-a3162972.html": {
    "baseline": 348.56,
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-23T03:51:16+00:00"
+   "checked": "2026-11-23T04:22:15+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-23T03:51:21+00:00"
+   "checked": "2026-11-23T04:22:19+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-23T03:51:25+00:00"
+   "checked": "2026-11-23T04:22:24+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/crucial-p510-2tb-pcie-gen5-nvme-m2-ssd-5043034",
   "https://www.hotukdeals.com/deals/adidas-run-84-trainers-olive-uk-7-10-5043033",
   "https://www.hotukdeals.com/deals/nsta360-x5-essentials-bundle-8k-360-camera-with-dual-1128-sensors-5043032",
   "https://www.hotukdeals.com/deals/spain-portugal-and-cape-verde-cruise-from-southampton-3-december-2026-18-nights-p-o-ventura-5043031",
@@ -1551,7 +1550,8 @@
   "https://www.mydealz.de/deals/apple-magic-mouse-usb-c-zustand-gut-2879063",
   "https://www.hotukdeals.com/deals/stanley-kubrick-7-film-collection-to-buy-5043502",
   "https://www.hotukdeals.com/deals/mattel-brick-shop-masters-of-the-universe-skeletor-bust-building-set-ps3399-havoc-staff-building-set-ps3999-5043501",
-  "https://www.hotukdeals.com/deals/hp-15-fd0032na-15in-i3-8gb-512gb-laptop-5043503"
+  "https://www.hotukdeals.com/deals/hp-15-fd0032na-15in-i3-8gb-512gb-laptop-5043503",
+  "https://www.dealabs.com/bons-plans/arrow-integrale-saisons-1-a-8-blu-ray-3465823"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1563,7 +1563,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795405848.0414028,
-  "ebay": 1795406796.0574613
+  "geizhals": 1795407707.0849578,
+  "ebay": 1795407707.0849578
  }
 }
