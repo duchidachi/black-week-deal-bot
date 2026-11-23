@@ -52,16 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/star-wars-the-mandalorian-maske-elektronische-kinder-kostummaske-mit-satzen-soundeffekten-ab-5-jahren-prime-2879639",
-  "https://www.mydealz.de/deals/worx-wx0929-akku-kompressor-20v-max-10-bar-mit-digitalanzeige-abschaltautomatik-und-led-licht-ohne-akku-2879638",
-  "https://www.mydealz.de/deals/prime-hama-schnellladegerat-1x-usb-c-1x-usb-a-mini-ladegerat-pd-30watt-weiss-2879637",
-  "https://www.mydealz.de/deals/lego-harry-potter-collection-fur-switch-2-prime-2879636",
-  "https://www.mydealz.de/deals/check24-original-telekom-magentamobil-xs-60gb-5g-fur-eff-853eurmonat-durch-290eur-c24-cashback-24eur-gutschein-240eur-telekom-bonus-2879635",
-  "https://www.mydealz.de/deals/fruhes-prime-angebot-pampers-aqua-soft-touch-baby-feuchttucher-18x48-864-stuck-im-sparabo-fur-1592-moglich-mit-coupon-2846675",
-  "https://www.mydealz.de/deals/captiva-highend-gaming-r10-3116-pc-ryzen-7-7800x3d-rtx-5080-32gb1tb-b650-850w-msi-mag-a850gl-rgb-wi-fi-6-win11-2874652",
-  "https://www.mydealz.de/deals/amazon-prime-rayman-30th-anniversary-edition-fur-playstation-5-ps5-2879633",
-  "https://www.mydealz.de/deals/hyundai-benzin-rasenmaher-406-cm-schnittbreite-131-cc-motor-35-l-fangsack-und-heckauswurf-handschieber-black-edition-2879630",
-  "https://www.mydealz.de/deals/icy-box-ib-1232cl-u3-docking-und-klonstation-fur-2x-sata-2535-hddssd-usb-32-gen-1-uasp-sata-iii-6-gbits-2879629",
   "https://www.preisjaeger.at/deals/lego-minecraft-21589-mini-biome-373205",
   "https://www.dealabs.com/bons-plans/samsung-odyssey-g4-g40eh-ecran-gaming-plat-25-fhd-300hz-3466532",
   "https://www.dealabs.com/bons-plans/sneakers-milenio-tech-unisexe-noir-du-355-au-48-3466531",
@@ -1551,7 +1541,17 @@
   "https://www.chollometro.com/ofertas/caja-de-10-marcador-permanente-schneider-maxx-130-rellenable-1-3-mm-caja-de-10-5-negro-3-rojo-2-x-azul-2086790",
   "https://www.chollometro.com/ofertas/halo-the-master-chief-collection-para-xbox-one-series-xs-digital-2086788",
   "https://www.hotukdeals.com/deals/anker-nano-65w-usb-c-fast-charger-pps-3-port-gan-ii-compact-type-c-plug-5044723",
-  "https://www.hotukdeals.com/deals/dkny-ladies-plush-lounge-set-in-store-5044706"
+  "https://www.hotukdeals.com/deals/dkny-ladies-plush-lounge-set-in-store-5044706",
+  "https://www.dealabs.com/bons-plans/garmin-lily-2-petite-montre-connectee-et-elegante-3467067",
+  "https://www.dealabs.com/bons-plans/ecran-pc-27-iiyama-prolite-xb2791qs-b1-ips-2560x1440-75hz-1ms-3467066",
+  "https://www.dealabs.com/bons-plans/aspirateur-balai-sans-fil-rowenta-x-pert-760-rh6a31wo-45-min-tete-led-3467064",
+  "https://www.chollometro.com/ofertas/medicube-eye-patch-pdrn-caffeine-collagen-firming-gel-patches-30-pairs-age-defying-care-with-retinol-collagen-2086798",
+  "https://www.chollometro.com/ofertas/monkey-loop-triple-prime-soporte-para-3-guitarras-suelo-2086797",
+  "https://www.chollometro.com/ofertas/renpho-elis-1-bascula-inteligente-de-grasa-corporal-y-masa-muscular-con-app-2086795",
+  "https://www.hotukdeals.com/deals/ugreen-nexode-laptop-power-bank-25000mah-200w-built-in-usb-c-cable-4-port-5044727",
+  "https://www.hotukdeals.com/deals/kitkatdairy-milkmilky-waymilky-bar-advent-calendars-5044726",
+  "https://www.hotukdeals.com/deals/shark-never-touch-floor-cleaner-ps359-with-blue-light-5044725",
+  "https://www.hotukdeals.com/deals/anker-332-usb-c-hub-5-in-1-usbc-to-hdmi-hub-with-4k-display-85w-max-pd-like-new-anker-5044724"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,7 +1564,7 @@
  ],
  "last_run": {
   "geizhals": 1795468698.3809426,
-  "ebay": 1795469342.7685926
+  "ebay": 1795470396.5068257
  },
  "ebay_seen": {
   "187110721591": 139.1,
