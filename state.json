@@ -59,17 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/lavadora-integrable-teka-wmi-40841-w-sp-8-kg-1400-rpm-clase-a-vapor-inverter-2085984",
-  "https://www.chollometro.com/ofertas/dodot-bebe-seco-pack-ahorro-panales-disponible-en-tallas-3-4-5-6-y-7-desde-espana-desde-015eur-a-021eur-2085982",
-  "https://www.chollometro.com/ofertas/tommy-hilfiger-denton-slim-cazadora-hombre-invierno-2085980",
-  "https://www.chollometro.com/ofertas/batidora-portatil-sin-cable-ninja-blast-2085981",
-  "https://www.chollometro.com/ofertas/pala-nox-ml10-ventus-control-3k-2026-by-miguel-lamperti-2085979",
-  "https://www.chollometro.com/ofertas/atera-strada-sport-m2-portabicicletas-de-bola-de-remolque-para-2-bicicletas-o-e-bikes-022684-2085977",
-  "https://nl.pepper.com/aanbiedingen/arctic-freezer-36-black-cpu-koeler-428878",
-  "https://nl.pepper.com/aanbiedingen/lego-burgemeestershuis-11383-laagste-prijs-ooit-428877",
-  "https://nl.pepper.com/aanbiedingen/samsung-galaxy-watch-tot-48-korting-op-watch8-10-extra-met-bf26-tot-eur250-inruilvoordeel-427597",
-  "https://www.hotukdeals.com/deals/nike-womens-dri-fit-academy-pant-hyper-pinkwhitehyper-pinkwhite-size-xl-5044238",
-  "https://www.hotukdeals.com/deals/lebara-sim-only-50gb-unlimited-uk-mins-texts-ps112-per-month-x-9-months-ps790-after-new-customers-5044231",
   "https://www.hotukdeals.com/deals/flopro-perfect-fit-outside-tap-connector-5044237",
   "https://www.hotukdeals.com/deals/lebara-sim-only-35gb-unlimited-uk-mins-texts-ps123-per-month-x-9-months-ps690-after-price-at-checkout-5044236",
   "https://www.hotukdeals.com/deals/acer-sa100-25-inch-sata-iii-ssd-240gb-up-to-560-mbs-internal-solid-state-drive-5044233",
@@ -1558,7 +1547,18 @@
   "https://www.hotukdeals.com/deals/pure-whey-protein-vanilla-collagen-2kg-5044746",
   "https://www.hotukdeals.com/deals/samsung-qe65s93haexxu-65-inch-oled-4k-ultra-hd-smart-tv-5044745",
   "https://www.hotukdeals.com/deals/under-armour-rival-tricot-tracksuit-blackwhite-at-zalando-5044743",
-  "https://www.hotukdeals.com/deals/apple-mac-mini-with-m6-chip-silver-12-core-cpu-and-12-core-gpu-16gb-unified-memory-256gb-5044744"
+  "https://www.hotukdeals.com/deals/apple-mac-mini-with-m6-chip-silver-12-core-cpu-and-12-core-gpu-16gb-unified-memory-256gb-5044744",
+  "https://www.mydealz.de/deals/magic-the-gathering-universes-beyond-der-hobbit-playbooster-display-deutsch-2880056",
+  "https://www.preisjaeger.at/deals/55eur-mit-den-nespresso-black-codes-sparen-373234",
+  "https://www.dealabs.com/bons-plans/seche-linge-pompe-a-chaleur-valberg-dhp-8-d-w566c-8-kg-3467095",
+  "https://www.dealabs.com/bons-plans/pull-polaire-columbia-klamath-range-ii-half-zip-noir-tailles-s-au-xxl-3467092",
+  "https://www.dealabs.com/bons-plans/dewalt-dcbp034-xr-powerstack-slide-batterie-lithium-ion-18-v-17-ah-3467093",
+  "https://www.dealabs.com/bons-plans/meuleuse-dewalt-950w-125mm-dwe4117-3467091",
+  "https://www.chollometro.com/ofertas/songmics-cama-elastica-infantil-174-cm-de-diametro-2086853",
+  "https://www.chollometro.com/ofertas/jean-paul-gaultier-le-male-elixir-parfum-200ml-2086852",
+  "https://www.chollometro.com/ofertas/bolsa-bandolera-para-portatil-tommy-hilfiger-messenger-nailon-negro-envio-y-devolucion-gratis-con-amazon-prime-2086851",
+  "https://nl.pepper.com/aanbiedingen/gta-6-japans-account-vereist-428956",
+  "https://www.hotukdeals.com/deals/direct-return-flights-from-london-gatwick-lgw-to-kuusamo-kao-finland-from-ps10800-13-20-december-with-tui-hand-luggage-incl-5044750"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795470738.6726844,
-  "ebay": 1795471387.517168
+  "ebay": 1795472314.9583375
  },
  "ebay_seen": {
   "187110721591": 139.1,
