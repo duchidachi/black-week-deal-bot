@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-23T04:21:52+00:00"
+   "checked": "2026-11-23T04:52:49+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,48 +13,45 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-23T04:22:01+00:00"
+   "checked": "2026-11-23T04:52:58+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-23T04:22:05+00:00"
+   "checked": "2026-11-23T04:53:02+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
    "first_seen": "2026-11-10T20:04:35+00:00",
    "lowest": 365.83,
    "last": 372.85,
-   "checked": "2026-11-23T04:22:10+00:00"
+   "checked": "2026-11-23T04:53:07+00:00"
   },
   "https://geizhals.eu/ugreen-dxp2800-a3162972.html": {
    "baseline": 348.56,
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-23T04:22:15+00:00"
+   "checked": "2026-11-23T04:53:11+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-23T04:22:19+00:00"
+   "checked": "2026-11-23T04:53:16+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-23T04:22:24+00:00"
+   "checked": "2026-11-23T04:53:20+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/2x-pato-discos-activos-wc-marine-limpia-refresca-y-perfuma-el-inodoro-eficacia-360-1-aparato-1-recambio-6-discos-2084414",
-  "https://www.chollometro.com/ofertas/china-vuelos-desde-bilbao-por-solo-169eur-trayecto-enero-febrero-2084456",
-  "https://www.chollometro.com/ofertas/glubschis-calli-malli-15-cm-blanco-nici-2084455",
   "https://www.chollometro.com/ofertas/loreal-paris-accord-parfait-base-de-maquillaje-acabado-natural-6d-30ml-2084454",
   "https://www.chollometro.com/ofertas/recopilatorio-lego-black-friday-121-sets-rebajados-de-star-wars-technic-harry-potter-pokemon-y-mas-2084453",
   "https://www.chollometro.com/ofertas/2-x-max-factor-facefinity-base-de-maquillaje-tono-w98-warm-hazelnut-30-ml-2084452",
@@ -1551,7 +1548,10 @@
   "https://www.hotukdeals.com/deals/black-hammer-mens-7752-leather-safety-boots-s3-src-water-resistant-5043508",
   "https://www.hotukdeals.com/deals/google-pixel-10-pro-xl-256gb-sim-free-mobile-in-obsidian-5043507",
   "https://www.dealabs.com/bons-plans/ca-chapitre-1-2-blu-ray-3465830",
-  "https://www.hotukdeals.com/deals/samsung-qe77s93hatxxu-77-inch-qd-oled-4k-ultra-hd-smart-tv-5-year-warranty-ps166583-after-cashback-5043511"
+  "https://www.hotukdeals.com/deals/samsung-qe77s93hatxxu-77-inch-qd-oled-4k-ultra-hd-smart-tv-5-year-warranty-ps166583-after-cashback-5043511",
+  "https://www.dealabs.com/bons-plans/nas-ugreen-nasync-dh2300-nas-2-baies-64-to-3465833",
+  "https://www.dealabs.com/bons-plans/karate-kid-la-trilogie-blu-ray-4k-3465832",
+  "https://www.dealabs.com/bons-plans/cotes-de-porc-900g-a-griller-3465831"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1563,7 +1563,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795407707.0849578,
-  "ebay": 1795408653.8576896
+  "geizhals": 1795409564.0578206,
+  "ebay": 1795409564.0578206
  }
 }
