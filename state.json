@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-23T22:55:19+00:00"
+   "checked": "2026-11-23T23:26:44+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-23T22:55:29+00:00"
+   "checked": "2026-11-23T23:26:54+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-23T22:55:34+00:00"
+   "checked": "2026-11-23T23:26:58+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,42 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-23T22:55:44+00:00"
+   "checked": "2026-11-23T23:27:08+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-23T22:55:49+00:00"
+   "checked": "2026-11-23T23:27:13+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-23T22:55:53+00:00"
+   "checked": "2026-11-23T23:27:17+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 514.9,
    "last": 514.9,
-   "checked": "2026-11-23T22:55:39+00:00"
+   "checked": "2026-11-23T23:27:03+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.preisjaeger.at/deals/jbl-tune-buds-2-tws-bluetooth-in-ear-kopfhorer-schwarz-373215",
-  "https://www.dealabs.com/bons-plans/call-of-duty-mw4-3466616",
-  "https://www.dealabs.com/bons-plans/levis-new-duncan-ceinture-mixte-marron-3466615",
-  "https://www.dealabs.com/bons-plans/seances-de-cinema-offertes-hunger-games-lever-de-soleil-sur-la-moisson-karma-le-mystere-lucy-lost-villemur-sur-tarn-31-3466613",
-  "https://www.dealabs.com/bons-plans/coffret-de-vissage-dewalt-24-pieces-dt71516-qz-3466614",
-  "https://www.dealabs.com/bons-plans/robot-patissier-35l-compact-kitchen-in-the-box-10-vitesses-pulse-bol-inox-3-accessoires-vert-sauge-3466612",
-  "https://www.chollometro.com/ofertas/arcos-chaira-afilador-manual-de-cuchillos-230-mm-afilador-profesional-2086053",
-  "https://www.chollometro.com/ofertas/tcl-65c8l-sqd-miniled-65-mas-rebajada-2086052",
-  "https://www.chollometro.com/ofertas/codigo-1530-rosa-tequila-premium-700-ml-2086051",
-  "https://www.chollometro.com/ofertas/tomatin-single-malt-whisky-12-anos-700-ml-2086049",
-  "https://www.chollometro.com/ofertas/neceser-rigido-de-viaje-adaptable-reebok-roxbury-con-bandolera-carcasa-abs-ligera-914l-02-kg-29x21x15-cm-2086048",
   "https://www.chollometro.com/ofertas/zapatillas-running-mujer-adidas-adizero-evo-sl-beige-y-bronce-amortiguacion-lightstrike-pro-ultraligeras-224-g-tallas-38-39-13-y-40-2086046",
   "https://www.chollometro.com/ofertas/edredon-manterol-borreguito-semiliso-2086045",
   "https://www.chollometro.com/ofertas/monitor-gaming-oled-msi-mpg-491cqp-144hz-qd-oled-curvo-dqhd-de-49-2086044",
@@ -1558,7 +1547,18 @@
   "https://www.chollometro.com/ofertas/asmodee-el-hobbit-historia-de-una-ida-y-de-una-vuelta-juego-familiar-2086941",
   "https://www.chollometro.com/ofertas/axe-desodorante-para-hombre-antitranspirante-dark-temptation-150ml-pack-de-6-aerosol-2086940",
   "https://www.chollometro.com/ofertas/samsung-990-ssd-pcie-40-x4-nvme-m22280-2tb-2086939",
-  "https://www.chollometro.com/ofertas/kit-facial-madagascar-centella-travel-kit-skin1004-2086938"
+  "https://www.chollometro.com/ofertas/kit-facial-madagascar-centella-travel-kit-skin1004-2086938",
+  "https://www.mydealz.de/deals/fuhrerscheinerweiterug-b196-motorrad-fahren-mit-autofuhrerschein-dortmund-marl-recklinghausen-herten-2880086",
+  "https://www.dealabs.com/bons-plans/wonka-edition-collector-speciale-fnac-steelbook-blu-ray-4k-ultra-hd-3467146",
+  "https://www.dealabs.com/bons-plans/lot-de-20-brochettes-reutilisables-en-acier-inoxydable-25-cm-barbecue-et-grill-3467144",
+  "https://www.dealabs.com/bons-plans/ninja-speedi-10-en-1-autocuiseur-rapide-air-fryer-57l-pierreor-multicuiseur-repas-pour-4-en-15-min-vapeur-gril-cuire-au-four-rotir-3467141",
+  "https://www.dealabs.com/bons-plans/gta-vi-sur-ps5-3467143",
+  "https://www.chollometro.com/ofertas/caja-de-24-gomas-faber-castell-2086947",
+  "https://www.chollometro.com/ofertas/tommy-hilfiger-mochila-infantil-unisex-2086946",
+  "https://www.chollometro.com/ofertas/joma-camiseta-deportiva-sin-mangas-hombre-2086943",
+  "https://www.chollometro.com/ofertas/2-x-facundo-chaskis-de-maiz-snack-crujiente-y-delicioso-anillos-de-maiz-clasicos-sabor-barbacoa-100g-089eurunidad-2086942",
+  "https://www.hotukdeals.com/deals/philips-wired-in-ear-headphones-35mm-jack-enhanced-bass-142mm-neodymium-drivers-ergonomic-fit-1m-cable-5044787",
+  "https://www.hotukdeals.com/deals/diet-coke-cola-125l-bottle-5044786"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795474514.038992,
+  "geizhals": 1795476399.0054333,
   "ebay": 1795476086.5945685
  },
  "ebay_seen": {
