@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-23T21:52:23+00:00"
+   "checked": "2026-11-23T22:23:53+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-23T21:52:33+00:00"
+   "checked": "2026-11-23T22:24:03+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-23T21:52:38+00:00"
+   "checked": "2026-11-23T22:24:08+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,44 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-23T21:52:47+00:00"
+   "checked": "2026-11-23T22:24:17+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-23T21:52:52+00:00"
+   "checked": "2026-11-23T22:24:22+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-23T21:52:57+00:00"
+   "checked": "2026-11-23T22:24:26+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 514.9,
    "last": 514.9,
-   "checked": "2026-11-23T21:52:43+00:00"
+   "checked": "2026-11-23T22:24:12+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/flopro-perfect-fit-outside-tap-connector-5044237",
-  "https://www.hotukdeals.com/deals/lebara-sim-only-35gb-unlimited-uk-mins-texts-ps123-per-month-x-9-months-ps690-after-price-at-checkout-5044236",
-  "https://www.hotukdeals.com/deals/acer-sa100-25-inch-sata-iii-ssd-240gb-up-to-560-mbs-internal-solid-state-drive-5044233",
-  "https://www.mydealz.de/deals/prime-sharkoon-sk3-rgb-midi-tower-nero-sk3-rgb-2879662",
-  "https://www.mydealz.de/deals/20-auf-lichtblock-zb-uno-2-rotlichtlampe-2879666",
-  "https://www.mydealz.de/deals/prime-baseus-picogo-am52-magsafe-powerbank-qi22-25w-10000mah-magnetische-power-bank-06-ultra-silm-pd-45w-akku-fur-iphone-2879665",
-  "https://www.mydealz.de/deals/adidas-50-rabatt-ab-250eur-einkaufswert-outletcity-metzingen-2879664",
-  "https://www.mydealz.de/deals/cecotec-proclean-3040-mirror-mikrowelle-20-l-700-w-3dwave-6-leistungsstufen-auftaufunktion-schwarz-2879663",
-  "https://www.mydealz.de/deals/nintendo-switch-final-fantasy-resonance-pegi-physisch-2879661",
-  "https://www.mydealz.de/deals/10-eur-peter-pane-gutschein-beim-kauf-eines-50-eur-gutscheins-geschenkt-2879660",
-  "https://www.preisjaeger.at/deals/2x-rivacase-freedom-va2604-magsafe-powerbank-mit-klappbarem-stander-10000-mah-373209",
-  "https://www.dealabs.com/bons-plans/marseille-pass-rtm-24h-a-2-eur-2h-de-parking-gratuites-dans-16-parkings-du-centre-ville-4-week-ends-3466570",
-  "https://www.dealabs.com/bons-plans/lego-star-wars-75420-le-landspeeder-de-luke-via-683-eur-cagnottes-3466569",
   "https://www.dealabs.com/bons-plans/offres-black-friday-youprice-orange-250go-3466568",
   "https://www.dealabs.com/bons-plans/hogwarts-legacy-lheritage-de-poudlard-sur-xbox-series-x-3466567",
   "https://www.dealabs.com/bons-plans/sonic-frontiers-definitive-edition-sur-nintendo-switch-2-3466565",
@@ -1558,7 +1545,20 @@
   "https://www.chollometro.com/ofertas/jean-paul-gaultier-le-male-elixir-parfum-200ml-2086852",
   "https://www.chollometro.com/ofertas/bolsa-bandolera-para-portatil-tommy-hilfiger-messenger-nailon-negro-envio-y-devolucion-gratis-con-amazon-prime-2086851",
   "https://nl.pepper.com/aanbiedingen/gta-6-japans-account-vereist-428956",
-  "https://www.hotukdeals.com/deals/direct-return-flights-from-london-gatwick-lgw-to-kuusamo-kao-finland-from-ps10800-13-20-december-with-tui-hand-luggage-incl-5044750"
+  "https://www.hotukdeals.com/deals/direct-return-flights-from-london-gatwick-lgw-to-kuusamo-kao-finland-from-ps10800-13-20-december-with-tui-hand-luggage-incl-5044750",
+  "https://www.mydealz.de/deals/mac-geiz-pokemon-tcg-30-jahre-boosterbundle-2999eur-delta-herrschaft-booster-und-top-trainer-box-55eur-2880060",
+  "https://www.mydealz.de/deals/corporate-benefits-sage-the-barista-express-neo-ses871bss-siebtragermaschine-fur-74792eur-statt-879eur-pvg-2880059",
+  "https://www.dealabs.com/bons-plans/halo-la-collection-le-major-3467098",
+  "https://www.dealabs.com/bons-plans/kit-de-demarrage-thermostat-connecte-filaire-tado-x-et-4-tetes-thermostatiques-3467099",
+  "https://www.dealabs.com/bons-plans/pull-cotele-paris-3467100",
+  "https://www.dealabs.com/bons-plans/aspirateur-laveur-mova-m10-3467096",
+  "https://www.chollometro.com/ofertas/glass-skin-routine-freshly-cosmetics-2-x-30-ml-50-ml-2086861",
+  "https://www.chollometro.com/ofertas/dewalt-kit-herramientas-profesional-taladro-percutor-atornillador-de-impacto-amoladora-125-mm-martillo-sds-plus-y-3-baterias-5ah-2086860",
+  "https://www.chollometro.com/ofertas/montessori-animales-juguete-nino-1-2-3-anos-tren-de-granja-para-contar-combinar-y-clasificar-que-incluye-9-animales-granja-y-granjero-2086859",
+  "https://www.chollometro.com/ofertas/red-velvet-oil-serum-freshly-cosmetics-30-ml-2086858",
+  "https://www.hotukdeals.com/deals/oral-b-io10-black-gold-electric-toothbrush-duo-pack-5044754",
+  "https://www.hotukdeals.com/deals/nivea-cocoa-nourish-body-lotion-400ml-ss-ps341-5044753",
+  "https://www.hotukdeals.com/deals/rio-facelite-led-therapy-face-mask-5044752"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795470738.6726844,
+  "geizhals": 1795472628.1828933,
   "ebay": 1795472314.9583375
  },
  "ebay_seen": {
