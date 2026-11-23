@@ -52,17 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/lego-super-mario-mario-kart-luigi-mach-8-72050-5043630",
-  "https://www.hotukdeals.com/deals/lego-editions-music-olivia-rodrigo-guitar-model-43031-14-years-5043629",
-  "https://www.hotukdeals.com/deals/ladies-faux-shearling-coat-from-tu-sainsburys-argos-5043628",
-  "https://www.mydealz.de/deals/personalisiertneukunden-ooono-p-disc-no1-elektronische-parkscheibe-schwarz-2879170",
-  "https://www.mydealz.de/deals/babywalz-20-rabatt-auf-maxi-cosi-2879169",
-  "https://www.mydealz.de/deals/comdirect-375-pa-6-monate-tagesgeld-neukundne-2879168",
-  "https://www.mydealz.de/deals/pantene-pro-v-lift-volume-haarverdickendes-shampoo-1000ml-pumpspender-2879167",
-  "https://www.mydealz.de/deals/nassschleifmaschine-record-power-wg-250-2879165",
-  "https://www.mydealz.de/deals/ks-tools-8977215-werkstattwagen-2879166",
-  "https://www.dealabs.com/bons-plans/airbag-u04-ixon-3465973",
-  "https://www.dealabs.com/bons-plans/canape-lit-pliable-maxyoyo-convertible-avec-oreiller-matelas-avec-support-dorsal-vendeur-tiers-3465939",
   "https://www.chollometro.com/ofertas/zapatillas-altas-vans-sk8-hi-tallas-345-35-36-y-365-2085277",
   "https://www.chollometro.com/ofertas/microsoft-surface-pro-13-snapdragon-x2-elite-16gb-ram-1tb-ssd-2085273",
   "https://www.chollometro.com/ofertas/guess-seductive-red-bruma-corporal-para-mujer-fragancia-gourmand-250-ml-2085271",
@@ -1551,7 +1540,18 @@
   "https://www.chollometro.com/ofertas/jamon-de-bellota-100-iberico-en-lonchas-sin-gluten-envase-120-g-2086107",
   "https://www.chollometro.com/ofertas/maxi-cosi-nomad-xl-plus-70-150-cm-2086106",
   "https://nl.pepper.com/aanbiedingen/parkside-performance-accu-klopboormachine-20v-64nm-incl-koffer-2-x-accu-lader-ratel-schroevendraaier-bits-en-boren-98-delig-428895",
-  "https://www.hotukdeals.com/deals/bosch-spv4emx17g-series-4-fully-integrated-slimline-dishwasher-10-place-settings-b-rated-free-old-collection-5044328"
+  "https://www.hotukdeals.com/deals/bosch-spv4emx17g-series-4-fully-integrated-slimline-dishwasher-10-place-settings-b-rated-free-old-collection-5044328",
+  "https://www.mydealz.de/deals/tajima-convoy-super-26-kartuschenpresse-2879725",
+  "https://www.mydealz.de/deals/tcl-85c7k-85-zoll-qd-mini-led-tv-2879724",
+  "https://www.mydealz.de/deals/char-broil-holzkohlegrill-charcoal-2go-regulierbare-luftungsschieber-leicht-zu-reinigender-aschefanger-kompaktes-und-leichtes-design-2879722",
+  "https://www.mydealz.de/deals/mohd-black-friday-sammeldeal-zu-designleuchten-z-b-pipistrello-medium-in-schwarz-von-gae-aulenti-fur-97853-eur-statt-1469-eur-2879721",
+  "https://www.dealabs.com/bons-plans/ecran-de-projecteur-72-pouces-169-ecran-pliable-anti-plis-grand-angle-de-vision-160-projection-double-face-3466645",
+  "https://www.dealabs.com/bons-plans/lost-ember-wolf-pack-edition-sur-ps5-3466644",
+  "https://www.dealabs.com/bons-plans/sketchclub-dessin-peinture-gratuit-sur-ios-dematerialise-3466643",
+  "https://nl.pepper.com/aanbiedingen/reisenthel-rolltop-backpack-rugzak-156-inch-laptop-22l-428900",
+  "https://nl.pepper.com/aanbiedingen/classic-world-houten-vintage-muziekinstrumenten-set-5-delig-428898",
+  "https://nl.pepper.com/aanbiedingen/lego-winkelstraat-11371-laagste-prijs-ooit-428896",
+  "https://www.hotukdeals.com/deals/bulk-brown-rice-protein-powder-unflavoured-25-kg-vegan-protein-shake-5044329"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,6 +1564,6 @@
  ],
  "last_run": {
   "geizhals": 1795447142.7724729,
-  "ebay": 1795447142.7724729
+  "ebay": 1795448091.6373863
  }
 }
