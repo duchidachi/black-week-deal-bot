@@ -268,6 +268,10 @@ def evaluate(w: dict, title: str, price: float | None) -> tuple[str, str] | None
         return None
     detail = ""
     if w.get("max_eur_per_tb"):
+        # Sammelangebote ("128GB 256GB 512GB 1TB 2TB", "1/2TB"): Preis gilt für die kleinste Variante → nicht bewertbar
+        caps = {c for c in CAP_RE.findall(title.lower())}
+        if len(caps) >= 3 or re.search(r"\d+\s?/\s?\d+\s?(tb|gb|to|go)\b|\d+\s?(gb|tb|go|to)\s?[-–]\s?\d+\s?(gb|tb|go|to)\b", title.lower()):
+            return None
         cap, pack = capacity_tb(title), pack_size(title)
         if not (price and cap):
             return ("❔ prüfen", "Preis/Kapazität nicht erkannt") if w.get("alert_unknown") else None
@@ -463,6 +467,9 @@ def ebay_evaluate(cfg: dict, s: dict, it: dict) -> tuple[str, str, float] | None
         fb_pct, fb_n = 0.0, 0
     if fb_pct < eb.get("min_feedback_pct", 98.5) or fb_n < eb.get("min_feedback_count", 200):
         return None  # Schutz vor Fake-Karten von Neu-Accounts
+    loc = it.get("itemLocation", {}).get("country", "")
+    if loc in w.get("exclude_locations", eb.get("exclude_locations", [])):
+        return None  # No-Name-Speicher aus Fernost: hohes Fälschungsrisiko
     total = ebay_total(it)
     res = evaluate(w, title, total)
     if res is None or res[0].startswith("❔"):

@@ -112,6 +112,7 @@ note = "UK: Zoll + Einfuhr-USt (~19 %) einrechnen, Preis grob in € umgerechnet
 label = "CFexpress Type B"
 prio = "PRIO 1 Speicher"
 all = ["cfexpress"]
+any = ["angelbird", "sandisk", "lexar", "prograde", "nextorage", "wise", "delkin", "sony", "kingston", "transcend", "pergear", "exascend", "oscoo", "nikon mc-", "sabrent"]
 none = ["type a", "typ a", "type-a", "tipo a", "lecteur", "reader", "lesegerät", "lector", "lettore"]
 max_eur_per_tb = 320      # Virtual Foto: 2× AV PRO SE 1 TB für 423 € ≈ 212 €/TB
 hot_eur_per_tb = 250
@@ -128,6 +129,7 @@ hot_eur_per_tb = 115
 [[watch]]
 label = "HDD Archiv/NAS"
 prio = "PRIO 1 Speicher"
+none = ["compatib", "refurb", "recertified", "generalüberholt", "ricondizionato", "reacondicionado", "gebraucht", "used"]
 any = ["ironwolf", "wd red", "n300", "exos", "ultrastar", "mg08", "mg09", "mg10", "wd elements", "seagate expansion", "my book", "toshiba canvio", "red plus", "red pro"]
 max_eur_per_tb = 28
 hot_eur_per_tb = 22
@@ -159,7 +161,7 @@ max_price = 250
 label = "Shure-Mikro"
 prio = "PRIO 2 Licht/Ton"
 any = ["shure"]
-none = ["kopfhörer", "headphone", "aonic", "in-ear"]
+none = ["kopfhörer", "headphone", "aonic", "in-ear", "tasche", "hülle", "koffer", "case", "arm", "ständer", "cover", "aufkleber", "popschutz", "kabel", "schaumstoff", "windschutz", "für shure", "for shure", "passend", "braccio", "supporto", "soporte", "cable", "cavo", "kompatibel", "compatible"]
 max_price = 400
 
 [[watch]]
@@ -191,6 +193,7 @@ deliver_to = "DE"
 min_feedback_pct = 98.5        # Schutz vor Fake-/Betrugsangeboten (gefälschte Karten sind auf eBay häufig)
 min_feedback_count = 200
 max_alerts_per_search = 5
+exclude_locations = ["CN", "HK"]   # No-Name-Speicher aus Fernost: Fälschungsrisiko
 
 [[ebay.search]]
 q = "cfexpress type b 1tb"
@@ -262,15 +265,3 @@ url = "https://www.mydealz.de/rss/hot"
 min_temp = 400
 silent = true
 categories = ["Elektronik", "Gaming", "Home & Living", "Garten & Baumarkt", "Sport & Outdoor", "Lebensmittel & Haushalt", "Kultur & Freizeit", "Urlaub & Reisen"]
-
-[[ebay.search]]
-q = "shure (mv7, mv7+, mv6, mv88, sm7b, vp83)"
-rule = "Shure-Mikro"
-min_price = 60
-max_price = 400
-
-[[ebay.search]]
-q = "(nikkor z, viltrox, sigma, tamron, ttartisan, 7artisans, sirui) (z mount, nikon z) mm"
-rule = "Objektiv Nikon Z (Vollformat)"
-min_price = 80
-max_price = 800
