@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-23T06:25:44+00:00"
+   "checked": "2026-11-23T06:56:43+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,55 +13,45 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-23T06:25:53+00:00"
+   "checked": "2026-11-23T06:56:52+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-23T06:25:58+00:00"
+   "checked": "2026-11-23T06:56:57+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
    "first_seen": "2026-11-10T20:04:35+00:00",
    "lowest": 365.83,
    "last": 372.85,
-   "checked": "2026-11-23T06:26:02+00:00"
+   "checked": "2026-11-23T06:57:02+00:00"
   },
   "https://geizhals.eu/ugreen-dxp2800-a3162972.html": {
    "baseline": 348.56,
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-23T06:26:07+00:00"
+   "checked": "2026-11-23T06:57:06+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-23T06:26:12+00:00"
+   "checked": "2026-11-23T06:57:11+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-23T06:26:16+00:00"
+   "checked": "2026-11-23T06:57:15+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/brio-world-freight-goods-station-for-kids-age-3-years-up-wooden-railway-train-accessories-and-add-ons-5043132",
-  "https://www.hotukdeals.com/deals/green-service-station-gulf-diesel-ps1839-unleaded-1499-5043130",
-  "https://www.hotukdeals.com/deals/rockjam-10-watt-rechargeable-bluetooth-karaoke-machine-with-two-mics-lightshow-voice-effects-5043129",
-  "https://www.hotukdeals.com/deals/leonardo-da-vinci-by-walter-isaacson-kindle-ebook-heavily-reduced-5043125",
-  "https://www.hotukdeals.com/deals/sram-db8-4-piston-single-brake-and-caliper-950mm-hose-5043128",
-  "https://www.hotukdeals.com/deals/ravensburger-3d-puzzle-spider-man-ages-6-54-pieces-marvel-heroes-no-glue-required-creative-craft-construction-kits-for-kids-adults-5043127",
-  "https://www.mydealz.de/deals/es-brotdose-midilarge-kostenlos-bei-gutscheinkauf-von-50100eur-2878878",
-  "https://www.dealabs.com/bons-plans/gants-moto-et-scooter-mi-saison-homme-furygan-jet-all-seasons-d3o-evo-taille-l-homologues-ce-paume-100-cuir-etanches-et-tactiles-3465570",
-  "https://www.dealabs.com/bons-plans/star-wars-outlaws-gold-edition-nintendo-switch-2-3465568",
-  "https://www.dealabs.com/bons-plans/servante-datelier-sur-roulettes-stanley-fatmax-1-95-622-63-l-metal-plastique-attaches-anticorrosion-3465569",
   "https://www.chollometro.com/ofertas/chaqueta-polar-de-montana-y-trekking-con-capucha-mujer-altus-seneca-130-cd-2084588",
   "https://www.chollometro.com/ofertas/tv-mini-led-50-samsung-tu50m70hauxxc-uhd-4k-smart-tv-black-2084587",
   "https://www.chollometro.com/ofertas/playmobil-collector-cars-x-porsche-911-2084586",
@@ -1551,7 +1541,17 @@
   "https://www.hotukdeals.com/deals/cyberpower-gaming-desktop-pc-amd-ryzen-7-9800x3d-rtx-5080-32gb-ddr5-2tb-nvme-ssd-5043449",
   "https://www.hotukdeals.com/deals/momcozy-nappy-bin-triple-seal-odour-control-standard-trash-bags-large-capacity-childproof-lock-viewing-window-sold-by-smartlin-fba-5043582",
   "https://www.hotukdeals.com/deals/byamazon-washing-up-liquid-lemon-500ml-6168p-or-x4-for-ps213-5043581",
-  "https://www.hotukdeals.com/deals/samsung-ue65u8020hkxxu-65-inch-led-4k-ultra-hd-smart-tv-5043580"
+  "https://www.hotukdeals.com/deals/samsung-ue65u8020hkxxu-65-inch-led-4k-ultra-hd-smart-tv-5043580",
+  "https://www.mydealz.de/deals/mini-aiways-premium-fur-384eur-im-playstore-30-2879125",
+  "https://www.mydealz.de/deals/mova-tech-z60-ultra-roller-complete-saugroboter-mit-wischfunktion-2879124",
+  "https://www.mydealz.de/deals/netto-appventskalender-2026-32-turchen-voller-weihnachtsfreude-2879123",
+  "https://www.mydealz.de/deals/ugreen-magflow-air-ultra-slim-powerbank-mit-magsafe-10000mah-qi2-25w-pd45w-integriertes-kabel-gratis-1m-60-w-usbc-schnellladekabel-2854120",
+  "https://www.preisjaeger.at/deals/penny-3eur-rabatt-fur-150-os-373152",
+  "https://www.dealabs.com/bons-plans/lampe-fantome-pac-man-officielle-avec-modes-de-couleur-changeante-couleurs-reactives-a-la-musique-alimentee-par-usb-3465874",
+  "https://www.dealabs.com/bons-plans/le-commissariat-de-police-lego-city-60316-via-494-eur-de-fidelite-3465918",
+  "https://nl.pepper.com/aanbiedingen/pandora-bedels-bij-amazon-25-korting-oa-olifant-verweven-harten-en-zon-maan-en-sterren-428736",
+  "https://www.hotukdeals.com/deals/call-of-duty-modern-warfare-4-playstation-5-physical-disc-requires-content-download-5043585",
+  "https://www.hotukdeals.com/deals/backrooms-4k-itunes-5043584"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1563,7 +1563,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795415139.1218286,
-  "ebay": 1795416087.3746603
+  "geizhals": 1795416997.8629901,
+  "ebay": 1795416997.8629901
  }
 }
