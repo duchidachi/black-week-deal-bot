@@ -40,14 +40,14 @@ target = 300
 buy_now = 250
 
 # ------------------------------------------------ PRIO 2: externe SSD
-[[product]]
-prio = "PRIO 2"
-name = "Samsung T7 Shield 2TB"
-url = "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html"
-target = 320
-buy_now = 280
-
 # ------------------------------------------------ PRIO 2: Archiv-NAS
+[[product]]
+prio = "PRIO 1 Speicher"
+name = "WD Elements Desktop 20TB"
+url = "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html"
+target = 480     # 24 €/TB
+buy_now = 440    # 22 €/TB
+
 [[product]]
 prio = "PRIO 2"
 name = "UGREEN NASync DXP2800 (leer)"
@@ -123,15 +123,15 @@ label = "Portable SSD"
 prio = "PRIO 1 Speicher"
 any = ["t7", "t9", "extreme portable", "extreme pro portable", "sandisk extreme", "crucial x9", "crucial x10", "lexar sl", "ssd externe", "ssd portable", "externe ssd", "portable ssd"]
 none = ["microsd", "sd card", "sd-karte", "sdxc", "carte sd"]
-max_eur_per_tb = 150
-hot_eur_per_tb = 115
+max_eur_per_tb = 100     # SSD vorhanden → nur noch echte Top-Deals
+hot_eur_per_tb = 90
 
 [[watch]]
 label = "HDD Archiv/NAS"
 prio = "PRIO 1 Speicher"
 none = ["compatib", "refurb", "recertified", "generalüberholt", "ricondizionato", "reacondicionado", "gebraucht", "used"]
 any = ["ironwolf", "wd red", "n300", "exos", "ultrastar", "mg08", "mg09", "mg10", "wd elements", "wd _elements", "elements desktop", "seagate expansion", "my book", "toshiba canvio", "red plus", "red pro"]
-max_eur_per_tb = 28
+max_eur_per_tb = 24      # = WD Elements 20 TB für 480 €
 hot_eur_per_tb = 22
 
 [[watch]]
