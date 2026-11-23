@@ -52,20 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/goat-simulator-3-goat-overloadedition-sur-ps5-3466509",
-  "https://www.dealabs.com/bons-plans/elo-coco-peluche-parlante-a-intelligence-artificielle-3466508",
-  "https://www.dealabs.com/bons-plans/depoussiereur-electrique-compucleaner-original-500-w-pour-pc-portables-consoles-alternative-a-la-bombe-dair-3-buses-3466507",
-  "https://www.dealabs.com/bons-plans/jeu-de-construction-lego-super-mario-72038-wario-et-roi-boo-3466506",
-  "https://www.chollometro.com/ofertas/television-55-qned-miniled-lg-55qned70b6c-2085921",
-  "https://www.chollometro.com/ofertas/culote-etxeondo-orhi-hydro-2085918",
-  "https://www.chollometro.com/ofertas/beyblade-x-set-de-lanzador-de-rotacion-derecha-victory-grip-2085916",
-  "https://nl.pepper.com/aanbiedingen/wera-05057434001-30-delige-bit-check-30-metal-1-bitset-428872",
-  "https://nl.pepper.com/aanbiedingen/olaplex-no10-bond-shaper-curl-defining-gel-200-ml-428871",
-  "https://www.hotukdeals.com/deals/adidas-run-70s-20-trainers-dark-blue-cloud-white-5044203",
-  "https://www.hotukdeals.com/deals/adidas-run-70s-20-trainers-bright-royal-5044201",
-  "https://www.hotukdeals.com/deals/lego-editions-vini-jr-football-highlights-43027-5044200",
-  "https://www.mydealz.de/deals/tablet-v10a-4128-256-cm-101-zoll-tablet-8gb-ram-128-gb-android-14-2879625",
-  "https://www.mydealz.de/deals/fahrrad-trek-fx-sport-al-3-grossen-xs-bis-xl-2879624",
   "https://www.mydealz.de/deals/gta-vi-fur-xbox-series-xs-digital-fur-5697-eur-bei-hrk-game-2879623",
   "https://www.mydealz.de/deals/black-week-angebote-beim-hardware-online-shop-neu-refurbished-lenovo-thinkpads-hp-elitebooks-dell-latitude-apple-ipads-ssds-usw-2879622",
   "https://www.mydealz.de/deals/pokemon-pastell-pluschfiguren-2879620",
@@ -1551,7 +1537,21 @@
   "https://www.hotukdeals.com/deals/marc-jacobs-dot-eau-de-parfum-100ml-get-extra-20-off-with-code-flash20-5044701",
   "https://www.hotukdeals.com/deals/hisense-ax5140q-514-soundbar-5044700",
   "https://www.hotukdeals.com/deals/lego-harry-potter-hogwarts-castle-and-grounds-76419-5044699",
-  "https://www.hotukdeals.com/deals/the-north-face-mens-antora-windproof-waterproof-jacket-in-black-sizes-s-to-xxl-5044698"
+  "https://www.hotukdeals.com/deals/the-north-face-mens-antora-windproof-waterproof-jacket-in-black-sizes-s-to-xxl-5044698",
+  "https://www.mydealz.de/deals/helly-hansen-jr-powder-lt-kinder-skijacke-fur-7699-eur-statt-14535-eur-schwarz-gr-140-164-bestsecret-2880036",
+  "https://www.preisjaeger.at/deals/ergonomischer-burostuhl-mit-einfacher-bedienung-und-optionaler-soft-kopfstutze-c5-ab-12999eur-373204",
+  "https://www.dealabs.com/bons-plans/sony-wh-1000xm6-casque-bluetooth-sans-fil-premium-a-reduction-de-bruit-3467050",
+  "https://www.dealabs.com/bons-plans/baldurs-gate-3-pc-steam-3467049",
+  "https://www.chollometro.com/ofertas/tommy-jeans-mujer-bolso-con-correa-2086777",
+  "https://www.chollometro.com/ofertas/matnatcolchon-viscoelasticomuelles-ensacadosgran-firmeza-y-adaptabilidad-premium-altura-30-cm-antideslizante-y-antibacterial-135-x-190-cm-2086775",
+  "https://www.chollometro.com/ofertas/bolso-calvin-klein-2086776",
+  "https://www.chollometro.com/ofertas/prince-of-persia-the-lost-crown-pc-steam-key-2086774",
+  "https://www.chollometro.com/ofertas/vivagym-por-990eur-hasta-febrero-2086772",
+  "https://www.chollometro.com/ofertas/cd-the-sex-pistols-anarchy-in-the-uk-live-muy-buen-estado-2086770",
+  "https://www.chollometro.com/ofertas/jamon-secretos-de-tonda-jamon-de-cebo-iberico-50-raza-iberica-2086768",
+  "https://www.chollometro.com/ofertas/tommy-hilfiger-bolso-popette-micro-para-mujer-2086773",
+  "https://nl.pepper.com/aanbiedingen/incia-familie-zonnebrand-set-428949",
+  "https://www.hotukdeals.com/deals/pepsi-max-tropical-cans-8-x-330ml-5044708"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,7 +1564,7 @@
  ],
  "last_run": {
   "geizhals": 1795468698.3809426,
-  "ebay": 1795468384.8919816
+  "ebay": 1795469342.7685926
  },
  "ebay_seen": {
   "187110721591": 139.1,
