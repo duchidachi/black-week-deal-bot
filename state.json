@@ -52,20 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/lunch-deal-scan-your-app-to-get-a-main-side-and-drink-selected-accounts-5044143",
-  "https://www.hotukdeals.com/deals/pandora-me-pave-ring-sterling-silver-rose-gold-ps3150-gold-ps36-5044142",
-  "https://www.hotukdeals.com/deals/celestron-moon-mission-100mm-tabletop-dobsonian-telescope-895-shipping-or-free-collection-from-exeter-5044141",
-  "https://www.hotukdeals.com/deals/all-quiet-on-the-western-front-2022-4k-ultra-hd-5044140",
-  "https://www.mydealz.de/deals/staedtler-noris-jumbo-328-b-fasermaler-12er-set-30-mm-filzstifte-2879575",
-  "https://www.mydealz.de/deals/vtech-kidi-dj-mix-10-in-1-dj-mischpult-fur-kinder-mit-bluetooth-mikrofon-lichteffekten-15-vorinstallierte-songs-jog-wheel-prime-2879578",
-  "https://www.mydealz.de/deals/comfee-4-turen-kuhl-gefrierkombination-474-l-no-frost-silber-eek-e-rcf470ls2eue-2879577",
-  "https://www.mydealz.de/deals/bosch-professional-akku-schlagbohrschrauber-gsb-18v-90-c-mit-l-boxx-2879574",
-  "https://www.mydealz.de/deals/prime-jack-jones-blue-denim-jeans-alle-grossen-glenn-original-sq-330-noos-2879576",
-  "https://www.mydealz.de/deals/kef-q4-meta-und-weitere-kef-lautsprecher-2879572",
-  "https://www.dealabs.com/bons-plans/philips-oneblade-360-authentic-barber-electric-facial-body-shaver-trimmer-3x-360-blades-3x-fledgling-beard-comb-135-1x-body-3466457",
-  "https://www.dealabs.com/bons-plans/looxii-gigoteuse-dhiver-pour-bebe-coton-25-tog-3466456",
-  "https://www.dealabs.com/bons-plans/jeu-de-societe-skip-bo-deluxe-mattel-boite-metallique-2-6-joueurs-30-min-3466454",
-  "https://www.dealabs.com/bons-plans/clavier-mecanique-keychron-c2-pro-8k-3466453",
   "https://www.dealabs.com/bons-plans/morakniv-risberg-s-edition-limitee-3466452",
   "https://www.chollometro.com/ofertas/islas-mauricio-7-noches-en-hotel-3-vuelos-mp-extras-1403eurp-julio-2085876",
   "https://www.chollometro.com/ofertas/juego-de-construccion-lego-art-keith-haring-31216-30-descuento-directo-25-en-vale-juguetes-2085875",
@@ -1551,7 +1537,21 @@
   "https://www.hotukdeals.com/deals/apple-iphone-17-pro-256gb-sim-free-mobile-phone-in-cosmic-orange-mg8h4qna-5044646",
   "https://www.hotukdeals.com/deals/airtime-ps2-bonus-no-min-spend-selected-accounts-only-5044645",
   "https://www.hotukdeals.com/deals/discover-sweet-pistachio-eau-de-parfum-50ml-5044644",
-  "https://www.hotukdeals.com/deals/30w-led-pir-floodlight-with-remote-control-5044643"
+  "https://www.hotukdeals.com/deals/30w-led-pir-floodlight-with-remote-control-5044643",
+  "https://www.preisjaeger.at/deals/vans-old-skool-unisex-low-top-sneaker-schwarz-grosse-34-38405051-373202",
+  "https://www.dealabs.com/bons-plans/amplificateur-casque-dac-usb-fiio-k11-puissance-1400-mw-32-o-pcm-32-bits384-khz-dsd256-sorties-635-44-mm-noir-3467008",
+  "https://www.dealabs.com/bons-plans/friteuse-sans-huile-airfryer-philips-serie-4000-na46000-10l-2-paniers-via-30eur-dodr-3467006",
+  "https://www.dealabs.com/bons-plans/reolink-4k-kit-camera-poe-de-surveillance-exterieure-rlk8-800b4-3467005",
+  "https://www.dealabs.com/bons-plans/casquette-nike-total-90-3466998",
+  "https://www.dealabs.com/bons-plans/arturia-analog-lab-pro-plug-in-hote-dinstrument-virtuel-3466999",
+  "https://www.chollometro.com/ofertas/zapatillas-adidas-runfalcon-5-running-2086701",
+  "https://www.chollometro.com/ofertas/reloj-timex-marlion-x-peanuts-75th-anniversary-tw2y45000-mov-automatico-caja-40mm-2086699",
+  "https://www.chollometro.com/ofertas/red-dead-redemption-2-steam-2086697",
+  "https://www.hotukdeals.com/deals/protein-works-vegan-protein-360-platinum-chocolate-bueno-1kg-5044655",
+  "https://www.hotukdeals.com/deals/lifetime-bypass-commercial-grade-folding-chair-5044654",
+  "https://www.hotukdeals.com/deals/asus-tuf-gaming-vg279qm5f-27-full-hd-fast-ips-260hz-03ms-gaming-monitor-5044653",
+  "https://www.hotukdeals.com/deals/pixel-10-5044652",
+  "https://www.hotukdeals.com/deals/lenovo-ideapad-slim-5-copilot-pc-snapdragon-x2-plus-16gb-ram-512gb-ssd-133-inch-laptop-83rk000vuk-5044650"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,7 +1564,7 @@
  ],
  "last_run": {
   "geizhals": 1795465012.4407632,
-  "ebay": 1795465579.7217247
+  "ebay": 1795466505.1708348
  },
  "ebay_seen": {
   "187110721591": 139.1,
