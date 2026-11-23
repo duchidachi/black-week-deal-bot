@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-23T20:16:58+00:00"
+   "checked": "2026-11-23T20:47:04+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,53 +13,45 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-23T20:17:08+00:00"
+   "checked": "2026-11-23T20:47:13+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-23T20:17:12+00:00"
+   "checked": "2026-11-23T20:47:18+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
    "first_seen": "2026-11-10T20:04:35+00:00",
    "lowest": 365.83,
    "last": 372.85,
-   "checked": "2026-11-23T20:17:17+00:00"
+   "checked": "2026-11-23T20:47:23+00:00"
   },
   "https://geizhals.eu/ugreen-dxp2800-a3162972.html": {
    "baseline": 348.56,
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-23T20:17:22+00:00"
+   "checked": "2026-11-23T20:47:27+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-23T20:17:27+00:00"
+   "checked": "2026-11-23T20:47:32+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-23T20:17:31+00:00"
+   "checked": "2026-11-23T20:47:36+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/morakniv-risberg-s-edition-limitee-3466452",
-  "https://www.chollometro.com/ofertas/islas-mauricio-7-noches-en-hotel-3-vuelos-mp-extras-1403eurp-julio-2085876",
-  "https://www.chollometro.com/ofertas/juego-de-construccion-lego-art-keith-haring-31216-30-descuento-directo-25-en-vale-juguetes-2085875",
-  "https://www.chollometro.com/ofertas/under-armour-ua-rogue-6-zapatillas-hombre-2085873",
-  "https://www.chollometro.com/ofertas/wiz-hdmi-sync-box-con-retroiluminacion-tv-55-65-2085871",
-  "https://www.chollometro.com/ofertas/zapatillas-hombre-reebok-nfx-trainer-2-2085870",
-  "https://www.hotukdeals.com/deals/eufy-e21-5-smart-video-baby-monitor-with-4k-pan-tilt-camera-5044157",
-  "https://www.hotukdeals.com/deals/kaiweets-digital-multimeter-km200s-5044156",
   "https://www.hotukdeals.com/deals/aunno-4-way-extension-lead-with-4-usb-c-and-2-usb-ports-18m-5044155",
   "https://www.hotukdeals.com/deals/the-jd-sports-black-friday-sale-upto-50-off-clothing-shoes-another-10-off-selected-lines-wcode-adidas-nike-north-face-5044154",
   "https://www.hotukdeals.com/deals/swan-wave-toaster-black-5044153",
@@ -1551,7 +1543,15 @@
   "https://www.hotukdeals.com/deals/lifetime-bypass-commercial-grade-folding-chair-5044654",
   "https://www.hotukdeals.com/deals/asus-tuf-gaming-vg279qm5f-27-full-hd-fast-ips-260hz-03ms-gaming-monitor-5044653",
   "https://www.hotukdeals.com/deals/pixel-10-5044652",
-  "https://www.hotukdeals.com/deals/lenovo-ideapad-slim-5-copilot-pc-snapdragon-x2-plus-16gb-ram-512gb-ssd-133-inch-laptop-83rk000vuk-5044650"
+  "https://www.hotukdeals.com/deals/lenovo-ideapad-slim-5-copilot-pc-snapdragon-x2-plus-16gb-ram-512gb-ssd-133-inch-laptop-83rk000vuk-5044650",
+  "https://www.mydealz.de/deals/prime-jack-jones-male-einreihiger-blazer-und-hose-jprfranco-super-slim-fit-anzug-gr-48-56-medieval-blue-2880011",
+  "https://www.mydealz.de/deals/lokal-marktkauf-bad-salzuflen-pokemon-tin-box-mega-krafte-2880001",
+  "https://www.mydealz.de/deals/lidl-tronic-nano-powerbank-magnetisch-5000-mah-li-ionen-akku-1cm-dick-115g-echtes-15a-schnelllladen-ab-1012-im-marktonline-2880009",
+  "https://www.mydealz.de/deals/sony-ht-a3000-soundbar-dolby-atmos-dtsx-31-kanal-passthrough-acoustic-center-sync-with-bravia-xr-2880007",
+  "https://www.chollometro.com/ofertas/reloj-calypso-caja-en-acero-de-38-mm-2086700",
+  "https://www.hotukdeals.com/deals/hotel-grand-reversible-cooling-pillow-2-pack-5044658",
+  "https://www.hotukdeals.com/deals/unleaded-petrol-ps1419-premium-unleaded-petrol-ps1599-premium-diesel-ps1799-haydock-5044657",
+  "https://www.hotukdeals.com/deals/apple-watch-se-3-gps-40mm-aluminium-case-with-sport-band-sm-or-ml-in-starlight-or-midnight-instore-5044656"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1563,7 +1563,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795465012.4407632,
+  "geizhals": 1795466819.8051076,
   "ebay": 1795466505.1708348
  },
  "ebay_seen": {
