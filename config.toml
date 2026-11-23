@@ -149,12 +149,6 @@ prio = "PRIO 3"
 all = ["manfrotto", "one"]
 
 [[watch]]
-label = "Leatherman"
-prio = "PRIO 3"
-all = ["leatherman"]
-max_price = 120
-
-[[watch]]
 label = "Licht (klein, für Content zuhause)"
 prio = "PRIO 2 Licht/Ton"
 any = ["amaran", "aputure", "godox ml", "nanlite", "zhiyun molus", "smallrig rc", "ulanzi", "led-videoleuchte", "videoleuchte", "softbox"]
@@ -169,10 +163,12 @@ none = ["kopfhörer", "headphone", "aonic", "in-ear"]
 max_price = 400
 
 [[watch]]
-label = "Funkmikro / Lavalier (DJI & Co.)"
-prio = "PRIO 2 Licht/Ton"
-any = ["dji mic", "rode wireless", "wireless go", "lavalier", "ansteckmikro", "hollyland lark"]
-max_price = 300
+label = "Objektiv Nikon Z (Vollformat)"
+prio = "PRIO 2 Objektive"
+any = ["nikkor z", "z-mount", "z mount", "nikon z ", "für nikon z", "for nikon z", "z-bajonett", "z bajonett", "nikon-z"]
+all = ["mm"]
+none = ["dx", "dc dn", "aps-c", "apsc", "adapter", "ftz", "filter", "deckel", "gegenlichtblende", "z50", "z30", "zfc", "z5 ", "z6", "z7", "z8", "z9", "zf ", "zr ", "kit", "gehäuse", "body"]
+max_price = 800
 
 [[watch]]
 label = "Richtmikro (nur wenn günstig)"
@@ -182,7 +178,7 @@ max_price = 150
 
 [[watch]]
 label = "Molton"
-prio = "PRIO 3"
+prio = "PRIO 2 Licht/Ton"
 any = ["molton"]
 
 # ======================================================= eBay (offizielle Browse API)
@@ -272,3 +268,9 @@ q = "shure (mv7, mv7+, mv6, mv88, sm7b, vp83)"
 rule = "Shure-Mikro"
 min_price = 60
 max_price = 400
+
+[[ebay.search]]
+q = "(nikkor z, viltrox, sigma, tamron, ttartisan, 7artisans, sirui) (z mount, nikon z) mm"
+rule = "Objektiv Nikon Z (Vollformat)"
+min_price = 80
+max_price = 800
