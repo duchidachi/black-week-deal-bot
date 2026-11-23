@@ -241,7 +241,11 @@ for iid, price in seen.items():
     rows.append(("2026-11-23 20:26", rules.get(r["kategorie"], {}).get("prio", ""), f"eBay · {r['kategorie']}", r["titel"],
                  f"{bot.eur(price)} inkl. Versand – {r['verkaeufer']} ({r['standort']})",
                  "ja" if now_ok else "nein – Fehlalarm, Regel inzwischen verschärft", r["url"]))
+known = {r[3] for r in rows}
 for t, head, title, detail in log_alarms:
+    if title in known:  # schon aus state.json/market.csv rekonstruiert
+        continue
+    known.add(title)
     rows.append((t[:16], "", head, title, detail, "", ""))
 for a in read_csv("alerts.csv"):
     rows.append((a["zeit_utc"][:16].replace("T", " "), a["prio"], a["kopf"], a["titel"], a["preis_info"], "", a["link"]))
