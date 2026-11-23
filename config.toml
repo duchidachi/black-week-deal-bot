@@ -110,6 +110,7 @@ note = "UK: Zoll + Einfuhr-USt (~19 %) einrechnen, Preis grob in € umgerechnet
 
 [[watch]]
 label = "CFexpress Type B"
+prio = "PRIO 1 Speicher"
 all = ["cfexpress"]
 none = ["type a", "typ a", "type-a", "tipo a", "lecteur", "reader", "lesegerät", "lector", "lettore"]
 max_eur_per_tb = 320      # Virtual Foto: 2× AV PRO SE 1 TB für 423 € ≈ 212 €/TB
@@ -118,6 +119,7 @@ alert_unknown = true      # auch melden, wenn Preis/Kapazität nicht im Titel st
 
 [[watch]]
 label = "Portable SSD"
+prio = "PRIO 1 Speicher"
 any = ["t7", "t9", "extreme portable", "extreme pro portable", "sandisk extreme", "crucial x9", "crucial x10", "lexar sl", "ssd externe", "ssd portable", "externe ssd", "portable ssd"]
 none = ["microsd", "sd card", "sd-karte", "sdxc", "carte sd"]
 max_eur_per_tb = 150
@@ -125,34 +127,62 @@ hot_eur_per_tb = 115
 
 [[watch]]
 label = "HDD Archiv/NAS"
+prio = "PRIO 1 Speicher"
 any = ["ironwolf", "wd red", "n300", "exos", "ultrastar", "mg08", "mg09", "mg10", "wd elements", "seagate expansion", "my book", "toshiba canvio", "red plus", "red pro"]
 max_eur_per_tb = 28
 hot_eur_per_tb = 22
 
 [[watch]]
 label = "NAS-Gehäuse"
+prio = "PRIO 1 Speicher"
 any = ["dxp2800", "dxp4800", "dxp480t", "ds225+", "ds224+", "ds425+", "ds923+", "ds423+", "ts-264", "ts-464", "as5402", "as5404"]
 max_price = 450
 
 [[watch]]
 label = "Angelbird / Nextorage / ProGrade"
+prio = "PRIO 1 Speicher"
 any = ["angelbird", "nextorage", "prograde", "delkin"]
 
 [[watch]]
 label = "Manfrotto ONE"
+prio = "PRIO 3"
 all = ["manfrotto", "one"]
 
 [[watch]]
 label = "Leatherman"
+prio = "PRIO 3"
 all = ["leatherman"]
 max_price = 120
 
 [[watch]]
-label = "Licht"
-any = ["amaran", "aputure", "godox ml", "nanlite", "zhiyun molus"]
+label = "Licht (klein, für Content zuhause)"
+prio = "PRIO 2 Licht/Ton"
+any = ["amaran", "aputure", "godox ml", "nanlite", "zhiyun molus", "smallrig rc", "ulanzi", "led-videoleuchte", "videoleuchte", "softbox"]
+none = ["300", "600", "1200", "stativ allein"]   # große Studio-Leuchten raus
+max_price = 250
+
+[[watch]]
+label = "Shure-Mikro"
+prio = "PRIO 2 Licht/Ton"
+any = ["shure"]
+none = ["kopfhörer", "headphone", "aonic", "in-ear"]
+max_price = 400
+
+[[watch]]
+label = "Funkmikro / Lavalier (DJI & Co.)"
+prio = "PRIO 2 Licht/Ton"
+any = ["dji mic", "rode wireless", "wireless go", "lavalier", "ansteckmikro", "hollyland lark"]
+max_price = 300
+
+[[watch]]
+label = "Richtmikro (nur wenn günstig)"
+prio = "PRIO 2 Licht/Ton"
+any = ["richtmikrofon", "richtmikro", "shotgun", "videomic", "nikon me-", "deity v-mic", "rode ntg"]
+max_price = 150
 
 [[watch]]
 label = "Molton"
+prio = "PRIO 3"
 any = ["molton"]
 
 # ======================================================= eBay (offizielle Browse API)
@@ -206,6 +236,7 @@ max_price = 700
 # Referenz: Bitiba-Bestellung 09/2026 – catz finefood 12×800 g = 4,71 €/kg, MAC's Cat 12×400 g = 4,91 €/kg
 [[watch]]
 label = "Katzenfutter (catz finefood / MAC's Cat)"
+prio = "Katzen"
 any = ["catz finefood", "mac's cat", "macs cat", "mac´s cat", "mac`s cat", "mac’s cat"]
 max_eur_per_kg = 4.10     # ≈ 15 % unter bisher
 hot_eur_per_kg = 3.70     # ≈ 22 % unter bisher → sofort zuschlagen
@@ -214,6 +245,7 @@ alert_unknown = true      # z. B. "20 % auf catz finefood" ohne Gewicht im Titel
 
 [[watch]]
 label = "Katzenstreu (fein klumpend)"
+prio = "Katzen"
 any = ["katzenstreu", "klumpstreu", "coshida", "cachet", "k-classic katzen", "cat litter", "litière", "arena para gatos"]
 none = ["silikat", "silica", "kristall", "crystal", "holz", "pellet", "mais", "tofu", "papier", "streuschaufel", "katzenklo", "toilette"]
 max_eur_per_l = 0.50      # Coshida/Cachet-Aktionspreis (z. B. 8 l für 3,99 €)
@@ -223,6 +255,7 @@ alert_unknown = true
 
 [[watch]]
 label = "Tier-Shop-Aktion"
+prio = "Katzen"
 any = ["bitiba", "zooplus", "fressnapf", "zooroyal"]
 none = ["hund", "dog", "pferd", "aquarium", "vogel"]
 
@@ -233,3 +266,9 @@ url = "https://www.mydealz.de/rss/hot"
 min_temp = 400
 silent = true
 categories = ["Elektronik", "Gaming", "Home & Living", "Garten & Baumarkt", "Sport & Outdoor", "Lebensmittel & Haushalt", "Kultur & Freizeit", "Urlaub & Reisen"]
+
+[[ebay.search]]
+q = "shure (mv7, mv7+, mv6, mv88, sm7b, vp83)"
+rule = "Shure-Mikro"
+min_price = 60
+max_price = 400

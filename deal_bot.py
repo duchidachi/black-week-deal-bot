@@ -303,7 +303,8 @@ def check_feeds(cfg: dict, state: dict, dry: bool) -> list[str]:
                 level, detail = res
                 hits += 1
                 msg = (
-                    f"{level} · {html.escape(w['label'])} · {f['flag']} {html.escape(f['name'])}\n"
+                    (f"<b>[{html.escape(w['prio'])}]</b> " if w.get("prio") else "")
+                    + f"{level} · {html.escape(w['label'])} · {f['flag']} {html.escape(f['name'])}\n"
                     f"<b>{html.escape(title)}</b>\n{eur(price) if price else '?'} – {html.escape(shop)}"
                     + (f"\n{detail}" if detail else "")
                     + (f"\n⚠️ {html.escape(f['note'])}" if f.get("note") else "")
@@ -479,8 +480,10 @@ def check_ebay(cfg: dict, state: dict, dry: bool) -> list[str]:
             n_new += 1
             seller = it.get("seller", {})
             loc = it.get("itemLocation", {}).get("country", "?")
+            prio = next((w.get("prio") for w in cfg.get("watch", []) if w["label"] == s["rule"]), None)
             alerts.append(
-                f"{level} · {html.escape(s['rule'])} · {EBAY_FLAGS.get(mp, '')} eBay"
+                (f"<b>[{html.escape(prio)}]</b> " if prio else "")
+                + f"{level} · {html.escape(s['rule'])} · {EBAY_FLAGS.get(mp, '')} eBay"
                 + (" (billiger geworden)" if last else "")
                 + f"\n<b>{html.escape(it.get('title', ''))}</b>\n"
                 f"{eur(total)} inkl. Versand – {html.escape(seller.get('username', '?'))} "
