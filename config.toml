@@ -201,3 +201,26 @@ q = "(wd elements, seagate expansion, wd my book) (12tb, 14tb, 16tb, 18tb, 20tb)
 rule = "HDD Archiv/NAS"
 min_price = 150
 max_price = 700
+
+# ======================================================= Katzen
+# Referenz: Bitiba-Bestellung 09/2026 – catz finefood 12×800 g = 4,71 €/kg, MAC's Cat 12×400 g = 4,91 €/kg
+[[watch]]
+label = "Katzenfutter (catz finefood / MAC's Cat)"
+any = ["catz finefood", "mac's cat", "macs cat", "mac´s cat", "mac`s cat", "mac’s cat"]
+max_eur_per_kg = 4.10     # ≈ 15 % unter bisher
+hot_eur_per_kg = 3.70     # ≈ 22 % unter bisher → sofort zuschlagen
+ref_eur_per_kg = 4.80
+alert_unknown = true      # z. B. "20 % auf catz finefood" ohne Gewicht im Titel trotzdem melden
+
+[[watch]]
+label = "Tier-Shop-Aktion"
+any = ["bitiba", "zooplus", "fressnapf", "zooroyal"]
+none = ["hund", "dog", "pferd", "aquarium", "vogel"]
+
+# ======================================================= Heiße Deals (Zufallsfunde, stumm)
+# Alles, was auf mydealz schnell heiß wird, aus diesen Kategorien – ohne Ton aufs Handy.
+[hot]
+url = "https://www.mydealz.de/rss/hot"
+min_temp = 400
+silent = true
+categories = ["Elektronik", "Gaming", "Home & Living", "Garten & Baumarkt", "Sport & Outdoor", "Lebensmittel & Haushalt", "Kultur & Freizeit", "Urlaub & Reisen"]

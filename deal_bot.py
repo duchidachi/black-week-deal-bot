@@ -89,6 +89,21 @@ def pack_size(title: str) -> int:
     return int(n) if n and 1 < int(n) <= 8 else (2 if not n else 1)
 
 
+WEIGHT_MULTI_RE = re.compile(r"(\d{1,3})\s?[x×]\s?(\d+(?:[.,]\d+)?)\s?(kg|g)\b")
+WEIGHT_RE = re.compile(r"(\d+(?:[.,]\d+)?)\s?(kg|g)\b")
+
+
+def weight_kg(title: str) -> float | None:
+    """Gesamtgewicht in kg aus dem Titel: '12 x 800 g' → 9,6 · '2 x 10 kg' → 20 · '7,5kg' → 7,5"""
+    low = title.lower()
+    m = WEIGHT_MULTI_RE.search(low)
+    if m:
+        n, w, unit = int(m.group(1)), float(m.group(2).replace(",", ".")), m.group(3)
+        return n * (w if unit == "kg" else w / 1000)
+    ws = [float(v.replace(",", ".")) * (1 if u == "kg" else 0.001) for v, u in WEIGHT_RE.findall(low)]
+    return max(ws) if ws else None
+
+
 def eur(v: float) -> str:
     return f"{v:,.2f} €".replace(",", "X").replace(".", ",").replace("X", ".")
 
@@ -108,8 +123,8 @@ def save_state(state: dict) -> None:
     STATE.write_text(json.dumps(state, indent=1, ensure_ascii=False))
 
 
-def telegram(text: str, dry: bool) -> None:
-    print("\n[ALARM]\n" + html.unescape(re.sub(r"<[^>]+>", "", text)) + "\n")  # immer ins Log
+def telegram(text: str, dry: bool, silent: bool = False) -> None:
+    print(("\n[ALARM, stumm]\n" if silent else "\n[ALARM]\n") + html.unescape(re.sub(r"<[^>]+>", "", text)) + "\n")
     if dry:
         return
     token, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
@@ -117,7 +132,8 @@ def telegram(text: str, dry: bool) -> None:
         print("(nicht gesendet: TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID fehlen)")
         return
     data = urllib.parse.urlencode(
-        {"chat_id": chat, "text": text, "parse_mode": "HTML", "disable_web_page_preview": "false"}
+        {"chat_id": chat, "text": text, "parse_mode": "HTML", "disable_web_page_preview": "false",
+         "disable_notification": "true" if silent else "false"}
     ).encode()
     try:
         urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", data=data, timeout=20)
@@ -215,6 +231,16 @@ def evaluate(w: dict, title: str, price: float | None) -> tuple[str, str] | None
         detail = f"≈ {eur(per_tb)}/TB" + (f" · {pack} Stück à {eur(price / pack)}" if pack > 1 else "")
         if w.get("hot_eur_per_tb") and per_tb <= w["hot_eur_per_tb"]:
             return ("🚨 TOP-DEAL", detail)
+    if w.get("max_eur_per_kg"):
+        kg = weight_kg(title)
+        if not (price and kg):
+            return ("❔ prüfen", "Preis/Gewicht nicht erkannt") if w.get("alert_unknown") else None
+        per_kg = price / kg
+        if per_kg > w["max_eur_per_kg"]:
+            return None
+        detail = f"≈ {eur(per_kg)}/kg ({kg:g} kg)" + (f" · bisher {eur(w['ref_eur_per_kg'])}/kg" if w.get("ref_eur_per_kg") else "")
+        if w.get("hot_eur_per_kg") and per_kg <= w["hot_eur_per_kg"]:
+            return ("🚨 TOP-DEAL", detail)
     return ("🛒 Deal", detail)
 
 
@@ -259,11 +285,53 @@ def check_feeds(cfg: dict, state: dict, dry: bool) -> list[str]:
                 if bootstrap or dry:
                     print(("(bootstrap) " if bootstrap else "") + re.sub(r"<[^>]+>", "", msg).replace("\n", " | "))
                 if not bootstrap:
-                    alerts.append(msg)
+                    alerts.append((msg, True) if w.get("silent") else msg)
                 break
         if bootstrap:
             boot.append(f["url"])
         print(f"{f['flag']} {f['name']}: ok, {hits} Treffer")
+    return alerts
+
+
+# ------------------------------------------------- Heiße Deals (Zufallsfunde)
+HOT_TITLE_RE = re.compile(r"^\s*(-?\d+)°\s*-\s*(.*)$", re.S)
+
+
+def check_hot(cfg: dict, state: dict, dry: bool) -> list:
+    """mydealz-'Hot'-Feed: Deals, deren Temperatur die Schwelle überschreitet, einmal stumm melden."""
+    h = cfg.get("hot")
+    if not h:
+        return []
+    try:
+        root = ET.fromstring(fetch(h["url"]))
+    except Exception as e:  # noqa: BLE001
+        print(f"FEHLER Hot-Feed: {e}")
+        return []
+    done = state.setdefault("hot_alerted", [])
+    cats = {c.lower() for c in h.get("categories", [])}
+    alerts, n = [], 0
+    for item in root.iter("item"):
+        guid = (item.findtext("guid") or item.findtext("link") or "").strip()
+        m = HOT_TITLE_RE.match(item.findtext("title") or "")
+        if not guid or guid in done or not m:
+            continue
+        temp, title = int(m.group(1)), m.group(2).strip()
+        cat = (item.findtext("category") or "").strip()
+        if temp < h.get("min_temp", 400) or (cats and cat.lower() not in cats):
+            continue
+        done.append(guid)
+        n += 1
+        merchant = item.find(f"{PEPPER_NS}merchant")
+        price = parse_eur(merchant.get("price", "")) if merchant is not None else None
+        shop = merchant.get("name", "") if merchant is not None else ""
+        msg = (
+            f"🔥 {temp}° · {html.escape(cat)} · mydealz\n<b>{html.escape(title)}</b>\n"
+            f"{eur(price) if price else ''}{' – ' + html.escape(shop) if shop else ''}\n"
+            f"<a href=\"{html.escape(item.findtext('link') or guid)}\">→ Deal</a>"
+        )
+        alerts.append((msg, h.get("silent", True)))
+    state["hot_alerted"] = done[-800:]
+    print(f"🔥 Hot-Feed: {n} neue über {h.get('min_temp', 400)}°")
     return alerts
 
 
@@ -415,6 +483,7 @@ def main() -> None:
     state = load_state()
     force = dry or "--all" in sys.argv
     alerts = check_feeds(cfg, state, dry)
+    alerts += check_hot(cfg, state, dry)
     # Geizhals/eBay seltener abfragen – nach verstrichener Zeit, nicht nach Uhrzeit
     now = time.time()
     last = state.setdefault("last_run", {})
@@ -424,8 +493,9 @@ def main() -> None:
     if force or now - last.get("ebay", 0) >= cfg["settings"].get("ebay_every_min", 15) * 60 - 30:
         alerts += check_ebay(cfg, state, dry)
         last["ebay"] = now
-    for a in alerts:
-        telegram(a, dry)
+    for a in alerts:  # Speicher & Co. laut, Zufallsfunde stumm
+        text, silent = a if isinstance(a, tuple) else (a, False)
+        telegram(text, dry, silent)
     if not dry:
         save_state(state)
     print(f"{len(alerts)} Alarm(e)")
