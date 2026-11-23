@@ -59,15 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/bonsai-gardenline-avec-cache-pot-en-ceramique-o16cm-hauteur-28-a-45cm-3466608",
-  "https://www.dealabs.com/bons-plans/gta-vi-edition-standard-ps5-rockstar-games-3466607",
-  "https://www.dealabs.com/bons-plans/samsung-samsung-65-oled-s95h-3466595",
-  "https://nl.pepper.com/aanbiedingen/victorinox-swiss-classic-schil-en-groentemes-set-2-delig-zwart-428885",
-  "https://nl.pepper.com/aanbiedingen/ugreen-20gbps-dual-bay-nvme-m2-ssd-docking-station-met-offline-clonen-424987",
-  "https://www.hotukdeals.com/deals/4-aloft-marriott-birmingham-2-people-nt-stay-breakfast-bottle-wine-nov-2026-to-mar-2027-fri-sun-sat-ps76-inc-xmas-mkt-dates-5044291",
-  "https://www.hotukdeals.com/deals/patti-smith-horses-vinyl-5044290",
-  "https://www.hotukdeals.com/deals/wwe-2k24-ps5-standard-edition-5044289",
-  "https://www.mydealz.de/deals/lego-ford-model-t-bei-amazon-und-smyths-toys-2879694",
   "https://www.preisjaeger.at/deals/jbl-tune-buds-2-tws-bluetooth-in-ear-kopfhorer-schwarz-373215",
   "https://www.dealabs.com/bons-plans/call-of-duty-mw4-3466616",
   "https://www.dealabs.com/bons-plans/levis-new-duncan-ceinture-mixte-marron-3466615",
@@ -1558,7 +1549,16 @@
   "https://www.chollometro.com/ofertas/asmodee-el-senor-de-los-anillos-caja-basica-edicion-revisada-2086929",
   "https://www.chollometro.com/ofertas/north-face-base-100-waterproof-2086928",
   "https://www.hotukdeals.com/deals/oral-b-pro-expert-professional-protection-toothpaste-6-x-125ml-5044785",
-  "https://www.hotukdeals.com/deals/octomore-single-malt-whisky-061-scottish-barley-5044707"
+  "https://www.hotukdeals.com/deals/octomore-single-malt-whisky-061-scottish-barley-5044707",
+  "https://www.dealabs.com/bons-plans/cadre-de-bureau-assis-debout-electrique-a-moteur-unique-inverse-memoire-3-postes-et-charge-usb-c-integree-3467142",
+  "https://www.dealabs.com/bons-plans/objectif-fixe-sony-sel40f25g-40-mm-f25-g-pour-plein-format-3467140",
+  "https://www.dealabs.com/bons-plans/lego-star-wars-le-juggernaut-de-la-republique-75413-3467139",
+  "https://www.dealabs.com/bons-plans/coffret-pebeo-colorex-essentiels-12-encres-aquarelles-liquides-de-20-ml-12-pipettes-3467138",
+  "https://www.dealabs.com/bons-plans/delonghi-magnifica-evo-next-machine-a-cafe-automatique-13-boissons-machine-a-cafe-a-grain-mousseur-lattecrema-cappuccino-3467133",
+  "https://www.chollometro.com/ofertas/asmodee-el-hobbit-historia-de-una-ida-y-de-una-vuelta-juego-familiar-2086941",
+  "https://www.chollometro.com/ofertas/axe-desodorante-para-hombre-antitranspirante-dark-temptation-150ml-pack-de-6-aerosol-2086940",
+  "https://www.chollometro.com/ofertas/samsung-990-ssd-pcie-40-x4-nvme-m22280-2tb-2086939",
+  "https://www.chollometro.com/ofertas/kit-facial-madagascar-centella-travel-kit-skin1004-2086938"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795474514.038992,
-  "ebay": 1795475163.8167157
+  "ebay": 1795476086.5945685
  },
  "ebay_seen": {
   "187110721591": 139.1,
