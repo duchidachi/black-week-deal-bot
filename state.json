@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-23T00:13:17+00:00"
+   "checked": "2026-11-23T00:44:21+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,50 +13,45 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-23T00:13:26+00:00"
+   "checked": "2026-11-23T00:44:32+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-23T00:13:31+00:00"
+   "checked": "2026-11-23T00:44:37+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
    "first_seen": "2026-11-10T20:04:35+00:00",
    "lowest": 365.83,
    "last": 372.85,
-   "checked": "2026-11-23T00:13:36+00:00"
+   "checked": "2026-11-23T00:44:42+00:00"
   },
   "https://geizhals.eu/ugreen-dxp2800-a3162972.html": {
    "baseline": 348.56,
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-23T00:13:41+00:00"
+   "checked": "2026-11-23T00:44:48+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-23T00:13:46+00:00"
+   "checked": "2026-11-23T00:44:52+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-23T00:13:50+00:00"
+   "checked": "2026-11-23T00:44:57+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/nickelback-everything-under-the-sun-cd-exclusive-amazon-signed-edition-5043012",
-  "https://www.hotukdeals.com/deals/riace-linea-white-flat-designer-radiator-350x1000mm-single-panel-1352-btu-horizontal-bars-free-cc-from-east-midlands-or-huddersfield-5043011",
-  "https://www.hotukdeals.com/deals/philips-lumea-7000-series-ipl-hair-removal-5043010",
-  "https://www.mydealz.de/deals/prime-eastpak-padded-pakr-rucksack-24l-wasserabweisend-schulrucksack-farbe-army-olive-2878809",
-  "https://www.mydealz.de/deals/lego-city-offroad-gelandewagen-60447-fur-1239-euro-eol-122026-amazon-prime-2878807",
   "https://www.mydealz.de/deals/apple-magic-mouse-weiss-2878806",
   "https://www.chollometro.com/ofertas/pack-5-cajas-almacenaje-ropa-con-asas-reforzadas-packs-disponibles-2084393",
   "https://www.chollometro.com/ofertas/lampara-led-batten-alta-eficiencia-energetica-2084392",
@@ -1551,7 +1546,12 @@
   "https://www.hotukdeals.com/deals/avatar-frontiers-of-pandora-from-the-ashes-edition-ps5-5043438",
   "https://www.hotukdeals.com/deals/boots-20-cashback-today-only-with-topcachback-givenchy-gentleman-reserve-privee-edp-100ml-ps4120-after-cashback-cant-add-discount-code-5043437",
   "https://www.hotukdeals.com/deals/asus-rog-strix-g16-amd-ryzen-9-32gb-ram-1tb-ssd-nvidia-rtx-5080-16inch-gaming-laptop-g614pw-rv005w-5043436",
-  "https://www.hotukdeals.com/deals/gloucester-only-new-standard-members-get-ps10-warehouse-voucher-ps10-off-first-online-order-ps20-for-executive-free-hot-dog-drink-5043435"
+  "https://www.hotukdeals.com/deals/gloucester-only-new-standard-members-get-ps10-warehouse-voucher-ps10-off-first-online-order-ps20-for-executive-free-hot-dog-drink-5043435",
+  "https://www.mydealz.de/deals/amex-offers-otto-50-euro-ausgeben-500-membership-rewards-extrapunkte-kassieren-personalisiert-2879039",
+  "https://www.mydealz.de/deals/shokz-opendots-air-open-ear-clip-on-kopfhorer-2879038",
+  "https://www.hotukdeals.com/deals/arcade1up-sonic-the-hedgehog-supreme-home-arcade-machine-5043442",
+  "https://www.hotukdeals.com/deals/arcade1up-outrun-supreme-home-arcade-machine-5043441",
+  "https://www.hotukdeals.com/deals/call-of-duty-modern-warfare-4-ps5-5043440"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1563,7 +1563,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795392791.8410172,
-  "ebay": 1795393743.4473922
+  "geizhals": 1795394655.6235032,
+  "ebay": 1795394655.6235032
  }
 }
