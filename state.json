@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-23T03:19:54+00:00"
+   "checked": "2026-11-23T03:50:53+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,48 +13,45 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-23T03:20:03+00:00"
+   "checked": "2026-11-23T03:51:02+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-23T03:20:07+00:00"
+   "checked": "2026-11-23T03:51:07+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
    "first_seen": "2026-11-10T20:04:35+00:00",
    "lowest": 365.83,
    "last": 372.85,
-   "checked": "2026-11-23T03:20:12+00:00"
+   "checked": "2026-11-23T03:51:11+00:00"
   },
   "https://geizhals.eu/ugreen-dxp2800-a3162972.html": {
    "baseline": 348.56,
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-23T03:20:16+00:00"
+   "checked": "2026-11-23T03:51:16+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-23T03:20:21+00:00"
+   "checked": "2026-11-23T03:51:21+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-23T03:20:25+00:00"
+   "checked": "2026-11-23T03:51:25+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/x2-total-4-unidadesgallina-blanca-caldo-casero-de-pollo-100-natural-cocinado-a-fuego-lento-durante-3h-sin-gluten-sin-conservantes-2084431",
-  "https://www.chollometro.com/ofertas/peluche-glubschis-lince-lenzo-15cm-beige-nici-2084429",
-  "https://www.chollometro.com/ofertas/set-de-vajilla-infantil-frozen-2084428",
   "https://www.chollometro.com/ofertas/ps5-stellar-blade-2084426",
   "https://www.chollometro.com/ofertas/citizen-eco-drive-aw1816-89l-con-correa-de-acero-inoxidable-2084425",
   "https://www.chollometro.com/ofertas/2x-pato-wc-extra-power-marine-limpieza-total-e-inmediata-del-inodoro-con-lejia-blanqueante-y-espuma-limpiadora-1-gel-750-ml-2084424",
@@ -1551,7 +1548,10 @@
   "https://www.hotukdeals.com/deals/diablo-iv-age-of-hatred-collection-code-in-box-nintendo-switch-2-pegi-18-free-click-collect-only-5043496",
   "https://www.hotukdeals.com/deals/lego-technic-ducati-desmo450-mx-factory-motorcycle-model-42238-5043494",
   "https://www.mydealz.de/deals/payback-x-alnatura-500-punkte-5-eur-fur-neuanmeldung-uber-alnatura-karte-2879062",
-  "https://www.hotukdeals.com/vouchers/carhartt-black-friday-sale-discount-code-5043497"
+  "https://www.hotukdeals.com/vouchers/carhartt-black-friday-sale-discount-code-5043497",
+  "https://www.dealabs.com/codes-promo/remise-de-20-sur-votre-sejour-en-2027-au-parc-nigloland-3465820",
+  "https://www.dealabs.com/bons-plans/carte-cadeau-zalando-15-3465819",
+  "https://www.hotukdeals.com/deals/delonghi-trd5082t-dragon-2000w-oil-filled-radiator-in-white-5043498"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1563,7 +1563,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795403988.930674,
-  "ebay": 1795404936.7677665
+  "geizhals": 1795405848.0414028,
+  "ebay": 1795405848.0414028
  }
 }
