@@ -41,7 +41,7 @@ jobs:
           while [ "$(date +%s)" -lt "$end" ]; do
             git pull -q --rebase || true            # Änderungen an config.toml übernehmen
             python3 deal_bot.py || echo "Lauf fehlgeschlagen, weiter geht's"
-            git add state.json
+            git add state.json *.csv 2>/dev/null || git add state.json
             if ! git diff --cached --quiet; then
               git commit -q -m "state update" && (git push -q || (git pull -q --rebase && git push -q)) || true
             fi

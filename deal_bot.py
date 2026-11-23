@@ -140,6 +140,32 @@ def save_state(state: dict) -> None:
     STATE.write_text(json.dumps(state, indent=1, ensure_ascii=False))
 
 
+def log_csv(name: str, row: dict) -> None:
+    """Hängt eine Zeile an eine CSV im Repo an (Protokoll für Auswertung/Excel)."""
+    import csv
+
+    path = HERE / name
+    new = not path.exists()
+    with path.open("a", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=list(row.keys()))
+        if new:
+            w.writeheader()
+        w.writerow(row)
+
+
+def log_alert(text: str, silent: bool) -> None:
+    plain = html.unescape(re.sub(r"<(?!a )[^>]+>", "", text))
+    link = re.search(r'href="([^"]+)"', plain)
+    lines = [l.strip() for l in re.sub(r"<[^>]+>", "", plain).split("\n") if l.strip() and not l.startswith("→")]
+    prio = re.match(r"\[(.*?)\]\s*", lines[0]) if lines else None
+    head = lines[0][prio.end():] if prio else (lines[0] if lines else "")
+    log_csv("alerts.csv", {
+        "zeit_utc": now_iso(), "prio": prio.group(1) if prio else ("Zufall" if silent else ""),
+        "kopf": head, "titel": lines[1] if len(lines) > 1 else "",
+        "preis_info": " | ".join(lines[2:]), "link": link.group(1) if link else "", "stumm": silent,
+    })
+
+
 def telegram(text: str, dry: bool, silent: bool = False) -> None:
     print(("\n[ALARM, stumm]\n" if silent else "\n[ALARM]\n") + html.unescape(re.sub(r"<[^>]+>", "", text)) + "\n")
     if dry:
@@ -201,6 +227,9 @@ def check_products(cfg: dict, state: dict, dry: bool) -> list[str]:
         st["checked"] = now_iso()
         target, buy = p.get("target"), p.get("buy_now")
         report.append(f"{eur(price):>12}  Ziel {eur(target) if target else '-':>10}  {p['name']}")
+        if not dry:
+            log_csv("prices.csv", {"zeit_utc": now_iso(), "produkt": p["name"], "prio": p.get("prio", ""),
+                                   "preis_eur": price, "ziel_eur": target or "", "sofort_eur": buy or "", "url": p["url"]})
 
         level = None
         if buy and price <= buy:
@@ -495,6 +524,46 @@ def check_ebay(cfg: dict, state: dict, dry: bool) -> list[str]:
     return alerts
 
 
+def market_snapshot(cfg: dict) -> int:
+    """Marktaufnahme: ALLE eBay-Angebote der Suchen (nicht nur Deals) mit €/TB usw. → market.csv"""
+    token = ebay_token()
+    if not token:
+        print("Snapshot: eBay-Keys fehlen")
+        return 0
+    eb = cfg.get("ebay", {})
+    rules = {w["label"]: w for w in cfg.get("watch", [])}
+    stamp, seen, n = now_iso(), set(), 0
+    for s in eb.get("search", []):
+        w = rules[s["rule"]]
+        for mp in s.get("marketplaces", eb.get("marketplaces", ["EBAY_DE"])):
+            try:
+                items = ebay_search(token, mp, s["q"], s, eb.get("deliver_to", "DE"))
+            except Exception as e:  # noqa: BLE001
+                print(f"FEHLER Snapshot {mp} '{s['q']}': {e}")
+                continue
+            for it in items:
+                iid = it.get("legacyItemId") or it.get("itemId")
+                if iid in seen:
+                    continue
+                seen.add(iid)
+                title, total = it.get("title", ""), ebay_total(it)
+                cap, pack = capacity_tb(title), pack_size(title)
+                seller = it.get("seller", {})
+                res = ebay_evaluate(cfg, s, it)
+                log_csv("market.csv", {
+                    "snapshot_utc": stamp, "kategorie": s["rule"], "prio": w.get("prio", ""), "marktplatz": mp,
+                    "titel": title, "preis_inkl_versand": total or "",
+                    "kapazitaet_tb": cap or "", "stueck": pack,
+                    "eur_pro_tb": round(total / (cap * pack), 1) if total and cap else "",
+                    "verkaeufer": seller.get("username", ""), "bewertung_pct": seller.get("feedbackPercentage", ""),
+                    "bewertungen": seller.get("feedbackScore", ""), "standort": it.get("itemLocation", {}).get("country", ""),
+                    "bot_bewertung": res[0] if res else "", "url": it.get("itemWebUrl", ""),
+                })
+                n += 1
+    print(f"Snapshot: {n} Angebote protokolliert")
+    return n
+
+
 # ------------------------------------------------------------------- main
 def main() -> None:
     dry = "--dry-run" in sys.argv
@@ -510,6 +579,9 @@ def main() -> None:
         print("Telegram-Test ok")
         return
     cfg = tomllib.loads(CONFIG.read_text())
+    if "--snapshot" in sys.argv:
+        market_snapshot(cfg)
+        return
     state = load_state()
     force = dry or "--all" in sys.argv
     alerts = check_feeds(cfg, state, dry)
@@ -526,6 +598,8 @@ def main() -> None:
     for a in alerts:  # Speicher & Co. laut, Zufallsfunde stumm
         text, silent = a if isinstance(a, tuple) else (a, False)
         telegram(text, dry, silent)
+        if not dry:
+            log_alert(text, silent)
     if not dry:
         save_state(state)
     print(f"{len(alerts)} Alarm(e)")

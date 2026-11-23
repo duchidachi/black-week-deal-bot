@@ -1,0 +1,38 @@
+name: Markt-Snapshot
+
+# Zweimal täglich alle eBay-Angebote der Suchen protokollieren (market.csv),
+# um Preisentwicklung bis Black Friday zu sehen. Manuell startbar.
+on:
+  schedule:
+    - cron: "15 6,18 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: market-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: eBay-Markt aufnehmen
+        env:
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+        run: python3 deal_bot.py --snapshot
+      - name: Speichern
+        run: |
+          git config user.name "deal-bot"
+          git config user.email "deal-bot@users.noreply.github.com"
+          git add market.csv
+          git diff --cached --quiet && exit 0
+          git commit -q -m "market snapshot"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
