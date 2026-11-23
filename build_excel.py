@@ -238,9 +238,13 @@ for iid, price in seen.items():
           "seller": {"feedbackPercentage": r["bewertung_pct"], "feedbackScore": int(num(r["bewertungen"]) or 0)},
           "itemLocation": {"country": r["standort"]}}
     now_ok = bot.ebay_evaluate(cfg, {"rule": r["kategorie"]}, it) if r["kategorie"] in rules else None
+    low = r["titel"].lower()
+    bogus = (r["standort"] in cfg.get("ebay", {}).get("exclude_locations", [])
+             or len(set(bot.CAP_RE.findall(low))) >= 3
+             or re.search(r"\d+\s?/\s?\d+\s?(tb|gb)\b|\d+\s?(gb|tb)\s?[-–]\s?\d+\s?(gb|tb)\b|compatib", low))
+    verdict = "ja" if now_ok else ("nein – Fehlalarm (Sammelangebot/No-Name)" if bogus else "nein – über deinen neuen Grenzen")
     rows.append(("2026-11-23 20:26", rules.get(r["kategorie"], {}).get("prio", ""), f"eBay · {r['kategorie']}", r["titel"],
-                 f"{bot.eur(price)} inkl. Versand – {r['verkaeufer']} ({r['standort']})",
-                 "ja" if now_ok else "nein – Fehlalarm, Regel inzwischen verschärft", r["url"]))
+                 f"{bot.eur(price)} inkl. Versand – {r['verkaeufer']} ({r['standort']})", verdict, r["url"]))
 known = {r[3] for r in rows}
 for t, head, title, detail in log_alarms:
     if title in known:  # schon aus state.json/market.csv rekonstruiert
