@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-23T23:26:44+00:00"
+   "checked": "2026-11-23T23:58:06+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-23T23:26:54+00:00"
+   "checked": "2026-11-23T23:58:16+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-23T23:26:58+00:00"
+   "checked": "2026-11-23T23:58:21+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,37 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-23T23:27:08+00:00"
+   "checked": "2026-11-23T23:58:31+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-23T23:27:13+00:00"
+   "checked": "2026-11-23T23:58:35+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-23T23:27:17+00:00"
+   "checked": "2026-11-23T23:58:40+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 514.9,
    "last": 514.9,
-   "checked": "2026-11-23T23:27:03+00:00"
+   "checked": "2026-11-23T23:58:26+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/real-madrid-placa-decorativa-de-pared-acrilica-oficial-2086068",
-  "https://www.chollometro.com/ofertas/gorro-3-en-1-mujer-pasamontanas-de-invierno-con-bufanda-y-mascara32x26cm-pasamontanas-mujer-invierno-2086066",
-  "https://nl.pepper.com/aanbiedingen/lego-pick-a-brick-eol-sale-met-tot-50-korting-op-losse-onderdelen-die-uit-productie-worden-genomen-428890",
-  "https://nl.pepper.com/aanbiedingen/bol-tot-40-korting-op-populaire-films-series-en-boxsets-428889",
-  "https://www.hotukdeals.com/deals/thermalright-tr-m2-2280-type-a-g-heatsink-for-ssd-cooler-at-deliming321-fba-5044310",
-  "https://www.hotukdeals.com/deals/daz-cherry-and-blossom-120-washes-5044309",
   "https://www.hotukdeals.com/deals/marvel-studios-deadpool-wolverine-logo-claw-slash-symbol-t-shirt-multiple-colours-sizes-5044308",
   "https://www.hotukdeals.com/deals/the-stone-roses-the-remixes-2-x-vinyl-lp-5044306",
   "https://www.hotukdeals.com/deals/asus-vivobook-snapdragon-x-8gb-ram-256gb-ssd-16-inch-laptop-s1607qa-mb159w-5044305",
@@ -1558,7 +1552,13 @@
   "https://www.hotukdeals.com/deals/ninja-ae1001uk-autobarista-automatic-espresso-machine-in-stainless-steel-5044807",
   "https://www.hotukdeals.com/deals/trickers-lucia-boots-5044806",
   "https://www.hotukdeals.com/deals/philips-3000-series-steam-iron-dst304189-2600w-200g-boost-40gmin-ceramic-soleplate-300ml-dark-grey-5044805",
-  "https://www.hotukdeals.com/deals/lindt-teddy-christmas-milk-chocolate-200g-amazon-fresh-selected-locations-5044804"
+  "https://www.hotukdeals.com/deals/lindt-teddy-christmas-milk-chocolate-200g-amazon-fresh-selected-locations-5044804",
+  "https://www.mydealz.de/deals/bosch-professional-gba-akku-starter-set-2-x-18-v-5-ah-und-gal-12v18v-80-2880097",
+  "https://www.dealabs.com/bons-plans/lenovo-chromebook-plus-2in1-14-core3-chromeos-8gb-256gb-3467157",
+  "https://www.chollometro.com/ofertas/playstation-control-ultimate-edition-2086992",
+  "https://www.chollometro.com/ofertas/lego-ideas-cohete-lunar-de-tintin-21367-2086990",
+  "https://www.chollometro.com/ofertas/oral-b-io-6-cepillo-de-dientes-electrico-con-3-cabezales-2086988",
+  "https://www.chollometro.com/ofertas/zapatillas-puma-speedcat-2086986"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795476399.0054333,
+  "geizhals": 1795478281.144285,
   "ebay": 1795477969.0835605
  },
  "ebay_seen": {
