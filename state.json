@@ -52,9 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/pantalon-jean-moto-enfant-overlap-street-emaille-bleu-taille-6-ou-10-ans-3465487",
-  "https://www.dealabs.com/bons-plans/posca-mitsubishi-pencil-mallette-60-marqueurs-3465486",
-  "https://www.chollometro.com/ofertas/switch2-yakuza-0-directors-cut-2084451",
   "https://www.chollometro.com/ofertas/columna-de-ducha-tatay-porto-2084439",
   "https://www.chollometro.com/ofertas/pack-corny-big-salted-caramel-24-x-40-g-total-960-g-2084422",
   "https://www.chollometro.com/ofertas/balay-placa-de-induccion-3-fuegos-60-cm-tactil-2084450",
@@ -1551,7 +1548,10 @@
   "https://www.mydealz.de/gutscheine/fehler-40eur-rabatt-ab-250eur-mbw-bzw-30eur-rabatt-180eur-mbw-2879058",
   "https://nl.pepper.com/aanbiedingen/10-pack-adidas-performance-sportsokken-essentials-428726",
   "https://www.hotukdeals.com/deals/the-dark-tower-series-complete-8-books-collection-box-set-by-stephen-king-gunslinger-waste-lands-wizard-and-glass-wolves-of-the-calla-5043484",
-  "https://www.hotukdeals.com/deals/jane-hawk-thriller-5-book-shrink-wrapped-set-5043483"
+  "https://www.hotukdeals.com/deals/jane-hawk-thriller-5-book-shrink-wrapped-set-5043483",
+  "https://www.mydealz.de/deals/werkzeugstore24-makita-dc18rd-doppel-schnellladegerat-lxt-144v18v-196933-6-fur-6011eur-590eur-vsk-versandkostenfrei-ab-99eur-2879059",
+  "https://www.hotukdeals.com/deals/squishmallows-12-day-advent-calendar-5043486",
+  "https://www.hotukdeals.com/deals/kingspec-1tb-nvme-ssd-up-to-3500mbs-pcie-gen3-x4-m2-2280-internal-solid-state-drive-for-laptop-and-desktop-5043485"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,6 +1564,6 @@
  ],
  "last_run": {
   "geizhals": 1795402115.2071297,
-  "ebay": 1795402115.2071297
+  "ebay": 1795403067.1789064
  }
 }
