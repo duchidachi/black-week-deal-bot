@@ -52,9 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/codes-promo/restaurants-lyon-environs-burger-king-le-calengrille-de-lavent-1er-au-24-decembre-offres-quotidiennes-codes-3465482",
-  "https://www.dealabs.com/bons-plans/jbl-xtrem-4-3465481",
-  "https://www.dealabs.com/bons-plans/serious-sam-4-dematerialise-ps5-3465479",
   "https://nl.pepper.com/aanbiedingen/2-kg-creatine-met-gratis-verzending-en-10-extra-korting-boven-40-euro-nam-er-een-protiene-reep-bij-428670",
   "https://www.hotukdeals.com/deals/redmi-note-17-5g-smatrphone-6128gb-black-7700mah-battery-5043027",
   "https://www.hotukdeals.com/deals/dewalt-dt4797-qz-4-piece-extreme-flatwood-drill-bit-set-5043026",
@@ -1551,7 +1548,10 @@
   "https://www.hotukdeals.com/deals/j2o-fruit-juice-apple-and-raspberry-250ml-cans-pack-of-12-ps518ss-5043469",
   "https://www.hotukdeals.com/deals/dyson-v8-cyclone-stick-vacuum-cleaner-5043468",
   "https://www.dealabs.com/bons-plans/bon-dachat-6eur-offert-pour-lachat-dun-calin-3-3465810",
-  "https://www.hotukdeals.com/deals/brewdog-advent-calendar-24-x-330ml-5043470"
+  "https://www.hotukdeals.com/deals/brewdog-advent-calendar-24-x-330ml-5043470",
+  "https://www.mydealz.de/deals/spax-universalschraube-senkkopf-t-star-plus-t10-vollgewinde-3x16-mm-200-stk-holzschraube-4cut-spitze-verzinkt-a2t-at-prime-2879054",
+  "https://www.hotukdeals.com/deals/shark-hd436sluk-flexstyle-4-in-1-air-styler-hair-dryer-in-stone-5043472",
+  "https://www.hotukdeals.com/deals/gooloo-ge1500-jump-starter-power-bank-1500-a-tip-jump-starter-super-safe-12-v-battery-booster-portable-car-jump-starter-with-coupon-5043471"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,6 +1564,6 @@
  ],
  "last_run": {
   "geizhals": 1795400250.9828694,
-  "ebay": 1795400250.9828694
+  "ebay": 1795401202.9595964
  }
 }
