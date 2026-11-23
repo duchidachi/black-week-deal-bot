@@ -52,16 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/iniu-30w-usb-c-ladegerat-dual-port-gan-schnellladegerat-mit-15m-60w-kabel-2878804",
-  "https://www.mydealz.de/deals/6-tage-im-awardpramierten-5-resort-in-der-suite-auf-chalkidiki-mit-upgrade-auf-vollpension-mehr-2878803",
-  "https://www.mydealz.de/deals/dirtlej-dirtsuit-pro-edition-matschoverall-herrendamen-2878802",
-  "https://www.mydealz.de/deals/amazon-kindle-jues-vernes-in-80-tagen-um-die-welt-neue-ubersetzung-der-of-von-1872-bio-kritischem-essay-ebook-442995-bew-2878800",
-  "https://www.mydealz.de/deals/u-ei-ist-wieder-in-amgebot-2878801",
-  "https://www.dealabs.com/bons-plans/unidays-chaussures-de-running-homme-on-cloudsurfer-2-black-malibu-92eur-les-autres-coloris-tailles-du-40-au-49-3465470",
-  "https://www.dealabs.com/bons-plans/cookeo-wifi-et-couvercle-extra-crisp-3465469",
-  "https://www.dealabs.com/bons-plans/aspirateur-traineau-rowenta-ro7487ea-3465468",
-  "https://www.dealabs.com/bons-plans/chaussures-enfant-nike-dunk-low-divers-coloris-tailles-275-au-35-3465466",
-  "https://www.dealabs.com/bons-plans/sncf-centre-val-de-loire-abonnement-remi-liberte-tout-public-et-liberte-senior-60-ans-a-50-3465467",
   "https://www.chollometro.com/ofertas/under-armour-ua-knit-track-suit-chandal-hombre-facil-de-limpiar-2084386",
   "https://www.chollometro.com/ofertas/pack-4-cajas-almacenaje-ropa-con-cremallera-ventana-transparente-2084385",
   "https://www.chollometro.com/ofertas/activision-call-of-duty-black-ops-cold-war-edicion-estandar-pc-steam-aspecto-capitan-price-2084383",
@@ -1551,7 +1541,17 @@
   "https://www.hotukdeals.com/deals/assassins-creed-black-flag-resynced-ps5-xbox-series-x-pegi-18-free-cc-at-checkout-5043424",
   "https://www.hotukdeals.com/deals/bremont-altitude-39mm-automatic-mens-watch-5043423",
   "https://www.hotukdeals.com/deals/20-off-dining-out-gift-card-ps5-to-ps250-20-off-miller-carter-ps10-to-ps100-5043422",
-  "https://www.hotukdeals.com/deals/ace-combat-8-wings-of-theve-ps5-xbox-series-x-5043421"
+  "https://www.hotukdeals.com/deals/ace-combat-8-wings-of-theve-ps5-xbox-series-x-5043421",
+  "https://www.mydealz.de/deals/sammeldeal-bgs-schlosserhammer-800-g-541eur-schonhammer-850-g-688eur-bolzenschneider-300mm-729eur-wasserpumpenzange-mini-344eur370eur-2879033",
+  "https://www.mydealz.de/deals/dead-space-1999eur-disc-playstation-5-mit-amazon-prime-xbox-series-x-2498eur-mediamarkt-inkl-vsk-physisch-ps5-2879032",
+  "https://www.dealabs.com/bons-plans/top-gun-collection-2-films-blu-ray-4k-3465797",
+  "https://nl.pepper.com/aanbiedingen/dagdeal-livarno-home-led-plafondlamp-428717",
+  "https://nl.pepper.com/aanbiedingen/ogx-vernieuwende-conditioner-met-arganolie-uit-marokko-887-ml-428716",
+  "https://www.hotukdeals.com/deals/tales-of-monkey-island-complete-pack-pcsteam-5043432",
+  "https://www.hotukdeals.com/deals/vue-cinema-giftcard-15-off-5043431",
+  "https://www.hotukdeals.com/deals/lego-kpop-demon-hunters-derpy-tiger-and-sussie-bird-set-72537-wvoucher-5043430",
+  "https://www.hotukdeals.com/deals/grand-seiko-sport-hotaka-44mm-gmt-spring-drive-automatic-mens-watch-5043429",
+  "https://www.hotukdeals.com/deals/gamesir-g7-pro-xbox-pc-wired-controller-white-free-click-collect-5043428"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,6 +1564,6 @@
  ],
  "last_run": {
   "geizhals": 1795392791.8410172,
-  "ebay": 1795392791.8410172
+  "ebay": 1795393743.4473922
  }
 }
