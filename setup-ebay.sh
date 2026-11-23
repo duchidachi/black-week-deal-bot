@@ -6,8 +6,8 @@ cd "$(dirname "$0")"
 
 grab() {  # $1 = Beschreibung, $2 = Regex
   local raw val
-  echo "Kopiere die $1 auf developer.ebay.com (Kopier-Symbol daneben) und drück dann Enter:"
-  read -r -s raw || true; echo
+  echo "Kopiere die $1 auf developer.ebay.com (Kopier-Symbol daneben) und drück dann Enter:" >&2
+  read -r -s raw || true; echo >&2
   [[ -z "$raw" ]] && raw="$(pbpaste 2>/dev/null || true)"
   val="$(printf '%s' "$raw" | grep -oE "$2" | head -1 || true)"
   [[ -z "$val" ]] && { echo "✗ Keine gültige $1 gefunden. Skript bitte neu starten." >&2; exit 1; }
