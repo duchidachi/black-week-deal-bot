@@ -52,8 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/2x-pato-wc-extra-power-marine-limpieza-total-e-inmediata-del-inodoro-con-lejia-blanqueante-y-espuma-limpiadora-1-gel-750-ml-2084424",
-  "https://www.chollometro.com/ofertas/funko-pop-animation-kaiju-no-8-kafka-hibino-2084423",
   "https://www.chollometro.com/ofertas/albo-conserva-de-sardinas-en-escabeche-lata-120-g-2084420",
   "https://www.chollometro.com/ofertas/zapatillas-mujer-asics-gel-nimbus-28-tallas-36-a-445-2084419",
   "https://www.chollometro.com/ofertas/biblioteca-de-5-niveles-con-1-puerta-de-almacenamiento-2084416",
@@ -1551,7 +1549,9 @@
   "https://www.dealabs.com/bons-plans/carte-cadeau-zalando-15-3465819",
   "https://www.hotukdeals.com/deals/delonghi-trd5082t-dragon-2000w-oil-filled-radiator-in-white-5043498",
   "https://www.hotukdeals.com/deals/pokemon-mewtwo-plush-30cm-arcanine-30cm-lugia-plush-30cm-free-cc-5043500",
-  "https://www.hotukdeals.com/deals/imp-tech-retro-mini-arcade-for-nintendo-switch-switch-2-5043499"
+  "https://www.hotukdeals.com/deals/imp-tech-retro-mini-arcade-for-nintendo-switch-switch-2-5043499",
+  "https://www.dealabs.com/bons-plans/grand-theft-auto-vi-europe-xbox-series-xs-xbox-live-digital-key-3465822",
+  "https://www.dealabs.com/bons-plans/selection-de-billets-adultes-et-enfants-au-parc-nigloland-printemps-de-niglo-3465821"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,6 +1564,6 @@
  ],
  "last_run": {
   "geizhals": 1795405848.0414028,
-  "ebay": 1795405848.0414028
+  "ebay": 1795406796.0574613
  }
 }
