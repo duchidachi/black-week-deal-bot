@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-23T02:17:36+00:00"
+   "checked": "2026-11-23T02:48:40+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,49 +13,45 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-23T02:17:46+00:00"
+   "checked": "2026-11-23T02:48:50+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-23T02:17:50+00:00"
+   "checked": "2026-11-23T02:48:55+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
    "first_seen": "2026-11-10T20:04:35+00:00",
    "lowest": 365.83,
    "last": 372.85,
-   "checked": "2026-11-23T02:17:55+00:00"
+   "checked": "2026-11-23T02:48:59+00:00"
   },
   "https://geizhals.eu/ugreen-dxp2800-a3162972.html": {
    "baseline": 348.56,
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-23T02:18:00+00:00"
+   "checked": "2026-11-23T02:49:04+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-23T02:18:05+00:00"
+   "checked": "2026-11-23T02:49:09+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-23T02:18:09+00:00"
+   "checked": "2026-11-23T02:49:14+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/blu-ray-4k-uhd-sleepy-hollow-la-legende-du-cavalier-sans-tete-3465484",
-  "https://www.dealabs.com/bons-plans/anycubic-kobra-s1-ace-2-pro-combo-3465483",
-  "https://www.hotukdeals.com/deals/cosori-double-stack-air-fryer-86l-turbo-tower-compact-5043030",
-  "https://www.hotukdeals.com/deals/adidas-astrastar-running-trainers-beige-5043029",
   "https://www.hotukdeals.com/deals/new-balance-680s-running-trainers-white-free-cc-over-ps40-5043028",
   "https://www.mydealz.de/deals/amazon-prime-caline-belle-icone-eau-de-parfum-60ml-2878818",
   "https://www.mydealz.de/deals/bs-adidas-essentials-lite-down-jacket-daunenjacke-in-2-farben-gr-xs-bis-xxl-fur-3593eur-2878817",
@@ -1551,7 +1547,11 @@
   "https://www.mydealz.de/deals/fl-studio-mobile-erstmalig-im-sale-fur-ios-899eur-und-android-750eur-2879055",
   "https://www.hotukdeals.com/deals/hammer-house-of-horror-complete-collection-dvd-5043479",
   "https://www.hotukdeals.com/deals/call-of-duty-modern-warfare-4-5-hours-douple-xp-nintendo-switch-2-code-in-box-5043478",
-  "https://www.hotukdeals.com/deals/the-chronicles-of-narnia-7-books-collection-box-set-by-c-s-lewis-the-magicians-nephew-the-lion-the-witch-and-the-wardrobe-etc-5043477"
+  "https://www.hotukdeals.com/deals/the-chronicles-of-narnia-7-books-collection-box-set-by-c-s-lewis-the-magicians-nephew-the-lion-the-witch-and-the-wardrobe-etc-5043477",
+  "https://www.mydealz.de/deals/im-rausch-der-tiefe-directors-cut-hd-digital-kauf-jean-reno-apple-tv-2879056",
+  "https://www.preisjaeger.at/deals/tommy-jeans-crinkle-relaxed-winterjacke-in-44-62-373124",
+  "https://www.hotukdeals.com/deals/new-english-teas-song-thrush-tea-tin-with-40-english-breakfast-tea-bags-5043481",
+  "https://www.hotukdeals.com/deals/only-fools-horses-the-complete-collection-dvd-2017-5043480"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1563,7 +1563,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795400250.9828694,
-  "ebay": 1795401202.9595964
+  "geizhals": 1795402115.2071297,
+  "ebay": 1795402115.2071297
  }
 }
