@@ -21,14 +21,24 @@ ESEC="$(grab "Cert ID (Client Secret)" 'PRD-[A-Za-z0-9-]{10,}')"
 echo "✓ Cert ID erkannt"
 
 echo "Prüfe die Keys bei eBay …"
-if curl -fsS -u "$EID:$ESEC" -d grant_type=client_credentials \
+echo "  (App ID: ${#EID} Zeichen, Cert ID: ${#ESEC} Zeichen, Anfang Cert ID: ${ESEC:0:4}…)"
+RESP="$(curl -sS -u "$EID:$ESEC" -d grant_type=client_credentials \
      --data-urlencode scope=https://api.ebay.com/oauth/api_scope \
-     https://api.ebay.com/identity/v1/oauth2/token >/dev/null 2>&1; then
+     -w '\n%{http_code}' https://api.ebay.com/identity/v1/oauth2/token || true)"
+CODE="$(printf '%s' "$RESP" | tail -1)"
+if [[ "$CODE" == "200" ]]; then
   echo "✓ eBay akzeptiert die Keys"
 else
-  echo "✗ eBay lehnt die Keys ab. Ist das Keyset aktiv (nicht 'disabled')? App ID und Cert ID aus demselben Production-Keyset?"
+  echo "✗ eBay lehnt die Keys ab (HTTP $CODE):"
+  printf '%s' "$RESP" | sed '$d' | python3 -c 'import sys,json
+try:
+  d=json.load(sys.stdin); print("  ", d.get("error"), "-", d.get("error_description"))
+except Exception: print("   (keine Details)")'
+  echo "  Mögliche Gründe: Keyset noch nicht freigeschaltet (kann nach der Ausnahme etwas dauern),"
+  echo "  oder App ID und Cert ID nicht aus demselben Production-Keyset."
   exit 1
 fi
+unset RESP
 printf '%s' "$EID"  | gh secret set EBAY_CLIENT_ID
 printf '%s' "$ESEC" | gh secret set EBAY_CLIENT_SECRET
 unset EID ESEC
