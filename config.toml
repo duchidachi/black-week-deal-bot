@@ -130,7 +130,7 @@ hot_eur_per_tb = 115
 label = "HDD Archiv/NAS"
 prio = "PRIO 1 Speicher"
 none = ["compatib", "refurb", "recertified", "generalüberholt", "ricondizionato", "reacondicionado", "gebraucht", "used"]
-any = ["ironwolf", "wd red", "n300", "exos", "ultrastar", "mg08", "mg09", "mg10", "wd elements", "seagate expansion", "my book", "toshiba canvio", "red plus", "red pro"]
+any = ["ironwolf", "wd red", "n300", "exos", "ultrastar", "mg08", "mg09", "mg10", "wd elements", "wd _elements", "elements desktop", "seagate expansion", "my book", "toshiba canvio", "red plus", "red pro"]
 max_eur_per_tb = 28
 hot_eur_per_tb = 22
 
