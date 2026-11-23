@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-23T04:52:49+00:00"
+   "checked": "2026-11-23T05:23:48+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,51 +13,45 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-23T04:52:58+00:00"
+   "checked": "2026-11-23T05:23:57+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-23T04:53:02+00:00"
+   "checked": "2026-11-23T05:24:02+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
    "first_seen": "2026-11-10T20:04:35+00:00",
    "lowest": 365.83,
    "last": 372.85,
-   "checked": "2026-11-23T04:53:07+00:00"
+   "checked": "2026-11-23T05:24:06+00:00"
   },
   "https://geizhals.eu/ugreen-dxp2800-a3162972.html": {
    "baseline": 348.56,
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-23T04:53:11+00:00"
+   "checked": "2026-11-23T05:24:11+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-23T04:53:16+00:00"
+   "checked": "2026-11-23T05:24:15+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-23T04:53:20+00:00"
+   "checked": "2026-11-23T05:24:20+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/apple-macbook-pro-avec-ecran-proled-xdr-de-142-pouces-puce-m5-pro-3465506",
-  "https://www.dealabs.com/bons-plans/ixs-422-fg-21-casque-noir-matneon-taille-xs-3465504",
-  "https://www.dealabs.com/bons-plans/akanora-porte-carte-homme-avec-coffret-cadeau-3465502",
-  "https://nl.pepper.com/aanbiedingen/xbox-draadloze-controller-carbon-black-at-amazon-428639",
-  "https://nl.pepper.com/aanbiedingen/flitsdeal-de-aeg-lf627400-6000-serie-prosense-wasmachine-a-7-kg-1400-rpm-met-gratis-plaatsen-en-aansluiten-at-bol-428281",
-  "https://www.hotukdeals.com/deals/sony-wf-c710n-wireless-noise-cancelling-earbuds-all-colours-wcode-blue-light-code-5043053",
   "https://www.mydealz.de/deals/nyfter-black-sale-2026-gaming-angebote-z-b-nyf-c24-gaming-maus-fur-3199-eur-statt-5299-eur-2878835",
   "https://www.mydealz.de/deals/joybuy-rabanne-invictus-eau-de-toilette-geschenkset-100ml-edt-100ml-duschgel-fur-nur-4499-eur-inkl-versand-2878833",
   "https://www.dealabs.com/bons-plans/splitsecond-sur-xbox-one-series-xis-dematerialise-store-xbox-hongrie-ou-519eur-sur-le-store-france-3465517",
@@ -1551,7 +1545,13 @@
   "https://www.dealabs.com/bons-plans/ter-days-3465847",
   "https://www.hotukdeals.com/deals/winmau-blade-6-dartboard-with-darts-oche-line-5043522",
   "https://www.hotukdeals.com/deals/start-wars-c3po-ps7999-amazon-black-friday-deal-5043521",
-  "https://www.hotukdeals.com/deals/the-karate-kid-6-movie-collection-4k-uhd-prime-video-to-buy-5043520"
+  "https://www.hotukdeals.com/deals/the-karate-kid-6-movie-collection-4k-uhd-prime-video-to-buy-5043520",
+  "https://www.mydealz.de/deals/mediamarktsaturn-abholung-dragonkin-the-banished-playstation-5-2879071",
+  "https://www.dealabs.com/bons-plans/kit-micro-sans-fil-dji-mic-mini-2-tx-1-rx-avec-boitier-3465853",
+  "https://www.dealabs.com/bons-plans/back-to-black-4k-ultra-hd-blu-ray-boitier-steelbook-limite-3465852",
+  "https://www.dealabs.com/bons-plans/sonic-racing-crossworlds-ps5-3465851",
+  "https://www.hotukdeals.com/deals/hisense-wf7s1247bb-12kg-1400rpm-washing-machine-a-rated-in-black-5043524",
+  "https://www.hotukdeals.com/deals/samsung-series-5-wd90dg5b15beeu-96kg-washer-dryer-d-rated-in-white-5-year-warranty-5043523"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1563,7 +1563,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795409564.0578206,
-  "ebay": 1795410512.9476883
+  "geizhals": 1795411422.7869864,
+  "ebay": 1795411422.7869864
  }
 }
