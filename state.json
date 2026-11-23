@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-23T22:23:53+00:00"
+   "checked": "2026-11-23T22:55:19+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-23T22:24:03+00:00"
+   "checked": "2026-11-23T22:55:29+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-23T22:24:08+00:00"
+   "checked": "2026-11-23T22:55:34+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,42 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-23T22:24:17+00:00"
+   "checked": "2026-11-23T22:55:44+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-23T22:24:22+00:00"
+   "checked": "2026-11-23T22:55:49+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-23T22:24:26+00:00"
+   "checked": "2026-11-23T22:55:53+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 514.9,
    "last": 514.9,
-   "checked": "2026-11-23T22:24:12+00:00"
+   "checked": "2026-11-23T22:55:39+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/philips-hue-white-ambiance-gu10-spot-3er-pack-400-lm-42-w-dimmbar-bluetooth-app-steuerung-matter-kompatibel-2879674",
-  "https://www.preisjaeger.at/deals/bringt-sie-heim-star-trek-voyager-across-the-unknown-deluxe-ps5-zum-tiefstpreis-373211",
-  "https://www.dealabs.com/bons-plans/climatiseur-reversible-tcl-breezein-p5-sn18p5s0st18p0-18-000-btu-51-kw-inverter-wi-fi-r32-aa-caldaiemurali-3466586",
-  "https://www.dealabs.com/bons-plans/kingdom-come-deliverance-ii-day-one-edition-sur-xbox-series-3466588",
-  "https://www.dealabs.com/bons-plans/commode-liverpool-329-x-576-x-948-cm-blanc-3466587",
-  "https://www.dealabs.com/bons-plans/motorisation-portail-avidsen-orane-connect-3466585",
-  "https://www.dealabs.com/bons-plans/garmin-fenix-8-sapphire-solar-47-mm-3444417",
-  "https://www.dealabs.com/bons-plans/apple-watch-series-12-gps-46mm-boitier-dark-bronze-aluminium-bracelet-olive-sport-band-sm-3466584",
-  "https://www.dealabs.com/bons-plans/the-old-king-crown-jeu-3466583",
-  "https://nl.pepper.com/aanbiedingen/sage-the-barista-touch-espressomachine-ses880-at-ibood-428881",
-  "https://nl.pepper.com/aanbiedingen/dewalt-dwe6423-excentrische-schuurmachine-280w-125-mm-at-amazon-421518",
   "https://nl.pepper.com/aanbiedingen/imou-rv3-robotstofzuiger-at-tink-428860",
   "https://nl.pepper.com/aanbiedingen/intratuin-20-korting-op-bijna-het-gehele-assortiment-5-december-428880",
   "https://nl.pepper.com/aanbiedingen/flipper-zero-multitool-voor-rfid-nfc-en-infrarood-at-amazon-426121",
@@ -1558,7 +1547,18 @@
   "https://www.chollometro.com/ofertas/exploding-kittens-party-pack-juego-de-cartas-de-estrategia-2086891",
   "https://nl.pepper.com/kortingscode/meta-vr-game-store-40-korting-op-heel-veel-games-and-apps-428958",
   "https://www.hotukdeals.com/deals/listerine-total-care-10-in-1-mouthwash-2-x-1l-5044771",
-  "https://www.hotukdeals.com/deals/robocop-rogue-city-collection-both-games-all-dlc-pc-steam-sold-by-keyverse-w-code-5044770"
+  "https://www.hotukdeals.com/deals/robocop-rogue-city-collection-both-games-all-dlc-pc-steam-sold-by-keyverse-w-code-5044770",
+  "https://www.mydealz.de/deals/garmin-approach-r10-golf-launch-monitor-2880069",
+  "https://www.mydealz.de/deals/billie-eilish-hit-me-hard-and-soft-black-lp-2880068",
+  "https://www.dealabs.com/bons-plans/ninja-slushi-twist-machine-a-granita-et-boissons-glacees-machines-slushi-2-en-1-3467116",
+  "https://www.dealabs.com/bons-plans/clavier-gamer-glorious-gmmk-3-he-75-3467118",
+  "https://www.dealabs.com/bons-plans/lego-horizon-adventures-ps5-3467117",
+  "https://www.dealabs.com/bons-plans/sweat-a-capuche-nike-air-jordan-brooklyn-noir-tailles-s-au-xl-3467113",
+  "https://www.chollometro.com/ofertas/maquina-de-coser-singer-simple-3232-110-puntadas-por-119-eur-en-aldi-2086901",
+  "https://www.chollometro.com/ofertas/guantes-five-wfx-prime-gore-tex-2086900",
+  "https://www.hotukdeals.com/deals/turbo-pz-double-countersunk-woodscrews-trade-case-1400-pcs-5044775",
+  "https://www.hotukdeals.com/deals/quality-street-matchmaker-cool-mint-110g-5044774",
+  "https://www.hotukdeals.com/deals/instant-pot-classic-57l-7-in1-multicooker-in-black-pepper-extra-ps25-off-at-the-checkout-5044773"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795472628.1828933,
+  "geizhals": 1795474514.038992,
   "ebay": 1795474201.286286
  },
  "ebay_seen": {
