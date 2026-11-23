@@ -13,6 +13,7 @@ on:
 
 permissions:
   contents: write             # um state.json zurückzuschreiben
+  actions: write              # um den nächsten Lauf selbst zu starten
 
 concurrency:
   group: deal-bot
@@ -46,3 +47,8 @@ jobs:
             fi
             sleep 300
           done
+      - name: Nächsten Lauf starten (lückenlose Kette)
+        if: ${{ !cancelled() }}    # bei manuellem Abbruch keine neue Runde
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deal-bot.yml --repo "${{ github.repository }}" --ref main
