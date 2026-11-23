@@ -52,9 +52,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/codes-promo/10eur-reduction-en-drive-ou-livraison-des-80eur-dachat-3465492",
-  "https://www.dealabs.com/bons-plans/roborock-qrevo-edge-2-set-robot-aspirateur-laveur-25-000-pa-798cm-mince-3465491",
-  "https://www.dealabs.com/bons-plans/songmics-poubelle-de-cuisine-a-pedale-20-l-couvercle-a-fermeture-douce-3465490",
   "https://www.chollometro.com/ofertas/switch2-yakuza-kiwami-3-dark-ties-2084443",
   "https://www.hotukdeals.com/deals/blink-arc-dual-aspect-security-solution-with-2-mini-2k-cameras-5043039",
   "https://www.hotukdeals.com/deals/insulated-lunch-box-with-adjustable-shoulder-straps-tableware-pouch-multi-pockets-pack-5043038",
@@ -1551,7 +1548,10 @@
   "https://www.dealabs.com/bons-plans/lego-76450-poudlard-express-book-nook-3465826",
   "https://www.dealabs.com/bons-plans/lego-mercredi-le-dahlia-noir-76784-3465825",
   "https://www.hotukdeals.com/deals/ps10-voucher-for-when-you-next-spend-online-when-you-spend-ps150-during-black-friday-5043505",
-  "https://www.hotukdeals.com/deals/lego-botanicals-11513-dark-flower-arrangement-black-friday-price-guarantee-free-cc-5043504"
+  "https://www.hotukdeals.com/deals/lego-botanicals-11513-dark-flower-arrangement-black-friday-price-guarantee-free-cc-5043504",
+  "https://www.dealabs.com/bons-plans/super-mario-bros-le-film-super-mario-galaxy-le-film-blu-ray-3465828",
+  "https://www.dealabs.com/bons-plans/annke-wb400-lot-de-2-camera-de-surveillance-exterieure-sans-fil-4mp-wifi-bi-bande-batterie-9000-mah-panneau-solaire-3465827",
+  "https://www.hotukdeals.com/deals/tolberone-340g-more-card-5043506"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1564,6 +1564,6 @@
  ],
  "last_run": {
   "geizhals": 1795407707.0849578,
-  "ebay": 1795407707.0849578
+  "ebay": 1795408653.8576896
  }
 }
