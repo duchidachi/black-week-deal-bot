@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-23T01:15:28+00:00"
+   "checked": "2026-11-23T01:46:34+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,46 +13,45 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-23T01:15:38+00:00"
+   "checked": "2026-11-23T01:46:43+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-23T01:15:43+00:00"
+   "checked": "2026-11-23T01:46:48+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
    "first_seen": "2026-11-10T20:04:35+00:00",
    "lowest": 365.83,
    "last": 372.85,
-   "checked": "2026-11-23T01:15:47+00:00"
+   "checked": "2026-11-23T01:46:53+00:00"
   },
   "https://geizhals.eu/ugreen-dxp2800-a3162972.html": {
    "baseline": 348.56,
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-23T01:15:52+00:00"
+   "checked": "2026-11-23T01:46:58+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-23T01:15:57+00:00"
+   "checked": "2026-11-23T01:47:03+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-23T01:16:02+00:00"
+   "checked": "2026-11-23T01:47:08+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/revolution-forever-flawless-doe-eyes-paleta-de-sombras-neutras-calidas-2084412",
   "https://www.chollometro.com/ofertas/set-merienda-infantil-de-ceramica-stitch-aloha-3-piezas-2084411",
   "https://www.chollometro.com/ofertas/ps5-uncharted-coleccion-legado-de-los-ladrones-2084410",
   "https://www.chollometro.com/ofertas/maqueta-autobus-real-madrid-cf-28x11x8-cm-set-de-construccion-oficial-de-488-piezas-2084409",
@@ -1551,7 +1550,8 @@
   "https://www.hotukdeals.com/deals/cyberpower-amd-ryzen-5-16gb-ram-1tb-ssd-nvidia-geforce-rtx-5060-gaming-desktop-pc-5043459",
   "https://www.mydealz.de/deals/ing-dealwise-4-cashback-bei-amazon-alle-kategorien-bis-30112026-2879045",
   "https://www.hotukdeals.com/deals/apple-macbook-air-apple-m5-chip-16gb-ram-512gb-ssd-5043460",
-  "https://nl.pepper.com/aanbiedingen/cerave-hydrating-cleanser-met-hyaluronzuur-voor-normale-tot-droge-huid-1l-428724"
+  "https://nl.pepper.com/aanbiedingen/cerave-hydrating-cleanser-met-hyaluronzuur-voor-normale-tot-droge-huid-1l-428724",
+  "https://www.mydealz.de/deals/trec-nutrition-protein-bar-24-x-49-g-riegel-vanilla-caramel-ohne-kollagen-mit-palmol-2879046"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1563,7 +1563,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795396523.0847623,
-  "ebay": 1795397474.4512143
+  "geizhals": 1795398388.6255946,
+  "ebay": 1795398388.6255946
  }
 }
