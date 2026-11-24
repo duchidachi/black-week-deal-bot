@@ -59,8 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/vouchers/40-off-mains-plus-20-off-gift-cards-to-pay-with-5044330",
-  "https://www.mydealz.de/deals/geberit-heberglocke-fur-up-spulkasten-up170-2-mengen-spulung-240502001-2879730",
   "https://www.mydealz.de/deals/prime-jorest-152-in-1-feinmechaniker-bit-set-inkl-schraubendreher-box-und-zubehor-2879729",
   "https://www.mydealz.de/deals/lg-oled65g68lw-2879720",
   "https://www.mydealz.de/deals/lidl-plus-gta-6-im-onlineshop-fur-6999eur-mit-lidl-plus-versandkostenfrei-ggf-shoop-7-cashback-nutzen-2879728",
@@ -1558,7 +1556,9 @@
   "https://www.hotukdeals.com/deals/battlefield-6-standard-edition-ps5-disc-videogame-english-5044850",
   "https://www.chollometro.com/ofertas/sony-wh-ch530-auriculares-inalambricos-2087046",
   "https://www.chollometro.com/ofertas/ron-artest-my-world-doble-cd-2087045",
-  "https://www.hotukdeals.com/deals/jack-daniels-tennessee-whiskey-1-litre-clubcard-price-5044336"
+  "https://www.hotukdeals.com/deals/jack-daniels-tennessee-whiskey-1-litre-clubcard-price-5044336",
+  "https://www.hotukdeals.com/deals/call-of-duty-modern-warfare-4-xbox-series-x-physical-disc-requires-content-download-5044856",
+  "https://www.hotukdeals.com/deals/battlefield-6-standard-edition-ps5-disc-videogame-english-used-very-good-15-discount-at-checkout-5044854"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795482048.0640442,
-  "ebay": 1795481734.3792818
+  "ebay": 1795482699.7444937
  },
  "ebay_seen": {
   "187110721591": 139.1,
