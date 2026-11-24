@@ -59,18 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/prime-days-corsair-void-v2-wireless-dual-tone-gaming-headset-dolby-atmos-70-h-akku-24-ghz-bt-pcps5switch-2849971",
-  "https://www.mydealz.de/deals/turtle-beach-rematch-donkey-kong-35eur-wireless-controller-fur-nintendo-switch-2-1-40-std-akku-amazon-prime-2866456",
-  "https://www.mydealz.de/deals/mc-donalds-aurich-cheeseburger-fur-1eur-2879727",
-  "https://www.mydealz.de/deals/canon-eos-r100-systemkamera-rf-s-18-45mm-is-stm-tasche-64gb-sd-241-mp-4k-aps-c-wlan-schwarz-2879726",
-  "https://www.dealabs.com/bons-plans/amazon-30-eur-offerts-des-200-eur-dachat-le-bon-plan-qui-fait-mal-a-la-concurrence-3466622",
-  "https://www.dealabs.com/bons-plans/tv-65-hisense-65a6s-2026-led-4k-uhd-hdr10-dolby-vision-vrr-allm-smart-tv-3460329",
-  "https://www.dealabs.com/bons-plans/polo-supporter-adidas-rugby-france-ffr-bleu-homme-tailles-du-xs-au-2xl-3466646",
-  "https://www.chollometro.com/ofertas/joma-chandal-hombre-2086124",
-  "https://www.chollometro.com/ofertas/zapatillas-lacoste-blanco-elegante-muy-convinable-y-de-calidad-2086122",
-  "https://www.chollometro.com/ofertas/columbia-newton-ridge-plus-botas-montana-de-senderismo-y-trekking-para-mujer-2086119",
-  "https://www.chollometro.com/ofertas/orbegozo-to-4012-tostadora-de-pan-de-ranura-larga-7-niveles-de-tostado-2086120",
-  "https://www.chollometro.com/ofertas/maquina-de-cortar-pelo-hombre-2086118",
   "https://nl.pepper.com/aanbiedingen/25-korting-op-interrailpassen-428902",
   "https://nl.pepper.com/aanbiedingen/scanpan-rvs-5-laags-koekenpan-24-28-cm-428893",
   "https://www.hotukdeals.com/deals/jack-daniels-tennessee-whiskey-1-litre-clubcard-price-5044336",
@@ -1558,7 +1546,19 @@
   "https://www.chollometro.com/ofertas/lego-disney-princess-mini-bella-y-tiana-con-castillo-43291-2087031",
   "https://www.hotukdeals.com/deals/11-verbal-reasoning-practice-papers-1000-questions-with-20-practice-papers-answers-5044846",
   "https://www.hotukdeals.com/deals/like-new-bose-quietcomfort-ultra-2nd-gen-earbuds-smoke-white-sold-by-amazon-germany-5044845",
-  "https://www.hotukdeals.com/deals/mxgp-2020-the-official-motocross-videogame-pc-steam-deck-verified-5044844"
+  "https://www.hotukdeals.com/deals/mxgp-2020-the-official-motocross-videogame-pc-steam-deck-verified-5044844",
+  "https://www.chollometro.com/ofertas/vehiculo-radiocontrol-marvel-avengers-hulk-smash-rc-dickie-toys-2087043",
+  "https://www.chollometro.com/ofertas/swarovski-una-angelic-coleccion-pendientes-para-mujer-2087042",
+  "https://www.chollometro.com/ofertas/saco-de-dormir-columbus-outdoor-pamir-450-eco-3c-azul-ultra-2087041",
+  "https://www.chollometro.com/ofertas/lego-minecraft-el-ring-de-combate-de-la-mansion-del-bosque-21272-2087040",
+  "https://www.chollometro.com/ofertas/dodot-panales-bebe-sensitive-talla-6-13-kg-117-panales-4-pants-activity-regalo-no1-en-proteccion-de-la-piel-de-dodot-pack-mensual-2087039",
+  "https://www.chollometro.com/ofertas/stabilo-boss-original-x-pantone-marcador-set-de-mesa-de-30-2087038",
+  "https://www.chollometro.com/ofertas/soldado-universal-blu-ray-van-damme-2087037",
+  "https://www.chollometro.com/ofertas/tous-monedero-tarjetero-negro-para-mujer-2087036",
+  "https://www.hotukdeals.com/deals/anker-usb-c-hub-7-in-1-multi-port-usbc-hub-4k-hdmi-usb-c-adapter-used-like-new-5044849",
+  "https://www.hotukdeals.com/deals/ooni-volt-2-electric-pizza-oven-5044848",
+  "https://www.hotukdeals.com/deals/sol-de-janeiro-385ml-shower-gel-5044847",
+  "https://www.hotukdeals.com/vouchers/ps7-off-ps70-on-home-and-furniture-via-blue-light-card-5044836"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795480166.0874343,
-  "ebay": 1795480813.853868
+  "ebay": 1795481734.3792818
  },
  "ebay_seen": {
   "187110721591": 139.1,
