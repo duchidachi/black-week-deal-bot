@@ -59,14 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/thule-paramount-22l-tote-bag-2879784",
-  "https://www.dealabs.com/bons-plans/jeu-de-societe-arcs-guerre-et-declin-dans-les-confins-3466723",
-  "https://www.dealabs.com/bons-plans/bureau-1-porte-1-tiroir-best-2-imitation-chene-3466725",
-  "https://www.dealabs.com/bons-plans/samsung-galaxy-z-fold8-1-to-3466724",
-  "https://www.dealabs.com/bons-plans/montre-casio-efk-110d-7aer-3466722",
-  "https://www.dealabs.com/bons-plans/funko-pop-jordan-asg-mvp-98-3466721",
-  "https://www.dealabs.com/bons-plans/figurine-de-luigi-nuage-avec-accessoire-nuage-5-le-film-super-mario-galaxy-22-points-darticulation-jakks-pacific-figurine-de-luigi-3466720",
-  "https://www.dealabs.com/bons-plans/xiaomi-combo-hypercharge-90-w-type-a-adaptateur-secteur-a-charge-rapide-avec-sortie-usb-a-et-cable-de-charge-usb-a-vers-usb-c-inclus-3466717",
   "https://www.chollometro.com/ofertas/lampara-medusa-aquarium-lamp-7-colores-lampara-de-lava-de-medusas-2086233",
   "https://www.chollometro.com/ofertas/freidora-de-aire-sin-aceite-airfryer-de-12l-10-programas-1700w-ufesa-2086232",
   "https://www.chollometro.com/ofertas/nueva-zelanda-vuelos-de-ida-y-vuelta-2-maletas-facturadas-gratis-por-solo-729eur-marzo-mayo-salidas-desde-madrid-2086230",
@@ -1558,7 +1550,15 @@
   "https://www.hotukdeals.com/deals/einhell-professional-60nm-tp-cd-1860-li-i-bl-18v-1-x-20ah-li-ion-pxc-brushless-cordless-hammer-drill-free-cc-5044931",
   "https://www.hotukdeals.com/deals/witt-piccolo-rotante-gas-powered-13-pizza-oven-5-piece-bundle-in-black-or-green-incl-pizza-peel-cutter-dough-scraper-dual-regulator-5044930",
   "https://www.hotukdeals.com/deals/trenton-backpack-coffee-wcode-5044929",
-  "https://www.hotukdeals.com/deals/star-fox-nintendo-switch-2-5044928"
+  "https://www.hotukdeals.com/deals/star-fox-nintendo-switch-2-5044928",
+  "https://www.mydealz.de/deals/echo-dot-version-2022-smarter-wlan-und-bluetooth-lautsprecher-und-gigantischem-sattem-klang-anthrazit-mit-alexa-early-access-2874833",
+  "https://www.mydealz.de/deals/playmobil-knights-steinkatapult-der-drachenritter-72117-prime-2880172",
+  "https://www.mydealz.de/deals/toshiba-mw3-ac26sfibk-mikrowelle-6-in-1-mit-grill-heissluft-inverter-26l-1000w-auftaufunktion-freistehend-2880171",
+  "https://www.mydealz.de/deals/lego-speed-champions-77260-the-fast-and-the-furious-toyota-supra-mk4-prime-2880170",
+  "https://www.dealabs.com/bons-plans/double-etagere-charges-lourdes-en-metal-euro-vanadium-capacite-de-charge-640kg-8-plateaux-3467196",
+  "https://nl.pepper.com/aanbiedingen/derma-skin-polish-pads-van-lookx-428972",
+  "https://www.hotukdeals.com/deals/dr-beckmann-glowhite-in-wash-sachets-brighter-white-laundry-5-x-40g-ps078ss-5044937",
+  "https://www.hotukdeals.com/deals/gladiator-ii-blu-ray-5044936"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795500891.4794087,
-  "ebay": 1795501539.9813237
+  "ebay": 1795502462.6743612
  },
  "ebay_seen": {
   "187110721591": 139.1,
