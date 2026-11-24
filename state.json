@@ -59,20 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/jack-wolfskin-textor-utility-wasserdichte-winterjacke-s-m-l-neukunden-fur-5999-2880160",
-  "https://www.mydealz.de/deals/foxess-avocado-22-orbit-pro-speicher-fur-balkonkraftwerk-2880159",
-  "https://www.preisjaeger.at/gutschein/shoe4you-25-auf-regulare-ware-ab-40eur-373245",
-  "https://www.dealabs.com/bons-plans/selection-de-lego-en-promotion-via-cagottage-ex-lego-harry-potter-76419-le-chateau-et-le-domaine-de-poudlard-via-2427eur-de-fidelite-3467226",
-  "https://www.dealabs.com/bons-plans/baskets-bike-air-jordan-4-retro-birds-of-paradise-taillles-du-355-au-485-3467225",
-  "https://www.dealabs.com/bons-plans/aspirateur-laveur-floor-one-s7-strecth-tineco-20-cagnotte-carrefour-3467224",
-  "https://nl.pepper.com/aanbiedingen/emporio-armani-because-its-you-100-ml-eau-de-parfum-428970",
-  "https://www.hotukdeals.com/deals/nike-air-max-270-mens-shoes-2-colours-size-55-14-via-app-wdfc-code-free-to-join-free-delivery-for-members-5044919",
-  "https://www.hotukdeals.com/deals/star-wars-dark-forces-remaster-nintendo-switch-ps5-pegi-12-free-click-collect-5044918",
-  "https://www.hotukdeals.com/deals/fitflop-womens-iqushion-ergonomic-flip-flops-toe-thong-sandals-flip-flops-5044895",
-  "https://www.mydealz.de/deals/instinct-3-solar-45mm-schwarz-2880164",
-  "https://www.hotukdeals.com/deals/beats-studio-pro-wireless-bluetooth-noise-cancelling-headphones-personalised-spatial-audio-usb-c-5044921",
-  "https://www.mydealz.de/deals/bessagi-home-esstisch-dale-walnussfarben-aus-akazienholz-ca-1809076-cm-fur-100eur-inkl-versand-momax-bonuscard-2880169",
-  "https://www.mydealz.de/deals/decathlon-quechua-escape-500-rolltop-164-liter-rucksack-bei-abholung-1499-2880168",
   "https://www.mydealz.de/deals/hogwarts-legacy-steam-2880166",
   "https://www.mydealz.de/deals/stapelstein-rainbow-set-6er-set-classic-pastel-2880165",
   "https://www.dealabs.com/bons-plans/forfait-illimite-3467232",
@@ -1558,7 +1544,21 @@
   "https://www.hotukdeals.com/deals/2-night-luxury-boat-house-escape-jan-feb-with-hot-tub-sauna-2-adults-knighton-mid-wales-select-dates-eg-9-feb-2027-5045272",
   "https://www.hotukdeals.com/deals/stereophonics-make-em-laugh-make-em-cry-make-em-wait-vinyl-5045271",
   "https://www.hotukdeals.com/deals/lg-oled83c64la-83-inch-oled-4k-ultra-hd-smart-tv-5045270",
-  "https://www.hotukdeals.com/deals/motorola-razer-60-ultra-16512-gb-5045269"
+  "https://www.hotukdeals.com/deals/motorola-razer-60-ultra-16512-gb-5045269",
+  "https://www.mydealz.de/deals/geschenk-fur-die-handwerklich-begabte-freundin-workpro-73-tlg-werkzeug-set-rosa-2880477",
+  "https://www.mydealz.de/deals/victorinox-fibrox-ausbeinmesser-scharfes-kuchenmesser-f-fleisch-geflugel-15-cm-haccp-farbgriff-rutschfest-diverse-farben-ab-1564eur-2880475",
+  "https://www.mydealz.de/deals/switchbot-wlan-wetterstation-funk-mit-aussensensor-2880473",
+  "https://www.mydealz.de/gutscheine/15-auf-fremdsprachige-bucher-2880471",
+  "https://www.mydealz.de/deals/black-shark-magnetic-phone-cooler-6-pro-35w-peltier-kuhlung-071-smart-display-16-rgb-leds-magsafe-magnetring-2880472",
+  "https://www.dealabs.com/bons-plans/de-buyer-poele-en-tole-dacier-mineral-b-avec-anse-32-cm-fabriquee-en-france-anti-adherence-naturelle-queue-rivetee-tous-feux-3467628",
+  "https://www.chollometro.com/ofertas/tv-led-lg-tv-qned-55-lg-55qned82b6b-evo-miniled-ai-4k-uhd-2026-2087654",
+  "https://www.chollometro.com/ofertas/aspiradora-de-mano-sin-cable-shark-wandvac-2087652",
+  "https://www.chollometro.com/ofertas/tarjeta-regalo-de-playstation-store-de-50-eur-espana-clave-digital-2087650",
+  "https://www.chollometro.com/ofertas/s26-ultra-256gb-2080523",
+  "https://www.chollometro.com/ofertas/new-balance-373-2087646",
+  "https://www.hotukdeals.com/deals/the-cure-songs-of-a-lost-world-vinyl-5045278",
+  "https://www.hotukdeals.com/deals/om-system-olympus-10x50-s-binoculars-birdwatching-porro-prism-aspheric-lenses-15-year-warranty-5045277",
+  "https://www.hotukdeals.com/deals/zwift-ride-with-kickr-core-2-5045276"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795517855.0409136,
-  "ebay": 1795518500.1084406
+  "ebay": 1795519423.21294
  },
  "ebay_seen": {
   "187110721591": 139.1,
