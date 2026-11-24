@@ -59,11 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/10-rotuladores-fluorescentes-2086160",
-  "https://www.chollometro.com/ofertas/cargador-unitek-gan-65w-power-delivery-p1117b-2086159",
-  "https://www.chollometro.com/ofertas/peluche-elefante-25cm-2086157",
-  "https://nl.pepper.com/aanbiedingen/verbatim-173-4k-ultra-hd-draagbare-monitor-met-touchscreen-pmt-17-4k-at-ibood-428912",
-  "https://nl.pepper.com/aanbiedingen/niorasen-sneakersokken-unisex-6-paar-ademend-katoen-witzwart-428911",
   "https://www.hotukdeals.com/deals/felicity-leopard-jasmine-uggs-5044364",
   "https://www.hotukdeals.com/deals/ps3-guinness-5044363",
   "https://www.hotukdeals.com/deals/adidas-mens-terrex-essential-pad-gilet-blue-size-xs-5044362",
@@ -1558,7 +1553,12 @@
   "https://www.dealabs.com/bons-plans/red-dead-redemption-2-ultimate-steam-3467190",
   "https://www.dealabs.com/bons-plans/machine-a-glace-sorbetiere-ninja-creami-scoop-swirl-nc701eu-13-modes-glace-italienne-avec-2-pots-via-50eur-sur-la-carte-fidelite-3467189",
   "https://www.dealabs.com/bons-plans/pantalon-de-randonnee-quechua-mh500-light-gris-fonce-ou-khaki-taille-38-au-48-3467188",
-  "https://www.hotukdeals.com/deals/ninja-foodi-dual-zone-air-fryer-76l-af200uk-air-fry-max-crisp-roast-reheat-2-yr-guarantee-wdfc-code-ps8999-wnewsletter-signup-5044899"
+  "https://www.hotukdeals.com/deals/ninja-foodi-dual-zone-air-fryer-76l-af200uk-air-fry-max-crisp-roast-reheat-2-yr-guarantee-wdfc-code-ps8999-wnewsletter-signup-5044899",
+  "https://www.mydealz.de/deals/renault-bank-375-pa-tagesgeld-4-monate-20eur-kwk-pramie-monatliche-zinsgutschrift-neukunden-auch-fur-kinder-u18-eid-moglich-2880136",
+  "https://www.dealabs.com/bons-plans/25-de-cagnottage-sur-une-selection-de-lego-ex-harry-potter-76419-le-chateau-de-poudlard-via-2427eur-sur-la-carte-de-fidelite-3467192",
+  "https://www.dealabs.com/bons-plans/mixeur-plongeant-bosch-msm14100-avec-bol-gradue-400w-3467191",
+  "https://www.hotukdeals.com/deals/hot-wheels-164-ferrari-diecast-cars-5-pack-lets-race-164-die-cast-cars-5-pack-instore-164-diecast-cars-5-pack-assortment-ps5-free-cc-5044901",
+  "https://www.hotukdeals.com/deals/hot-wheels-formula-1-164-diecast-cars-10-pack-ps1099-164-diecast-cars-10-pack-assortment-ps899-free-cc-5044900"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795497127.1120484,
-  "ebay": 1795496813.771518
+  "ebay": 1795497776.9466321
  },
  "ebay_seen": {
   "187110721591": 139.1,
