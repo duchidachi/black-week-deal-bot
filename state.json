@@ -59,20 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/oplite-r8-fury-blanc-cockpit-de-simulation-avec-siege-baquet-ajustable-3467409",
-  "https://www.dealabs.com/bons-plans/forfait-mobile-free-mobile-max-5g5g-appels-smsmms-et-internet-illimites-dans-140-pays-sans-engagement-3467414",
-  "https://www.dealabs.com/bons-plans/table-a-manger-120-cm-3467374",
-  "https://www.dealabs.com/bons-plans/cyberpunk-2077-ultimate-edition-sur-ps5-3467413",
-  "https://www.dealabs.com/bons-plans/pack-marshall-stanmore-iii-casque-major-v-3467412",
-  "https://www.dealabs.com/bons-plans/aime-litiere-pour-chat-10l-ultra-absorbante-via-prevoyez-et-economisez-3467371",
-  "https://www.dealabs.com/bons-plans/la-boite-de-briques-lego-duplo-10913-via-coupon-3467411",
-  "https://www.chollometro.com/ofertas/tommy-jeans-tarjetero-hombre-heritage-holder-2087350",
-  "https://www.chollometro.com/ofertas/lefant-m210-pro-omni-robot-aspirador-y-fregasuelos-por-19919eur-antes-23999eur-2087349",
-  "https://www.chollometro.com/ofertas/pop-funko-bitty-arcade-star-wars-luke-2087348",
-  "https://www.chollometro.com/ofertas/48-latas-x-mahou-clasica-cerveza-lager-dorada-4-x-pack-12-latas-x-33cl-045eur-x-lata-2087332",
-  "https://nl.pepper.com/aanbiedingen/ecovacs-deebot-t80-omni-robotstofzuiger-met-dweilfunctie-en-automatisch-leegstation-zwart-at-amazon-nl-428995",
-  "https://www.hotukdeals.com/deals/adidas-up-to-50-off-manchester-utd-tiro-training-jersey-originals-long-sleeve-t-shirt-wcode-blue-light-card-free-del-for-members-5045080",
-  "https://www.hotukdeals.com/vouchers/55-off-premium-glasses-plus-15-off-at-topcashback-5045079",
   "https://www.hotukdeals.com/deals/lego-mario-kart-mario-standard-kart-72037-5045078",
   "https://www.hotukdeals.com/deals/budweiser-lager-beer-20-x-300ml-bottles-5045077",
   "https://www.hotukdeals.com/deals/grey-winter-beanie-hats-scarf-touchscreen-gloves-set-for-men-women-5045076",
@@ -1558,7 +1544,21 @@
   "https://www.hotukdeals.com/deals/lavazza-qualita-rossa-ground-coffee-4-x-250g-5045449",
   "https://www.hotukdeals.com/deals/heatwave-pack-of-2-mens-thermal-long-sleeve-top-warm-underwear-baselayer-s-m-l-xl-xxl-thermals-5045448",
   "https://www.hotukdeals.com/deals/e45-face-hydrating-serum-30ml-5045447",
-  "https://www.hotukdeals.com/vouchers/5-x-ps4-off-vouchers-for-video-rentals-via-lg-movies-tv-app-selected-accounts-5045444"
+  "https://www.hotukdeals.com/vouchers/5-x-ps4-off-vouchers-for-video-rentals-via-lg-movies-tv-app-selected-accounts-5045444",
+  "https://www.mydealz.de/deals/netto-mit-hund-nintendo-switch-2-fur-rechnerisch-439eur-durch-filialgutschein-2880623",
+  "https://www.mydealz.de/deals/medion-p400-w-akku-staubsauger-mit-wischfunktion-md11860-versandkostenfrei-cyberport-2880621",
+  "https://www.preisjaeger.at/deals/adidas-back-friday-sale-mit-bis-zu-50-zb-real-madrid-2526-heimtrikot-grosse-xs-2xl-fur-50eur-mit-cb-40eur-moglich-373295",
+  "https://www.dealabs.com/bons-plans/garmin-fenix-8-amoled-43-mm-frontaliers-suisse-3467785",
+  "https://www.dealabs.com/bons-plans/cafetiere-a-capsules-bosch-tassimo-style-tas114e-3467782",
+  "https://www.dealabs.com/bons-plans/prime-batterie-externe-shargeek-170-24000mah-170w-ip66-total-pour-ordinateur-portable-vendeur-tiers-via-coupon-3467780",
+  "https://www.dealabs.com/bons-plans/console-ps5-slim-sony-3467779",
+  "https://www.chollometro.com/ofertas/zapatillas-deportivas-mujer-skechers-go-run-consistent-20-captiva-slip-ins-morado-manos-libres-ultra-light-algunas-tallas-varios-colores-2087883",
+  "https://www.chollometro.com/ofertas/valor-mortis-ps5xbox-2087881",
+  "https://www.chollometro.com/ofertas/combes-saint-sauveur-vino-tinto-dop-cotes-du-rhone-village-plan-de-dieu-pack-6-botellas-x-75cl-2087879",
+  "https://www.hotukdeals.com/deals/resident-evil-7-biohazard-gold-edition-playstation-5-5045461",
+  "https://www.hotukdeals.com/deals/hisense-3s-series-wf3s8043bt3-8kg-wifi-connected-washing-machine-with-1400-rpm-ao-members-ps269-5045460",
+  "https://www.hotukdeals.com/deals/regatta-leedre-hooded-hybrid-mens-jacket-sizes-m-l-2xl-5045459",
+  "https://www.hotukdeals.com/deals/eufy-security-video-doorbell-e340-batterydual-cameras-2k-night-vision-no-fee-refurb-good-sold-by-anker-refurbished-wcode-5045458"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795527271.2402186,
-  "ebay": 1795526956.1051342
+  "ebay": 1795527918.4399025
  },
  "ebay_seen": {
   "187110721591": 139.1,
