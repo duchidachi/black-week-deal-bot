@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-24T21:27:24+00:00"
+   "checked": "2026-11-24T21:58:47+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-24T21:27:33+00:00"
+   "checked": "2026-11-24T21:58:57+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-24T21:27:38+00:00"
+   "checked": "2026-11-24T21:59:02+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,46 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-24T21:27:47+00:00"
+   "checked": "2026-11-24T21:59:12+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-24T21:27:52+00:00"
+   "checked": "2026-11-24T21:59:16+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-24T21:27:57+00:00"
+   "checked": "2026-11-24T21:59:21+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-24T21:27:43+00:00"
+   "checked": "2026-11-24T21:59:07+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/lokal-biobuddi-bausteinset-baum-klemmbausteine-fur-99-cent-bei-action-2880730",
-  "https://www.mydealz.de/deals/bambu-lab-p3c-3d-drucker-2880729",
-  "https://www.mydealz.de/deals/flaconi-ralph-lauren-polo-blue-eau-de-toilette-200ml-fur-5375-eur-polo-cap-oder-75ml-fur-3536eur-inkl-vsk-2880728",
-  "https://www.mydealz.de/deals/3-fur-2-aktion-3x400ml-kneipp-aroma-pflegeschaumbad-rucken-schulter-1200ml-entspricht-221-eur-pro-flasche-prime-sparabo-ohne-eile-2880725",
-  "https://www.mydealz.de/deals/cb-blue-week-bluebrixx-pro-normannenburg-turmburg-109747-11978-teile-masse-mm-612x496x461-klemmbausteine-bluebrixx-2880724",
-  "https://www.mydealz.de/deals/tomb-raider-goty-edition-169eur-rise-of-the-tomb-raider-20-yc-254eur-shadow-of-the-tomb-raider-de-339eur-steam-deck-pc-2880722",
-  "https://www.preisjaeger.at/gutschein/getgoods-11-euro-rabatt-ab-einkauf-von-129-euro-371835",
-  "https://www.preisjaeger.at/gutschein/black-week-bei-kastner-ohler-373278",
-  "https://www.preisjaeger.at/deals/samsung-65-oled-s92h-4k-smart-tv-372359",
-  "https://www.dealabs.com/bons-plans/membres-baskets-de-running-asics-gel-kinjo-2-tailles-40-a-48-3467889",
-  "https://www.dealabs.com/bons-plans/mova-robot-tondeuse-lidax-ultra-1600-awd-3467890",
-  "https://www.dealabs.com/bons-plans/carte-cadeau-de-120eur-au-prix-de-100eur-60eur-pour-50eur-3467888",
-  "https://www.dealabs.com/bons-plans/beaba-babycook-duo-robot-bebe-4-en-1-3467887",
-  "https://www.dealabs.com/bons-plans/vinyle-lp-le-tigre-3467886",
-  "https://www.dealabs.com/bons-plans/lego-chateau-harry-potter-3467885",
   "https://www.dealabs.com/bons-plans/lit-pliant-avec-matelas-3467884",
   "https://www.dealabs.com/bons-plans/montre-casio-g-shock-ga-110gb-1aer-resine-noire-3467880",
   "https://www.chollometro.com/ofertas/2-x-dodot-sensitive-talla-3-total-112-021eur-panal-2088053",
@@ -1558,7 +1543,22 @@
   "https://www.chollometro.com/ofertas/aucuu-bandolera-pequena-mujer-de-nailonbolso-de-telefono-movil-para-mujercon-puerto-para-auriculares-para-telefonos-moviles-hasta-7-2088677",
   "https://www.hotukdeals.com/deals/40-sports-games-in-1-ps5-5045958",
   "https://www.hotukdeals.com/deals/skechers-slip-ins-summits-trainers-5045957",
-  "https://www.hotukdeals.com/deals/braun-silkepil-5-epilator-for-women-5-060-flamingo-pink-wet-dry-hair-removal-5045956"
+  "https://www.hotukdeals.com/deals/braun-silkepil-5-epilator-for-women-5-060-flamingo-pink-wet-dry-hair-removal-5045956",
+  "https://www.mydealz.de/deals/personalisiert-chatgpt-business-1-monat-gratis-5-standard-benutzerlizenzen-fur-0-eur-fur-ausgewahlte-plus-mitglieder-2881016",
+  "https://www.mydealz.de/deals/calimoto-premium-30-back-week-rabatt-neu-bestandskunden-2881013",
+  "https://www.preisjaeger.at/deals/gratis-monster-hunter-rise-handyspiel-fur-netflix-abonnenten-372697",
+  "https://www.dealabs.com/bons-plans/chargeur-allume-cigare-iniu-60w-usb-c-pd-usb-a-qc-30-cable-usb-c-100w-de-1m-inclus-3468300",
+  "https://www.dealabs.com/bons-plans/colamy-atlas-01-3468301",
+  "https://www.dealabs.com/codes-promo/promotion-15-blackfriday-3468299",
+  "https://www.dealabs.com/bons-plans/creative-pebble-pro-3468298",
+  "https://www.dealabs.com/bons-plans/bottega-veneta-lunettes-de-vue-bottega-veneta-pour-femme-bv-81-20-3468297",
+  "https://www.dealabs.com/bons-plans/formation-complete-claude-ai-3468296",
+  "https://www.chollometro.com/ofertas/altra-lone-peak-9-trail-running-para-hombre-black-2088688",
+  "https://www.chollometro.com/ofertas/maestro-nintendo-switch-2088684",
+  "https://www.hotukdeals.com/deals/everything-everywhere-all-at-once-4k-blu-ray-5045962",
+  "https://www.hotukdeals.com/deals/wedo-5861-eraser-knife-175-cm-black-with-plastic-handle-5045961",
+  "https://www.hotukdeals.com/deals/makita-clx228aj-12v-max-impact-driver-combi-drill-kit-with-2x-20ah-batteries-free-shipping-5045960",
+  "https://www.hotukdeals.com/deals/skechers-slip-ins-bungee-wide-fit-shoe-brown-5045959"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795555639.318912,
+  "geizhals": 1795557522.2058704,
   "ebay": 1795557208.7076247
  },
  "ebay_seen": {
