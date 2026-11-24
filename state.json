@@ -60,21 +60,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/faith-in-nature-seaweed-citrus-shampoo-400ml-oily-hair-scalp-5045397",
-  "https://www.hotukdeals.com/deals/sony-astro-bot-ps5-5045396",
-  "https://www.hotukdeals.com/deals/asus-vivobook-s-copilot-pc-amd-ryzen-ai-7-16gb-ram-512gb-ssd-16-inch-oled-laptop-m3607ga-sh011w-5045395",
-  "https://www.hotukdeals.com/deals/dolce-gabbana-pour-homme-intenso-eau-de-parfum-125ml-5045394",
-  "https://www.hotukdeals.com/deals/bulk-creatine-monohydrate-powder-pure-unflavoured-1-kg-5045393",
-  "https://www.hotukdeals.com/deals/jbl-grip-portable-bluetooth-speaker-auracast-and-multi-purpose-light-free-30w-mophie-charger-with-coupon-5045392",
-  "https://www.hotukdeals.com/deals/lotus-biscoff-caramelised-biscuit-150-indivually-wrapped-biscuits-ingredients-from-natural-origins-9375g-ss-ps598-5045390",
-  "https://www.mydealz.de/deals/teppichde-in-outdoor-teppich-cotara-im-wave-design-beige-zb-80150cm-fur-1480eur-160230cm-fur-3497eur-200290cm-fur-5733eur-2880581",
-  "https://www.mydealz.de/deals/20-rabatt-zb-adidas-equipment-evo-sl-adidas-oregon-ultra-tech-nike-w-jordan-1-high-og-asics-gel-ds-trainer-14-nike-air-max-95-2842767",
-  "https://www.dealabs.com/bons-plans/super-duolinguo-1-an-3467714",
-  "https://www.dealabs.com/bons-plans/eastpak-jr-sac-bandouliere-115-l-noir-3467712",
-  "https://www.dealabs.com/bons-plans/micro-onduleur-apsystems-ez1-m-800-va-plug-play-wi-fi-bluetooth-avec-cable-de-raccordement-5-m-3467713",
-  "https://www.dealabs.com/bons-plans/deshumidificateur-comfee-absorbe-jusqua-10ljour-mode-nuit-securite-enfant-minuterie-24h-reservoir-25-l-3467710",
-  "https://www.dealabs.com/bons-plans/machine-expresso-manuelle-beko-cep5304x-1628-w-11-l-argente-3467706",
-  "https://www.dealabs.com/bons-plans/mouse-pi-for-hire-ps5-3467709",
   "https://www.dealabs.com/bons-plans/carte-graphique-sapphire-pulse-radeon-rx-9070-xt-gaming-16gb-3467707",
   "https://www.chollometro.com/ofertas/reloj-casio-g-shock-all-black-2087811",
   "https://www.chollometro.com/ofertas/freidora-de-aire-ninja-47-l-2087809",
@@ -1559,7 +1544,22 @@
   "https://www.hotukdeals.com/deals/ninja-creami-scoop-and-swirl-soft-serve-and-ice-cream-maker-with-2x-tubs-5045764",
   "https://www.hotukdeals.com/deals/5070ti-5045762",
   "https://www.hotukdeals.com/deals/erbauer-erh750-34kg-electric-sds-plus-drill-220-240v-5045761",
-  "https://www.hotukdeals.com/deals/qwertee-t-shirts-black-friday-sale-starting-from-ps4-free-shipping-when-you-buy-8-t-shirts-5045760"
+  "https://www.hotukdeals.com/deals/qwertee-t-shirts-black-friday-sale-starting-from-ps4-free-shipping-when-you-buy-8-t-shirts-5045760",
+  "https://www.mydealz.de/deals/gta-6-wieder-bei-lidl-2880876",
+  "https://www.mydealz.de/deals/arizona-sunshine-vr-2-2880874",
+  "https://www.dealabs.com/bons-plans/serveur-nas-ugreen-dh2300-2-baies-60-to-gris-anodise-cable-hdmi-3468076",
+  "https://www.dealabs.com/bons-plans/perceuse-visseuse-bosch-professional-gsr-18v-50-2-batteries-20ah-chargeur-gal-18v-20-43-accessoires-3468075",
+  "https://www.dealabs.com/bons-plans/baskets-smash-edge-junior-taille-du-34-au-365-2-coloris-3468074",
+  "https://www.chollometro.com/ofertas/ice-watch-ice-smart-tks-20-elegante-reloj-conectado-para-mujer-141-pulgadas-ip68-seguimiento-de-la-actividad-fisica-y-la-salud-2088386",
+  "https://www.chollometro.com/ofertas/ps5-xeno-crisis-2088384",
+  "https://www.chollometro.com/ofertas/fnirsi-lc1020e-medidor-lcr-y-esr-de-100-khz-para-condensadores-resistencias-e-inductores-precio-para-nuevos-usuarios-2088385",
+  "https://nl.pepper.com/aanbiedingen/apple-watch-ultra-4-ocean-bandje-zwart-zwart-429129",
+  "https://www.hotukdeals.com/deals/scalextric-evo-audi-r8-gt3-challenge-race-car-track-5045774",
+  "https://www.hotukdeals.com/deals/lenovo-legion-27-2c-27-curved-fhd-280hz-gaming-monitor-5045773",
+  "https://www.hotukdeals.com/deals/longines-mens-avigation-bigeye-41mm-chronograph-watch-5045772",
+  "https://www.hotukdeals.com/deals/guns-n-roses-appetite-for-destruction-vinyl-5045771",
+  "https://www.hotukdeals.com/deals/bosch-43x-extra-hard-screwdriver-bit-set-43-pcs-5045770",
+  "https://www.hotukdeals.com/deals/halo-campaign-evolved-ps5xbox-physical-disk-5045769"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1572,7 +1572,7 @@
  ],
  "last_run": {
   "geizhals": 1795544290.6357563,
-  "ebay": 1795544939.9368355
+  "ebay": 1795545868.3534422
  },
  "ebay_seen": {
   "187110721591": 139.1,
