@@ -59,19 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://nl.pepper.com/aanbiedingen/de-beste-amazon-deals-van-de-dag-sinterklaascadeaus-429104",
-  "https://www.hotukdeals.com/deals/helldivers-2-ps5-5045611",
-  "https://www.hotukdeals.com/deals/the-happy-puzzle-company-genius-square-logic-stem-puzzle-board-game-5045610",
-  "https://www.hotukdeals.com/deals/white-penguin-dinner-set-12-piece-free-click-and-collect-5045609",
-  "https://www.hotukdeals.com/deals/macushield-original-plus-capsules-90-day-pack-5045608",
-  "https://www.hotukdeals.com/deals/sounds-fishy-card-game-funny-bluffing-trivia-game-for-families-ages-10-5045607",
-  "https://www.mydealz.de/deals/prime-anker-nano-100w-usb-c-ladegerat-laptop-netzteil-inkl-18m-usb-c-kabel-schwarz-2880757",
-  "https://www.mydealz.de/deals/emsa-travel-mug-500-ml-wave-thermobecher-neuer-komfort-schraubverschluss-kaffeebecher-prime-2880754",
-  "https://www.mydealz.de/deals/amazon-prime-tommy-hilfiger-sammeldeal-geldborsen-geldbeutel-zb-geldbeutel-johnson-mini-klein-oder-trifold-eton-mit-und-ohne-munzfach-2880753",
-  "https://www.preisjaeger.at/deals/2x-p-b-relaxsesselset-in-graubraun-2-sessel-2-hocker-373282",
-  "https://www.dealabs.com/bons-plans/russell-hobbs-machine-a-cafe-expresso-2-en-1compatibilite-capsules-ou-cafe-moulu-3467919",
-  "https://www.dealabs.com/bons-plans/roomba-max-775-combo-base-autowash-3467918",
-  "https://www.dealabs.com/bons-plans/fauteuil-de-relaxation-electrique-avec-dossier-et-repose-pieds-reglables-independamment-inclinaison-95-175-roulettes-verrouillables-3467917",
   "https://www.dealabs.com/bons-plans/lot-4-commanders-warhammer-40k-magic-mtg-en-3467916",
   "https://www.dealabs.com/bons-plans/t-shirt-manches-courtes-monoprix-interlock-en-coton-bio-gots-3467913",
   "https://www.chollometro.com/ofertas/fc-27-nintendo-swich-2-2088104",
@@ -1558,7 +1545,20 @@
   "https://www.hotukdeals.com/deals/logitech-g413-tkl-se-mechanical-gaming-keyboard-5045990",
   "https://www.hotukdeals.com/deals/hublot-classic-fusion-grey-titanium-berrys-125th-anniversary-special-edition-5045989",
   "https://www.hotukdeals.com/deals/apple-watch-series-11-gps-46mm-smartwatch-with-silver-aluminium-case-with-purple-fog-sport-band-ml-5045988",
-  "https://www.hotukdeals.com/deals/gigabyte-geforce-rtx-5090-gaming-oc-32g-graphics-card-32gb-gddr7-512bit-5045987"
+  "https://www.hotukdeals.com/deals/gigabyte-geforce-rtx-5090-gaming-oc-32g-graphics-card-32gb-gddr7-512bit-5045987",
+  "https://www.mydealz.de/deals/lenovo-thinkpad-usb4-dock-5000-40bf0100ge-dockingstation-blackdeal-2881033",
+  "https://www.dealabs.com/bons-plans/new-balance-1906-unisex-white-navy-silver-metallic-3468344",
+  "https://www.dealabs.com/bons-plans/poele-de-buyer-mineral-b-pro-acier-24-cm-3468342",
+  "https://www.dealabs.com/bons-plans/ekoi-reduction-sur-tout-le-site-ex-gants-hiver-neoprene-28eur-au-lieu-de-69eur99-3468341",
+  "https://www.chollometro.com/ofertas/vitall-maitake-bio-400-mg-60-caps-2088732",
+  "https://www.chollometro.com/ofertas/1906-reserva-especial-cerveza-barril-3-l-tirador-huebox-pack-2-6-l-2088731",
+  "https://www.chollometro.com/ofertas/adidas-zapatillas-mega-ghostride-2088730",
+  "https://www.chollometro.com/ofertas/fehn-juguete-de-actividades-pulpo-para-colgar-con-elementos-para-agarrar-y-sonidos-2088722",
+  "https://www.chollometro.com/ofertas/ufesa-tostador-plano-barley-900w-con-3-resist-de-cuarzo-tamano-xl4-recalentar-descongelar-recogemigas-bolleria-2088721",
+  "https://www.hotukdeals.com/deals/haribo-supermix-fruit-milk-flavoured-jelly-foam-sweets-tub-1kg-5045993",
+  "https://www.hotukdeals.com/deals/panasonic-lumix-dc-s5dn-mirrorless-camera-with-s-18-40-mm-f45-63-lens-5045992",
+  "https://www.hotukdeals.com/deals/haagen-dazs-vanilla-ice-cream-mini-tubs-case-24x95ml-5045991",
+  "https://www.hotukdeals.com/deals/call-of-duty-modern-warfare-4-code-in-box-nintendo-switch-2-5045995"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795559411.5794892,
-  "ebay": 1795559097.4427419
+  "ebay": 1795560059.6838737
  },
  "ebay_seen": {
   "187110721591": 139.1,
