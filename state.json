@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-24T20:56:00+00:00"
+   "checked": "2026-11-24T21:27:24+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-24T20:56:10+00:00"
+   "checked": "2026-11-24T21:27:33+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-24T20:56:15+00:00"
+   "checked": "2026-11-24T21:27:38+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,41 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-24T20:56:24+00:00"
+   "checked": "2026-11-24T21:27:47+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-24T20:56:29+00:00"
+   "checked": "2026-11-24T21:27:52+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-24T20:56:33+00:00"
+   "checked": "2026-11-24T21:27:57+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-24T20:56:19+00:00"
+   "checked": "2026-11-24T21:27:43+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/fentimans-ginger-beer-botanically-brewed-drink-12-pack-275ml-bottles-5045542",
-  "https://www.hotukdeals.com/deals/sockshop-mens-bamboo-christmas-advent-calendar-25-pairs-5045541",
-  "https://www.hotukdeals.com/deals/ventryn-exercise-bike-spin-bike-with-comfortable-seat-cushion-with-adjustable-magnetic-resistance-quiet-indoor-cycling-bike-for-home-use-5045540",
-  "https://www.hotukdeals.com/deals/launch-x431-crp719e-bidirectional-car-diagnostic-tool-lifetime-free-update-with-voucher-and-checkout-discount-sold-by-launch-online-fba-5045539",
-  "https://www.mydealz.de/deals/valencia-citytrip-4-nachte-inkl-flugen-und-3-stadthotel-ab-285eur-pp-dz-familien-ab-271eur-pp-mit-guten-bewertungen-sep-okt-2832972",
-  "https://www.mydealz.de/deals/lenovo-thinkpad-t15-g2-qwerty-i5-1135g7-8gb-ram-256gb-ssd-win-10-pro-fur-699-eur-2880707",
-  "https://www.mydealz.de/deals/galaxy-s25-256gb-smart-entry-aktion-vodafone-kombi-nur-fur-vodafone-internet-kunden-2880706",
-  "https://www.mydealz.de/deals/amazon-prime-reebok-club-c85-sneaker-schwarz-verschiedene-grossen-2880704",
-  "https://www.mydealz.de/deals/new-balance-sport-sale-new-balance-550-new-balance-abzorb-2000-ne-balance-2010-uvm-2880703",
-  "https://www.mydealz.de/deals/lootstorede-adventskalender-lumibricks-autokino-motel-telefonzelle-skater-shop-und-mehr-2880702",
   "https://www.preisjaeger.at/gutschein/audi-20-rabatt-auf-functions-on-demand-fod-und-audi-connect-services-373301",
   "https://www.dealabs.com/bons-plans/vaonis-hestia-pack-ultime-telescope-pour-smartphone-grossissement-x25-filtre-solaire-trepied-housse-rigide-3467869",
   "https://www.dealabs.com/bons-plans/drone-antigravity-a1-explorer-bundle-blanc-et-noir-3467867",
@@ -1558,7 +1548,17 @@
   "https://www.hotukdeals.com/deals/mk-jet-set-travel-small-pebbled-leather-convertible-crossbody-bag-5045929",
   "https://www.hotukdeals.com/deals/ms-sparks-offer-selected-accounts-ps10-reward-into-your-sparks-wallet-when-you-spend-ps30-on-clothing-home-or-beauty-5045928",
   "https://www.hotukdeals.com/deals/razer-deathadder-v3-hyperspeed-wireless-ergonomic-gaming-mouse-55g-26k-dpi-black-5045926",
-  "https://www.hotukdeals.com/deals/google-ai-pro-annual-black-friday-deal-5045911"
+  "https://www.hotukdeals.com/deals/google-ai-pro-annual-black-friday-deal-5045911",
+  "https://www.mydealz.de/deals/bis-zu-50-auf-stapelsteine-maileg-grapat-grimms-etc-2880997",
+  "https://www.mydealz.de/deals/joybuy-mobi-garden-yadeen-ul2-zelt-semi-freistehend-ultralight-trekking-2880974",
+  "https://www.dealabs.com/bons-plans/multicuiseur-connecte-moulinex-cookeo-agility-wifi-9-en-1-6-l-couvercle-extra-crisp-yy5449fb-3468267",
+  "https://www.chollometro.com/ofertas/espejo-de-pared-today-caramel-43x73cm-2088635",
+  "https://www.chollometro.com/ofertas/levis-new-duncan-cinturon-unisex-adulto-2088633",
+  "https://www.chollometro.com/ofertas/gc-gaveno-cavailia-funda-de-edredon-y-fundas-de-almohada-a-cuadros-ropa-de-cama-tamano-king-230-x-220-cm-fundas-de-cama-suaves-color-morado-2088631",
+  "https://www.chollometro.com/ofertas/marvel-spidey-and-his-amazing-friends-bolido-aracnido-figura-de-accion-y-coche-de-juguete-3-modelos-en-oferta-2088629",
+  "https://nl.pepper.com/aanbiedingen/roborock-saros-20-sonic-robotstofzuiger-met-gloednieuwe-rockdock-zwart-429152",
+  "https://nl.pepper.com/aanbiedingen/3-voor-eur7-3x900ml-axe-douche-at-trekpleister-429151",
+  "https://www.hotukdeals.com/deals/lego-animal-crossing-timmy-tommys-fun-day-out-77059-5045934"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795553755.5271862,
+  "geizhals": 1795555639.318912,
   "ebay": 1795555326.6168153
  },
  "ebay_seen": {
