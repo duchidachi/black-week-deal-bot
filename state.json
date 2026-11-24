@@ -59,7 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/transformers-cyberworld-bumblebee-chispa-de-poder-energon-surge-figura-de-accion-de-28-cm-con-luces-y-sonidos-2086135",
   "https://www.chollometro.com/ofertas/paletilla-jamon-duroc-50-reserva-42-44-kg-aprox-2086141",
   "https://www.chollometro.com/ofertas/jack-jones-jacjens-sock-10-pack-noos-calcetines-hombre-pack-de-10-2086134",
   "https://www.chollometro.com/ofertas/adidas-originals-samba-og-unisex-zapatillas-2086133",
@@ -1558,7 +1557,8 @@
   "https://www.hotukdeals.com/deals/corsair-frame-4000d-rs-modular-midi-tower-pc-gaming-case-black-5044876",
   "https://www.dealabs.com/bons-plans/jeu-dembouts-32-pieces-dewalt-3467174",
   "https://www.dealabs.com/bons-plans/kit-creatif-pen-creator-studio-k-pop-demon-hunters-clementoni-3467175",
-  "https://www.hotukdeals.com/deals/rubicon-spring-black-cherry-raspberry-water-12-pack-500ml-bottles-sparkling-spring-water-real-black-cherry-raspberry-juice-ps459-ss-5044878"
+  "https://www.hotukdeals.com/deals/rubicon-spring-black-cherry-raspberry-water-12-pack-500ml-bottles-sparkling-spring-water-real-black-cherry-raspberry-juice-ps459-ss-5044878",
+  "https://www.dealabs.com/bons-plans/garmin-fenix-8-sapphire-3467176"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795489583.2554245,
-  "ebay": 1795489271.0239954
+  "ebay": 1795490242.3944178
  },
  "ebay_seen": {
   "187110721591": 139.1,
