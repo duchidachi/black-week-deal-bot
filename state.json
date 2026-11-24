@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-24T05:12:12+00:00"
+   "checked": "2026-11-24T05:43:35+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-24T05:12:22+00:00"
+   "checked": "2026-11-24T05:43:45+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-24T05:12:27+00:00"
+   "checked": "2026-11-24T05:43:50+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,41 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-24T05:12:37+00:00"
+   "checked": "2026-11-24T05:43:59+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-24T05:12:42+00:00"
+   "checked": "2026-11-24T05:44:04+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-24T05:12:46+00:00"
+   "checked": "2026-11-24T05:44:09+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 514.9,
    "last": 514.9,
-   "checked": "2026-11-24T05:12:31+00:00"
+   "checked": "2026-11-24T05:43:55+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/fluge-qatar-business-class-seoul-ab-2274eur-qsuite-ab-doha-kapstadt-ab-2645eur-hin-zuruck-ab-dusseldorf-munchen-2879746",
-  "https://www.preisjaeger.at/deals/lenovo-thinkvision-p27q-40-qhd-monitor-mit-27-zoll-bei-edustore-373200",
-  "https://www.dealabs.com/bons-plans/enceinte-colonne-davis-mani-mk2-noir-vendue-a-lunite-3466681",
-  "https://www.dealabs.com/bons-plans/ecouteurs-sans-fil-apple-airpods-5-avec-boitier-de-charge-sans-fil-3466680",
-  "https://www.dealabs.com/bons-plans/reebok-club-c-grounds-uk-baskets-du-36-au-47-3466679",
-  "https://www.dealabs.com/bons-plans/samsung-tv-oled-4k-195-cm-tq77s95h-3466678",
-  "https://www.dealabs.com/bons-plans/huile-moteur-elf-evolution-700-10w-40-essence-diesel-5l-via-coupon-avec-prevoyez-et-economisez-3466676",
-  "https://www.dealabs.com/bons-plans/lego-speed-champions-voiture-f1-mclaren-team-mcl38-77251-3466675",
-  "https://www.dealabs.com/bons-plans/40-de-reduction-dans-la-limite-de-120eur-offerts-pour-louverture-dun-compte-amazon-buisness-membres-dealabs-creators-eligibles-3466674",
-  "https://www.dealabs.com/bons-plans/tv-65-tcl-65pf650-led-4k-uhd-hdr10-dolby-vision-allm-fire-tv-3466611",
   "https://www.chollometro.com/ofertas/pop-funko-plus-delicious-in-dungeon-chilchuck-2086174",
   "https://www.chollometro.com/ofertas/juego-de-mesa-my-island-espanol-73-mota-bbg-2086173",
   "https://www.chollometro.com/ofertas/funko-pop-animation-solo-leveling-woo-jinchul-2086171",
@@ -1558,7 +1548,17 @@
   "https://www.mydealz.de/deals/galaxus-gigabyte-mo27q28g-27-qhd-woled-280-hz-003-ms-fur-459-eur-2880141",
   "https://www.mydealz.de/deals/gratis-crunchy-roll-abo-fur-300-punkte-bei-mcdonalds-2880140",
   "https://www.dealabs.com/bons-plans/plateaux-modernes-et-design-3467198",
-  "https://www.dealabs.com/bons-plans/ea-sports-fc-27-edition-standard-nintendo-switchdisque-i-jeu-video-francais-3467197"
+  "https://www.dealabs.com/bons-plans/ea-sports-fc-27-edition-standard-nintendo-switchdisque-i-jeu-video-francais-3467197",
+  "https://www.mydealz.de/deals/automatikuhr-longines-hydroconquest-42mm-30bar-72h-gangreserve-2880145",
+  "https://www.mydealz.de/deals/prime-sigg-tritan-trinkflasche-total-color-clear-one-green-075-l-auslaufsichere-wasserflasche-kohlensauregeeignet-spulmaschinenfest-2880144",
+  "https://www.mydealz.de/deals/huawei-watch-6-series-46mm-in-schwarz-34599-42mm-in-rosa-34599eur-pro-46mm-space-edition-51599eur-x-tap-sensor-esim-verbindung-2880126",
+  "https://www.mydealz.de/deals/barceloa-hotels-bis-zu-55-rabatt-auf-hotelbuchungen-2880143",
+  "https://www.dealabs.com/bons-plans/batman-la-serie-tv-animee-4-saisons-blu-ray-3467202",
+  "https://www.dealabs.com/bons-plans/sol-stratifie-goodhome-gladstone-effet-chene-naturel-passage-eleve-ac4-l1286-x-l194-cm-x-ep8-mm-la-botte-3467201",
+  "https://www.dealabs.com/bons-plans/rred-by-sfr-forfait-60go-3467200",
+  "https://www.dealabs.com/bons-plans/fortnite-pack-feu-et-glace-obscurs-code-de-telechargement-du-jeu-dans-la-boite-switch-3467199",
+  "https://nl.pepper.com/aanbiedingen/sony-playstation-5-dualsense-controller-rhythm-blue-remix-green-techno-red-hyperpop-collectie-428968",
+  "https://www.hotukdeals.com/deals/turtlewax-headlight-cleaner-and-sealant-300ml-5044905"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795497127.1120484,
+  "geizhals": 1795499010.4945276,
   "ebay": 1795498699.2887516
  },
  "ebay_seen": {
