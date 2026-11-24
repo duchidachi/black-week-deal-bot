@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-24T03:38:05+00:00"
+   "checked": "2026-11-24T04:09:25+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-24T03:38:15+00:00"
+   "checked": "2026-11-24T04:09:35+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-24T03:38:20+00:00"
+   "checked": "2026-11-24T04:09:39+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,28 +34,28 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-24T03:38:29+00:00"
+   "checked": "2026-11-24T04:09:49+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-24T03:38:34+00:00"
+   "checked": "2026-11-24T04:09:54+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-24T03:38:39+00:00"
+   "checked": "2026-11-24T04:09:59+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 514.9,
    "last": 514.9,
-   "checked": "2026-11-24T03:38:25+00:00"
+   "checked": "2026-11-24T04:09:44+00:00"
   }
  },
  "mydealz_seen": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795491480.0975106,
+  "geizhals": 1795493360.4100993,
   "ebay": 1795493047.6943293
  },
  "ebay_seen": {
