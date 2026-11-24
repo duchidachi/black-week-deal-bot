@@ -59,12 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/jamon-de-bellota-100-iberico-en-lonchas-sin-gluten-envase-120-g-2086107",
-  "https://www.chollometro.com/ofertas/maxi-cosi-nomad-xl-plus-70-150-cm-2086106",
-  "https://nl.pepper.com/aanbiedingen/parkside-performance-accu-klopboormachine-20v-64nm-incl-koffer-2-x-accu-lader-ratel-schroevendraaier-bits-en-boren-98-delig-428895",
-  "https://www.hotukdeals.com/deals/bosch-spv4emx17g-series-4-fully-integrated-slimline-dishwasher-10-place-settings-b-rated-free-old-collection-5044328",
-  "https://www.mydealz.de/deals/tajima-convoy-super-26-kartuschenpresse-2879725",
-  "https://www.mydealz.de/deals/tcl-85c7k-85-zoll-qd-mini-led-tv-2879724",
   "https://www.mydealz.de/deals/char-broil-holzkohlegrill-charcoal-2go-regulierbare-luftungsschieber-leicht-zu-reinigender-aschefanger-kompaktes-und-leichtes-design-2879722",
   "https://www.mydealz.de/deals/mohd-black-friday-sammeldeal-zu-designleuchten-z-b-pipistrello-medium-in-schwarz-von-gae-aulenti-fur-97853-eur-statt-1469-eur-2879721",
   "https://www.dealabs.com/bons-plans/ecran-de-projecteur-72-pouces-169-ecran-pliable-anti-plis-grand-angle-de-vision-160-projection-double-face-3466645",
@@ -1558,7 +1552,13 @@
   "https://www.chollometro.com/ofertas/reebok-floatzig-tread-zapatillas-running-hombre-2087023",
   "https://www.chollometro.com/ofertas/amazon-basics-escritorio-120-x-60-x-736cm-con-control-de-cables-tablero-grueso-de-25mm-moderno-y-sencillo-de-montar-marco-negro-blanco-2087022",
   "https://www.chollometro.com/ofertas/otterbox-react-necklace-funda-para-iphone-se-2022202087-con-cordon-para-cuello-ajustable-stardust-2087020",
-  "https://www.hotukdeals.com/deals/tt-isle-of-man-ride-on-the-edge-3-pc-5044839"
+  "https://www.hotukdeals.com/deals/tt-isle-of-man-ride-on-the-edge-3-pc-5044839",
+  "https://www.preisjaeger.at/gutschein/electra-2-monate-abo-kostenfrei-fur-e-auto-strom-ladetarif-373219",
+  "https://www.chollometro.com/ofertas/kipsta-balon-de-futbol-hibrido-club-ball-light-talla-4-2087030",
+  "https://www.hotukdeals.com/deals/lego-f1-display-truck-with-audi-f1-race-car-5044843",
+  "https://www.hotukdeals.com/deals/formula-1-model-car-assortment-5044842",
+  "https://www.hotukdeals.com/deals/jamara-remote-control-car-assortment-5044841",
+  "https://www.hotukdeals.com/deals/8p-off-per-litre-of-fuel-when-spending-ps60-instore-exclusions-apply-5044840"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795480166.0874343,
-  "ebay": 1795479854.290543
+  "ebay": 1795480813.853868
  },
  "ebay_seen": {
   "187110721591": 139.1,
