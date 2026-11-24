@@ -59,22 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/asus-vivobook-15-f1504ma-bq316-ordenador-portatil-156-full-hd-intel-core-5-320-16gb-ram-512gb-ssd-2088061",
-  "https://www.chollometro.com/ofertas/under-armour-ua-bps-ascend-al-zapatillasninos-tallas-315-33-335-34-2088060",
-  "https://www.chollometro.com/ofertas/invicta-speedway-movimiento-japones-2088057",
-  "https://www.chollometro.com/ofertas/alan-wake-ii-edicion-deluxe-ps5-2088055",
-  "https://nl.pepper.com/aanbiedingen/mario-kart-world-switch-2-429106",
-  "https://www.hotukdeals.com/deals/samsung-shop-get-samsung-tab-a11-64gb-samsung-buds-pro-4-5045593",
-  "https://www.hotukdeals.com/deals/sony-playstation-5-digital-slim-console-dualsense-controller-bundle-5045592",
-  "https://www.hotukdeals.com/deals/hg-mould-remover-spray-kills-black-mold-mildew-on-walls-tiles-500ml-5045591",
-  "https://www.hotukdeals.com/deals/guinness-world-records-gamers-edition-2027-5045590",
-  "https://www.hotukdeals.com/deals/acer-aspire-copilot-pc-amd-ryzen-ai-7-16gb-ram-512gb-ssd-16-inch-oled-laptop-5045589",
-  "https://www.hotukdeals.com/deals/hp-omnibook-5-14-laptop-intel-core-5-320-2k-oled-screen-256-gb-ssd-glacier-silver-with-blc-code-5045588",
-  "https://www.hotukdeals.com/deals/historic-sundays-free-entry-6th-december-scotland-5045575",
-  "https://www.hotukdeals.com/deals/ghost-master-resurrection-switch-eshop-5045587",
-  "https://www.mydealz.de/deals/bike24-continental-grand-prix-5000-as-tr-faltreifen-rennrad-25-622-schwarz-fur-3499-eur-versand-2880747",
-  "https://www.mydealz.de/deals/philips-series-900-smart-luftreiniger-mit-air-app-cadr-250-m3h-hepa-nanoprotect-filter-ac095010-in-weiss-bzw-ac095113-in-schwarz-2880746",
-  "https://www.mydealz.de/deals/corsair-2800x-rs-r-argb-micro-atx-pc-gehause-3-reverse-rotor-lufter-panoramaglas-gpu-stutzarm-schwarz-2880745",
   "https://www.mydealz.de/deals/lenovo-thinkcentre-m920q-tiny-i5-8500t-16-gb-ram-512-gb-nvme-netzteil-refurbished-ideal-als-proxmoxhome-assistant-server-2880740",
   "https://www.mydealz.de/deals/iphone-17-pro-silber-256gb-2880743",
   "https://www.mydealz.de/deals/prime-playmobil-mylife-71608-kuche-mit-essplatz-2880742",
@@ -1558,7 +1542,23 @@
   "https://www.hotukdeals.com/deals/oral-b-pro-1-electric-toothbrush-5045966",
   "https://www.hotukdeals.com/deals/optimum-nutrition-electrolyte-sachets-daily-exercise-support-5045965",
   "https://www.hotukdeals.com/deals/msi-versa-300-wireless-8k-gaming-mouse-26000-dpi-66g-196hr-battery-5045964",
-  "https://www.hotukdeals.com/deals/paul-heaton-the-mighty-several-standard-vinyl-5045963"
+  "https://www.hotukdeals.com/deals/paul-heaton-the-mighty-several-standard-vinyl-5045963",
+  "https://www.mydealz.de/deals/volkswagen-polo-trend-barkauf-mit-5000eur-ersparnis-2881020",
+  "https://www.mydealz.de/deals/meta-black-friday-beat-saber-und-mehr-40-rabatt-mit-dem-code-bf2026-2881019",
+  "https://www.preisjaeger.at/gutschein/zalando-lounge-gratis-versand-auf-eure-bestellung-373304",
+  "https://www.dealabs.com/bons-plans/jju-de-societe-looot-gigamic-3468311",
+  "https://www.dealabs.com/bons-plans/dewalt-batterie-xr-li-ion-18v-20ah-3468310",
+  "https://www.dealabs.com/bons-plans/paiement-via-paypal-samsung-galaxy-watch-ultra2-3468309",
+  "https://www.dealabs.com/bons-plans/degustation-gratuite-de-miels-pain-depices-et-nougats-au-moulin-de-labbaye-mancenans-25-3468306",
+  "https://www.dealabs.com/bons-plans/jeu-de-societe-once-upon-a-draft-gigamic-3468308",
+  "https://www.dealabs.com/bons-plans/pc-gamer-black-aqua-rtx-5060-ti-8go-ryzen-5-5600-16go-ddr4-3468307",
+  "https://www.dealabs.com/bons-plans/the-dark-knight-la-trilogie-4k-ultra-hd-blu-ray-3468305",
+  "https://www.chollometro.com/ofertas/sillon-relax-manual-devon-color-marron-2088700",
+  "https://www.chollometro.com/ofertas/nintendo-switch-2-kirby-air-riders-2088697",
+  "https://www.chollometro.com/ofertas/recopilacion-de-transformers-hasbro-figuras-2-en-1-enlaces-de-figuras-varias-en-descripcion-2088696",
+  "https://www.hotukdeals.com/deals/original-source-mint-tea-tree-shower-gel-4-x-1000ml-xxl-mega-value-pump-bottle-ps1092-ps976-with-ss-5045972",
+  "https://www.hotukdeals.com/deals/kenco-millicano-americano-instant-coffee-6-x-90g-tins-multipack-5045971",
+  "https://www.hotukdeals.com/deals/the-snaffling-pig-co-meat-heat-pork-crackling-hot-sauce-gift-set-5045970"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795557522.2058704,
-  "ebay": 1795557208.7076247
+  "ebay": 1795558173.752623
  },
  "ebay_seen": {
   "187110721591": 139.1,
