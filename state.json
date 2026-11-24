@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-24T22:30:16+00:00"
+   "checked": "2026-11-24T23:01:43+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-24T22:30:26+00:00"
+   "checked": "2026-11-24T23:01:52+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-24T22:30:31+00:00"
+   "checked": "2026-11-24T23:01:58+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,38 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-24T22:30:40+00:00"
+   "checked": "2026-11-24T23:02:07+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-24T22:30:45+00:00"
+   "checked": "2026-11-24T23:02:12+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-24T22:30:50+00:00"
+   "checked": "2026-11-24T23:02:17+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-24T22:30:35+00:00"
+   "checked": "2026-11-24T23:02:03+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/gigabyte-go27q24g-monitor-woled-27-qhd-240-hz-por-32999-pccomponentes-2088119",
-  "https://www.chollometro.com/ofertas/hibron-zte-luz-emergencia-baliza-v16-homologada-dgt-con-geolocalizacion-2088118",
-  "https://www.chollometro.com/ofertas/2-x-cepillo-electrico-infantil-oral-b-io-kids-angel-de-lilo-stitch-by-disney-3-modos-1-recambio-temporizador-con-musica-2088117",
-  "https://www.chollometro.com/ofertas/recopilacion-zapatillas-deportivas-hasta-el-68-de-descuento-puma-on-running-i-nike-ultimas-tallas-2088116",
-  "https://www.chollometro.com/ofertas/pulsera-pandora-moments-2-charms-por-7064-eur-7-eur-para-futura-compra-coste-efectivo-6364-eur-2088115",
-  "https://www.chollometro.com/ofertas/colhogar-pure-moist-8x80-papel-higienico-humedo-desechable-por-el-wc-sin-alcohol-para-pieles-sensibles-dermatologicamente-testado-2088113",
-  "https://www.chollometro.com/ofertas/tv-samsung-mini-led-m70h-65-4k-ultrahd-50hz-smart-tv-tizen-hdr10-vrr-alexa-2088112",
   "https://nl.pepper.com/aanbiedingen/black-friday-40-korting-op-alle-plex-pass-pakketten-plex-429110",
   "https://www.hotukdeals.com/deals/nikon-monarch-m5-10-x-42-outdoor-binoculars-waterproof-ed-glass-phase-corrected-nitrogen-filled-5045620",
   "https://www.hotukdeals.com/deals/adidas-terrex-tracefinder-plus-gtx-waterproof-trail-running-shoes-black-with-code-event-5045619",
@@ -1558,7 +1551,14 @@
   "https://www.hotukdeals.com/deals/cherry-g80-3000n-rgb-mechanical-keyboard-mx-silent-red-uk-layout-black-5046007",
   "https://www.hotukdeals.com/deals/tommy-hilfiger-jeans-women-logo-lightweight-t-shirt-dark-night-navy-5046005",
   "https://www.hotukdeals.com/deals/calvin-klein-accessories-glossy-foil-logo-bauletto-shoulder-bag-black-5046004",
-  "https://www.hotukdeals.com/deals/vueling-return-flights-to-barcelona-from-manchester-man-from-ps26-birmingham-bhx-from-ps28-jan-feb-2027-one-under-seat-bag-incl-5046006"
+  "https://www.hotukdeals.com/deals/vueling-return-flights-to-barcelona-from-manchester-man-from-ps26-birmingham-bhx-from-ps28-jan-feb-2027-one-under-seat-bag-incl-5046006",
+  "https://www.mydealz.de/deals/carrera-hybrid-speedcore-challenge-racing-set-150-ferrari-296-gt3-app-steuerung-ki-gegner-simulierter-abrieb-temp-at-primemuller-2881036",
+  "https://www.preisjaeger.at/deals/info-neues-urteil-zu-homeoffice-arbeitgeber-muss-fur-internet-bezahlen-373307",
+  "https://www.dealabs.com/bons-plans/lot-de-10-culottes-taille-haute-a-140eurunite-3468357",
+  "https://www.chollometro.com/ofertas/silence-proshell-3l-chaqueta-senderismo-tercera-capa-2088760",
+  "https://www.chollometro.com/ofertas/philips-gozero-sparkling-water-maker-sifon-agua-con-gas-1-l-blanco-2088759",
+  "https://www.chollometro.com/ofertas/under-armour-hg-armour-comp-ss-camiseta-para-hombre-hombre-pack-de-1-2088757",
+  "https://www.hotukdeals.com/deals/womens-summer-floral-romper-sleeveless-beach-dress-vintage-mini-playsuit-5046008"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795559411.5794892,
+  "geizhals": 1795561298.01836,
   "ebay": 1795560984.4019463
  },
  "ebay_seen": {
