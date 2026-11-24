@@ -59,20 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/funko-pop-sayings-lord-of-the-rings-gimli-2087319",
-  "https://www.chollometro.com/ofertas/2-x-1-nescafe-classic-cafe-soluble-natural-300g-1107eur-cr-2087318",
-  "https://www.chollometro.com/ofertas/maquina-de-granizados-y-bebidas-heladas-ninja-slushi-25-l-2087317",
-  "https://www.chollometro.com/ofertas/nordvpn-2-anos-3-meses-gratis-por-179eurmes-484eur-en-total-2086538",
-  "https://www.hotukdeals.com/deals/24-pack-pepsi-max-dr-pepper-and-diet-coke-ps8-iceland-the-food-warehouse-5045062",
-  "https://www.hotukdeals.com/deals/babyliss-power-smooth-hair-dryer-5045061",
-  "https://www.hotukdeals.com/deals/currys-clearance-deals-tp-link-tapo-c200-full-hd-1080p-ps1797-my-arcade-pac-man-micro-player-pro-game-system-ps229-many-more-below-5045060",
-  "https://www.hotukdeals.com/deals/bedsure-small-dog-blanket-80x60cm-dark-grey-washable-soft-fleece-fluffy-pet-throw-for-dogs-cats-sold-by-bedsure-comfy-pet-fba-5045059",
-  "https://www.hotukdeals.com/deals/spear-jackson-corded-leaf-blower-and-garden-vac-3000w-free-cc-5045058",
-  "https://www.hotukdeals.com/deals/starfox-nintendo-switch-2-5045057",
-  "https://www.mydealz.de/deals/be-quiet-silent-wings-4-pwm-140mm-bl096-lufter-1100rpm-136dba-fdb-lager-5-jahre-garantie-45-cashback-mit-topcashback-2880273",
-  "https://www.mydealz.de/deals/huevattenfall-tink-essential-gradient-lightstrip-2-x-5m-2880271",
-  "https://www.mydealz.de/deals/cbgutscheine-adidas-originals-treziod-20-sneaker-3-farben-2880270",
-  "https://www.mydealz.de/deals/cb-sony-alpha-6400-a-mit-16-50-mm-kit-e-mount-objektiv-2880269",
   "https://www.dealabs.com/bons-plans/la-boite-de-briques-creatives-lego-lego-classic-10696-via-coupon-3467401",
   "https://www.dealabs.com/bons-plans/hikoki-perceuse-a-percussion-18v-dv18dewjz-70-nm-2x5-ah-3467400",
   "https://www.dealabs.com/bons-plans/bosch-dot-4-liquide-de-frein-05-l-3467359",
@@ -1558,7 +1544,21 @@
   "https://www.hotukdeals.com/deals/trendoux-soft-warm-touch-screen-winter-thermal-gloves-men-women-non-slip-grip-elastic-cuff-knit-stretchy-material-5045435",
   "https://www.hotukdeals.com/deals/dewalt-mechanics-set-184pc-dwmt45184-1-5045434",
   "https://www.hotukdeals.com/deals/alaska-soft-close-close-coupled-toilet-dual-flush-4-6ltr-5045433",
-  "https://www.hotukdeals.com/vouchers/ps1-bonus-on-a-ps10-spend-5045431"
+  "https://www.hotukdeals.com/vouchers/ps1-bonus-on-a-ps10-spend-5045431",
+  "https://www.mydealz.de/deals/aldi-nord-mars-und-snickers-eisriegel-5-stuck-248-252-ml-fur-199eur-ohne-app-2880609",
+  "https://www.mydealz.de/gutscheine/20-rabatt-turbopass-black-friday-2026-2880608",
+  "https://www.mydealz.de/deals/woodster-werkzeugkoffer-mwk235-235-teilig-globus-baumarkt-2880607",
+  "https://www.mydealz.de/deals/philips-sonicare-diamondclean-8500-schallzahnburste-18-einstellungen-2-burstenkopfe-reiseetui-mit-ladefunktion-app-steuerung-2880606",
+  "https://www.preisjaeger.at/deals/hofer-brunch-zum-halben-preis-373293",
+  "https://www.preisjaeger.at/deals/philips-rasierer-i9000-elektrischer-nass-und-trockenrasierer-fur-herren-mit-integriertem-trimmer-373269",
+  "https://www.preisjaeger.at/deals/rode-wireless-me-tx-ultra-kompaktes-drahtlos-mikrofonsystem-373268",
+  "https://www.dealabs.com/bons-plans/aspirateur-laveur-tineco-ifloor-5-breeze-complete-190-w-autonomie-35-min-auto-nettoyage-nettoyage-des-bords-sols-durs-via-coupon-3467764",
+  "https://www.dealabs.com/bons-plans/cmf-by-nothing-buds-2-ecouteurs-sans-fil-avec-anc-hybride-de-48-db-autonomie-de-55-heures-driver-pmi-de-11-mm-6-micros-hdip55-orange-3467760",
+  "https://www.dealabs.com/bons-plans/lego-tournesols-ref-40524-3467745",
+  "https://nl.pepper.com/aanbiedingen/pokemon-pikachu-puppetronic-realfx-interactieve-knuffel-at-amazon-429080",
+  "https://nl.pepper.com/aanbiedingen/only-sons-onsloom-slim-fit-jeans-heren-donkerblauw-429053",
+  "https://www.hotukdeals.com/deals/furtalk-mens-winter-earflap-beanie-fleece-lined-warm-knitted-outdoor-hat-5045440",
+  "https://www.hotukdeals.com/deals/colorful-battle-ax-b850m-t-wifi-v14-gaming-motherboard-m-atx-form-wifi-6e-ddr5-2dimm-ddr5-7200mhz-oc-5045439"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795525384.1262345,
-  "ebay": 1795526031.286765
+  "ebay": 1795526956.1051342
  },
  "ebay_seen": {
   "187110721591": 139.1,
