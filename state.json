@@ -59,18 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/70mai-m310-plus-2k-dash-cam-1440p-wifi-night-vision-143-car-camera-with-code-at-70mai-overseas-store-5045626",
-  "https://www.hotukdeals.com/deals/adidas-essentials-3-stripes-cotton-leggings-5045625",
-  "https://www.hotukdeals.com/deals/comfee-143l-chest-freezer-convertible-refrigeration-mode-rcc146wh2uke-inverter-compressor-white-5045624",
-  "https://www.mydealz.de/deals/apple-iphone-17-pro-max-1tb-speicher-12gb-ram-apple-a19-pro-69-120hz-oled-3000nits-premium-zustand-esim-12m-garantie-2880778",
-  "https://www.mydealz.de/deals/lokal-dulmen-napoleon-freestyle-365-gasgrill-2880776",
-  "https://www.mydealz.de/deals/amazon-joybuy-tcl-75t8d-75-zoll-qd-mini-led-4k-smart-tv-2026-144-hz-hdmi-21-dolby-vision-onkyo-21-google-tv-fur-799-eur-2880775",
-  "https://www.mydealz.de/deals/microsoft-offizieller-xbox-series-xs-wireless-controller-pulse-red-xbox-onexbox-series-xspc-2863014",
-  "https://www.mydealz.de/deals/sonos-era-100-sl-2880772",
-  "https://www.preisjaeger.at/deals/black-week-deals-bei-condor-373283",
-  "https://www.dealabs.com/codes-promo/15eur-de-reduction-des-129eur-dachat-sur-une-grande-selection-darticles-3467950",
-  "https://www.dealabs.com/bons-plans/msi-mag-255xf-ecran-gaming-300-hz-25-pouces-3467949",
-  "https://www.dealabs.com/bons-plans/chaussures-nike-air-max-alpha-trainer-6-premium-du-385-au-495-3467947",
   "https://www.dealabs.com/bons-plans/olight-i3t-2-mini-lampe-de-poche-200-lumens-avec-pince-de-poche-reversible-3467943",
   "https://www.dealabs.com/bons-plans/sketchers-max-flex-gris-disponible-en-taillz-de-40-a-45-3467945",
   "https://www.chollometro.com/ofertas/amazon-kids-tablet-8-2088155",
@@ -1558,7 +1546,19 @@
   "https://www.dealabs.com/bons-plans/xbox-manette-sans-fil-noir-carbone-series-xs-one-pc-televiseurs-mobiles-3468367",
   "https://www.chollometro.com/ofertas/nici-peluche-piu-piu-con-corazon-de-jengibre-en-caja-regalo-24-cm-2088774",
   "https://www.chollometro.com/ofertas/disgaea-mayhem-deluxe-edition-switch-2088772",
-  "https://www.hotukdeals.com/deals/razer-firefly-v2-pro-phantom-green-edition-rgb-gaming-mouse-mat-5046017"
+  "https://www.hotukdeals.com/deals/razer-firefly-v2-pro-phantom-green-edition-rgb-gaming-mouse-mat-5046017",
+  "https://www.dealabs.com/bons-plans/ecran-pc-gaming-incurve-samsung-odyssey-g5-s32cg554eu-3468370",
+  "https://www.dealabs.com/bons-plans/mouche-bebe-electrique-nosiboo-pro-3468369",
+  "https://www.chollometro.com/cupones/15-descuento-en-experiencity-2088776",
+  "https://www.chollometro.com/ofertas/bosch-juego-de-herramientas-manuales-universal-17-piezas-2088775",
+  "https://nl.pepper.com/aanbiedingen/hmapp-25-korting-bij-besteding-vanaf-eur50-429162",
+  "https://nl.pepper.com/aanbiedingen/gisada-ambassador-men-eau-de-parfum-100ml-429161",
+  "https://www.hotukdeals.com/deals/arrival-5-shorts-5046025",
+  "https://www.hotukdeals.com/deals/john-lewis-5x-20g-elemis-cleansing-balm-5046024",
+  "https://www.hotukdeals.com/deals/swizzels-squashies-sweets-drumstick-squashies-original-raspberry-and-milk-flavour-single-pack-120g-5046023",
+  "https://www.hotukdeals.com/deals/clinique-anti-blemish-solutions-foundation-in-expresso-ps523-max-ss-5046022",
+  "https://www.hotukdeals.com/deals/crest-oversized-t-shirt-5046021",
+  "https://www.hotukdeals.com/deals/niofind-mens-trainer-socks-cotton-ankle-socks-for-men-women-breathable-sports-sock-for-running-walking-gym-multipack-6-pairs-5046020"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795561298.01836,
-  "ebay": 1795561947.3269312
+  "ebay": 1795562872.779034
  },
  "ebay_seen": {
   "187110721591": 139.1,
