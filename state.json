@@ -59,9 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/jack-links-beef-jerky-teriyaki-flavour-multipack-of-12-x-25g-bags-high-protein-meat-snack-made-with-premium-beef-5044369",
-  "https://www.hotukdeals.com/deals/james-pleased-to-meet-you-double-vinyl-5044368",
-  "https://www.hotukdeals.com/deals/vintage-inns-gift-card-20-off-on-ps40-or-more-valid-same-as-dinning-card-5044367",
   "https://www.hotukdeals.com/deals/john-lewis-treats-of-christmas-1-12-december-5044366",
   "https://www.hotukdeals.com/deals/46-in-1-usb-cordless-brushless-rotary-tool-25000rpm-5-speed-mini-grinder-pen-choice-etets-store-5044365",
   "https://www.mydealz.de/deals/black-week-beim-1-fc-nurnberg-ausweich-trikot-20-2879759",
@@ -1558,7 +1555,10 @@
   "https://www.dealabs.com/bons-plans/cible-de-flechettes-winmau-blade-serie-vendeur-tiers-3467204",
   "https://www.dealabs.com/bons-plans/manette-sans-fil-turtle-beach-rematch-rgb-noir-pour-nintendo-switch-2-3467203",
   "https://www.hotukdeals.com/deals/pukka-2-steak-kidney-puff-pastry-piesminced-beef-onion-pies-5044907",
-  "https://www.hotukdeals.com/deals/hot-wheels-mario-kart-characters-diecast-cars-4-pack-assortment-free-cc-5044906"
+  "https://www.hotukdeals.com/deals/hot-wheels-mario-kart-characters-diecast-cars-4-pack-assortment-free-cc-5044906",
+  "https://www.mydealz.de/deals/fissler-schnellkochtopf-26cm-vitavit-premium-2880148",
+  "https://www.preisjaeger.at/deals/hofer-50-auf-adventkalender-adventskranze-373243",
+  "https://www.dealabs.com/bons-plans/deshumidificateur-connecte-bosch-dry-6000i-20l24h-42-m2-37-dba-3467207"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795499010.4945276,
-  "ebay": 1795498699.2887516
+  "ebay": 1795499658.4065325
  },
  "ebay_seen": {
   "187110721591": 139.1,
