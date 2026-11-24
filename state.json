@@ -59,20 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/vol-aller-retour-paris-cdg-tokyo-japon-du-26-novembre-au-9-decembre-avec-bagage-soute-23-kgs-3467818",
-  "https://www.dealabs.com/bons-plans/sony-bravia-theatre-system-6-51-compatible-atmos-sans-fil-3467817",
-  "https://www.dealabs.com/bons-plans/myvisa-6-mois-dabonnement-a-ubisoft-offert-sans-engagement-3467816",
-  "https://www.dealabs.com/bons-plans/urlife-f1l-48v-75ah-velo-electrique-pliable-14-moteur-250w-3467815",
-  "https://www.dealabs.com/bons-plans/sehmua-4g-lte-solar-surveillance-camera-with-sim-card-3467813",
-  "https://www.dealabs.com/bons-plans/enceinte-bluetooth-jbl-charge-essential-3-40-w-rms-bluetooth-auracast-ip67-20-h-dautonomie-fonction-batterie-externe-3457483",
-  "https://www.dealabs.com/bons-plans/montre-omega-seamaster-automatique-turquoise-41-mm-3467811",
-  "https://www.dealabs.com/bons-plans/baseus-stylet-pour-ipad-2018-2025-17h-dautonomie-3467810",
-  "https://www.dealabs.com/bons-plans/montre-casio-ae-1500wh-8bvef-3467809",
-  "https://www.dealabs.com/bons-plans/seance-de-cinema-offerte-pour-le-film-asterix-le-royaume-de-nubie-aux-enfants-et-1-adulte-1-enfant-cinema-le-rio-la-farlede-83-3467808",
-  "https://www.dealabs.com/bons-plans/novilla-matelas-mousse-160x200-cm-graphene-airyflow-accueil-memoire-de-forme-epaisseur-30-cm-3467807",
-  "https://www.chollometro.com/ofertas/portal-de-belen-con-luz-playmobil-christmas-2087908",
-  "https://www.chollometro.com/ofertas/lego-star-wars-busto-de-darth-vader-2087910",
-  "https://www.chollometro.com/ofertas/ps5-eden-genesis-collectors-edition-2087911",
   "https://www.chollometro.com/ofertas/ecovacs-deebot-x5-omni-aspiradora-robot-con-estacion-todo-en-uno-12800-pa-2087909",
   "https://www.chollometro.com/ofertas/national-geographic-kit-de-geologia-mas-de-100-experimentos-para-ninos-cultiva-cristales-crea-un-volcan-y-coleccion-de-rocas-experimentos-2087905",
   "https://www.chollometro.com/ofertas/reebok-zapatillas-smash-edge-junior-tallas-pequenas-2087903",
@@ -1558,7 +1544,21 @@
   "https://www.chollometro.com/ofertas/oral-b-io-2-cepillo-de-dientes-electrico-en-varios-colores-verde-y-negro-incluye-1-cabezal-1-estuche-de-viaje-2088492",
   "https://www.chollometro.com/ofertas/pampling-sudaderas-a-1874eur-2088503",
   "https://www.hotukdeals.com/deals/vichy-dercos-anti-hair-loss-shampoo-energy-with-aminexil-200ml-5045841",
-  "https://www.hotukdeals.com/deals/star-wars-galactic-racer-xbox-series-x-5045840"
+  "https://www.hotukdeals.com/deals/star-wars-galactic-racer-xbox-series-x-5045840",
+  "https://www.mydealz.de/deals/amazon-prime-mymind-schreibtischunterlage-black-friday-angebot-2-er-set-80x40cm-pu-leder-und-kork-2880946",
+  "https://www.mydealz.de/deals/squier-classic-vibe-70s-stratocaster-vintage-blonde-e-gitarre-2880945",
+  "https://www.mydealz.de/deals/twitch-drop-dead-by-daylight-terrifier-in-game-abzeichen-banner-anhanger-bis-zum-2212-pc-xbox-playstation-2880944",
+  "https://www.mydealz.de/deals/technisat-digitradio-2-dab-bluetooth-ukw-2880943",
+  "https://www.dealabs.com/bons-plans/nouvel-amazon-echo-time-3468175",
+  "https://www.dealabs.com/bons-plans/telemetre-laser-bosch-professionnel-glm-40-31-3468174",
+  "https://www.dealabs.com/bons-plans/lumix-s9-noir-en-kit-avec-40mm-f2-carte-sd-batterie-garantie-5-ans-3468167",
+  "https://www.dealabs.com/bons-plans/star-wars-dark-forces-remaster-sur-switch-3468173",
+  "https://www.dealabs.com/bons-plans/amazon-echo-dot-max-nouvelle-generation-3468172",
+  "https://www.dealabs.com/bons-plans/moulinex-cookeo-touch-wifi-multicuiseur-intelligent-6-l-noir-3468171",
+  "https://www.chollometro.com/ofertas/cartera-piel-mandarina-duck-2088517",
+  "https://www.chollometro.com/ofertas/aeg-vinoteca-bajo-encimera-para-40-botellas-2088515",
+  "https://www.hotukdeals.com/deals/reebok-mens-crossfit-combine-trainers-sizes-75-8-sold-by-happy-sport-ltd-wcode-5045843",
+  "https://www.hotukdeals.com/deals/ea-sports-fc-27-standard-edition-pc-5045842"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795549979.670065,
-  "ebay": 1795549666.16178
+  "ebay": 1795550628.3960297
  },
  "ebay_seen": {
   "187110721591": 139.1,
