@@ -59,20 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/sejour-6j5n-pour-2-a-tossa-de-mar-espagne-hotel-don-juan-tossa-4-demi-pension-chambre-avec-balcon-du-4-au-9-avril-139eurprs-3467907",
-  "https://www.dealabs.com/bons-plans/forfait-mobile-serie-free-appels-sms-mms-illimites-150-go-5g-et-30-go-mois-depuis-europe-et-dom-pendant-1-an-sans-engagement-3467906",
-  "https://www.dealabs.com/bons-plans/extrait-de-ginseng-noir-coreen-2x50g-3467905",
-  "https://www.chollometro.com/ofertas/teclado-gaming-compacto-60-razer-huntsman-mini-negro-red-switch-opto-mecanicos-teclas-pbt-usb-c-qwerty-es-2088082",
-  "https://www.chollometro.com/ofertas/mr-wonderful-libreta-a5-con-hojas-pautadas-a-rayas-40-paginas-2088081",
-  "https://www.chollometro.com/ofertas/preparador-de-biberones-tommee-tippee-perfect-prep-day-night-v2-por-10399-eur-en-amazon-2088080",
-  "https://www.chollometro.com/ofertas/nikon-af-s-nikkor-85mm-f18g-lente-negro-tarjeta-nital-4-anos-de-garantia-2088079",
-  "https://www.chollometro.com/ofertas/reloj-citizen-promaster-divers-resistencia-al-agua-de-20-bar-2088078",
-  "https://www.chollometro.com/ofertas/kids-licensing-botella-plastico-tacto-suave-650ml-de-harry-potter-2088077",
-  "https://www.chollometro.com/ofertas/puma-vikky-star-zapatillas-mujer-tallas-36-42-2088075",
-  "https://www.chollometro.com/ofertas/ps5-marvel-lobezno-2088076",
-  "https://www.chollometro.com/ofertas/mr-wonderful-libreta-a6-de-peluche-lazy-conejo-2088074",
-  "https://www.chollometro.com/ofertas/libreria-infantil-de-madera-de-5-niveles-cosyland-2088073",
-  "https://www.chollometro.com/ofertas/barra-de-sonido-lg-s95ar-con-dolby-atmos-810w-y-915-canales-altavoces-traseros-inalambricos-incluidos-negro-2088068",
   "https://www.hotukdeals.com/deals/lilys-kitchen-tasty-cuts-in-gravy-complete-nutrition-cat-wet-food-multipack-48x85g-5045606",
   "https://www.hotukdeals.com/deals/spend-ps60-get-8p-off-every-litre-of-fuel-5045605",
   "https://www.hotukdeals.com/deals/puma-deviate-nitro-elite-4-running-shoes-men-size-6-12-5045604",
@@ -1558,7 +1544,21 @@
   "https://www.dealabs.com/bons-plans/tv-tcl-65-65c6k-pro-mini-led-164-cm-3468321",
   "https://www.dealabs.com/bons-plans/crimson-desert-day-one-edition-ps5-3468320",
   "https://www.chollometro.com/ofertas/jersey-semicusne-cremallera-2088708",
-  "https://www.hotukdeals.com/deals/nintendo-switch-2-console-pokemon-pokopia-free-cc-5045979"
+  "https://www.hotukdeals.com/deals/nintendo-switch-2-console-pokemon-pokopia-free-cc-5045979",
+  "https://www.mydealz.de/deals/songmics-aktenschrank-aus-stahl-abschliessbar-2881026",
+  "https://www.preisjaeger.at/deals/adidas-runfalcon-6-cloudfoam-laufschuh-gr-38-23-49-13-373339",
+  "https://www.preisjaeger.at/gutschein/hofer-fotos-bis-60-auf-verschiedene-fotoprodukte-373338",
+  "https://www.dealabs.com/bons-plans/aspirateur-laveur-mova-m10-3468329",
+  "https://www.dealabs.com/bons-plans/ecran-pc-lg-smart-monitor-va-32-4k-uhd-hdr10-webos-3468328",
+  "https://www.dealabs.com/bons-plans/degustation-gratuite-dhuitres-a-la-poissonnerie-du-leman-a-locean-maxilly-sur-leman-74-3468326",
+  "https://www.chollometro.com/ofertas/toshiba-microondas-20l-700w-2088713",
+  "https://nl.pepper.com/aanbiedingen/philips-airfryers-tot-60-euro-cashback-vanaf-1-12-429156",
+  "https://nl.pepper.com/aanbiedingen/parkside-performance-12-v-accu-schroefboormachine-35-nm-excl-accu-429155",
+  "https://www.hotukdeals.com/deals/delonghi-magnifica-evo-freestanding-coffee-machine-ecam29083tb-titanium-black-5045984",
+  "https://www.hotukdeals.com/deals/metal-gear-solid-master-collection-volume-2-day-one-edition-nintendo-switch-2-5045983",
+  "https://www.hotukdeals.com/deals/lexar-nq100-256gb-25-sata-iii-internal-ssd-5045982",
+  "https://www.hotukdeals.com/deals/3x-farina-molino-caputo-pizzeria-by-pizza-napoli-pizza-flour-pizza-flour-1kg-5045981",
+  "https://www.hotukdeals.com/deals/nintendo-switch-2-console-resort-bundle-with-zelda-ocarina-of-time-hot-wheels-lego-batman-hogwarts-legacy-free-cc-5045980"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795557522.2058704,
-  "ebay": 1795558173.752623
+  "ebay": 1795559097.4427419
  },
  "ebay_seen": {
   "187110721591": 139.1,
