@@ -59,20 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/donner-guitarra-electrica-39-pulgadas-dst-100r-para-principiantes-2088157",
-  "https://www.chollometro.com/ofertas/funko-pop-deluxe-disney-sleeping-beauty-aurora-stained-glass-2088156",
-  "https://www.hotukdeals.com/deals/surf-passion-bloom-laundry-washing-with-5045640",
-  "https://www.hotukdeals.com/deals/zelda-breath-of-the-wild-nintendo-switch-used-sold-by-flipne-5045639",
-  "https://www.hotukdeals.com/deals/ghd-chronos-max-ps16370-ps50-worth-of-boots-advantage-points-5045638",
-  "https://www.hotukdeals.com/deals/70mai-a210-dash-cam-1080p-hdr-night-vision-built-in-gps-wi-fi6-24h-parking-surveillance-wcode-at-70mai-official-store-5045637",
-  "https://www.hotukdeals.com/deals/mylee-starter-midi-gel-nail-polish-kit-worth-ps122-now-ps5253-with-code-extra-5045630",
-  "https://www.hotukdeals.com/deals/4-night-woolacombe-coastal-escape-4-people-golden-coast-holiday-park-shoreline-apartment-plus-1-17-21-dec-2026-5045636",
-  "https://www.hotukdeals.com/deals/terramaster-f4-425-pro-nas-4-bay-intel-n305-8-core-8gb-ram-diskless-5045635",
-  "https://www.hotukdeals.com/deals/cyberpowerpc-joyb1010-gaming-desktop-pc-intel-core-ultra-7-265kf-nvidia-geforce-rtx-5070-12gb-32gb-ddr5-1tb-nvme-ssd-windows-11-home-5045634",
-  "https://www.mydealz.de/deals/cb-deal-adidas-x-fortnite-streettalk-chalk-white-40-47-13-2872216",
-  "https://www.mydealz.de/deals/lego-speed-champions-zeitmaschine-aus-zuruck-in-die-zukunft-77256-amazon-prime-2880788",
-  "https://www.mydealz.de/deals/adidas-dfb-deutschland-26-heimtrikot-damen-weiss-jz4559-fur-2898-eur-inkl-versand-picksport-nur-gr-xs-2880787",
-  "https://www.mydealz.de/deals/amazon-prime-ponal-express-holzleim-gunstig-wie-fast-nie-mit-spar-abo-nochmal-bis-zu-15560eur-weniger-2880786",
   "https://www.mydealz.de/deals/downie-4-mac-app-zum-videos-herunterladen-gerade-30-gunstiger-2880784",
   "https://www.mydealz.de/deals/momax-delonghi-magnifica-s-ecam-22105b-2880773",
   "https://www.preisjaeger.at/deals/corsair-clipper-pro-mini-60-socd-gaming-tastatur-mit-hall-effekt-373311",
@@ -1558,7 +1544,21 @@
   "https://www.hotukdeals.com/deals/emma-basic-udon-noodles-250g-source-of-protein-quick-cooking-time-vegan-5046035",
   "https://www.hotukdeals.com/deals/morrisons-cards-from-25p-5046034",
   "https://www.hotukdeals.com/deals/kexin-512gb-external-ssd-usb-c-up-to-1050mbs-dual-usb-flash-drive-5046033",
-  "https://www.hotukdeals.com/deals/proton-vpn-plus-24-month-plan-ps4776-ps199month-up-to-110-cashback-excl-vat-ps796-net-cost-at-proton-vpn-via-topcashback-5046018"
+  "https://www.hotukdeals.com/deals/proton-vpn-plus-24-month-plan-ps4776-ps199month-up-to-110-cashback-excl-vat-ps796-net-cost-at-proton-vpn-via-topcashback-5046018",
+  "https://www.mydealz.de/deals/penny-alpro-barista-oder-haferdrink-1-l-2881050",
+  "https://www.mydealz.de/deals/macbooks-und-mac-minis-mit-12-rabatt-zum-uvp-auch-auf-proled-macbook-pro-2881049",
+  "https://www.mydealz.de/deals/adidas-herren-runfalcon-5-laufschuhe-fur-2399eur-prime-2881048",
+  "https://www.mydealz.de/deals/remington-quickcut-pro-hc4300-haarschneidemaschine-rasierer-2881047",
+  "https://www.mydealz.de/deals/10eur-newsletter-ab-150eur-mbw-2881046",
+  "https://www.preisjaeger.at/deals/libropagro-18-auf-lagernde-schwarze-druckerpatronen-373310",
+  "https://www.dealabs.com/bons-plans/gants-chauffants-racer-heat-5-179eur-40-chez-outlet-moto-toutes-les-tailles-3468373",
+  "https://www.dealabs.com/bons-plans/msonite-scure-valise-4-roues-69-cm-3468372",
+  "https://www.chollometro.com/ofertas/reolink-4k-360-pt-camara-vigilancia-wifi-exterior-solar-auto-seguimiento-2088794",
+  "https://www.chollometro.com/ofertas/chalky-crown-rotuladores-cristal-borrable-tiza-liquida-2088793",
+  "https://www.chollometro.com/ofertas/fire-tv-stick-4k-plus-ring-intercom-audio-de-amazon-2088795",
+  "https://www.hotukdeals.com/deals/glorious-ghs-eternal-rgb-stereo-gaming-headset-white-5046038",
+  "https://www.hotukdeals.com/deals/surfshark-vpn-27-month-plan-ps58-incl-vat-ps215mth-up-to-100-cashback-excl-vat-ps967-net-at-surfshark-via-topcashback-5046031",
+  "https://www.hotukdeals.com/deals/talkmobile-30gb-unlimited-minutestexts-5046037"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795563185.971217,
-  "ebay": 1795562872.779034
+  "ebay": 1795563834.8618639
  },
  "ebay_seen": {
   "187110721591": 139.1,
