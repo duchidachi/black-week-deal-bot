@@ -59,17 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/bosch-akku-rasenmaher-citymower-18v-32-300-18-volt-1x-akku-40-ah-schnittbreite-32-cm-rasenflachen-bis-300-m2-2880664",
-  "https://www.mydealz.de/deals/bosch-professional-gbl-18v-120-akku-geblase-fur-4758-eur-bei-banemo-2880663",
-  "https://www.mydealz.de/deals/ea-fc-27-fc-nintendo-switch-2-gkc-at-mediamarkt-abholpreis-2880661",
-  "https://www.mydealz.de/deals/philips-sonicare-diamondclean-9000-schallzahnburste-hx921484-21-einstellungen-andruckkontrolle-2-burstenkopfe-reiseetui-2880660",
-  "https://www.preisjaeger.at/deals/playmobil-animals-friends-lustige-geburtstagsparty-373298",
-  "https://www.dealabs.com/bons-plans/diablo-iv-age-of-hatred-collection-jeu-nintendo-switch-2-3467839",
-  "https://www.dealabs.com/bons-plans/robot-multifonction-3-en-1-ninja-crushboss-3467838",
-  "https://www.dealabs.com/bons-plans/tv-65-tcl-65pf650-4k-ultra-hd-hdr-10-fire-tv-dolby-vision-atmos-et-alexa-3467836",
-  "https://www.dealabs.com/bons-plans/tv-oled-lg-55c6-2026-55-139-cm-4k-ultra-hd-experience-gaming-120hz-smart-tv-3467835",
-  "https://www.chollometro.com/ofertas/garmin-vivoactive-5-negro-12-pulgadas-amoled-gps-nfc-11-dias-5atm-smartwatch-4-colores-2087949",
-  "https://www.chollometro.com/ofertas/joma-chandal-hombre-para-hombre-varios-colores-2087946",
   "https://www.chollometro.com/ofertas/tapo-l630-pack-de-4-foco-inteligente-wi-fi-2087948",
   "https://www.chollometro.com/ofertas/msi-mag-27cq6f-27-qhd-va-180hz-curvo-2087947",
   "https://www.chollometro.com/ofertas/lego-minecraft-el-creeper-2087945",
@@ -1558,7 +1547,18 @@
   "https://www.hotukdeals.com/deals/whiskas-dentabites-adult-cat-dental-treats-with-chicken-6-x-60g-5045864",
   "https://www.hotukdeals.com/deals/28-feb-5-mar-5-nights-bb-at-4-residence-intouriste-agadir-morocco-flights-from-manchester-based-on-2-adults-ps190pp-5045863",
   "https://www.hotukdeals.com/deals/viners-4l-champagne-bucket-stainless-steel-with-brushed-silver-finish-5045862",
-  "https://www.hotukdeals.com/deals/remnant-2-ps5-5045861"
+  "https://www.hotukdeals.com/deals/remnant-2-ps5-5045861",
+  "https://www.dealabs.com/bons-plans/cafe-grains-espresso-ultime-3468205",
+  "https://www.dealabs.com/bons-plans/clavier-magnetique-keychron-k2-he-3468204",
+  "https://www.chollometro.com/ofertas/botella-adidas-unisex-adulto-tiro-075-l-2088557",
+  "https://www.chollometro.com/ofertas/zapatillas-mujer-puma-smash-wns-v2-l-2088553",
+  "https://www.chollometro.com/ofertas/calvin-klein-cartera-hombre-graphic-billfold-de-piel-2088558",
+  "https://www.hotukdeals.com/deals/all-saints-saints-sinners-25th-anniversary-black-red-marble-double-vinyl-edition-5045873",
+  "https://www.hotukdeals.com/deals/apothecary-the-icons-edit-gift-set-free-cc-5045872",
+  "https://www.hotukdeals.com/deals/logitech-g735-wireless-gaming-headset-lightspeed-bluetooth-5045871",
+  "https://www.hotukdeals.com/deals/amazon-essentials-324-823cm-extra-large-foldable-nylon-duffel-bag-for-travelstorage-with-zipped-pockets-150l-2268kg-capacity-5045870",
+  "https://www.hotukdeals.com/deals/adidas-originals-aston-villa-fc-202627-away-shirt-all-sizes-free-cc-5045869",
+  "https://www.hotukdeals.com/deals/ps50-off-ps500-spend-at-samsung-with-paypal-black-friday-offer-5045850"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795551867.830909,
-  "ebay": 1795551553.8230784
+  "ebay": 1795552518.0265286
  },
  "ebay_seen": {
   "187110721591": 139.1,
