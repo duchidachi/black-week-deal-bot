@@ -59,12 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/playmobil-knights-gran-castillo-de-los-caballeros-del-leon-72112-183-piezas-2086151",
-  "https://www.chollometro.com/ofertas/hombre-munich-coleccion-hombre-y-unisexmochilas-2086150",
-  "https://www.chollometro.com/ofertas/xiaomi-smart-band-8-con-clip-para-correr-2086148",
-  "https://www.chollometro.com/ofertas/sd-toys-figura-pokis-batman-2086147",
-  "https://www.chollometro.com/ofertas/joma-sudadera-crew-v-hombre-sudadera-hombre-2086146",
-  "https://nl.pepper.com/aanbiedingen/instant-pot-duo-crisp-elektrische-snelkookpan-en-heteluchtfriteuse-76-l-11-in-1-2-deksels-428908",
   "https://www.hotukdeals.com/deals/bowflex-kettlebell-5044357",
   "https://www.hotukdeals.com/deals/remington-shea-soft-hair-dryer-5044358",
   "https://www.hotukdeals.com/deals/black-grape-its-great-when-youre-straight-yeah-limited-vinyl-5044356",
@@ -1558,7 +1552,13 @@
   "https://www.hotukdeals.com/deals/lego-pokemon-72157-smart-play-charmander-and-geodudes-cavern-clash-set-free-cc-5044887",
   "https://www.hotukdeals.com/deals/20-off-dining-out-gift-cards-toby-miller-and-carter-5044886",
   "https://www.mydealz.de/deals/hhvdedie-drei-vinyl-bix-folge-41-50-2880127",
-  "https://www.dealabs.com/bons-plans/aspirateur-laveur-sans-fil-dyson-cleanwash-hygiene-via-4980eur-en-credit-fidelite-3467184"
+  "https://www.dealabs.com/bons-plans/aspirateur-laveur-sans-fil-dyson-cleanwash-hygiene-via-4980eur-en-credit-fidelite-3467184",
+  "https://www.mydealz.de/deals/gta-san-andreas-definitive-google-playstore-2880128",
+  "https://www.dealabs.com/bons-plans/20-gousses-de-vanille-noire-bourbon-madagascar-14-16-cm-gourmet-grand-cru-gousses-premium-souples-et-charnues-la-vanillerie-coupon-3467185",
+  "https://www.dealabs.com/bons-plans/nettoyeur-detacheur-bissell-spotclean-pro-advanced-1558d-750w-via-26eur-en-credit-fidelite-3466744",
+  "https://www.hotukdeals.com/deals/christmas-earrings-for-women-christmas-hat-earrings-sweet-5044890",
+  "https://www.hotukdeals.com/deals/winfun-junior-jet-2-in-1-ride-on-toy-5044889",
+  "https://www.hotukdeals.com/deals/scarf-for-women-uk-winter-scarves-shawls-ladies-christmas-birthday-gifts-5044888"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795495243.2718859,
-  "ebay": 1795494930.343579
+  "ebay": 1795495892.350931
  },
  "ebay_seen": {
   "187110721591": 139.1,
