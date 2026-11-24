@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-24T01:00:53+00:00"
+   "checked": "2026-11-24T01:32:20+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-24T01:01:03+00:00"
+   "checked": "2026-11-24T01:32:30+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-24T01:01:08+00:00"
+   "checked": "2026-11-24T01:32:35+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,32 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-24T01:01:18+00:00"
+   "checked": "2026-11-24T01:32:44+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-24T01:01:23+00:00"
+   "checked": "2026-11-24T01:32:49+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-24T01:01:27+00:00"
+   "checked": "2026-11-24T01:32:54+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 514.9,
    "last": 514.9,
-   "checked": "2026-11-24T01:01:13+00:00"
+   "checked": "2026-11-24T01:32:40+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/jack-jones-jactrent-birdeye-calcetines-para-hombre-paquete-de-3-phantom-talla-unica-paquete-de-3-2086129",
   "https://www.chollometro.com/ofertas/bufanda-psg-x-daniel-hechter-100-algodon-180x78-cm-2086128",
   "https://www.chollometro.com/ofertas/thermaltake-riing-14-rgb-radiator-fan-tt-premium-edition-3-pack-2086132",
   "https://www.chollometro.com/ofertas/mr-wonderful-estuche-rigido-con-compartimento-de-rejilla-y-diseno-3d-morsa-2086127",
@@ -1558,7 +1557,8 @@
   "https://www.hotukdeals.com/deals/tapo-tl61-5-5m-smart-led-strip-light-multicolour-music-sync-led-lights-16m-colours-sync-to-sound-cuttable-3m-adhesive-no-hub-required-5044859",
   "https://www.mydealz.de/deals/play-store-resize-image-resize-photos-2880110",
   "https://www.hotukdeals.com/deals/amazon-basics-stylus-pencil-compatible-with-ipad-2018-or-later-generation-pen-with-palm-rejection-5044862",
-  "https://www.hotukdeals.com/deals/simplehuman-toilet-brush-with-holder-stainless-steel-white-5044861"
+  "https://www.hotukdeals.com/deals/simplehuman-toilet-brush-with-holder-stainless-steel-white-5044861",
+  "https://www.mydealz.de/deals/asus-rog-strix-xg32ucwmg-32-zoll-4k-uhd-qd-oled-2880111"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795482048.0640442,
+  "geizhals": 1795483935.3162572,
   "ebay": 1795483622.9588172
  },
  "ebay_seen": {
