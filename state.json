@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-24T02:03:45+00:00"
+   "checked": "2026-11-24T02:35:06+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-24T02:03:54+00:00"
+   "checked": "2026-11-24T02:35:16+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-24T02:03:59+00:00"
+   "checked": "2026-11-24T02:35:21+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,33 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-24T02:04:09+00:00"
+   "checked": "2026-11-24T02:35:30+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-24T02:04:14+00:00"
+   "checked": "2026-11-24T02:35:36+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-24T02:04:18+00:00"
+   "checked": "2026-11-24T02:35:40+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 514.9,
    "last": 514.9,
-   "checked": "2026-11-24T02:04:04+00:00"
+   "checked": "2026-11-24T02:35:26+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/max-build-more-premium-coleccion-fugglers-paquete-de-4-de-zuru-juguete-sorpresa-con-bloques-hasta-167-piezas-2086143",
-  "https://www.chollometro.com/ofertas/adidas-superstar-elegantes-comodas-y-de-calidad-2086142",
   "https://www.chollometro.com/ofertas/bluey-bonbell-bluey-vehiculo-familiar-de-4-ruedas-con-1-figura-y-2-tablas-de-surf-2086140",
   "https://www.chollometro.com/ofertas/navidad-en-a-coruna-hotel-3-con-desayuno-y-free-tour-opcional-desde-30-eurpersona-2086139",
   "https://www.chollometro.com/ofertas/fisura-bolsa-estanca-impermeable-bolsa-impermeable-de-5-litros-azul-bolsa-seca-con-cierre-enrollable-y-correa-de-hombro-4-colores-2086138",
@@ -1558,7 +1556,9 @@
   "https://www.hotukdeals.com/deals/your-name-blu-ray-free-click-collect-5044870",
   "https://www.hotukdeals.com/deals/joseph-joseph-cleanforce-garlic-press-and-ginger-crusher-5044872",
   "https://www.hotukdeals.com/deals/aretha-franklin-original-album-series-5-pack-cd-box-set-free-collection-from-amazon-locker-5044874",
-  "https://www.hotukdeals.com/deals/one-battle-after-another-2025-4k-dolby-vision-atmos-to-buy-5044873"
+  "https://www.hotukdeals.com/deals/one-battle-after-another-2025-4k-dolby-vision-atmos-to-buy-5044873",
+  "https://www.mydealz.de/deals/bluebrixx-pro-108817-die-drei-toteninsel-diorama-1699-klemmbausteine-2880116",
+  "https://www.hotukdeals.com/deals/swizzels-squashies-sweets-rhubarb-and-custard-flavour-single-pack-140g-ss-58p-5044875"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795485820.1239712,
+  "geizhals": 1795487701.0644963,
   "ebay": 1795487388.515298
  },
  "ebay_seen": {
