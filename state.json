@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-24T23:01:43+00:00"
+   "checked": "2026-11-24T23:33:11+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-24T23:01:52+00:00"
+   "checked": "2026-11-24T23:33:21+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-24T23:01:58+00:00"
+   "checked": "2026-11-24T23:33:25+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,47 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-24T23:02:07+00:00"
+   "checked": "2026-11-24T23:33:35+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-24T23:02:12+00:00"
+   "checked": "2026-11-24T23:33:40+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-24T23:02:17+00:00"
+   "checked": "2026-11-24T23:33:44+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-24T23:02:03+00:00"
+   "checked": "2026-11-24T23:33:30+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/olight-i3t-2-mini-lampe-de-poche-200-lumens-avec-pince-de-poche-reversible-3467943",
-  "https://www.dealabs.com/bons-plans/sketchers-max-flex-gris-disponible-en-taillz-de-40-a-45-3467945",
-  "https://www.chollometro.com/ofertas/amazon-kids-tablet-8-2088155",
-  "https://www.chollometro.com/ofertas/zona-prohibida-blu-ray-2022-2088154",
-  "https://www.chollometro.com/ofertas/smartwatch-deportivo-polar-ignite-3-pantalla-128-amoled-gps-doble-frecuencia-sueno-y-recuperacion-2088153",
-  "https://www.chollometro.com/ofertas/colcha-reversible-3-piezas-325x320cm-2088152",
-  "https://www.chollometro.com/ofertas/meshy-ia-generacion-3d-200-creditos-gratis-hasta-70-dto-en-planes-mensuales-anuales-y-estudiantes-2086250",
-  "https://www.chollometro.com/ofertas/islandia-vuelos-directos-de-ida-y-vuelta-por-solo-155eur-abril-mayo-salidas-desde-bcn-2088151",
-  "https://www.chollometro.com/ofertas/chaqueta-under-armour-hero-looks-azul-para-hombre-2088150",
-  "https://www.chollometro.com/ofertas/gorro-de-tigre-lindo-de-peluche-de-invierno-animal-con-orejas-de-50-cm-2088149",
-  "https://www.hotukdeals.com/deals/jd-gym-1st-month-5045633",
-  "https://www.hotukdeals.com/deals/bosch-h7-477-pure-light-halogen-headlight-bulb-12-v-55-w-original-quality-ps280-ss-5045632",
-  "https://www.mydealz.de/deals/lokal-edeka-nord-coppenrath-wiese-weizenbrotchen-089eur-2880783",
-  "https://www.mydealz.de/gutscheine/15-rabatt-bei-driveandpark-2880782",
-  "https://www.mydealz.de/deals/amazon-prime-nick-jr-party-adventure-ps5-2880781",
-  "https://www.mydealz.de/deals/russell-hobbs-heissluftfritteuse-xxl-83-l-2880780",
   "https://www.mydealz.de/deals/puma-unisex-runner-sneaker-besteller-nr-1-in-herren-sneaker-black-friday-angebot-2880779",
   "https://www.preisjaeger.at/deals/libropagro-18-auf-lagernde-schwarze-druckerpatronen-373310",
   "https://www.dealabs.com/bons-plans/etui-de-transport-pdp-commuter-case-elite-edition-ou-deluxe-travel-pour-nintendo-switch-3467951",
@@ -1558,7 +1542,23 @@
   "https://www.hotukdeals.com/deals/swizzels-squashies-sweets-drumstick-squashies-original-raspberry-and-milk-flavour-single-pack-120g-5046023",
   "https://www.hotukdeals.com/deals/clinique-anti-blemish-solutions-foundation-in-expresso-ps523-max-ss-5046022",
   "https://www.hotukdeals.com/deals/crest-oversized-t-shirt-5046021",
-  "https://www.hotukdeals.com/deals/niofind-mens-trainer-socks-cotton-ankle-socks-for-men-women-breathable-sports-sock-for-running-walking-gym-multipack-6-pairs-5046020"
+  "https://www.hotukdeals.com/deals/niofind-mens-trainer-socks-cotton-ankle-socks-for-men-women-breathable-sports-sock-for-running-walking-gym-multipack-6-pairs-5046020",
+  "https://www.mydealz.de/deals/waipu-tv-perfekt-plus-12-monate-prepaid-2881045",
+  "https://www.mydealz.de/deals/tcl-ff2411wa2de-waschmaschine-11-kg-mit-bldc-inverter-motor-energieklasse-a-2881044",
+  "https://www.dealabs.com/bons-plans/fnac-one-ecran-pc-gaming-27-samsung-odyssey-oled-g5-g50sf-qhd-144-hz-003-ms-50-eur-credites-via-fnac-one-soit-289-eur-3468371",
+  "https://www.chollometro.com/ofertas/puma-teamrise-jersey-camiseta-unisex-adulto-2088787",
+  "https://www.chollometro.com/ofertas/ps5-death-stranding-2-on-the-beach-2088786",
+  "https://www.chollometro.com/ofertas/ps5-rayman-30th-anniversary-edition-2088784",
+  "https://www.chollometro.com/ofertas/xbox-series-x-ace-combat-8-wings-of-theve-2088783",
+  "https://www.chollometro.com/ofertas/smartwatch-garmin-vivoactive-5-blanco-amoled-4gb-gps-36g-pulsometro-avanzado-2088782",
+  "https://www.chollometro.com/ofertas/corbero-placa-flex-induccion-corbero-ccim3bl74flex-3-zonas-60cm-negra-2088781",
+  "https://www.chollometro.com/ofertas/ps5-saros-2088779",
+  "https://www.chollometro.com/ofertas/nici-set-peluche-cebra-stripey-85-x-65-x-10-cm-8-cm-marron-2088778",
+  "https://www.hotukdeals.com/deals/the-cheeky-panda-bamboo-facial-tissues-cube-box-5046032",
+  "https://www.hotukdeals.com/deals/pyrex-cookfreeze-recipient-care-glass-size-with-lid-205-x-205-x-75-cm-without-lid-20-x-20-x-7-cm-5046030",
+  "https://www.hotukdeals.com/deals/loreal-paris-infallible-skin-ink-foundation-concealer-ps317-max-ss-5046029",
+  "https://www.hotukdeals.com/deals/free-no7-touch-of-glamour-face-and-eye-palette-with-the-purchase-of-two-products-from-278-5046027",
+  "https://www.hotukdeals.com/deals/belkin-connect-8-in-1-usb-c-hub-4k-60hz-hdmi-ethernet-100w-pd-5046026"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795561298.01836,
+  "geizhals": 1795563185.971217,
   "ebay": 1795562872.779034
  },
  "ebay_seen": {
