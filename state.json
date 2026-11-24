@@ -60,18 +60,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/nipogi-p2-mini-pc-ryzen-5-5400u-16-go-ram-256-go-ssd-3467692",
-  "https://www.dealabs.com/bons-plans/aspirateur-balai-sans-fil-puissant-v20s-85-kpa680-w80-min-3467691",
-  "https://www.dealabs.com/bons-plans/table-a-rabat-ikea-nordviken-blanche-2-a-4-personnes-3467690",
-  "https://www.chollometro.com/ofertas/2-entradas-al-tibidabo-por-39-eur-en-total-1950-eur-por-persona-con-pista-de-hielo-y-funicular-incluidos-barcelona-2087777",
-  "https://www.chollometro.com/ofertas/tefal-ingenio-emotion-juego-de-8-piezas-12-accesorios-acero-inoxidable-2087775",
-  "https://www.chollometro.com/ofertas/matalascanas-huelva-on-city-resort-4-todo-incluido-2-noches-desde-229eurpersona-feb-octubre-2087780",
-  "https://www.chollometro.com/ofertas/shelly-wave-pro-1pm-interruptor-inteligente-repetidor-z-wave-con-medidor-de-consumo-energetico-2087773",
-  "https://www.chollometro.com/ofertas/rowenta-xforce-flex-1260-allergy-aspiradora-escoba-sin-cable-de-320-w-potencia-suelos-sofas-y-pared-filtra-hasta-999-de-particulas-2087769",
-  "https://nl.pepper.com/aanbiedingen/octopath-traveler-ii-voor-playstation-5-at-bol-429065",
-  "https://nl.pepper.com/aanbiedingen/inkbird-int-14-bw-draadloze-bbq-vleesthermometer-met-4-sondes-wifi-bluetooth-voor-eur9699-at-inkbird-429064",
-  "https://nl.pepper.com/aanbiedingen/honor-600-lite-8gb128gb-honor-watch-x5-play-smartwatch-at-joybuy-429063",
-  "https://nl.pepper.com/aanbiedingen/quietcomfort-ultra-gen-2-laagste-prijs-ooit-429062",
   "https://www.hotukdeals.com/deals/lego-harry-potter-flying-ford-anglia-76424-5045382",
   "https://www.hotukdeals.com/deals/samsung-galaxy-watch9-40mm-graphite-smart-watch-wifi-5045381",
   "https://www.hotukdeals.com/deals/the-immaculate-collection-vinyl-5045380",
@@ -1559,7 +1547,19 @@
   "https://www.hotukdeals.com/deals/inchs-cloudy-hazy-apple-cider-24-x-440ml-can-5045746",
   "https://www.hotukdeals.com/deals/ugreen-15w-for-magsafe-charger-stand-2-in-1-qi2-wireless-charger-stand-prime-members-sold-by-ugreen-fba-5045745",
   "https://www.hotukdeals.com/deals/tcl-75-75p7l-4k-qled-google-tv-hdr10-dolby-vision-game-master-5045744",
-  "https://www.hotukdeals.com/deals/oral-b-pro-cross-action-electric-toothbrush-heads-pack-of-4-ps759-ps679-ss-5045743"
+  "https://www.hotukdeals.com/deals/oral-b-pro-cross-action-electric-toothbrush-heads-pack-of-4-ps759-ps679-ss-5045743",
+  "https://www.mydealz.de/deals/enders-heizstrahler-elegance-20-heizpilz-2880865",
+  "https://www.dealabs.com/bons-plans/semaine-bmw-connected-drive-3468060",
+  "https://www.dealabs.com/bons-plans/baskets-nike-air-max-90-drift-homme-noirnoirnoir-du-355-au-495-3468059",
+  "https://www.chollometro.com/ofertas/tv-65-oled-s95h-4k-sin-reflejos-samsung-vision-ai-smart-tv-2026-reembolso-200eur-incluido-con-cupon-cumpleanos-hby-o-bfw-desde-1082eur-2088347",
+  "https://www.chollometro.com/ofertas/tv-oled-65-lg-oled65g64lw-2088352",
+  "https://www.chollometro.com/ofertas/lee-jeans-hombre-corte-recto-regular-extreme-motion-maddox-2088350",
+  "https://www.chollometro.com/ofertas/harry-potter-calendario-adviento-2026-con-charms-para-2088348",
+  "https://www.hotukdeals.com/deals/40-off-selected-mens-styles-and-selected-womens-styles-5045755",
+  "https://www.hotukdeals.com/deals/shark-ninja-cryoglow-clinic-face-mask-5045754",
+  "https://www.hotukdeals.com/deals/httpsbootbuddycomproductsstarter-pack-5045753",
+  "https://www.hotukdeals.com/deals/tomb-raider-iv-v-vi-remastered-nintendo-switch-pegi-16-free-click-collect-5045752",
+  "https://www.hotukdeals.com/deals/httpsbootbuddycomproductsultimate-pack-5045751"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1572,7 +1572,7 @@
  ],
  "last_run": {
   "geizhals": 1795544290.6357563,
-  "ebay": 1795543975.1667433
+  "ebay": 1795544939.9368355
  },
  "ebay_seen": {
   "187110721591": 139.1,
