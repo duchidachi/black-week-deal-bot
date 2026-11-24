@@ -59,7 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/samsunug-galaxy-z-flip-8-creme-256-go-via-200eur-dodr-3466663",
   "https://www.dealabs.com/bons-plans/gants-moto-cross-ksk-noirgris-a-1868eur-au-lieu-de-2490eur-chez-leclerc-3466662",
   "https://www.dealabs.com/codes-promo/10-de-remise-y-compris-sur-les-destockages-black-friday-3466637",
   "https://www.dealabs.com/bons-plans/sneakers-adidas-originals-sl-72-og-imprime-vache-taille-du-36-au-42-3466661",
@@ -1558,7 +1557,8 @@
   "https://www.dealabs.com/bons-plans/ecran-pc-27-gigabyte-go27q24g-2k-qhd-oled-gaming-monitor-2560-x-1440-240hz-003ms-3467180",
   "https://www.mydealz.de/deals/rode-nt1-signature-grossmembran-kondensatormikrofon-schwarz-inkl-spinne-popschutz-xlr-kabel-fur-10599-eur-amazon-2880123",
   "https://www.mydealz.de/deals/sammeldeal-adidas-handball-spezial-8-farben-viele-grossen-4250eur-5999eur-2880122",
-  "https://www.dealabs.com/bons-plans/image-converter-heic-to-jpg-gratuit-sur-android-dematerialise-play-store-3467182"
+  "https://www.dealabs.com/bons-plans/image-converter-heic-to-jpg-gratuit-sur-android-dematerialise-play-store-3467182",
+  "https://www.preisjaeger.at/deals/dyson-r2-nurovi-washdry-saugroboter-dyson-carboat-handstaubsauger-373220"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795493360.4100993,
-  "ebay": 1795494009.343995
+  "ebay": 1795494930.343579
  },
  "ebay_seen": {
   "187110721591": 139.1,
