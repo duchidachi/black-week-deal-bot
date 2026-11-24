@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-24T00:29:31+00:00"
+   "checked": "2026-11-24T01:00:53+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-24T00:29:41+00:00"
+   "checked": "2026-11-24T01:01:03+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-24T00:29:45+00:00"
+   "checked": "2026-11-24T01:01:08+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,36 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-24T00:29:55+00:00"
+   "checked": "2026-11-24T01:01:18+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-24T00:30:00+00:00"
+   "checked": "2026-11-24T01:01:23+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-24T00:30:04+00:00"
+   "checked": "2026-11-24T01:01:27+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 514.9,
    "last": 514.9,
-   "checked": "2026-11-24T00:29:50+00:00"
+   "checked": "2026-11-24T01:01:13+00:00"
   }
  },
  "mydealz_seen": [
-  "https://nl.pepper.com/aanbiedingen/25-korting-op-interrailpassen-428902",
-  "https://nl.pepper.com/aanbiedingen/scanpan-rvs-5-laags-koekenpan-24-28-cm-428893",
-  "https://www.hotukdeals.com/deals/jack-daniels-tennessee-whiskey-1-litre-clubcard-price-5044336",
-  "https://www.hotukdeals.com/deals/ninja-foodi-staysharp-k32006uk-6-piece-knife-block-set-with-scissors-and-sharpener-5044335",
-  "https://www.hotukdeals.com/deals/baylis-harding-jojoba-vanilla-almond-oil-pamper-gift-set-using-voucher-5044334",
   "https://www.hotukdeals.com/deals/calvin-klein-ck-one-unisex-eau-de-toilette-for-all-5044333",
   "https://www.hotukdeals.com/deals/nivea-men-time-to-refresh-skincare-gift-set-3-piece-collection-5044332",
   "https://www.hotukdeals.com/deals/samsung-mre65r85hauxxu-65-inch-rgb-4k-ultra-hd-smart-tv-5044331",
@@ -1558,7 +1553,12 @@
   "https://www.hotukdeals.com/deals/anker-usb-c-hub-7-in-1-multi-port-usbc-hub-4k-hdmi-usb-c-adapter-used-like-new-5044849",
   "https://www.hotukdeals.com/deals/ooni-volt-2-electric-pizza-oven-5044848",
   "https://www.hotukdeals.com/deals/sol-de-janeiro-385ml-shower-gel-5044847",
-  "https://www.hotukdeals.com/vouchers/ps7-off-ps70-on-home-and-furniture-via-blue-light-card-5044836"
+  "https://www.hotukdeals.com/vouchers/ps7-off-ps70-on-home-and-furniture-via-blue-light-card-5044836",
+  "https://www.mydealz.de/deals/chatgpt-business-doppelte-nutzung-2-usage-bis-3112-fur-neue-workspaces-erstellung-bis-3011-2880107",
+  "https://www.dealabs.com/bons-plans/super-pack-emma-du-black-friday-plusieurs-tailles-3467166",
+  "https://www.hotukdeals.com/deals/neom-3-pen-pack-calming-5044852",
+  "https://www.hotukdeals.com/deals/pop-up-peekaboo-under-the-sea-a-bubbly-surprise-under-every-flap-5044851",
+  "https://www.hotukdeals.com/deals/battlefield-6-standard-edition-ps5-disc-videogame-english-5044850"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795480166.0874343,
+  "geizhals": 1795482048.0640442,
   "ebay": 1795481734.3792818
  },
  "ebay_seen": {
