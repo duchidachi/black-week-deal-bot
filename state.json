@@ -59,20 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/recopilacion-alessi-en-amazon-diseno-italiano-rebajado-un-18-50-desde-14-eur-2086339",
-  "https://www.chollometro.com/ofertas/star-wars-puzzle-9000-elementos-darth-vader-collection-prime-uft-2086336",
-  "https://www.chollometro.com/ofertas/x2-valor-cacao-puro-en-polvo-100-natural-250-g-2086337",
-  "https://www.chollometro.com/ofertas/lego-botanicals-bambu-de-la-suerte-10344-2086335",
-  "https://www.chollometro.com/ofertas/zapatillas-hombre-skechers-slip-ins-max-cushioning-elite-20-azul-marino-sin-cordones-2086333",
-  "https://www.hotukdeals.com/deals/adidas-adizero-evo-sl-exo-running-shoes-5044469",
-  "https://www.hotukdeals.com/deals/victorinox-swiss-army-non-knife-jetsetter-pocket-bladeless-multitool-7-functions-5044468",
-  "https://www.hotukdeals.com/deals/acer-c27-d-intel-core-5-16gb-ram-512gb-ssd-27-inch-all-in-one-desktop-pc-5044467",
-  "https://www.hotukdeals.com/deals/acer-c24-d-intel-core-5-16gb-ram-512gb-ssd-24-inch-all-in-one-desktop-pc-5044466",
-  "https://www.hotukdeals.com/deals/dementium-the-ward-ps5-5044465",
-  "https://www.mydealz.de/deals/advanzia-mastercard-gold-kreditkarte-60eur-60eur-kwk-keine-jahresgebuhr-keine-fremdwahrungsgebuhr-2879810",
-  "https://www.mydealz.de/deals/nedis-smartlife-outdoor-stecker-zigbee-30-ip44-leistungsmesser-3680-w-type-f-2879822",
-  "https://www.mydealz.de/deals/metabo-multifunktionstisch-mwb-100-2879805",
-  "https://www.dealabs.com/bons-plans/grand-theft-auto-vi-playstation-5-3466788",
   "https://www.dealabs.com/bons-plans/karting-pour-enfants-a-pedales-lupilu-3466785",
   "https://www.dealabs.com/bons-plans/chargeur-rapide-novoo-100w-3-ports-3466784",
   "https://www.chollometro.com/ofertas/ravensburger-puzzle-pokemon-40000-piezas-celebration-journey-adultos-2086344",
@@ -1558,7 +1544,21 @@
   "https://www.hotukdeals.com/deals/maltesers-milk-chocolate-crunchy-honeycomb-centre-sweets-gift-box-110g-ss-ps143ps127-5044984",
   "https://www.hotukdeals.com/deals/isense-kitchenfit-5i-series-dh5i904bwbc-9kg-heat-pump-dryer-a-rated-in-white-5-year-warranty-auto-discount-at-checkout-5044983",
   "https://www.hotukdeals.com/deals/apple-macbook-air-apple-m5-chip-16gb-ram-512gb-ssd-13-inch-5044980",
-  "https://www.hotukdeals.com/deals/spend-ps50-or-more-get-ps5-wall-credit-account-specific-5044982"
+  "https://www.hotukdeals.com/deals/spend-ps50-or-more-get-ps5-wall-credit-account-specific-5044982",
+  "https://www.mydealz.de/deals/kabel-o2-home-s-50-o2-tv-inkl-netflix-disney-fur-eff-3540-eurmonat-o2-mobilfunkkunden-eff-2540-eur-12-monate-tv-gratis-2880203",
+  "https://www.mydealz.de/deals/humble-choice-jahrliche-mitgliedschaft-2880202",
+  "https://www.preisjaeger.at/deals/nuk-perfect-match-perfect-start-babyflaschenset-9-teilig-4-anti-kolik-flaschen-temperaturanzeige-schnuller-burste-373253",
+  "https://www.preisjaeger.at/deals/joola-aluterna-outdoor-tischtennisplatte-wetterfest-6-mm-alu-verbundplatte-klappbar-rollen-373252",
+  "https://www.dealabs.com/bons-plans/samsung-galaxy-s26-ultra-smartphone-android-5g-avec-galaxy-ai-256-go-chargeur-secteur-rapide-25w-inclus-odr-200eur-3467295",
+  "https://www.dealabs.com/bons-plans/baskets-montantes-converse-chuck-taylor-all-star-move-platform-3467294",
+  "https://www.dealabs.com/bons-plans/lot-de-2-interrupteurs-connectes-meross-mss815-matter-modules-encastrables-wifi-avec-suivi-de-consommation-vendeur-tiers-3467293",
+  "https://www.dealabs.com/bons-plans/poussette-ultra-compacte-cybex-libelle-ultra-legere-harnais-ajustable-a-une-main-compatible-cabine-et-coques-bebe-noir-vert-ou-rose-3467292",
+  "https://www.dealabs.com/bons-plans/lego-creator-3-en-1-bateau-pirate-mythique-3467291",
+  "https://www.dealabs.com/bons-plans/15-supplimentaire-avec-unidays-3467289",
+  "https://nl.pepper.com/aanbiedingen/stanley-stht0-70885-multipuntas-34-bits-428977",
+  "https://www.hotukdeals.com/deals/turtle-wax-51795-original-liquid-car-wax-hard-shell-shine-500ml-5044990",
+  "https://www.hotukdeals.com/deals/50-off-microsoft-365-personal-for-higher-education-students-ps399month-includes-copilot-1tb-onedrive-premium-office-apps-5044989",
+  "https://www.hotukdeals.com/deals/elf-lash-n-roll-mascara-ps472-with-voucher-brown-or-black-5044988"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795504657.0038662,
-  "ebay": 1795504344.4606478
+  "ebay": 1795505305.5535905
  },
  "ebay_seen": {
   "187110721591": 139.1,
