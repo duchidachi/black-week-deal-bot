@@ -59,9 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/survival-kids-sur-nintendo-switch-2-3466648",
-  "https://www.chollometro.com/ofertas/mr-wonderful-boli-borrable-con-charm-panda-rojo-2086131",
-  "https://www.chollometro.com/ofertas/real-madrid-alfombrilla-raton-grande-35x60-cm-oficial-2086130",
   "https://www.chollometro.com/ofertas/jack-jones-jactrent-birdeye-calcetines-para-hombre-paquete-de-3-phantom-talla-unica-paquete-de-3-2086129",
   "https://www.chollometro.com/ofertas/bufanda-psg-x-daniel-hechter-100-algodon-180x78-cm-2086128",
   "https://www.chollometro.com/ofertas/thermaltake-riing-14-rgb-radiator-fan-tt-premium-edition-3-pack-2086132",
@@ -1558,7 +1555,10 @@
   "https://www.hotukdeals.com/deals/cher-forever-amazon-exclusive-turquoise-cover-cd-free-collection-from-amazon-locker-5044857",
   "https://www.dealabs.com/bons-plans/mcdonalds-3467167",
   "https://www.hotukdeals.com/deals/call-of-duty-modern-warfare-4-xbox-series-xs-ww-key-5044860",
-  "https://www.hotukdeals.com/deals/tapo-tl61-5-5m-smart-led-strip-light-multicolour-music-sync-led-lights-16m-colours-sync-to-sound-cuttable-3m-adhesive-no-hub-required-5044859"
+  "https://www.hotukdeals.com/deals/tapo-tl61-5-5m-smart-led-strip-light-multicolour-music-sync-led-lights-16m-colours-sync-to-sound-cuttable-3m-adhesive-no-hub-required-5044859",
+  "https://www.mydealz.de/deals/play-store-resize-image-resize-photos-2880110",
+  "https://www.hotukdeals.com/deals/amazon-basics-stylus-pencil-compatible-with-ipad-2018-or-later-generation-pen-with-palm-rejection-5044862",
+  "https://www.hotukdeals.com/deals/simplehuman-toilet-brush-with-holder-stainless-steel-white-5044861"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795482048.0640442,
-  "ebay": 1795482699.7444937
+  "ebay": 1795483622.9588172
  },
  "ebay_seen": {
   "187110721591": 139.1,
