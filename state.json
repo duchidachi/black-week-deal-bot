@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-24T02:35:06+00:00"
+   "checked": "2026-11-24T03:06:28+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-24T02:35:16+00:00"
+   "checked": "2026-11-24T03:06:37+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-24T02:35:21+00:00"
+   "checked": "2026-11-24T03:06:42+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,32 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-24T02:35:30+00:00"
+   "checked": "2026-11-24T03:06:53+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-24T02:35:36+00:00"
+   "checked": "2026-11-24T03:06:58+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-24T02:35:40+00:00"
+   "checked": "2026-11-24T03:07:02+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 514.9,
    "last": 514.9,
-   "checked": "2026-11-24T02:35:26+00:00"
+   "checked": "2026-11-24T03:06:47+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/fisura-bolsa-estanca-impermeable-bolsa-impermeable-de-5-litros-azul-bolsa-seca-con-cierre-enrollable-y-correa-de-hombro-4-colores-2086138",
   "https://www.chollometro.com/ofertas/freidora-de-aire-doble-taurus-air-fry-digital-duo-2086137",
   "https://www.chollometro.com/ofertas/dash-cam-mini-pro-camara-4k-para-coche-2160p-giracion-de-360-tarjeta-64gb-incluida-vision-nocturna-control-app-2086136",
   "https://www.chollometro.com/ofertas/transformers-cyberworld-bumblebee-chispa-de-poder-energon-surge-figura-de-accion-de-28-cm-con-luces-y-sonidos-2086135",
@@ -1558,7 +1557,8 @@
   "https://www.mydealz.de/deals/bluebrixx-pro-108817-die-drei-toteninsel-diorama-1699-klemmbausteine-2880116",
   "https://www.hotukdeals.com/deals/swizzels-squashies-sweets-rhubarb-and-custard-flavour-single-pack-140g-ss-58p-5044875",
   "https://www.hotukdeals.com/deals/3-x-large-500ml-nivea-men-fresh-sport-shower-gel-3-in-1-cleansing-body-wash-for-men-3-for-2-ps340-for-3-on-ss-5044877",
-  "https://www.hotukdeals.com/deals/corsair-frame-4000d-rs-modular-midi-tower-pc-gaming-case-black-5044876"
+  "https://www.hotukdeals.com/deals/corsair-frame-4000d-rs-modular-midi-tower-pc-gaming-case-black-5044876",
+  "https://www.dealabs.com/bons-plans/jeu-dembouts-32-pieces-dewalt-3467174"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795487701.0644963,
+  "geizhals": 1795489583.2554245,
   "ebay": 1795489271.0239954
  },
  "ebay_seen": {
