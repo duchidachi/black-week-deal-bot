@@ -59,8 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/lego-super-heroes-76330-batman-logo-i-678-teile-i-2-minifiguren-i-joybuy-2879778",
-  "https://www.mydealz.de/deals/lego-stores-baue-eine-lego-geschenkbox-und-nimm-sie-kostenlos-mit-nach-hause-2879777",
   "https://www.mydealz.de/deals/zendure-solarflow-2400-pro-set-528-kwh-speicher-ab3000l-smart-meter-2400-w-4-mppt-2879776",
   "https://www.mydealz.de/gutscheine/fressnapf-friends-20-auf-fast-alles-ab-99-eur-mit-code-sparen20-nur-online-23-2411-haustier-katzen-und-hundefutter-uvm-2879775",
   "https://www.mydealz.de/deals/tefal-ice-force-kochmesser-20cm-fur-1443eur-statt-1877eur-2879774",
@@ -1558,7 +1556,9 @@
   "https://nl.pepper.com/aanbiedingen/emporio-armani-because-its-you-100-ml-eau-de-parfum-428970",
   "https://www.hotukdeals.com/deals/nike-air-max-270-mens-shoes-2-colours-size-55-14-via-app-wdfc-code-free-to-join-free-delivery-for-members-5044919",
   "https://www.hotukdeals.com/deals/star-wars-dark-forces-remaster-nintendo-switch-ps5-pegi-12-free-click-collect-5044918",
-  "https://www.hotukdeals.com/deals/fitflop-womens-iqushion-ergonomic-flip-flops-toe-thong-sandals-flip-flops-5044895"
+  "https://www.hotukdeals.com/deals/fitflop-womens-iqushion-ergonomic-flip-flops-toe-thong-sandals-flip-flops-5044895",
+  "https://www.mydealz.de/deals/instinct-3-solar-45mm-schwarz-2880164",
+  "https://www.hotukdeals.com/deals/beats-studio-pro-wireless-bluetooth-noise-cancelling-headphones-personalised-spatial-audio-usb-c-5044921"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795500891.4794087,
-  "ebay": 1795500580.1225762
+  "ebay": 1795501539.9813237
  },
  "ebay_seen": {
   "187110721591": 139.1,
