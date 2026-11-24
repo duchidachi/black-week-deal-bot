@@ -59,8 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/eurolite-led-tmh-bar-s120-moving-head-spots-cabeza-movil-2086144",
-  "https://www.chollometro.com/ofertas/transformers-cyberworld-bumblebee-chispa-de-poder-energon-surge28-cm-luz-y-sonidorobot-vehiculo6-2086145",
   "https://www.chollometro.com/ofertas/max-build-more-premium-coleccion-fugglers-paquete-de-4-de-zuru-juguete-sorpresa-con-bloques-hasta-167-piezas-2086143",
   "https://www.chollometro.com/ofertas/adidas-superstar-elegantes-comodas-y-de-calidad-2086142",
   "https://www.chollometro.com/ofertas/bluey-bonbell-bluey-vehiculo-familiar-de-4-ruedas-con-1-figura-y-2-tablas-de-surf-2086140",
@@ -1558,7 +1556,9 @@
   "https://www.dealabs.com/bons-plans/nvidia-geforce-rtx-5060-8go-3467173",
   "https://www.hotukdeals.com/deals/lucozade-energy-orange-330ml-pack-of-24-ps675ps637-ss-5044871",
   "https://www.hotukdeals.com/deals/your-name-blu-ray-free-click-collect-5044870",
-  "https://www.hotukdeals.com/deals/joseph-joseph-cleanforce-garlic-press-and-ginger-crusher-5044872"
+  "https://www.hotukdeals.com/deals/joseph-joseph-cleanforce-garlic-press-and-ginger-crusher-5044872",
+  "https://www.hotukdeals.com/deals/aretha-franklin-original-album-series-5-pack-cd-box-set-free-collection-from-amazon-locker-5044874",
+  "https://www.hotukdeals.com/deals/one-battle-after-another-2025-4k-dolby-vision-atmos-to-buy-5044873"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795485820.1239712,
-  "ebay": 1795486467.796598
+  "ebay": 1795487388.515298
  },
  "ebay_seen": {
   "187110721591": 139.1,
