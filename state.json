@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-24T18:18:16+00:00"
+   "checked": "2026-11-24T18:49:48+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-24T18:18:25+00:00"
+   "checked": "2026-11-24T18:49:58+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-24T18:18:30+00:00"
+   "checked": "2026-11-24T18:50:03+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,44 +34,32 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-24T18:18:40+00:00"
+   "checked": "2026-11-24T18:50:13+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-24T18:18:45+00:00"
+   "checked": "2026-11-24T18:50:18+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-24T18:18:49+00:00"
+   "checked": "2026-11-24T18:50:22+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 452.14,
-   "checked": "2026-11-24T18:18:35+00:00",
+   "checked": "2026-11-24T18:50:08+00:00",
    "alerted_at": 452.14
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/carte-graphique-sapphire-pulse-radeon-rx-9070-xt-gaming-16gb-3467707",
-  "https://www.chollometro.com/ofertas/reloj-casio-g-shock-all-black-2087811",
-  "https://www.chollometro.com/ofertas/freidora-de-aire-ninja-47-l-2087809",
-  "https://www.chollometro.com/ofertas/ef-ecoflow-stream-max-192-kwh-por-479eur-antes-620eur-2087807",
-  "https://www.chollometro.com/ofertas/smart-tv-qled-55-138-cm-tcl-55t69c-con-ia-4k-uhd-60-hz-dolby-vision-hdr10-hdr10-hlg-dolby-atmos-dts-virtual-xz-socios-club-2087803",
-  "https://www.chollometro.com/ofertas/dekit-grupo-rimobel-ness-mesa-de-centro-elevable-ness-blanco-41-x-99-x-60-cm-2087804",
-  "https://www.chollometro.com/ofertas/johnnie-walker-black-label-whisky-escoces-blended-12-anos-700-ml-2087801",
-  "https://www.chollometro.com/ofertas/lego-ferrari-f1-michael-schumacher-2087799",
-  "https://www.chollometro.com/ofertas/lego-technic-mercedes-amg-f1-w14-e-2087797",
-  "https://www.chollometro.com/ofertas/puma-ultra-6-match-fgag-zapatillas-de-futbol-2087795",
-  "https://nl.pepper.com/aanbiedingen/plantsio-ai-slimme-plantenpot-robot-diverse-kleuren-429069",
-  "https://www.hotukdeals.com/deals/pro-breeze-omnidry-20l-quiet-low-energy-dehumidifier-with-smart-app-control-white-black-wcode-5045404",
   "https://www.hotukdeals.com/deals/fiskars-long-handled-grass-shears-with-servo-system-length-100-cm-5045403",
   "https://www.hotukdeals.com/deals/lego-art-31218-japanese-cherry-blossom-landscape-building-set-5045402",
   "https://www.hotukdeals.com/deals/cadbury-heroes-premium-festive-advent-230g-5045401",
@@ -1559,7 +1547,19 @@
   "https://www.hotukdeals.com/deals/longines-mens-avigation-bigeye-41mm-chronograph-watch-5045772",
   "https://www.hotukdeals.com/deals/guns-n-roses-appetite-for-destruction-vinyl-5045771",
   "https://www.hotukdeals.com/deals/bosch-43x-extra-hard-screwdriver-bit-set-43-pcs-5045770",
-  "https://www.hotukdeals.com/deals/halo-campaign-evolved-ps5xbox-physical-disk-5045769"
+  "https://www.hotukdeals.com/deals/halo-campaign-evolved-ps5xbox-physical-disk-5045769",
+  "https://www.mydealz.de/deals/mein-schiff-x-shoop-30eur-cashback-100eur-shoop-gutschein-mein-schiff-black-week-ab-629eur-2880880",
+  "https://www.mydealz.de/deals/gzg-tgm-plant-cut-2880878",
+  "https://www.mydealz.de/deals/lumibricks-neoncity-game-stack-2580-teile-2880879",
+  "https://www.mydealz.de/deals/action-nintendo-switch-spiele-code-in-a-box-fur-je-895-eur-ab-0212-z-b-sonic-x-shadow-generations-just-dance-sonic-superstars-2880877",
+  "https://www.dealabs.com/bons-plans/deguisement-femme-princesse-autochtone-taille-sm-3468082",
+  "https://www.dealabs.com/bons-plans/amazon-echo-show-8-nouvelle-generation-ecran-tactile-hd-87-son-spatial-camera-13-mpx-wifi-6e-zigbee-3468077",
+  "https://www.dealabs.com/bons-plans/huawei-watch-gt-7-pro-3468081",
+  "https://www.dealabs.com/bons-plans/possesseurs-dun-jeu-nogravitygames-11-jeux-switch-no-gravity-games-gratuits-sur-switch-dematerialise-store-us-nogravitygamescom-3465620",
+  "https://www.dealabs.com/bons-plans/nocibe-30-sur-les-calendriers-de-lavent-3468078",
+  "https://www.chollometro.com/ofertas/shawscope-volume-four-limited-edition-blu-ray-16-peliculas-shaw-brothers-arrow-video-2088402",
+  "https://www.chollometro.com/ofertas/zapatillas-de-piel-dc-shoes-gaveler-se-2088398",
+  "https://www.hotukdeals.com/deals/mattel-games-liars-uno-card-game-in-storage-tin-ages-7-2-6-players-5045775"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795544290.6357563,
+  "geizhals": 1795546182.5645852,
   "ebay": 1795545868.3534422
  },
  "ebay_seen": {
