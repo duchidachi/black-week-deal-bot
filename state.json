@@ -59,10 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/thetford-porta-potti-365-campingtoilette-92820-weiss-21-l-fakalientank-15-l-spulwassertank-kolbenpumpe-fullstandsanzeige-prime-2879384",
-  "https://www.mydealz.de/gutscheine/schloss-thurn-20-blackweek-rabatt-mit-dem-code-thurn2027-auf-alle-tickets-2879741",
-  "https://www.mydealz.de/deals/hamburgs-billigster-gluhwein-am-rathaus-2879748",
-  "https://www.mydealz.de/deals/lego-bluey-11202-blueys-strandausflug-amazon-primemediamarkt-2879747",
   "https://www.mydealz.de/deals/fluge-qatar-business-class-seoul-ab-2274eur-qsuite-ab-doha-kapstadt-ab-2645eur-hin-zuruck-ab-dusseldorf-munchen-2879746",
   "https://www.preisjaeger.at/deals/lenovo-thinkvision-p27q-40-qhd-monitor-mit-27-zoll-bei-edustore-373200",
   "https://www.dealabs.com/bons-plans/enceinte-colonne-davis-mani-mk2-noir-vendue-a-lunite-3466681",
@@ -1558,7 +1554,11 @@
   "https://www.dealabs.com/codes-promo/30-sur-tout-le-site-meo-3467194",
   "https://www.hotukdeals.com/deals/castrol-edge-5w-30-ll-advanced-full-synthetic-engine-oil-5l-5044904",
   "https://www.hotukdeals.com/deals/doom-the-dark-ages-steam-deck-verified-pcsteam-5044903",
-  "https://www.hotukdeals.com/deals/ring-indoor-camera-plus-newest-gen-2-pack-5044902"
+  "https://www.hotukdeals.com/deals/ring-indoor-camera-plus-newest-gen-2-pack-5044902",
+  "https://www.mydealz.de/deals/galaxus-gigabyte-mo27q28g-27-qhd-woled-280-hz-003-ms-fur-459-eur-2880141",
+  "https://www.mydealz.de/deals/gratis-crunchy-roll-abo-fur-300-punkte-bei-mcdonalds-2880140",
+  "https://www.dealabs.com/bons-plans/plateaux-modernes-et-design-3467198",
+  "https://www.dealabs.com/bons-plans/ea-sports-fc-27-edition-standard-nintendo-switchdisque-i-jeu-video-francais-3467197"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795497127.1120484,
-  "ebay": 1795497776.9466321
+  "ebay": 1795498699.2887516
  },
  "ebay_seen": {
   "187110721591": 139.1,
