@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-23T23:58:06+00:00"
+   "checked": "2026-11-24T00:29:31+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-23T23:58:16+00:00"
+   "checked": "2026-11-24T00:29:41+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-23T23:58:21+00:00"
+   "checked": "2026-11-24T00:29:45+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,38 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-23T23:58:31+00:00"
+   "checked": "2026-11-24T00:29:55+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-23T23:58:35+00:00"
+   "checked": "2026-11-24T00:30:00+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-23T23:58:40+00:00"
+   "checked": "2026-11-24T00:30:04+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 514.9,
    "last": 514.9,
-   "checked": "2026-11-23T23:58:26+00:00"
+   "checked": "2026-11-24T00:29:50+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/foxess-pv-anlage-mit-speicher-12-kwp-26-460-wp-fullblack-glas-glas-module-1152-kwh-lifepo4-speicher-inkl-smart-meter-2879719",
-  "https://www.mydealz.de/deals/weber-kleine-raucherbretter-aus-zedernholz-4-stuck-11-x-11-x-15-cm-mildes-sussliches-raucharoma-fur-fisch-geflugel-kase-prime-2879380",
-  "https://www.mydealz.de/deals/fallout-staffel-1-auf-3-blu-rays-prime-video-hit-basierend-auf-dem-fallout-gaming-franchise-prime-2879718",
-  "https://www.mydealz.de/deals/fluid-rower-rudergerat-e350-hochwertiger-waterrower-bis-150kg-aufstellbar-2-kammer-wassersystem-b-corp-zertifiziert-2879717",
-  "https://www.mydealz.de/deals/lego-technic-tiefseeforscher-u-boot-42201-prime-2879715",
-  "https://www.mydealz.de/deals/wagner-control-pro-350-r-airless-farbspruhsystem-110-bar-15-m-schlauch-fur-wand-latexfarben-lacke-lasuren-2879713",
-  "https://www.mydealz.de/deals/tezenis-black-friday-sale-bis-zu-50-rabatt-zb-slips-ab-4eur-hosen-ab-8eur-rocke-ab-8eur-uvm-1eur-vsk-fur-mitglieder-vsk-frei-ab-29eur-mbw-2879711",
   "https://www.preisjaeger.at/gutschein/electra-2-monate-abo-kostenfrei-fur-e-auto-strom-ladetarif-373219",
   "https://www.dealabs.com/bons-plans/apple-magic-keyboard-avec-touch-id-pour-les-mac-avec-puce-apple-francais-3466642",
   "https://www.dealabs.com/bons-plans/systeme-de-filtration-deau-par-gravite-vevor-85-l-3466639",
@@ -1558,7 +1551,14 @@
   "https://www.chollometro.com/ofertas/marshall-emberton-iii-black-brass-altavoz-bluetooth-2087013",
   "https://nl.pepper.com/aanbiedingen/gratis-lifetime-universal-tv-remote-control-voor-tvs-en-streamingapparaten-ios-app-store-428964",
   "https://www.hotukdeals.com/deals/mortal-shell-ii-ps5-5044833",
-  "https://www.hotukdeals.com/deals/warrior-cats-clans-of-the-forest-ps5-free-cc-5044832"
+  "https://www.hotukdeals.com/deals/warrior-cats-clans-of-the-forest-ps5-free-cc-5044832",
+  "https://www.dealabs.com/bons-plans/unidays-20-sur-tout-le-site-3467165",
+  "https://www.dealabs.com/bons-plans/nike-dunk-low-suede-3467164",
+  "https://www.hotukdeals.com/deals/childrens-book-wheres-spidey-2-5044838",
+  "https://www.hotukdeals.com/deals/iniu-usb-c-charger-cable-2m2m05m-usb-a-to-type-c-charging-cable-5044837",
+  "https://www.hotukdeals.com/deals/ps7-off-ps70-on-home-and-furniture-via-blue-light-card-5044836",
+  "https://www.hotukdeals.com/deals/logitech-mx-keys-s-wireless-keyboard-920-011584-uk-qwerty-bluetooth-usb-c-windows-linux-chrome-mac-like-new-sold-by-amazon-resale-5044835",
+  "https://www.hotukdeals.com/deals/haribo-starmix-gummy-and-foam-sweets-400g-sharing-tub-wvoucher-5044834"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795478281.144285,
+  "geizhals": 1795480166.0874343,
   "ebay": 1795479854.290543
  },
  "ebay_seen": {
