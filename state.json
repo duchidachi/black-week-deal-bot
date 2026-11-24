@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-24T06:14:56+00:00"
+   "checked": "2026-11-24T06:46:18+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-24T06:15:06+00:00"
+   "checked": "2026-11-24T06:46:28+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-24T06:15:11+00:00"
+   "checked": "2026-11-24T06:46:33+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,42 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-24T06:15:21+00:00"
+   "checked": "2026-11-24T06:46:42+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-24T06:15:25+00:00"
+   "checked": "2026-11-24T06:46:47+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-24T06:15:30+00:00"
+   "checked": "2026-11-24T06:46:52+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 514.9,
    "last": 514.9,
-   "checked": "2026-11-24T06:15:16+00:00"
+   "checked": "2026-11-24T06:46:38+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/lampara-medusa-aquarium-lamp-7-colores-lampara-de-lava-de-medusas-2086233",
-  "https://www.chollometro.com/ofertas/freidora-de-aire-sin-aceite-airfryer-de-12l-10-programas-1700w-ufesa-2086232",
-  "https://www.chollometro.com/ofertas/nueva-zelanda-vuelos-de-ida-y-vuelta-2-maletas-facturadas-gratis-por-solo-729eur-marzo-mayo-salidas-desde-madrid-2086230",
-  "https://www.chollometro.com/ofertas/lego-technic-ford-gt40-mkii-de-1966-2086227",
-  "https://www.chollometro.com/ofertas/ziaja-marshmallow-exfoliante-corporal-de-azucar-300ml-2086228",
-  "https://www.hotukdeals.com/deals/twinkly-strings-hd-multicolor-white-500-5044424",
-  "https://www.hotukdeals.com/deals/great-price-for-this-great-for-heating-towels-5044423",
-  "https://www.hotukdeals.com/deals/8-foot-blow-up-saluting-santa-5044422",
-  "https://www.hotukdeals.com/deals/seiko-5-sports-395mm-100m-blue-mens-stainless-steel-watch-srpg29k1-3-year-warranty-5044421",
-  "https://www.hotukdeals.com/deals/6-pack-axolotl-squishy-5044420",
-  "https://www.hotukdeals.com/deals/ugreen-nexode-200w-usb-c-gan-charger-140w-port-4-ports-5044418",
   "https://www.mydealz.de/deals/cherry-xtrfy-m64-wireless-gaming-maus-kabellos-24-ghz-53-g-pixart-3395-weiss-amazon-prime-2869897",
   "https://www.mydealz.de/deals/tcl-65t6c-65-qled-4k-fire-tv-hdr10-dolby-vision-atmos-airplay-2-zb-aufbau-tv-einrichtung-wandmontage-gratis-2872811",
   "https://www.mydealz.de/deals/hitster-original-musik-partyspiel-mit-300-songs-2-10-spieler-de-2875670",
@@ -1558,7 +1547,18 @@
   "https://www.dealabs.com/bons-plans/double-etagere-charges-lourdes-en-metal-euro-vanadium-capacite-de-charge-640kg-8-plateaux-3467196",
   "https://nl.pepper.com/aanbiedingen/derma-skin-polish-pads-van-lookx-428972",
   "https://www.hotukdeals.com/deals/dr-beckmann-glowhite-in-wash-sachets-brighter-white-laundry-5-x-40g-ps078ss-5044937",
-  "https://www.hotukdeals.com/deals/gladiator-ii-blu-ray-5044936"
+  "https://www.hotukdeals.com/deals/gladiator-ii-blu-ray-5044936",
+  "https://www.mydealz.de/gutscheine/wwf-shop-15-rabatt-auf-alles-weihnachtsgeschenke-mit-sinn-pluschtiere-kleidung-accessoires-mehr-gutes-tun-und-sparen-2880175",
+  "https://www.mydealz.de/deals/playmobil-westernfort-70944-2880173",
+  "https://www.mydealz.de/deals/gmx-11-cyber-deal-gmx-mobile-100-100-gb-5g-allnet-100-gb-cloud-fur-999-eurmonat-rufnummermitnahme-2880174",
+  "https://www.mydealz.de/deals/donbolso-echt-leder-geldborse-wien-mit-munzfach-und-rfid-schutz-prime-2853198",
+  "https://www.mydealz.de/deals/cube-nuroad-c62-pro-vulcannprism-grosse-l-2880167",
+  "https://www.dealabs.com/bons-plans/baskets-nike-air-jordan-3-og-spings-in-the-air-tailles-4344-et-45-3467238",
+  "https://www.dealabs.com/bons-plans/lego-classic-la-valisette-de-construction-10713-3467237",
+  "https://nl.pepper.com/kortingscode/roamless-50-korting-op-payg-bundels-428973",
+  "https://www.hotukdeals.com/deals/workpro-2-piece-pruning-secateurs-set-with-labor-saving-spring-200-mm-bypass-5044940",
+  "https://www.hotukdeals.com/deals/rubicon-24-pack-sparkling-passion-made-with-real-passion-fruit-juice-24-x-330ml-5044939",
+  "https://www.hotukdeals.com/deals/legend-vinyl-bob-marley-5044938"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795500891.4794087,
+  "geizhals": 1795502773.4183292,
   "ebay": 1795502462.6743612
  },
  "ebay_seen": {
