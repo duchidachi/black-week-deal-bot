@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-24T14:06:01+00:00"
+   "checked": "2026-11-24T14:37:37+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-24T14:06:11+00:00"
+   "checked": "2026-11-24T14:37:47+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-24T14:06:15+00:00"
+   "checked": "2026-11-24T14:37:52+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,53 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-24T14:06:25+00:00"
+   "checked": "2026-11-24T14:38:02+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 497.53,
-   "checked": "2026-11-24T14:06:29+00:00"
+   "checked": "2026-11-24T14:38:06+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-24T14:06:34+00:00"
+   "checked": "2026-11-24T14:38:11+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 514.9,
    "last": 514.9,
-   "checked": "2026-11-24T14:06:20+00:00"
+   "checked": "2026-11-24T14:37:57+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/oclean-flow-elektrische-zahnburste-usb-c-schallzahnburste-mit-180-tagen-akkulaufzeit-5-putzmodi-ipx7-weiss-oder-blau-prime-2878282",
-  "https://www.preisjaeger.at/deals/lenovo-legion-t7-34ias10-u7-265kf-gaming-pc-intel-core-ultra-7-prozessor-265kf-32-gb-ram-2-tb-ssd-geforce-rtx-4070-ti-super-373273",
-  "https://www.dealabs.com/bons-plans/videoprojecteur-xgimi-elfin-flip-pro-laser-rgb-full-hd-1080p-1-000-lumens-iso-google-tv-hdr10-support-inclinable-a-150-beige-3467482",
-  "https://www.dealabs.com/bons-plans/vol-allerretour-lyon-lisbonne-portugal-du-26-fevrier-au-05-mars-bagage-a-main-inclus-3467443",
-  "https://www.dealabs.com/bons-plans/windows-11-professionnel-3467481",
-  "https://www.dealabs.com/bons-plans/xgimi-horizon-20-max-4k-videoprojecteur-5700-iso-triple-laser-home-cinema-3467480",
-  "https://www.dealabs.com/bons-plans/bianchi-velo-de-route-oltre-comp-ultegra-di2-2025-57-ck-metallicgraphite-glossy-3467479",
-  "https://www.dealabs.com/bons-plans/de-20-a-50-de-reduction-sur-une-selection-darticles-ex-collant-voile-control-top-sculpt-30-deniers-plusieurs-couleurs-du-s-au-xl-3467478",
-  "https://www.dealabs.com/bons-plans/revpoints-x10-sur-on-on-running-en-payant-avec-revolut-3467477",
-  "https://www.dealabs.com/bons-plans/jbl-charge-6-enceinte-bluetooth-portable-sans-fil-noir-3467476",
-  "https://www.dealabs.com/bons-plans/fauteuil-retro-vertbeige-3467475",
-  "https://www.dealabs.com/bons-plans/chargeur-ugreen-nexode-160w-gan-4-ports-usb-c-pd-31-3-usb-c-1-usb-a-ganinfinity-vendeur-tiers-3467474",
-  "https://www.dealabs.com/bons-plans/jbl-live-beam-3-ecouteurs-sans-fil-avec-oreillettes-bluetooth-jusqua-48-h-dautonomie-reduction-de-bruit-active-3467473",
-  "https://www.dealabs.com/bons-plans/mug-officiel-24h-du-mans-en-ceramique-30-cl-modele-blanc-course-a-540-eur-au-lieu-de-1190-eur-55-3467465",
-  "https://www.dealabs.com/bons-plans/roborock-qrevo-2-pro-set-aspirateur-robot-laveur-avec-station-25-000-pa-3467472",
-  "https://www.dealabs.com/bons-plans/prime-gel-daloe-vera-100-naturel-soins-de-la-peau-visage-et-corps-cheveux-1-kg-3467471",
-  "https://www.chollometro.com/ofertas/nintendo-switch-2-shinobi-art-of-vengeance-deluxe-edition-2087433",
-  "https://www.chollometro.com/ofertas/bolso-michael-kors-de-hombro-transformable-merritt-mediano-de-piel-granulada-2087427",
-  "https://nl.pepper.com/aanbiedingen/cola-12-pack-zeroreg-fanta-at-aldi-429014",
-  "https://nl.pepper.com/aanbiedingen/redmi-note-17-pro-6gb256gb-429012",
-  "https://nl.pepper.com/aanbiedingen/coffee-pads-56x-dif-at-aldi-429011",
-  "https://nl.pepper.com/aanbiedingen/gardena-kraanaansluiting-binnenkranen-18210-20-at-amazon-420223",
   "https://www.hotukdeals.com/deals/airthereal-sd36-electric-shoe-dryer-quiet-fanless-36w-low-temperature-shoe-warmer-sold-by-sainstore-by-thames-fba-5045134",
   "https://www.hotukdeals.com/deals/park-dean-camber-sands-holiday-park-mon-14-dec-fri-18-dec-2026-5045133",
   "https://www.hotukdeals.com/deals/tom-ford-black-orchid-eau-de-parfum-150ml-5045132",
@@ -1558,7 +1536,29 @@
   "https://www.hotukdeals.com/deals/charlotte-tilbury-pillow-talk-dreams-come-true-with-code-5045498",
   "https://www.hotukdeals.com/deals/squishmallows-original-micromallows-holiday-bouquet-2026-5045497",
   "https://www.hotukdeals.com/deals/mercedes-amg-petronas-adidas-f1-special-edition-monza-berreda-decode-lux-trainer-sizes-7-to-9-wcode-5045496",
-  "https://www.hotukdeals.com/deals/echo-dot-kids-2022-model-wi-fi-bluetooth-smart-speaker-with-1-year-of-amazon-kids-content-rainbow-swirlowldragon-5045495"
+  "https://www.hotukdeals.com/deals/echo-dot-kids-2022-model-wi-fi-bluetooth-smart-speaker-with-1-year-of-amazon-kids-content-rainbow-swirlowldragon-5045495",
+  "https://www.mydealz.de/deals/clementoni-galileo-lab-entdecke-die-welt-der-fleischfressenden-pflanzen-experimentierkasten-mit-samen-gewachshausern-2880670",
+  "https://www.mydealz.de/deals/about-you-black-deals-bis-zu-70-rabatt-zb-adidas-adizero-adios-og-taupe-auch-nike-boss-levis-dr-martens-uvm-2880669",
+  "https://www.mydealz.de/deals/bessey-einhandzwinge-ezm15-6-150-mm-spannweite-75-kg-spannkraft-prime-2880668",
+  "https://www.mydealz.de/deals/mcdonalds-mcflurry-weihnachtskugel-fur-250-punkte-oder-mcflurry-mixmatch-500-punkte-2880667",
+  "https://www.mydealz.de/deals/corporate-benefits-garmin-venu-4-45-mm-fur-34999-eur-statt-bisher-37999-eur-cb-preis-2880666",
+  "https://www.dealabs.com/bons-plans/sorbetiere-ninja-creami-scoop-swirl-avec-2-pots-de-480-ml-13-modes-reconditionnee-garantie-2-ans-3467845",
+  "https://www.dealabs.com/bons-plans/giant-tcr-advanced-0-pc-vert-alpin-3467834",
+  "https://www.chollometro.com/ofertas/pandora-collar-abeja-miel-2087966",
+  "https://www.chollometro.com/ofertas/nike-sneakers-dunk-low-tallas-38-40-405-2087965",
+  "https://www.chollometro.com/ofertas/x2-doritos-tex-mex-nachos-con-sabor-a-queso-producto-de-aperitivo-bolsa-familiar-225-gr-2087963",
+  "https://www.chollometro.com/ofertas/carnet-soy-betico-2087964",
+  "https://www.chollometro.com/ofertas/nike-sb-zoom-janoski-og-iso-de-cuero-en-azul-tallas-37538385-2087962",
+  "https://www.chollometro.com/ofertas/huawei-band-11-pro-smartwatch-162-amoled-2000-nits-android-e-ios-verde-2087961",
+  "https://www.chollometro.com/cupones/showroomprive-10-de-descuento-adicional-en-tu-pedido-sin-minimo-de-compra-moda-mujer-hombre-ninos-belleza-y-accesorios-2087960",
+  "https://nl.pepper.com/aanbiedingen/lg-65-inch-oled-429074",
+  "https://nl.pepper.com/aanbiedingen/dickie-toys-speelgoedvoertuigen-superpack-van-25-miniatuurautos-21-gratis-429094",
+  "https://nl.pepper.com/aanbiedingen/zalando-gift-card-15-bij-amazonnl-429091",
+  "https://www.hotukdeals.com/deals/samsung-bundle-5045509",
+  "https://www.hotukdeals.com/deals/vita-coco-original-coconut-water-multipack-6x1-l-vitamin-c-potassium-ps1444-ss-5045508",
+  "https://www.hotukdeals.com/deals/magcubic-hy300-pro-projector-with-code-at-magcubic-gb-projectors-store-5045507",
+  "https://www.hotukdeals.com/deals/last-minute-sale-14-nights-canary-lsland-cruise-po-lona-december-5-19-2-adults-inside-stateroom-from-southampton-with-code-5045506",
+  "https://www.hotukdeals.com/deals/vita-coco-original-coconut-water-multipack-12x500-ml-rich-in-vitamin-c-ss-ps1101-5045505"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795529156.668172,
+  "geizhals": 1795531052.0770037,
   "ebay": 1795530738.870768
  },
  "ebay_seen": {
