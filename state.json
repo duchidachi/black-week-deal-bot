@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-24T16:43:45+00:00"
+   "checked": "2026-11-24T17:15:12+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-24T16:43:54+00:00"
+   "checked": "2026-11-24T17:15:22+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-24T16:43:59+00:00"
+   "checked": "2026-11-24T17:15:27+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,46 +34,32 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-24T16:44:09+00:00"
+   "checked": "2026-11-24T17:15:37+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-24T16:44:14+00:00"
+   "checked": "2026-11-24T17:15:41+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-24T16:44:19+00:00"
+   "checked": "2026-11-24T17:15:46+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
-   "lowest": 514.9,
-   "last": 514.9,
-   "checked": "2026-11-24T16:44:04+00:00"
+   "lowest": 452.14,
+   "last": 452.14,
+   "checked": "2026-11-24T17:15:32+00:00",
+   "alerted_at": 452.14
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/perfect-fit-adult-1-gatos-esterilizados-rico-en-pollo-pack-5-x-14-kg-total-7-kg-cad-16122027-2087675",
-  "https://www.chollometro.com/ofertas/asics-gel-cumulus-28-negro-tambien-en-azul-2087671",
-  "https://www.chollometro.com/ofertas/samsung-barra-sonido-q990h-1114ch-dolby-atmos-2026-200eur-reembolso-incluido-2087669",
-  "https://www.chollometro.com/ofertas/joma-pantalon-largo-hombre-explorer-marron-tallas-s-m-l-xl-2087667",
-  "https://www.chollometro.com/ofertas/reebok-zapatillas-de-running-fuel-flex-run-2087663",
-  "https://nl.pepper.com/aanbiedingen/draper-haakse-slijper-850-w-125-mm-429045",
-  "https://www.hotukdeals.com/deals/myprotein-milk-protein-isolate-chocolate-milk-flavour-free-delivery-over-ps55-5045304",
-  "https://www.hotukdeals.com/deals/panda-memory-foam-pillow-with-bamboo-cover-medium-firm-hypoallergenic-antibacterial-breathable-anti-static-5045303",
-  "https://www.hotukdeals.com/deals/loreal-paris-elvive-extraordinary-coconut-oil-miracle-hair-serum-100ml-5045302",
-  "https://www.hotukdeals.com/deals/seconique-roma-32-recliner-suite-in-grey-faux-leather-5045301",
-  "https://www.hotukdeals.com/deals/lego-icons-11383-mayors-villa-5045300",
-  "https://www.hotukdeals.com/deals/urban-armor-gear-uag-designed-for-iphone-16-pro-case-63-pathfinder-clear-compatible-with-magsafe-charging-rugged-cover-ice-5045299",
-  "https://www.hotukdeals.com/deals/humble-choice-annual-membership-discounted-offer-with-code-5045298",
-  "https://www.hotukdeals.com/deals/bruce-springsteen-the-wild-the-innocent-and-the-e-street-shuffle-vinyl-5045297",
-  "https://www.hotukdeals.com/deals/lucca-grey-fabric-power-recliner-armchair-5045296",
   "https://www.hotukdeals.com/deals/amazon-essentials-baby-girls-stretch-long-sleeve-ruffle-rash-guard-swim-set-size-3-6-months-5045295",
   "https://www.hotukdeals.com/deals/hotelscom-gift-cards-10-off-ps100-or-15-off-ps300-5045294",
   "https://www.hotukdeals.com/deals/pepsi-max-24x330ml-multipack-cans-clubcard-price-5045293",
@@ -1558,7 +1544,22 @@
   "https://www.hotukdeals.com/deals/vans-unisex-spicoli-sunglasses-sunglasses-pack-of-1-5045670",
   "https://www.hotukdeals.com/deals/cadbury-heroes-chocolate-bulk-share-box-2-kg-pack-of-1-5045669",
   "https://www.hotukdeals.com/deals/amazon-essentials-mens-regular-fit-long-sleeve-t-shirt-5045668",
-  "https://www.hotukdeals.com/deals/amazon-essentials-womens-cotton-nylon-blend-crew-socks-6-pairs-5045666"
+  "https://www.hotukdeals.com/deals/amazon-essentials-womens-cotton-nylon-blend-crew-socks-6-pairs-5045666",
+  "https://www.mydealz.de/deals/lego-icons-burgermeistervilla-11383-1420-teile-18-2880820",
+  "https://www.mydealz.de/gutscheine/15-rabatt-auf-das-gesamte-sortiment-bei-print-pioneer-ohne-mindestbestellwert-2880819",
+  "https://www.mydealz.de/deals/things-3-mac-iphone-ipad-vision-30-gunstiger-2880818",
+  "https://www.mydealz.de/deals/caffe-latte-emmi-230ml-becher-30-payback-punkte-2880817",
+  "https://www.preisjaeger.at/deals/bose-smart-dolby-atmos-soundbar-zum-neuen-bestpreis-373285",
+  "https://www.dealabs.com/bons-plans/rasoir-electrique-panasonic-series-900-es-pv3b-k803-5-lames-moteur-lineaire-format-paume-3467990",
+  "https://www.chollometro.com/ofertas/nintendo-switch-2-octopath-traveler-game-key-card-2088236",
+  "https://www.chollometro.com/ofertas/nintendo-switch-2-little-nightmares-enhanced-edition-complete-edition-game-key-card-2088230",
+  "https://www.chollometro.com/ofertas/vuelos-hotel-4-todo-incluido-en-lanzarote-desde-3-noches-336eur-por-persona-diciembre-2088232",
+  "https://www.chollometro.com/ofertas/ps5-final-fantasy-vii-rebirth-2088226",
+  "https://nl.pepper.com/aanbiedingen/retourvluchten-7-13-dec-vanaf-eur41-porto-malaga-faro-venetie-mallorca-en-8-andere-vanuit-eindhoven-en-weeze-429115",
+  "https://www.hotukdeals.com/deals/renpho-smart-scales-for-body-weight-and-fat-large-display-13-body-metrics-5045676",
+  "https://www.hotukdeals.com/deals/levis-mens-555-relaxed-straight-trouser-khaki-size-32w32l-only-5045675",
+  "https://www.hotukdeals.com/deals/vans-classic-crew-socks-5045674",
+  "https://www.hotukdeals.com/deals/eufy-x10-pro-omni-robot-vacuum-cleaner-with-mop-carpet-detection-5045665"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1571,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795538619.304919,
+  "geizhals": 1795540507.305636,
   "ebay": 1795540192.616748
  },
  "ebay_seen": {
