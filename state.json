@@ -59,7 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/mr-wonderful-estuche-rigido-con-compartimento-de-rejilla-y-diseno-3d-morsa-2086127",
   "https://nl.pepper.com/aanbiedingen/dog-man-bark-in-action-ps5-sony-playstation-nintendo-switch-1-2-428905",
   "https://nl.pepper.com/aanbiedingen/dreame-matrix-10-pro-robotstofzuiger-met-dweilfunctie-428904",
   "https://www.hotukdeals.com/deals/tesco-mince-pies-6-pack-clubcard-price-5044344",
@@ -1558,7 +1557,8 @@
   "https://www.hotukdeals.com/deals/simplehuman-toilet-brush-with-holder-stainless-steel-white-5044861",
   "https://www.mydealz.de/deals/asus-rog-strix-xg32ucwmg-32-zoll-4k-uhd-qd-oled-2880111",
   "https://www.dealabs.com/bons-plans/assassins-creed-the-ezio-collection-ac-ii-ac-brotherhood-ac-revelations-dlcs-sur-nintendo-switch-3467168",
-  "https://www.hotukdeals.com/deals/eko-countertop-food-waste-caddy-with-lid-4-litre-grey-5044863"
+  "https://www.hotukdeals.com/deals/eko-countertop-food-waste-caddy-with-lid-4-litre-grey-5044863",
+  "https://www.mydealz.de/deals/dji-neo-minidrohne-4k-uhd-135-g-ki-motivverfolgung-handflachenstart-fur-118-eur-statt-133-eur-2880112"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795483935.3162572,
-  "ebay": 1795483622.9588172
+  "ebay": 1795484584.322974
  },
  "ebay_seen": {
   "187110721591": 139.1,
