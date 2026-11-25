@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-25T12:08:32+00:00"
+   "checked": "2026-11-25T12:40:00+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-25T12:08:41+00:00"
+   "checked": "2026-11-25T12:40:09+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-25T12:08:46+00:00"
+   "checked": "2026-11-25T12:40:14+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,53 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-25T12:08:56+00:00"
+   "checked": "2026-11-25T12:40:23+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 497.53,
-   "checked": "2026-11-25T12:09:01+00:00"
+   "checked": "2026-11-25T12:40:27+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-25T12:09:06+00:00"
+   "checked": "2026-11-25T12:40:32+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-25T12:08:51+00:00"
+   "checked": "2026-11-25T12:40:18+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/dam-kidzs-console-portable-de-jeu-video-retro-500-jeux-3468518",
-  "https://www.dealabs.com/bons-plans/lot-de-2-chauffe-mains-magnetique-rechargeable-6000mah-vendeur-tiers-3468516",
-  "https://www.dealabs.com/bons-plans/enceinte-sans-fil-marshall-middleton-black-brass-bluetooth-etanche-noir-3468517",
-  "https://www.dealabs.com/bons-plans/vinyle-whitney-houston-whitney-3468510",
-  "https://www.dealabs.com/bons-plans/football-manager-27-sur-pcmac-cle-steam-europe-dematerialise-3468514",
-  "https://www.chollometro.com/ofertas/hp-z3700-raton-inalambrico-1200-ppp-3-botones-y-rueda-de-desplazamiento-bateria-16-meses-de-duracion-2089037",
-  "https://www.chollometro.com/ofertas/jollein-set-de-funda-nordica-de-cama-infantil-100-x-140-cm-100-algodon-certificado-oko-tex-con-funda-de-almohada-2-piezas-2089036",
-  "https://www.chollometro.com/ofertas/lego-classic-base-blanca-11026-2089035",
-  "https://www.chollometro.com/ofertas/reebok-energen-lux-zapatillas-de-running-para-asfalto-en-color-negro-tallas-dentro-chjollo-2089033",
-  "https://www.chollometro.com/ofertas/manta-de-bebe-seashells-indigo-80-x-80-cm-de-algodon-organico-574eur-con-lista-de-nacimiento-2089032",
-  "https://www.chollometro.com/ofertas/hama-regleta-de-3-posiciones-schuko-cable-de-14-metros-2089031",
-  "https://www.chollometro.com/ofertas/master-lock-antirrobo-bloqueo-acero-reforzado-laminado-varios-tamanos-candado-de-bicicleta-patinete-electrico-2089030",
-  "https://www.chollometro.com/ofertas/tommy-hilfiger-bolso-con-correa-para-hombro-mujer-icon-jacquard-con-monograma-estampado-2089029",
-  "https://www.chollometro.com/ofertas/bolso-bandolera-tommy-hilfiger-2089028",
-  "https://www.chollometro.com/ofertas/star-wars-sable-de-luz-cristal-de-poder-2089026",
-  "https://www.chollometro.com/ofertas/adidas-zapatilla-grand-court-cloudfoam-comfort-2089024",
-  "https://www.chollometro.com/ofertas/masters-of-the-universe-2026-pelicula-espada-he-man-poderes-de-grayskull-2089022",
-  "https://www.chollometro.com/ofertas/timberland-botas-de-moda-hombre-botas-casualestallas-40-41-445-455-46-2089021",
-  "https://nl.pepper.com/aanbiedingen/diverse-paris-royale-parfums-bij-dirk-429192",
-  "https://www.hotukdeals.com/vouchers/15-off-interim-full-servicing-20-off-car-van-batteries-30-off-windscreen-wipers-40-off-air-con-recharge-5046209",
-  "https://www.hotukdeals.com/deals/loccitane-giftset-of-4-christmas-crackers-ss-ps2137-5046208",
-  "https://www.mydealz.de/deals/homex-cs2421e-w-grossraum-standkuhlschrank-242-l-energieklasse-e-2881156",
   "https://www.preisjaeger.at/deals/apple-airpods-pro-3-373347",
   "https://www.dealabs.com/bons-plans/la-black-week-est-la-profitez-de-34-sur-vos-boites-de-16-capsules-nescafe-dolce-gusto-original-soit-la-boite-384eur-3468500",
   "https://www.dealabs.com/bons-plans/amazon-bitzee-harry-potter-compagnon-interactif-avec-20-personnages-a-1653-eur-prix-le-plus-bas-releve-3468519",
@@ -1558,7 +1536,29 @@
   "https://www.hotukdeals.com/deals/moukey-adjustable-tablet-holder-for-microphone-stands-mic-stand-clamp-mount-bracket-for-smartphones-90flexible-tablet-stand-mmsph-1-5046615",
   "https://www.hotukdeals.com/deals/18-cans-coors-amazon-850-delivered-for-prime-members-5046614",
   "https://www.hotukdeals.com/deals/izeeker-gd100-25k-dash-cam-front-3-inch-ips-32-gb-card-included-5046613",
-  "https://www.hotukdeals.com/deals/citric-acid-food-grade-1kg-suitable-for-descaling-coffee-machines-5046612"
+  "https://www.hotukdeals.com/deals/citric-acid-food-grade-1kg-suitable-for-descaling-coffee-machines-5046612",
+  "https://www.mydealz.de/deals/roborock-saros-10r-saugroboter-mit-wischfunktionangebbarem-wischmopp-2881456",
+  "https://www.mydealz.de/deals/ecoflow-stream-ac-refurbished-solarspeicher-1920-wh-2881455",
+  "https://www.mydealz.de/deals/tour-one-m3-smart-tx-on-ear-bluetooth-kopfhorer-kabelgebundenkabellos-70-h-laufzeit-usb-typ-c-schwarz-2881454",
+  "https://www.mydealz.de/deals/the-north-face-hydrenalite-city-daunenjacke-damen-in-dark-chestnut-600er-daune-wasserabweisend-abnehmbare-kapuze-2-wege-reissverschluss-2881453",
+  "https://www.dealabs.com/bons-plans/funko-pop-disney-moana-moana-with-heart-of-te-fiti-3468908",
+  "https://www.dealabs.com/bons-plans/lot-de-3-boxers-lacoste-en-coton-plusieurs-modeles-et-coloris-tailles-s-a-3xl-3468906",
+  "https://www.dealabs.com/bons-plans/tv-xiaomi-s-mini-led-65-2025-qd-mini-led-4k-144hz-3468907",
+  "https://www.dealabs.com/bons-plans/funko-pop-disney-moana-with-pua-3468905",
+  "https://www.dealabs.com/bons-plans/promotions-maxizoo-sur-des-croquettes-patee-et-friandises-pour-chiens-et-chats-3468903",
+  "https://www.chollometro.com/ofertas/paquete-de-evolucion-pokemon-select-incluye-una-figura-de-eevee-de-5-cmademas-de-figuras-de-batalla-de-leafeonglaceon-y-sylveon-de-75-cm-2089592",
+  "https://www.chollometro.com/ofertas/schott-nyc-perfecto-mujer-cuero-ovino-negra-todas-las-tallas-2089595",
+  "https://www.chollometro.com/ofertas/stanley-1913-aerolight-transit-travel-mug-047l-2089588",
+  "https://www.hotukdeals.com/deals/lego-icons-the-lord-of-the-rings-rivendell-10316-5046627",
+  "https://www.hotukdeals.com/deals/eufy-security-video-doorbell-e340-battery-powered-with-on-chime-certified-refurbished-direct-from-official-eufy-store-5046535",
+  "https://www.hotukdeals.com/deals/asrock-pro-650w-gold-psu-5046626",
+  "https://www.hotukdeals.com/deals/keep-britain-tidy-butt-box-up-to-3-free-plus-pp-5046625",
+  "https://www.hotukdeals.com/deals/dji-osmo-action-4-standard-combo-with-code-5046624",
+  "https://www.hotukdeals.com/deals/green-day-warning-25th-anniversary-edition-vinyl-5046623",
+  "https://www.hotukdeals.com/deals/startech-usb-a-to-hdmi-adapter-1080p-60hz-windows-5046622",
+  "https://www.hotukdeals.com/deals/v-color-manta-xsky-expo-32gb-2x16gb-ddr5-c28-6000mhz-5046621",
+  "https://www.hotukdeals.com/deals/cranberriesthe-to-the-faithful-departed-ltd-vinyl-5046620",
+  "https://www.hotukdeals.com/deals/cinmoore-25k-security-camera-indoor-4mp-non-subscription-ai-personpetcry-detection-2-way-audio-5046619"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795608506.1927419,
+  "geizhals": 1795610395.51252,
   "ebay": 1795610083.8534107
  },
  "ebay_seen": {
