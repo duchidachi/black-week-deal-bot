@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-25T03:45:08+00:00"
+   "checked": "2026-11-25T04:16:31+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-25T03:45:18+00:00"
+   "checked": "2026-11-25T04:16:40+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-25T03:45:22+00:00"
+   "checked": "2026-11-25T04:16:45+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,32 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-25T03:45:33+00:00"
+   "checked": "2026-11-25T04:16:55+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 497.53,
-   "checked": "2026-11-25T03:45:38+00:00"
+   "checked": "2026-11-25T04:17:00+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-25T03:45:42+00:00"
+   "checked": "2026-11-25T04:17:04+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-25T03:45:27+00:00"
+   "checked": "2026-11-25T04:16:50+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/samsung-oled-tv-gq77s95hft-2880833",
   "https://www.preisjaeger.at/deals/pokemon-tonies-bisasam-um-1299-eur-inkl-versand-bei-mediamarkt-auch-einzeln-373317",
   "https://www.dealabs.com/bons-plans/aqara-fp2-3468027",
   "https://www.dealabs.com/bons-plans/baskets-nike-air-jordan-1-mid-taille-du-35-au-525-3468025",
@@ -1558,7 +1557,8 @@
   "https://www.hotukdeals.com/deals/ninja-thirsti-large-700ml-triple-vacuum-insulated-water-bottle-white-black-friday-deal-5046128",
   "https://www.dealabs.com/bons-plans/chaussures-de-running-mizuno-ne-vista-2-du-38-au-465-3468441",
   "https://www.hotukdeals.com/deals/adidas-unisex-cushioned-sportswear-crew-socks-3-pack-various-sizes-black-friday-deal-5046129",
-  "https://www.dealabs.com/bons-plans/cronos-the-new-dawn-switch-2-3468442"
+  "https://www.dealabs.com/bons-plans/cronos-the-new-dawn-switch-2-3468442",
+  "https://www.dealabs.com/bons-plans/chaussures-de-running-femme-mizuni-neo-vista-2-du-37-au-425-3468444"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795578301.1528666,
+  "geizhals": 1795580185.9389815,
   "ebay": 1795579873.285199
  },
  "ebay_seen": {
