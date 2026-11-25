@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-25T18:25:01+00:00"
+   "checked": "2026-11-25T18:56:29+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-25T18:25:10+00:00"
+   "checked": "2026-11-25T18:56:38+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-25T18:25:15+00:00"
+   "checked": "2026-11-25T18:56:43+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,41 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-25T18:25:24+00:00"
+   "checked": "2026-11-25T18:56:52+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 499.0,
-   "checked": "2026-11-25T18:25:29+00:00"
+   "checked": "2026-11-25T18:56:57+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-25T18:25:33+00:00"
+   "checked": "2026-11-25T18:57:01+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-25T18:25:19+00:00"
+   "checked": "2026-11-25T18:56:48+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/tefal-eversharp-pro-6-teiliger-messerblock-selbstscharfend-deutscher-rostfreier-edelstahl-2881477",
-  "https://www.dealabs.com/bons-plans/soiree-privee-black-friday-fnac-10-eur-offerts-des-100-eur-pour-les-adherents-fnac-et-jusqua-50-eur-des-300-eur-pour-fnac-one-3468933",
-  "https://www.dealabs.com/bons-plans/xiaomi-mi-smart-speaker-3468932",
-  "https://www.dealabs.com/bons-plans/abonnes-netflix-monster-hunter-gratuit-sur-ios-android-3468930",
-  "https://www.dealabs.com/bons-plans/rayman-edition-30e-anniversaire-switch-version-francaise-3468929",
-  "https://www.chollometro.com/ofertas/secadora-con-bomba-de-calor-serie-700-gentlecare-de-8-kg-2089631",
-  "https://www.chollometro.com/ofertas/srixon-q-star-tour-12-pelotas-de-golf-2089624",
-  "https://www.chollometro.com/ofertas/colhogar-aloe-8x80-papel-higienico-humedo-desechable-por-el-wc-con-extracto-de-aloe-vera-sin-alcohol-640-unidades-2089622",
-  "https://www.chollometro.com/ofertas/receptor-smart-tv-engel-en1070k-4k-uhd-2089627",
-  "https://nl.pepper.com/aanbiedingen/coleman-airbed-supercomfort-75-zelfopblazende-slaapmat-2-persoons-429294",
   "https://nl.pepper.com/aanbiedingen/homewizard-plug-in-thuis-batterij-429293",
   "https://www.hotukdeals.com/deals/10w-megaphone-with-siren-mp20-free-postage-on-ps30-spend-5046662",
   "https://www.hotukdeals.com/deals/sennheiser-accentum-plus-wireless-bluetooth-headphones-noise-cancelling-white-5046663",
@@ -1558,7 +1548,17 @@
   "https://www.hotukdeals.com/deals/2-pack-jekemorye-under-cabinet-kitchen-lights-cupboard-led-motion-sensor-light-rechargeable-indoor-magnetic-strip-lighting-prime-deal-5047051",
   "https://www.hotukdeals.com/deals/lego-botanicals-chrysanthemum-10368-5047050",
   "https://www.hotukdeals.com/deals/stella-artois-belgium-premium-lager-beer-24x440ml-5047049",
-  "https://www.hotukdeals.com/deals/solid-white-rectangular-plastic-table-cover-137cm-x-274cm-1-count-elegant-durable-tablecloth-for-parties-events-and-home-use-5047048"
+  "https://www.hotukdeals.com/deals/solid-white-rectangular-plastic-table-cover-137cm-x-274cm-1-count-elegant-durable-tablecloth-for-parties-events-and-home-use-5047048",
+  "https://www.mydealz.de/deals/roborock-qrevo-5ae-qrsp02-00-in-weiss-mit-multifunktionsstation-jacob-2881774",
+  "https://www.mydealz.de/deals/galaxy-s26-ultra-mit-magenta-pluskarte-im-ruckgabedeal-2881773",
+  "https://www.mydealz.de/deals/prime-fiskars-solid-p341-bypass-gartenschere-l-bis-o-2-cm-2881772",
+  "https://www.mydealz.de/deals/gangs-of-new-york-martin-scorsese-daniel-day-lewis-leonardo-dicaprio-nominiert-fur-10-oscars-digital-2881771",
+  "https://www.chollometro.com/ofertas/ledlenser-hf6r-core-rechargeable-head-torch-800lm-126g-lightweight-ip68-2090194",
+  "https://www.chollometro.com/ofertas/by-villeroy-boch-perlemor-set-de-vajilla-de-porcelana-6-piezas-2090192",
+  "https://www.chollometro.com/ofertas/videojuego-lego-harry-potter-collection-para-xbox-series-xs-anos-1-4-y-5-7-remasterizado-4k-60-fps-2-dlc-2090190",
+  "https://www.hotukdeals.com/deals/clair-de-lune-soft-cotton-cellular-baby-shawl-blanket-70-x-90-cm-pink-5047057",
+  "https://www.hotukdeals.com/deals/philips-smart-lighting-squire-lite-led-table-lamp-black-energy-class-f-5047056",
+  "https://www.hotukdeals.com/deals/49-gold-baubles-ps562-with-code-xmas25-free-cc-argos-5047055"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795631096.094724,
+  "geizhals": 1795632983.908923,
   "ebay": 1795632668.7012665
  },
  "ebay_seen": {
