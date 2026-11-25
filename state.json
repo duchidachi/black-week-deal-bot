@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-24T23:33:11+00:00"
+   "checked": "2026-11-25T00:04:38+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-24T23:33:21+00:00"
+   "checked": "2026-11-25T00:04:48+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-24T23:33:25+00:00"
+   "checked": "2026-11-25T00:04:53+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,54 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-24T23:33:35+00:00"
+   "checked": "2026-11-25T00:05:02+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-24T23:33:40+00:00"
+   "checked": "2026-11-25T00:05:07+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-24T23:33:44+00:00"
+   "checked": "2026-11-25T00:05:11+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-24T23:33:30+00:00"
+   "checked": "2026-11-25T00:04:57+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/cafetera-2-en-1-ninja-prestige-dualbrew-filtro-y-capsulas-nespresso-original-espumador-2088177",
-  "https://www.chollometro.com/ofertas/contigo-kids-cleanable-easy-clean-autospout-botella-infantil-con-pajita-resistente-libre-de-bpa-100-an-unisex-youth-sharks-420-ml-2088172",
-  "https://www.chollometro.com/ofertas/pastillas-lavavajillas-finish-power-all-in-one-2088171",
-  "https://www.chollometro.com/ofertas/fender-rumble-15-amplificador-de-bajo-compacto-15w-8-2088174",
-  "https://www.hotukdeals.com/deals/einhell-cordless-chainsaw-25cm-10-inch-18v-pxc-without-battery-up-to-15-ps11-kw-45-ms-chain-speed-electric-chainsaw-cordless-5045651",
-  "https://www.hotukdeals.com/deals/e45-moisturising-lotion-400ml-for-dry-sensitive-skin-perfume-free-5045650",
-  "https://www.hotukdeals.com/deals/pringles-various-flavours-clubcard-price-5045649",
-  "https://www.hotukdeals.com/deals/ugreen-15w-for-iphone-magsafe-charger-pad-qi2-wireless-fast-charger-1-pack-5045647",
-  "https://www.mydealz.de/deals/mr-robot-komplette-serie-blu-ray-nur-ov-imdb-85-rami-malek-2866774",
-  "https://www.mydealz.de/deals/asus-radeon-rx-9060-xt-16-gb-2880796",
-  "https://www.mydealz.de/deals/okx-kryptookx-card-2-extra-cashback-auf-kartenzahlungen-2880800",
-  "https://www.mydealz.de/deals/xiaomi-smart-band-10-pro-2880799",
-  "https://www.mydealz.de/deals/o2-netz-apple-iphone-18-pro-max-256gb-allnetsms-flat-unlimited-3999eurmonat-46999eur-zuzahlung-2880798",
-  "https://www.mydealz.de/deals/wischroboter-reinigungsmittel-orange-gruner-tee-1x-750ml-2880797",
-  "https://www.mydealz.de/deals/lego-speed-champions-porsche-911-gt3-rs-supersportwagen-77239-prime-2880795",
-  "https://www.mydealz.de/deals/mahroboter-terramow-mini-500-premiumpaket-dach-und-bf-geschenk-2880793",
-  "https://www.dealabs.com/bons-plans/proton-unlimited-100-eur-le-premier-mois-3467971",
-  "https://www.dealabs.com/bons-plans/unidays-huawei-nova-14-pro-3467968",
-  "https://www.dealabs.com/bons-plans/mallow-enceinte-de-jeux-audio-interactifs-sans-ecran-4-10-ans-1-figurine-3467967",
-  "https://www.dealabs.com/bons-plans/hot-streak-le-jeu-de-paris-dejante-sur-les-courses-de-mascottes-3467966",
-  "https://www.dealabs.com/bons-plans/membres-new-balance-50-1-avis-chaussures-de-running-homme-evoz-bleu-marine-du-40-au-475-3467965",
-  "https://www.dealabs.com/codes-promo/ebay-jusqua-30eur-de-reduction-sur-une-selection-darticles-3467963",
-  "https://www.chollometro.com/ofertas/adidas-mundial-team-tf-negras-botas-de-futbol-multitacos-2088189",
   "https://www.chollometro.com/ofertas/battlefield-6-standard-edition-xbox-series-x-2088188",
   "https://www.chollometro.com/ofertas/pack-2-cepillos-de-pelo-beter-natural-fiber-cepillo-antitirones-mini-cepillo-de-viaje-sostenibles-2088186",
   "https://www.chollometro.com/ofertas/10eur-de-descuento-en-tu-primer-pedido-al-gastar-25eur-o-mas-en-moda-y-deporte-en-amazon-2088185",
@@ -1558,7 +1535,30 @@
   "https://www.hotukdeals.com/deals/salter-the-chocolatier-electric-milk-frother-hot-chocolate-maker-ek5134f-at-currys-5046051",
   "https://www.hotukdeals.com/deals/kellys-vanilla-bean-with-cornish-clotted-cream-425ml-york-5046050",
   "https://www.hotukdeals.com/deals/jvc-lt-43cr350-43-roku-smart-full-hd-led-tv-with-freely-at-currys-5046049",
-  "https://www.hotukdeals.com/vouchers/ps2-off-a-single-wendys-burger-5046042"
+  "https://www.hotukdeals.com/vouchers/ps2-off-a-single-wendys-burger-5046042",
+  "https://www.mydealz.de/deals/qcy-melobuds-n65-kabellose-in-ear-kopfhorer-anc-bluetooth-60-weiss-ht21wh-2881054",
+  "https://www.mydealz.de/deals/apple-air-pods-pro-3-fur-einen-absoluten-top-preis-2881053",
+  "https://www.mydealz.de/deals/borderlands-4-1899eur-ps5-2199eur-xbox-disc-inkl-vsk-amazon-auch-ohne-prime-media-markt-abholen-1999eur-otto-up-playstation-5-2881052",
+  "https://www.dealabs.com/bons-plans/proteine-vegan-pois-riz-4-kg-aminogramme-complet-chocolat-ou-fraise-3468385",
+  "https://www.dealabs.com/bons-plans/chaussure-de-running-hybrid-asics-blazeblast-2-coloris-du-405-au-49-3468384",
+  "https://www.dealabs.com/bons-plans/four-a-pizza-electrique-cecotec-mamma-mia-window-400c-1200w-pierre-de-cuisson-et-hublot-3468383",
+  "https://www.dealabs.com/bons-plans/mishansha-pantoufles-homme-chaussons-femme-hiver-chaud-taille-36-47-eu-3468382",
+  "https://www.dealabs.com/bons-plans/finish-ultimate-plus-tablettes-lave-vaisselle-tout-en-1-cyclesync-4-actions-72-tablettes-72-lavages-3468381",
+  "https://www.chollometro.com/ofertas/puma-catch-sd-jr-negro-black-2088820",
+  "https://www.chollometro.com/cupones/10-extra-compra-min-40eur-2088821",
+  "https://www.chollometro.com/ofertas/zapatillas-adidas-terrex-nino-talla-hasta-39-2088819",
+  "https://www.chollometro.com/ofertas/ballers-fifa-world-cup-2026-copa-mundial-de-la-fifa-2026-serie-1-pack-de-2-de-zuru-2088818",
+  "https://www.chollometro.com/ofertas/otterbox-watch-bumper-para-apple-watch-series-987-41mm-azul-2088817",
+  "https://www.chollometro.com/ofertas/corbero-cchm350mfx-horno-hidrolitico-65-l-3000-w-2088816",
+  "https://www.hotukdeals.com/deals/ps15-bonus-on-ps100-spend-at-the-gym-group-first-500-opt-ins-5046060",
+  "https://www.hotukdeals.com/deals/ps20-bonus-on-ps100-spend-at-energy-price-cap-first-2000-opt-ins-5046059",
+  "https://www.hotukdeals.com/deals/get-a-ps2-bonus-on-ps5-spend-instore-5046058",
+  "https://www.hotukdeals.com/deals/corsair-mm700-rgb-extended-cloth-gaming-mouse-mat-930-x-400mm-black-5046057",
+  "https://www.hotukdeals.com/deals/ps25-bonus-on-ps250-spend-at-currys-first-1500-opt-ins-5046056",
+  "https://www.hotukdeals.com/deals/ps10-bonus-on-ps60-spend-at-waitrose-partners-asda-groceries-morrisons-tesco-groceries-first-3000-opt-ins-5046055",
+  "https://www.hotukdeals.com/deals/ps10-bonus-on-ps40-spend-at-george-at-asda-first-2000-opt-ins-5046054",
+  "https://www.hotukdeals.com/deals/aero-pistachio-block-90g-york-5046053",
+  "https://www.hotukdeals.com/deals/red-dead-redemption-red-dead-redemption-2-bundle-pc-steam-5046052"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795563185.971217,
+  "geizhals": 1795565073.0564885,
   "ebay": 1795564759.8853633
  },
  "ebay_seen": {
