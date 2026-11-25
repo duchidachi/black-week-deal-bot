@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-25T07:26:02+00:00"
+   "checked": "2026-11-25T07:57:24+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-25T07:26:11+00:00"
+   "checked": "2026-11-25T07:57:34+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-25T07:26:16+00:00"
+   "checked": "2026-11-25T07:57:38+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,48 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-25T07:26:26+00:00"
+   "checked": "2026-11-25T07:57:48+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 497.53,
-   "checked": "2026-11-25T07:26:31+00:00"
+   "checked": "2026-11-25T07:57:53+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-25T07:26:35+00:00"
+   "checked": "2026-11-25T07:57:57+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-25T07:26:21+00:00"
+   "checked": "2026-11-25T07:57:43+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/gravity-ma-th-01-b-tablet-holder-with-vari-arm-5045824",
-  "https://www.hotukdeals.com/deals/support-windowssteam007-first-light-deluxe-edition-pc-steam-5045823",
-  "https://www.hotukdeals.com/deals/west-ham-united-home-shirt-202526-umbro-mens-sizes-s-2xl-5045821",
-  "https://www.hotukdeals.com/deals/mafia-the-old-country-standard-edition-ps5-5045819",
-  "https://www.hotukdeals.com/deals/chens-dim-sum-seafood-prawn-hargow-40-pieces-1kg-instore-5045820",
-  "https://www.mydealz.de/deals/andromedas-edge-vorbestellaktion-2880929",
-  "https://www.mydealz.de/deals/cb-louis-poulsen-panthella-320-2880928",
-  "https://www.mydealz.de/deals/belkin-boostcharge-pro-67-w-2-port-usb-c-ladegerat-2880927",
-  "https://www.dealabs.com/bons-plans/nouveaux-clients-floa-bank-150eur-offerts-en-bon-dachat-cdiscount-pour-toute-nouvelle-souscription-sous-conditions-3468142",
-  "https://www.dealabs.com/bons-plans/perceuse-visseuse-parkside-performance-sans-fil-20-v-pabsp-20-li-c4-avec-batterie-et-chargeur-3468150",
-  "https://www.dealabs.com/bons-plans/lg-refrigerateur-congelateur-gbbsj20dpy-375-l-no-frost-3468151",
-  "https://www.dealabs.com/bons-plans/montre-lip-general-de-gaulle-35mm-671022-3468147",
-  "https://www.dealabs.com/bons-plans/comfee-160l-congelateur-blanc-3468149",
-  "https://www.chollometro.com/ofertas/linkin-park-meteora-0th-anniversary-edition-packbox-set-2088489",
-  "https://www.chollometro.com/ofertas/boston-man-eau-de-toilette-2088487",
-  "https://www.chollometro.com/ofertas/isdin-psorisdin-champu-antidescamacion-que-ayuda-a-aliviar-el-picor-400ml-eliminar-escamas-y-reducir-rojeces-con-urea-isdin-2088485",
-  "https://www.chollometro.com/ofertas/reebok-split-flex-zapatillas-ninos-tallas-del-345-al-40-y-en-varios-colores-2088483",
   "https://www.chollometro.com/ofertas/pronto-reparador-oscuro-tratamiento-antiaranazos-para-muebles-y-madera-100-ml-2088490",
   "https://www.chollometro.com/ofertas/dodot-sensitive-talla-2-88-panales-4kg-8kg-2088480",
   "https://www.hotukdeals.com/deals/omega-seamaster-aqua-terra-41mm-gents-watch-5045834",
@@ -1558,7 +1541,24 @@
   "https://nl.pepper.com/aanbiedingen/007-first-light-ps5-429185",
   "https://nl.pepper.com/aanbiedingen/boska-kaasschaaf-copenhagen-rvs-multifunctioneel-en-vederlicht-429182",
   "https://nl.pepper.com/aanbiedingen/rapoo-9010m-draadloos-toetsenbord-en-muis-set-zwart-at-joybuy-423816",
-  "https://www.hotukdeals.com/deals/under-armour-mens-mens-branded-lockup-adj-classic-5046225"
+  "https://www.hotukdeals.com/deals/under-armour-mens-mens-branded-lockup-adj-classic-5046225",
+  "https://www.mydealz.de/deals/eurotunnel-leshuttle-20-rabatt-auf-fahren-zwischen-0501-und-15032027-2881184",
+  "https://www.mydealz.de/deals/itchio-family-manners-psychologisches-horrorspiel-fur-windows-macos-linux-kostenlos-statt-299-2881183",
+  "https://www.mydealz.de/deals/wpbakery-page-builder-fur-wordpress-get-up-to-70-off-wpbakery-lifetime-licenses-2881182",
+  "https://www.mydealz.de/deals/lisen-2er-pack-usb-c-kfz-ladegerat-mit-54w-metallgehause-pd-36w-qc-30-prime-2881181",
+  "https://www.mydealz.de/deals/cube-nuroad-c62-one-carbon-gravelbike-grx-822610-94kg-max-130kg-gr-xl-2881180",
+  "https://www.mydealz.de/deals/lidl-parkside-5in1-laserentfernungsmesser-plemm-25-a1-2881179",
+  "https://www.mydealz.de/deals/einhell-steckschlussel-und-ratschen-set-181-teilig-fur-8073-eur-amazon-prime-2881178",
+  "https://www.mydealz.de/deals/returnal-1210eur-pc-co-op-fahig-third-person-shooter-playstation-studios-steam-key-metacritic-86-2881177",
+  "https://www.mydealz.de/deals/brennenstuhl-cee-camping-verlangerungskabel-mit-status-led-5m-prime-versand-ohne-eile-2881176",
+  "https://www.dealabs.com/bons-plans/lait-corp-nourrissant-bio-cattier-500ml-vi-prevoyez-et-economisez-3468548",
+  "https://nl.pepper.com/aanbiedingen/nuki-smart-lock-ultra-25-korting-429181",
+  "https://www.hotukdeals.com/deals/google-pixel-11-pro-xl-256gb-pixel-case-buds-2a-id-500gb-data-eu-roaming-ps9-upfront-wcode-ps3099pm24m-ps24-topcashback-5046232",
+  "https://www.hotukdeals.com/deals/pg-tips-decaf-black-tea-bags-bulk-160-teabags-smooth-refreshing-5046231",
+  "https://www.hotukdeals.com/deals/misery-limited-edition-4k-with-voucher-5046229",
+  "https://www.hotukdeals.com/deals/henbrandt-christmas-snap-card-game-36-cards-kids-stocking-filler-3-pack-5046228",
+  "https://www.hotukdeals.com/deals/fifine-k688-neoct-usbxlr-dynamic-podcast-microphone-kit-boom-arm-mute-button-headphone-jack-wcoupon-5046227",
+  "https://www.hotukdeals.com/deals/google-pixel-11-case-id-500gb-data-unlimited-min-text-eu-roaming-ps169-upfront-wcode-ps1499pm24m-ps24-topcashback-5046226"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795591556.7155964,
+  "geizhals": 1795593439.2653995,
   "ebay": 1795593127.926854
  },
  "ebay_seen": {
