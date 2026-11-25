@@ -59,8 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/tcl-65-65c6k-4k-qd-mini-led-google-tv-144hz-vrr-dolby-vision-hdmi-21-5045704",
-  "https://www.mydealz.de/deals/34167eur-eff-yamaha-rx300a-52-av-receiver-atmos-hdmi-21-4k120-earc-bt-multi-dab-raumeinmessung-dv-hdr10-25-cashback-2866860",
   "https://www.dealabs.com/bons-plans/pull-ralph-lauren-marron-3468019",
   "https://www.dealabs.com/bons-plans/maisonette-pour-chats-zooplus-3468011",
   "https://www.dealabs.com/bons-plans/minecraft-le-film-edition-collector-speciale-fnac-steelbook-blu-ray-4k-ultra-hd-3468018",
@@ -1558,7 +1556,9 @@
   "https://www.dealabs.com/bons-plans/soldes-black-fridaypremiere-paire-gratuite-monture-verres-index-150-nouveaux-clientsuniquement-3468432",
   "https://www.hotukdeals.com/deals/nintendo-switch-2-gaming-console-online-discount-at-checkout-5046115",
   "https://www.preisjaeger.at/deals/metroid-dread-fur-nintendo-switch-als-download-um-3999-eur-im-nintendo-eshop-373333",
-  "https://www.preisjaeger.at/deals/garmin-vivoactive-6-in-schwarzschiefergrau-um-19999-eur-bei-hartlauer-373334"
+  "https://www.preisjaeger.at/deals/garmin-vivoactive-6-in-schwarzschiefergrau-um-19999-eur-bei-hartlauer-373334",
+  "https://www.mydealz.de/deals/code-3-2025-hd-digital-imdb-72-amazon-prime-video-2881078",
+  "https://www.dealabs.com/bons-plans/robot-aspirateur-laveur-mova-mobius-60-avec-station-tout-en-un-et-serpillieres-auto-interchangeables-via-code-black15-3468433"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795574528.1027668,
-  "ebay": 1795575176.5014582
+  "ebay": 1795576100.5837762
  },
  "ebay_seen": {
   "187110721591": 139.1,
