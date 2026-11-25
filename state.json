@@ -59,17 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.preisjaeger.at/deals/playstation-plus-dezember-2026-373390",
-  "https://www.dealabs.com/bons-plans/tv-75-tcl-75q7c-qled-mini-led-4k-hdr-144-hz-3469216",
-  "https://www.dealabs.com/bons-plans/xiaomi-redmi-note-17-pro-5g-3469215",
-  "https://www.dealabs.com/bons-plans/ps-essentialextrapremium-tony-hawk-etc-offerts-sur-ps5ps4-3469214",
-  "https://www.dealabs.com/bons-plans/plusieurs-rasoirs-philips-reconditionnes-a-moitie-prix-3469213",
-  "https://www.chollometro.com/ofertas/cafetera-espresso-manual-delonghi-la-specialista-touch-en-fnac-2089976",
-  "https://www.chollometro.com/ofertas/casco-de-moto-racing-shark-aeron-gp-raul-fernandez-fim1-ece2206-full-carbon-2-pantallas-pinlock-dd-tallas-de-s-a-2xl-2089973",
-  "https://www.chollometro.com/ofertas/lego-harry-potter-duendecillo-de-cornualles-2089972",
-  "https://www.chollometro.com/ofertas/tocadiscos-bluetooth-jvc-al-f85s-de-transmision-directa-plata-en-fnac-2089971",
-  "https://www.chollometro.com/ofertas/asics-zapatillas-gt-2000-9-knit-tallas-355-36-37-2089970",
-  "https://www.chollometro.com/ofertas/amd-ryzen-9-9900x3d-550ghz-procesador-12-nucleos-am5-2089969",
   "https://www.chollometro.com/ofertas/calzado-trail-running-joma-shock-lady-2625-beige-2089968",
   "https://www.chollometro.com/ofertas/casco-de-moto-shark-spartan-gt-pro-flagstaff-by-troy-lee-fibra-ece2206-visor-solar-dd-con-pinlock-tallas-s-l-y-2xl-2089967",
   "https://nl.pepper.com/aanbiedingen/playstation-plus-essential-games-van-december-2026-429340",
@@ -1558,7 +1547,18 @@
   "https://www.hotukdeals.com/deals/pure-cotton-king-size-duvet-cover-available-in-different-colours-sizes-30-off-ps30-5047302",
   "https://www.hotukdeals.com/deals/magnetic-hand-warmers-2-pack-6000-mah-rechargeable-3-heating-modes-ultra-light-portable-pocket-sized-hand-warmer-ideal-winter-gift-5047301",
   "https://www.hotukdeals.com/deals/lego-city-fries-food-truck-toy-60488-ps1079-with-code-save10-5047300",
-  "https://www.hotukdeals.com/deals/alljoy-graphene-infused-neck-shoulder-heat-pad-for-neck-pain1mins-instant-heat-weighted-neck-warmer-4-levels-90mins-auto-shut-off-5047299"
+  "https://www.hotukdeals.com/deals/alljoy-graphene-infused-neck-shoulder-heat-pad-for-neck-pain1mins-instant-heat-weighted-neck-warmer-4-levels-90mins-auto-shut-off-5047299",
+  "https://www.mydealz.de/deals/topcashback-aliexpress-30-cashback-max-40eur-nur-heute-2881990",
+  "https://www.mydealz.de/deals/die-eberhofer-neiner-gaudi-9-filme-9-blu-rays-amazon-prime-2881988",
+  "https://www.mydealz.de/deals/birkenstock-arizona-bf-bluen-regular-riemensandalette-blue-cb-2881987",
+  "https://www.dealabs.com/bons-plans/scie-a-onglet-parkside-pks-1500-c4-3469589",
+  "https://www.chollometro.com/ofertas/puma-catch-soleil-suede-zapatillas-mujer-tallas-38-al-42-2090554",
+  "https://www.chollometro.com/ofertas/tommy-hilfiger-hombre-cartera-johnson-con-ranura-para-monedas-2090552",
+  "https://www.chollometro.com/ofertas/msi-mag-255xf-245-led-fast-ips-fullhd-300hz-2090551",
+  "https://www.hotukdeals.com/deals/mx-master-4-wireless-bluetooth-mouse-graphite-5047308",
+  "https://www.hotukdeals.com/deals/remington-nose-ear-electric-hygiene-hair-trimmer-ne3850-5047307",
+  "https://www.hotukdeals.com/deals/lego-speed-champions-williams-racing-fw46-f1-77249-ps1349-with-save10-5047306",
+  "https://www.hotukdeals.com/deals/lego-city-police-prisoner-transport-van-toy-60479-ps1079-5047304"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795648082.4309309,
-  "ebay": 1795647767.448422
+  "ebay": 1795648731.0321085
  },
  "ebay_seen": {
   "187110721591": 139.1,
