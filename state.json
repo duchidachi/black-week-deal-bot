@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-25T16:19:16+00:00"
+   "checked": "2026-11-25T16:50:44+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-25T16:19:25+00:00"
+   "checked": "2026-11-25T16:50:53+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-25T16:19:30+00:00"
+   "checked": "2026-11-25T16:50:58+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,43 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-25T16:19:39+00:00"
+   "checked": "2026-11-25T16:51:07+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 499.0,
-   "checked": "2026-11-25T16:19:43+00:00"
+   "checked": "2026-11-25T16:51:12+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-25T16:19:48+00:00"
+   "checked": "2026-11-25T16:51:16+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-25T16:19:34+00:00"
+   "checked": "2026-11-25T16:51:03+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/usn-whey-works-out-at-ps17-a-kg-or-ps1530-on-subscribe-and-save-5046516",
-  "https://www.hotukdeals.com/deals/apple-watch-series-12-gps-42mm-smartwatch-light-gold-aluminium-case-5046515",
-  "https://www.hotukdeals.com/deals/nike-jd-sport-black-friday-tracksuit-deal-5046514",
-  "https://www.hotukdeals.com/deals/peak-pc-steam-steam-deck-5046513",
-  "https://www.hotukdeals.com/deals/nature-valley-crunchy-oats-honey-18-x-42g-5046512",
-  "https://www.mydealz.de/deals/tink-2x-eufy-solocam-s340-homebase-3-3k-dual-kamera-360-solarpanel-ki-erkennung-fur-28995-eur-inkl-versand-pvg-308-eur-2881377",
-  "https://www.mydealz.de/deals/abus-smartvest-pro-funk-alarmanlage-zentrale-kabellos-app-steuerung-erweiterbar-fur-haus-wohnung-amazon-2881376",
-  "https://www.mydealz.de/deals/the-lodge-30-auf-alles-z-b-canada-north-chilcotin-20-merino-langarmshirt-herren-aus-100-merinowolle-fur-45eur-zzgl-versand-2881375",
-  "https://www.mydealz.de/deals/ujam-virtual-pianist-vst-2881374",
-  "https://www.mydealz.de/deals/sony-bravia-2-ii-75-zoll-2881350",
-  "https://www.preisjaeger.at/deals/metroid-dread-fur-nintendo-switch-als-download-um-3999-eur-im-nintendo-eshop-373333",
-  "https://www.preisjaeger.at/deals/garmin-vivoactive-6-in-schwarzschiefergrau-um-19999-eur-bei-hartlauer-373334",
   "https://www.dealabs.com/codes-promo/code-promo-dyson-10-de-reduction-supplementaire-cumulables-avec-les-promos-black-friday-3468820",
   "https://www.dealabs.com/bons-plans/centrale-vapeur-perfectcare-compact-plus-65-bars-15l-bleu-vapeur-120gmin-3468819",
   "https://www.dealabs.com/bons-plans/belkin-boostcharge-batterie-externe-10-000-mah-avec-cable-usb-c-noir-3468818",
@@ -1558,7 +1546,19 @@
   "https://www.hotukdeals.com/deals/resident-evil-2-deluxe-edition-nintendo-switch-2-5046913",
   "https://www.hotukdeals.com/deals/black-friday-78-off-nordvpn-3-extra-months-5046912",
   "https://www.hotukdeals.com/deals/paw-patrol-dino-world-ps5-5046911",
-  "https://www.hotukdeals.com/deals/oral-b-vitality-pro-electric-toothbrushes-adults-5046910"
+  "https://www.hotukdeals.com/deals/oral-b-vitality-pro-electric-toothbrushes-adults-5046910",
+  "https://www.mydealz.de/deals/ps-essential-dezember-tony-hawks-pro-skater-34-dragon-ball-xenoverse-2-und-amnesia-the-bunker-ps4-ps5-2881681",
+  "https://www.mydealz.de/deals/kostenlose-pizza-bei-losteria-uber-joyn-personalisiert-2881680",
+  "https://www.mydealz.de/deals/grand-theft-auto-vi-playstation-5-code-in-der-box-jbl-quantum-360p-over-ear-gaming-kopfhorer-weiss-bei-joybuy-2881679",
+  "https://www.preisjaeger.at/deals/nintendo-sound-clock-alarmo-uhr-mit-wecker-373186",
+  "https://www.dealabs.com/bons-plans/funko-pop-animation-demon-slayer-nezuko-sumi-ink-edition-3469226",
+  "https://www.dealabs.com/bons-plans/easycash-film-hydrogene-gratuit-3469225",
+  "https://www.chollometro.com/ofertas/under-armour-ua-b-challenger-tracksuit-traje-de-chandal-ninos-talla-smlxl-2089997",
+  "https://www.chollometro.com/ofertas/portugal-hotel-4-con-desayuno-3h-de-spa-desde-38eurpersona-hasta-mayo-2027-2090002",
+  "https://www.chollometro.com/ofertas/nintendo-switch-2-camara-hd-oficial-con-microfono-integrado-y-conexion-usb-c-2089995",
+  "https://www.hotukdeals.com/deals/loreal-paris-elvive-shampoo-hydra-hyaluronic-for-dehydrated-hair-1l-5046921",
+  "https://www.hotukdeals.com/deals/all-butter-pain-au-chocolate-5046920",
+  "https://www.hotukdeals.com/deals/7ft-christmas-tree-with-stand-artificial-xmas-branches-5046919"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795623547.0567403,
+  "geizhals": 1795625437.733057,
   "ebay": 1795625114.398644
  },
  "ebay_seen": {
