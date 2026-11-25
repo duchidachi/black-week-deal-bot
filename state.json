@@ -59,20 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/jack-jones-herren-merino-strickpullover-schwarz-prime-2881218",
-  "https://www.mydealz.de/deals/nike-manoa-herren-leder-winterstiefel-in-braun-oder-schwarz-gr-40-47-2881217",
-  "https://www.mydealz.de/deals/logitech-combo-touch-tastaturhulle-qwerty-esp-2881216",
-  "https://www.dealabs.com/bons-plans/triangle-aio-twin-erable-brun-3468612",
-  "https://www.dealabs.com/bons-plans/vol-allerretour-paris-bva-milan-italie-du-18-janvier-au-25-janvier-bagage-a-main-inclus-3468575",
-  "https://www.dealabs.com/bons-plans/transports-du-reseau-star-gratuit-les-4-samedis-avant-noel-rennes-35-3468611",
-  "https://www.dealabs.com/bons-plans/paw-patrol-la-patpatrouille-mission-dino-switch-3468610",
-  "https://www.dealabs.com/bons-plans/manette-gamesir-g7-pro-xbox-series-xs-joysticks-tmr-gachettes-reglables-4-boutons-programmables-3468609",
-  "https://www.dealabs.com/bons-plans/aspirateur-robot-dreame-l50s-ultra-peo-pack-blanc-3468605",
-  "https://www.dealabs.com/bons-plans/steelseries-arctis-nova-1x-multi-system-gaming-headset-hi-fi-with-drivers-360-space-sound-memory-foam-ear-pads-3468606",
-  "https://www.chollometro.com/ofertas/asics-gel-nimbus-28-tallas-355-a-415-zapatillas-running-2089164",
-  "https://www.chollometro.com/ofertas/wenger-legacy-black-series-mochila-para-portatil-con-compartimento-para-tableta-notebook-de-hasta-16-24-l-2089162",
-  "https://nl.pepper.com/aanbiedingen/aeg-vrijstaande-vaatwasser-6000-serie-satelliteclean-ffb64607zw-at-ibood-429220",
-  "https://nl.pepper.com/aanbiedingen/insta360-3-in-1-multi-mount-laagste-ooit-all-in-one-tripod-selfie-stick-magic-arm-429218",
   "https://www.hotukdeals.com/deals/snickers-peanut-milk-chocolate-large-christmas-gift-selection-box-1845g-5046304",
   "https://www.hotukdeals.com/deals/champion-kids-padded-hooded-vest-with-full-zip-water-repellent-light-padding-wind-protection-cire-shiny-finish-outdoor-and-leisure-5046303",
   "https://www.hotukdeals.com/deals/little-people-collector-masters-of-the-universe-evil-warriors-set-5046302",
@@ -1558,7 +1544,21 @@
   "https://www.hotukdeals.com/deals/auvon-medical-foot-massager-circulation-machine-sold-by-auvon-fba-5046727",
   "https://www.hotukdeals.com/deals/soundcore-sport-x20-wireless-noise-cancelling-earbuds-5046726",
   "https://www.hotukdeals.com/vouchers/karcher-20-off-sitewide-black-friday-sale-early-access-5046725",
-  "https://www.hotukdeals.com/deals/anker-soundcore-bluetooth-speaker-renewed-upgraded-version-with-24-hour-playtime-stereo-sound-ankerdirect-fba-5046724"
+  "https://www.hotukdeals.com/deals/anker-soundcore-bluetooth-speaker-renewed-upgraded-version-with-24-hour-playtime-stereo-sound-ankerdirect-fba-5046724",
+  "https://www.mydealz.de/deals/amazon-echo-studio-neueste-generation-in-schwarz-fur-17499-2881546",
+  "https://www.mydealz.de/deals/pro-ject-t1-evo-phono-fur-374-eur-mit-black-week-code-2881545",
+  "https://www.mydealz.de/deals/nnch-mal-das-spiel-fur-699-statt-919eur-idealo-2871619",
+  "https://www.mydealz.de/deals/goveelife-3er-set-wlan-hygrometer-prime-2881544",
+  "https://www.mydealz.de/deals/3er-pack-curver-infinity-aufbewahrungsbox-30l-mit-deckel-stapelbar-ordnungsbox-in-grau-oder-weiss-2881536",
+  "https://www.mydealz.de/deals/linis-bites-adventskalender-2026-vegan-bio-glutenfrei-fur-ca-3095-eur-inkl-versand-mit-influencer-code-2881539",
+  "https://www.mydealz.de/deals/tefal-easy-fry-silence-heissluftfritteuse-ey8421e0-7-l-silent-technologie-10-voreingestellte-programme-weiss-2881543",
+  "https://www.mydealz.de/deals/delonghi-magnifica-evo-perfetto-silber-ecam29233sb-prime-2881542",
+  "https://www.preisjaeger.at/deals/sandisk-256-gb-ultra-dual-drive-go-usb-stick-usb-ca-32-gen1-r400-ms-373354",
+  "https://www.dealabs.com/bons-plans/sea-of-thieves-2026-edition-sur-pc-dematerialise-steam-3469019",
+  "https://www.hotukdeals.com/deals/castrol-edge-5w-30-ll-advanced-full-synthetic-engine-oil-5l-5046734",
+  "https://www.hotukdeals.com/deals/tui-return-flights-from-london-nonstop-to-kuusamo-major-winter-sports-centre-in-finland-from-ps107-eg-dec-13-20-5046733",
+  "https://www.hotukdeals.com/deals/bombay-sapphire-1-litre-5046732",
+  "https://www.hotukdeals.com/deals/regatta-mens-hooded-navigate-full-zip-fleece-with-zipped-pockets-6-colours-with-code-free-delivery-with-free-sign-up-5046731"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795614148.132117,
-  "ebay": 1795614792.229282
+  "ebay": 1795615712.7690008
  },
  "ebay_seen": {
   "187110721591": 139.1,
