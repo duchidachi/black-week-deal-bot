@@ -59,10 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/abonnement-annuel-a-humble-choice-dematerialise-3468024",
-  "https://www.dealabs.com/bons-plans/pince-multifonction-leatherman-skeletool-cx-onyx-noir-3468023",
-  "https://www.dealabs.com/bons-plans/lego-speed-champions-77243-f1-oracle-red-bull-racing-rb20-ou-77242-ferrari-sf-24-77251-mclaren-team-mcl38438eur-sur-la-carte-de-fidelite-3468022",
-  "https://www.dealabs.com/bons-plans/appareil-photo-hybride-panasonic-lumix-s5-ii-boitier-nu-noir-3468020",
   "https://www.chollometro.com/ofertas/haier-i-touch-series-4-hwo60sm5t9bh-horno-multifuncion-pirolitico-conectividad-wifi-capacidad-70-l-2088293",
   "https://www.chollometro.com/ofertas/bebird-r1-ultra-limpiador-de-oidos-con-camara-y-otoscopio-visual-removedor-de-cera-para-uso-familiar-2088291",
   "https://www.chollometro.com/ofertas/moto-buds-2-audio-hi-res-anc-dynamic-up-to-48-playback-moto-ai-lightweight-and-water-repellent-design-2088289",
@@ -1558,7 +1554,11 @@
   "https://www.dealabs.com/bons-plans/chaussures-de-running-femme-mizuni-neo-vista-2-du-37-au-425-3468444",
   "https://www.mydealz.de/deals/parfumdreams-rituals-the-ritual-of-advent-classic-adventskalender-2026-fur-6185-eur-inkl-versand-24-turchen-2881084",
   "https://www.preisjaeger.at/deals/pokemon-tonies-bisasam-um-1299-eur-inkl-versand-bei-mediamarkt-auch-einzeln-373317",
-  "https://www.hotukdeals.com/deals/one-piece-the-dominance-of-god-op-18-booster-box-5046130"
+  "https://www.hotukdeals.com/deals/one-piece-the-dominance-of-god-op-18-booster-box-5046130",
+  "https://www.mydealz.de/deals/aptv-iptv-smarters-player-pro-google-playstore-2881086",
+  "https://www.dealabs.com/bons-plans/blu-ray-les-tontons-flingueurs-3468447",
+  "https://www.dealabs.com/bons-plans/eplucheur-rotatif-en-acier-inoxydable-3468446",
+  "https://www.hotukdeals.com/deals/pokemon-scarlet-violet-destined-rivals-elite-trainer-box-5046131"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795580185.9389815,
-  "ebay": 1795580832.611563
+  "ebay": 1795581754.8679342
  },
  "ebay_seen": {
   "187110721591": 139.1,
