@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-25T02:10:40+00:00"
+   "checked": "2026-11-25T02:42:13+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-25T02:10:50+00:00"
+   "checked": "2026-11-25T02:42:23+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-25T02:10:55+00:00"
+   "checked": "2026-11-25T02:42:27+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,34 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-25T02:11:04+00:00"
+   "checked": "2026-11-25T02:42:37+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 497.53,
-   "checked": "2026-11-25T02:11:09+00:00"
+   "checked": "2026-11-25T02:42:42+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-25T02:11:14+00:00"
+   "checked": "2026-11-25T02:42:46+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-25T02:11:00+00:00"
+   "checked": "2026-11-25T02:42:32+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/telekom-netz-apple-iphone-18-pro-max-256gb-freenet-magenta-allnetsms-flat-unlimited-gb-5g-300mbits-fur-5494eurmonat-349eur-50eur-rnm-2873656",
-  "https://www.mydealz.de/deals/sammeldeal-aussergewohnliche-sofas-zum-black-friday-bei-markanto-solar-butter-pillow-sesann-marenco-und-mehr-2880829",
-  "https://www.mydealz.de/deals/action-nintendo-switch-spiele-zu-je-895eur-download-code-in-der-box-zb-nickelodeon-allstar-brawl-2-ab-2-dezember-2880828",
   "https://www.preisjaeger.at/deals/nintendo-super-mario-adventkalender-2026-373316",
   "https://www.dealabs.com/bons-plans/facades-pour-console-playstation5-modele-slim-edition-limitee-marvels-wolverine-jaune-combat-3468014",
   "https://www.dealabs.com/bons-plans/mn-pack-starter-lumix-gh5ii-3468013",
@@ -1558,7 +1555,10 @@
   "https://www.mydealz.de/deals/mouse-pi-for-hire-ps5-playstation-5-amazon-prime-2881075",
   "https://www.mydealz.de/deals/the-lord-of-the-rings-war-in-the-north-legacy-edition-739eur-herr-der-ringe-steam-deck-steam-key-pc-2881074",
   "https://www.dealabs.com/bons-plans/prime-robot-aspirateur-laveur-dreame-aqua10-ultra-roller-complete-30k-pa-3468424",
-  "https://www.dealabs.com/bons-plans/lot-de-10-boites-alimentaires-en-verre-good-for-you-5-1-040-ml-5-370-ml-vendeur-tiers-3468423"
+  "https://www.dealabs.com/bons-plans/lot-de-10-boites-alimentaires-en-verre-good-for-you-5-1-040-ml-5-370-ml-vendeur-tiers-3468423",
+  "https://www.preisjaeger.at/deals/mtel-home-s-50-gb-um-nur-799-eur-monatlich-24-monate-lang-373340",
+  "https://www.dealabs.com/bons-plans/stardew-valley-sur-android-dematerialise-3468425",
+  "https://www.hotukdeals.com/deals/ghostbusters-the-video-game-remastered-pc-steam-steam-deck-5046111"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795572635.4519668,
+  "geizhals": 1795574528.1027668,
   "ebay": 1795574213.3902836
  },
  "ebay_seen": {
