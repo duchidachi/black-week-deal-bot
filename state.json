@@ -59,9 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/lave-vaisselle-60-cm-hisense-hs642c90x-boulanger-3467997",
-  "https://www.dealabs.com/bons-plans/bottes-moto-sidi-rex-air-3467996",
-  "https://www.chollometro.com/ofertas/asics-trabuco-14-hombre-2088254",
   "https://www.chollometro.com/ofertas/hudora-scooter-up-145-junior-patinete-infantil-2088252",
   "https://www.chollometro.com/ofertas/marvel-studios-the-fantastic-four-first-steps-punos-con-efectos-de-golpeo-de-la-mole-2088253",
   "https://www.chollometro.com/ofertas/google-fitbit-versa-4-color-azul-negro-y-rosa-2088249",
@@ -1558,7 +1555,10 @@
   "https://www.hotukdeals.com/deals/ninja-thirsti-530ml-water-bottle-with-leak-proof-lid-5046091",
   "https://www.hotukdeals.com/deals/bodum-twin-2-in-1-salt-and-pepper-grinder-pink-5046090",
   "https://www.hotukdeals.com/deals/msi-force-gc200-wired-pc-controller-with-hall-effect-triggers-white-5046089",
-  "https://www.hotukdeals.com/deals/simplehuman-st-1018-st1023-237ml-automatic-hand-motion-liquid-soap-dispenser-brushed-nickel-or-white-5046088"
+  "https://www.hotukdeals.com/deals/simplehuman-st-1018-st1023-237ml-automatic-hand-motion-liquid-soap-dispenser-brushed-nickel-or-white-5046088",
+  "https://www.dealabs.com/bons-plans/manette-sans-fil-noir-carbone-series-xs-one-pc-3468402",
+  "https://www.dealabs.com/bons-plans/metz-65mnh7000z-qd-miniled-2026-3468400",
+  "https://www.dealabs.com/bons-plans/comfee-lave-vaisselle-de-table-avec-63-programmes-sans-installation-reservoir-deau-integre-de-5-l-lavage-a-la-vapeur-a-98-c-3468399"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795568843.4448552,
-  "ebay": 1795568529.6946156
+  "ebay": 1795569505.292094
  },
  "ebay_seen": {
   "187110721591": 139.1,
