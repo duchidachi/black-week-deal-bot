@@ -59,13 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/ps5-final-fantasy-vii-rebirth-2088226",
-  "https://nl.pepper.com/aanbiedingen/retourvluchten-7-13-dec-vanaf-eur41-porto-malaga-faro-venetie-mallorca-en-8-andere-vanuit-eindhoven-en-weeze-429115",
-  "https://www.hotukdeals.com/deals/renpho-smart-scales-for-body-weight-and-fat-large-display-13-body-metrics-5045676",
-  "https://www.hotukdeals.com/deals/levis-mens-555-relaxed-straight-trouser-khaki-size-32w32l-only-5045675",
-  "https://www.hotukdeals.com/deals/vans-classic-crew-socks-5045674",
-  "https://www.hotukdeals.com/deals/eufy-x10-pro-omni-robot-vacuum-cleaner-with-mop-carpet-detection-5045665",
-  "https://www.mydealz.de/deals/amex-yoox-50eur-gutschrift-ab-300eur-umsatz-bis-31122026-2880821",
   "https://www.mydealz.de/deals/adidas-black-friday-sale-adidas-duramo-sl-laufschuh-member-cb-2873860",
   "https://www.preisjaeger.at/deals/audeze-maxwell-2-wireless-gaming-headset-fur-playstation-und-pc-um-333-eur-inkl-versand-bei-proshop-373308",
   "https://www.preisjaeger.at/deals/bosch-professional-gts-18v-216-biturbo-373309",
@@ -1558,7 +1551,14 @@
   "https://www.mydealz.de/deals/mova-v70-ultra-complete-x-saugroboter-weiss-dreame-2881063",
   "https://www.dealabs.com/bons-plans/ecouteurs-sans-fil-apple-airpods-pro-3-3468387",
   "https://www.chollometro.com/ofertas/crema-de-setas-del-bosque-knorr-500-ml-paquete-de-4-2088844",
-  "https://www.hotukdeals.com/deals/maltesers-milk-chocolate-box-185g-5046080"
+  "https://www.hotukdeals.com/deals/maltesers-milk-chocolate-box-185g-5046080",
+  "https://www.chollometro.com/ofertas/baseus-cargador-usb-c-45w-gan-con-cable-1-m-adaptador-carga-rapida-pps-pd-para-samsung-s25-ultras24-iphone-171615-pro-max-2088853",
+  "https://www.chollometro.com/ofertas/le-creuset-cocotte-ovalada-de-hierro-fundido-31-cm-63l-2088850",
+  "https://www.chollometro.com/ofertas/transformers-studio-series-revenge-of-the-fallen-pack-triple-de-figuras-de-accion-2088849",
+  "https://www.hotukdeals.com/deals/fallout-nuka-cola-weathered-lunchbox-and-flask-set-5046084",
+  "https://www.hotukdeals.com/deals/xbox-wireless-controller-forza-horizon-6-limited-edition-free-cc-5046083",
+  "https://www.hotukdeals.com/deals/amd-ryzen-5-9600x-5046082",
+  "https://www.hotukdeals.com/deals/call-of-duty-black-ops-7-cross-gen-bundle-ps4-and-ps5-free-cc-limited-locations-5046081"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795566959.0761635,
-  "ebay": 1795566643.5076904
+  "ebay": 1795567606.2830522
  },
  "ebay_seen": {
   "187110721591": 139.1,
