@@ -59,14 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/ludumfr-pass-lodovor-35-jours-offert-3467981",
-  "https://www.chollometro.com/ofertas/maletin-de-belleza-mandarina-duck-2088225",
-  "https://www.chollometro.com/ofertas/tv-oled-samsung-48-tq48s93faexxc-2088223",
-  "https://www.chollometro.com/ofertas/feandrea-escaleras-para-perros-de-3-peldanos-funda-de-pana-impermeable-y-lavable-antideslizante-46-x-40-x-33-cm-gris-pizarra-2088224",
-  "https://www.chollometro.com/ofertas/citizen-eco-drive-jv1005-02w-2088220",
-  "https://www.chollometro.com/ofertas/atun-en-aceite-de-girasol-6-latas-2088218",
-  "https://nl.pepper.com/aanbiedingen/action-lsc-smart-connect-slimme-aurora-vloerlamp-of-tafellamp-eur995-eur1495-429118",
-  "https://nl.pepper.com/kortingscode/blackweek-geeft-verzendkorting-op-50euro-en-meer-kortingen-429117",
   "https://www.hotukdeals.com/deals/diesel-only-the-brave-eau-de-toilette-iconic-citrus-woody-mens-aftershave-with-fresh-lemon-5045673",
   "https://www.hotukdeals.com/deals/ugreen-finetrack-pro-solar-tracker-tag-for-apple-find-my-110db-key-finder-ios-only-solar-powered-bluetooth-ugreen-group-fba-5045671",
   "https://www.hotukdeals.com/deals/vans-unisex-spicoli-sunglasses-sunglasses-pack-of-1-5045670",
@@ -1558,7 +1550,15 @@
   "https://www.dealabs.com/bons-plans/vtech-disney-junior-spidey-mon-ordi-educatif-3468388",
   "https://www.hotukdeals.com/deals/blades-of-fire-day-one-edition-ps5-5046075",
   "https://www.hotukdeals.com/deals/nivea-express-hydration-body-lotion-400ml-ps247ps231-on-ss-wvoucher-5046074",
-  "https://www.hotukdeals.com/deals/one-battle-after-another-2025-4k-uhd-hdr-dolby-vision-atmos-to-buy-prime-video-5046073"
+  "https://www.hotukdeals.com/deals/one-battle-after-another-2025-4k-uhd-hdr-dolby-vision-atmos-to-buy-prime-video-5046073",
+  "https://www.preisjaeger.at/deals/cb-lg-oled-evo-ai-c6-4k-smart-tv-2026-77-zoll-oled77c6elb-373312",
+  "https://www.dealabs.com/bons-plans/mini-pc-firebat-a6-ryzen-7-7735hs-radeon-680m-16-go-lpddr5-ssd-512-go-wifi-6-bt-52-windows-11-pro-vendeur-tiers-3468390",
+  "https://www.dealabs.com/bons-plans/haut-a-manches-longues-et-zip-under-armour-3468389",
+  "https://www.chollometro.com/ofertas/cargador-coche-carga-rapida-simultanea-54w-60w-cable-usb-c-fast-charge-2088845",
+  "https://www.chollometro.com/ofertas/ps5-dragon-ball-sparking-zero-2088843",
+  "https://www.chollometro.com/ofertas/apple-funda-de-silicona-con-magsafe-para-iphone-16-plus-azul-ultramar-2088842",
+  "https://www.chollometro.com/ofertas/tommy-hilfiger-th-modern-crossover-aw0aw18619-crossover-mujer-2088841",
+  "https://www.hotukdeals.com/deals/gears-of-war-e-day-xbox-series-x-5046076"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795565073.0564885,
-  "ebay": 1795565721.3009229
+  "ebay": 1795566643.5076904
  },
  "ebay_seen": {
   "187110721591": 139.1,
