@@ -59,19 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/fsp-vita-gm-1000w-atx-31-netzteil-cybenetics-platinum80-gold-2880904",
-  "https://www.mydealz.de/deals/zendure-solarflow-2400-pro-stromspeicher-24kwh-speicher-fur-balkonkraftwerkpv-anlage-2880902",
-  "https://www.dealabs.com/bons-plans/kingdom-come-deliverance-ii-day-one-edition-3468118",
-  "https://www.dealabs.com/bons-plans/neural-dsp-archetype-john-mayer-x-3468117",
-  "https://www.dealabs.com/bons-plans/box-fibre-orang-18-26-3468116",
-  "https://www.dealabs.com/bons-plans/peluces-fuggler-plusieurs-modeles-aux-choix-23-cm-3468115",
-  "https://www.dealabs.com/bons-plans/aspirateur-robot-laveur-ecovacs-deebot-t50-pro-omni-gen3-ultra-fin-81-mm-aspiration-25-000-pa-distributeur-automatique-de-detergent-3468114",
-  "https://www.dealabs.com/bons-plans/ecran-pc-gamer-incurve-32-samsung-odyssey-g55c-qhd-2560x1440-165-hz-1-ms-1000r-freesync-3468113",
-  "https://www.dealabs.com/bons-plans/soundlink-flex-2eme-generation-3468111",
-  "https://www.dealabs.com/bons-plans/smartwatch-buds-motorola-a-99-euros-seulement-3468108",
-  "https://www.dealabs.com/bons-plans/carte-confo-payante-50eur-cagnottes-des-300eur-dachat-chez-conforama-hors-exclusions-3468109",
-  "https://www.dealabs.com/bons-plans/abonnement-pc-en-ligne-neo-shadow-pc-3468106",
-  "https://www.chollometro.com/ofertas/24-marcadores-acrilicos-2088438",
   "https://www.chollometro.com/ofertas/1-pilas-varta-aa-o-aaa-2088435",
   "https://www.chollometro.com/ofertas/bso-cyberpunk-2077-phantom-liberty-2088436",
   "https://www.chollometro.com/ofertas/nike-zoom-streak-3-tallas-40-a-485-2088434",
@@ -1558,7 +1545,20 @@
   "https://nl.pepper.com/aanbiedingen/apple-macbook-pro-14-inch-2026-m5-pro-24-gb-ram-2-tb-ssd-spacezwart-429189",
   "https://nl.pepper.com/aanbiedingen/brennenstuhl-ecolor-power-strip-with-3-sockets-blackwhite-nu-nog-goedkoper-en-60-cent-goedkoper-dan-de-rode-versie-429188",
   "https://www.hotukdeals.com/deals/boss-bottled-aftershave-100ml-5046205",
-  "https://www.hotukdeals.com/deals/5g-sim-only-120gb-id-data-unlimited-mins-texts-ps10pm-claim-ps84-cashback-effective-ps3pm-or-ps36-total-5046204"
+  "https://www.hotukdeals.com/deals/5g-sim-only-120gb-id-data-unlimited-mins-texts-ps10pm-claim-ps84-cashback-effective-ps3pm-or-ps36-total-5046204",
+  "https://www.mydealz.de/deals/hp-color-laserjet-pro-mfp-3302sdwg-multifunktionsfarblaserdrucker-2881149",
+  "https://www.mydealz.de/deals/technics-eah-az100e-true-wireless-earbuds-2881148",
+  "https://www.mydealz.de/deals/tefal-ingenio-black-stone-bratpfannen-set-3-teilig-24-cm-28-cm-abnehmbarer-griff-induktion-fur-4999eur-bei-joybuy-2881147",
+  "https://www.dealabs.com/bons-plans/sonos-arc-ultra-3468513",
+  "https://www.dealabs.com/codes-promo/15-de-remise-sur-la-billetterie-en-ligne-onlykart-lyon-3468440",
+  "https://www.chollometro.com/ofertas/aspirador-escoba-dyson-v8-advance-2089019",
+  "https://www.chollometro.com/ofertas/gamely-fuera-de-lugar-juego-familiar-de-preguntas-para-tentar-la-suerte-2089017",
+  "https://www.chollometro.com/ofertas/columbia-newton-ridge-plus-botas-montana-de-senderismo-y-trekking-para-mujer-2089011",
+  "https://www.chollometro.com/ofertas/nicce-breton-hombre-sudadera-con-capucha-tallas-xs-y-s-2089009",
+  "https://www.chollometro.com/ofertas/burberry-goddess-2089013",
+  "https://nl.pepper.com/aanbiedingen/varta-recycled-aa-2100mah-oplaadbare-batterijen-duurzaam-en-voordelig-20-korting-429191",
+  "https://www.hotukdeals.com/deals/rubicon-passion-sparkling-fruit-soft-drink-24-x-330ml-cans-ss-ps670ps632-5046207",
+  "https://www.hotukdeals.com/deals/get-a-free-regular-mccafe-coffee-when-you-spend-ps1-on-any-food-drink-via-app-selected-accounts-5046206"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795589673.3597758,
-  "ebay": 1795590322.288953
+  "ebay": 1795591244.5792098
  },
  "ebay_seen": {
   "187110721591": 139.1,
