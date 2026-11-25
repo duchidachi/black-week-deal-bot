@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-25T13:42:33+00:00"
+   "checked": "2026-11-25T14:13:51+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-25T13:42:42+00:00"
+   "checked": "2026-11-25T14:14:00+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-25T13:42:47+00:00"
+   "checked": "2026-11-25T14:14:05+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,57 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-25T13:42:56+00:00"
+   "checked": "2026-11-25T14:14:14+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
-   "last": 497.53,
-   "checked": "2026-11-25T13:43:01+00:00"
+   "last": 499.0,
+   "checked": "2026-11-25T14:14:18+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-25T13:43:05+00:00"
+   "checked": "2026-11-25T14:14:22+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-25T13:42:51+00:00"
+   "checked": "2026-11-25T14:14:09+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/snickers-peanut-milk-chocolate-large-christmas-gift-selection-box-1845g-5046304",
-  "https://www.hotukdeals.com/deals/champion-kids-padded-hooded-vest-with-full-zip-water-repellent-light-padding-wind-protection-cire-shiny-finish-outdoor-and-leisure-5046303",
-  "https://www.hotukdeals.com/deals/little-people-collector-masters-of-the-universe-evil-warriors-set-5046302",
-  "https://www.hotukdeals.com/deals/lego-gingerbread-at-at-walker-40806-with-voucher-5046301",
-  "https://www.hotukdeals.com/deals/ryobi-18v-one-cordless-compact-drill-driver-bare-tool-5046300",
-  "https://www.hotukdeals.com/deals/amazon-basics-aaa-alkaline-batteries-250-pack-5046299",
-  "https://www.hotukdeals.com/deals/samsonite-scure-spinner-check-in-suitcase-81-cm-5046298",
-  "https://www.hotukdeals.com/deals/leatherman-raptor-amazing-ring-cutter-5046290",
-  "https://www.hotukdeals.com/deals/kenwood-my-pizzeria-kpo10000bk-pizza-oven-in-black-5046297",
-  "https://www.mydealz.de/deals/joybuy-lattafa-khamrah-eau-de-parfum-100ml-fur-1506-eur-inkl-versand-als-app-neukunde-2881226",
-  "https://www.mydealz.de/deals/go-shawty-its-your-birthday-prime-50-cent-get-rich-or-die-tryin-album-180g-auf-2-lps-2003-16-tracks-2881223",
-  "https://www.mydealz.de/deals/nigrin-scheiben-innenreiniger-mit-teleskopgriff-und-3-mikrofaserpads-71144-2881222",
-  "https://www.dealabs.com/bons-plans/carte-mere-colorful-battle-ax-b850m-t-wifi-v14-micro-atx-wifi-6e-ddr5-etc-3468620",
-  "https://www.dealabs.com/bons-plans/yum-asia-sakura-cuiseur-a-riz-3468619",
-  "https://www.dealabs.com/bons-plans/carte-mere-mini-itx-colorful-cvn-b850i-gaming-frozen-v14-3447724",
-  "https://www.dealabs.com/bons-plans/apple-iphone-air-256-go-or-clair-3468618",
-  "https://www.dealabs.com/bons-plans/watercooling-aio-xpg-levante-ii-360-3468617",
-  "https://www.dealabs.com/bons-plans/valise-rigide-l-93107-l-wenger-prymo-erweiterbar-a-4-roulettes-3468607",
-  "https://www.dealabs.com/bons-plans/lego-party-xbox-3468616",
-  "https://www.dealabs.com/bons-plans/console-sony-ps5-standard-chassis-e-3468614",
-  "https://www.dealabs.com/bons-plans/casque-lego-f1-charles-leclerc-43014-3468613",
-  "https://www.dealabs.com/bons-plans/zenitech-enrouleur-electrique-4-prises-h05vv-f-3g1mm2-15m-gris-2300w-deroule-16a-usage-menager-gris-raccordement-rapide-3468602",
-  "https://www.chollometro.com/ofertas/vin-bouquet-fia-1457-decantador-de-calavera-de-cristal-1-litro-no-incluye-bebida-2089185",
-  "https://www.chollometro.com/ofertas/cillit-bang-quitagrasas-potente-limpiador-antigrasa-para-cocina-y-exterior-formato-spray-pack-de-3-x-750-ml-2089184",
-  "https://www.chollometro.com/ofertas/lego-editions-mclaren-mastercard-f1-team-casco-de-oscar-piastri-43017-2089183",
-  "https://www.chollometro.com/ofertas/segunda-mano-aceptable-harry-potter-and-the-goblet-of-fire-a-sumptuously-illustrated-gift-book-with-magical-interactive-surprises-ingles-2089178",
   "https://www.chollometro.com/ofertas/the-north-face-2000-polar-nuptse-chaqueta-de-plumon-polar-700-fill-power-dwr-mujer-tallas-xs-m-l-2089176",
   "https://www.chollometro.com/ofertas/lego-speed-champions-coche-de-carreras-williams-racing-2089175",
   "https://www.chollometro.com/ofertas/chaqueta-de-moto-touring-rst-alpha-5-clase-aa-forro-termico-extraible-125gr-impermeable-2-colores-de-s-a-3xl-en-ambos-2089174",
@@ -1558,7 +1532,33 @@
   "https://www.hotukdeals.com/deals/castrol-edge-5w-30-ll-advanced-full-synthetic-engine-oil-5l-5046734",
   "https://www.hotukdeals.com/deals/tui-return-flights-from-london-nonstop-to-kuusamo-major-winter-sports-centre-in-finland-from-ps107-eg-dec-13-20-5046733",
   "https://www.hotukdeals.com/deals/bombay-sapphire-1-litre-5046732",
-  "https://www.hotukdeals.com/deals/regatta-mens-hooded-navigate-full-zip-fleece-with-zipped-pockets-6-colours-with-code-free-delivery-with-free-sign-up-5046731"
+  "https://www.hotukdeals.com/deals/regatta-mens-hooded-navigate-full-zip-fleece-with-zipped-pockets-6-colours-with-code-free-delivery-with-free-sign-up-5046731",
+  "https://www.mydealz.de/deals/sonnet-echo-21-thunderbolt-5-superdock-dockingstation-2881550",
+  "https://www.mydealz.de/deals/gothic-1-remake-2378eur-bei-gog-per-vpn-3749eur-oder-2191eur-als-steam-key-yuplay-rollenspiel-2881549",
+  "https://www.mydealz.de/deals/lg-48-g5-oled-tv-g59ls-2-cashback-68725eur-effektiv-2876462",
+  "https://www.mydealz.de/deals/prime-puma-st-runner-v4-sd-sneaker-dusky-gray-ab-2299-eur-viele-grossen-unter-30-eur-pvg-3854-eur-2881548",
+  "https://www.mydealz.de/deals/steiff-soft-cuddly-friends-honey-teddybar-hellgrau-18-cm-teddy-aus-flauschigem-plusch-grau-2881547",
+  "https://www.preisjaeger.at/deals/baue-eine-lego-geschenkbox-und-nimm-sie-mit-nach-hause-am-02-0312-von-15-17-uhr-373382",
+  "https://www.dealabs.com/bons-plans/tablette-121-xiaomi-redmi-pad-2-pro-3469033",
+  "https://www.dealabs.com/bons-plans/tv-75-tcl-75q7c-qled-mini-led-4k-hdr-premium-144-hz-hdmi-21-amd-freesync-premium-pro-airplay-2-3469032",
+  "https://www.dealabs.com/bons-plans/alimentation-pc-1000w-lian-li-rs-series-80-plus-gold-atx-31-entierement-modulaire-connecteur-ca-rotatif-blanche-sans-moyeu-3469030",
+  "https://www.dealabs.com/bons-plans/degustation-gratuite-de-buches-de-noel-maison-chez-la-boulangerie-da-costa-moneteau-89-3469023",
+  "https://www.dealabs.com/bons-plans/bibliotheque-billy-ikea-reduction-30-en-magasin-3469028",
+  "https://www.dealabs.com/bons-plans/ecran-pc-27-tcl-p2-27p2a-qhd-ips-mini-led-200-hz-freesync-premium-3469027",
+  "https://www.dealabs.com/bons-plans/vol-ar-paris-cdg-seychelles-sez-escales-a-nairobi-ex-du-10-au-18-mars-2027-1-bagages-cabine-2-bagages-en-soute-23kg-inclus-3469025",
+  "https://www.dealabs.com/bons-plans/boitier-pc-moyen-tour-kolink-observatory-hf-glass-argb-blanc-6-ventilateurs-argb-preinstalles-verre-trempe-3469024",
+  "https://www.dealabs.com/bons-plans/grand-theft-auto-v-version-amelioree-sur-pc-dematerialise-steam-3469021",
+  "https://www.chollometro.com/ofertas/lavadora-hisense-serie-1i-wf1i7022bwj-carga-frontal-7-kg-1200-rpm-a-blanca-inverter-vapor-2089722",
+  "https://www.chollometro.com/ofertas/pack-de-5-pares-de-calcetines-tobilleros-umbro-para-hombre-corte-bajo-tejido-elastico-transpirable-2089721",
+  "https://www.chollometro.com/ofertas/juego-de-mesa-cooperativo-asmodee-mysterium-edicion-2025-espanolportugues-2089720",
+  "https://www.chollometro.com/ofertas/funko-pop-nba-warriors-jimmy-butler-iii-2089718",
+  "https://www.chollometro.com/ofertas/zapatillas-hombre-reebok-floatzig-double-tallas-39-a-485-2089719",
+  "https://nl.pepper.com/aanbiedingen/powerplus-dual-power-powdpo1100-accu-klopboormachine-20-v-excl-batterij-en-lader-429309",
+  "https://www.hotukdeals.com/deals/walkers-lightly-salted-multipack-crisps-6x25g-5046740",
+  "https://www.hotukdeals.com/deals/blukar-torch-rechargeable-ultra-high-lumens-super-bright-flashlight-5046739",
+  "https://www.hotukdeals.com/deals/oppo-find-x10-512gb-oppo-watch-x3-ps791-oppo-find-x10-pro-max-oppo-watch-x3-ps989-with-student-discountcode-ps989-5046738",
+  "https://www.hotukdeals.com/deals/25-off-energizer-max-power-bulk-pack-of-aa-aaa-packs-of-20-and-50-with-code-5046736",
+  "https://www.hotukdeals.com/deals/regatta-womens-fionne-hooded-quilted-jacket-with-internal-pocket-zipped-pockets-5-colours-wcode-free-delivery-with-free-sign-up-5046735"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795614148.132117,
+  "geizhals": 1795616026.7060964,
   "ebay": 1795615712.7690008
  },
  "ebay_seen": {
@@ -1651,6 +1651,7 @@
   "https://www.mydealz.de/deals/dji-osmo-action-6-adventure-combo-action-cam-3-akkus-15m-verlangerungsstange-mehr-111-quadratsensor-variable-f20-f40-blende-2851610",
   "https://www.mydealz.de/deals/xfx-mercury-amd-radeon-rx-9070xt-oc-gaming-edition-mit-rgb-16gb-gddr6-hdmi-3xdp-amd-rdna-2881309",
   "https://www.mydealz.de/deals/sid-meiers-civilization-vii-ps5-playstation-5-disc-version-usk-12-fur-1720-eur-inkl-versand-bei-amazon-2869925",
-  "https://www.mydealz.de/deals/samsung-50-zoll-125-cm-crystal-uhd-u8079h-vision-ai-smart-tv-60-hz-4k-uhd-3840-x-2160-pixel-3x-hdmi-tizen-os-2874343"
+  "https://www.mydealz.de/deals/samsung-50-zoll-125-cm-crystal-uhd-u8079h-vision-ai-smart-tv-60-hz-4k-uhd-3840-x-2160-pixel-3x-hdmi-tizen-os-2874343",
+  "https://www.mydealz.de/deals/lg-48-g5-oled-tv-g59ls-2-cashback-68725eur-effektiv-2876462"
  ]
 }
