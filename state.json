@@ -59,19 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/tcl-55-55t6c-4k-qled-freely-fire-tv-dolby-vision-dolby-atmos-5045759",
-  "https://www.hotukdeals.com/deals/rainberg-granite-frying-pan-26cm-nonstick-with-lid-induction-compatible-5045758",
-  "https://www.hotukdeals.com/deals/milwaukee-sds-drill-5045757",
-  "https://www.hotukdeals.com/deals/indiana-jones-dial-of-destiny-blu-ray-with-code-5045756",
-  "https://www.mydealz.de/deals/adidas-deutschland-26-kids-auswartstrikot-fur-1912-eur-mit-corporate-benefits-cb-statt-75-eur-2880873",
-  "https://www.mydealz.de/deals/iphone-15-128gb-premium-refurbished-neuer-akku-otelo-allnet-flat-250gb-5g-vodafone-fur-2249eurmonat-1eur-zuzahlung-lokal-sindelfingen-2880867",
-  "https://www.mydealz.de/deals/arizina-sunshine-vr-remake-2880872",
-  "https://www.mydealz.de/deals/hin-und-ruckflug-ihrer-wahl-innerhalb-europas-fur-2-personen-fur-99eur-versch-abflughafen-und-versch-ziele-moglich-2880871",
-  "https://www.preisjaeger.at/deals/indesit-ima-762-my-time-at-7-kg-um-26999-eur-inkl-lieferung-bei-mediamarkt-373323",
-  "https://www.preisjaeger.at/deals/lego-fortnite-schlachtenbus-77073-um-4599-eur-bei-mediamarkt-373324",
-  "https://www.dealabs.com/bons-plans/fauteuil-de-bureau-cougar-fusion-ex-3468072",
-  "https://www.dealabs.com/bons-plans/boiter-pc-arctic-xtender-noir-avec-5x-ventilateurs-a-rgb-pre-installes-3468071",
-  "https://www.dealabs.com/bons-plans/selection-de-jeux-nintendo-switch-boite-avec-code-de-telechargement-3468070",
   "https://www.dealabs.com/bons-plans/billet-de-train-ouigo-grande-vitesse-de-paris-marne-la-vallee-chessy-vers-avignon-tgv-des-16eur-plusieurs-dates-ex-4-janvier-2027-3468069",
   "https://www.dealabs.com/bons-plans/station-de-charge-re-load-gan3-8-ports-200-watts-3468068",
   "https://www.chollometro.com/ofertas/ps5-xeno-crisis-2088377",
@@ -1558,7 +1545,20 @@
   "https://www.hotukdeals.com/deals/alienware-34-qd-oled-gaming-monitor-aw3426dw-5046170",
   "https://www.hotukdeals.com/deals/iphone-3-pro-vgc-with-new-battery-5046169",
   "https://www.hotukdeals.com/deals/samsung-galaxy-tab-a11-wifi-tablet-128gb-11-inch-display-with-code-2-colours-free-cc-5046168",
-  "https://www.hotukdeals.com/deals/lego-40806-star-wars-gingerbread-at-at-5046167"
+  "https://www.hotukdeals.com/deals/lego-40806-star-wars-gingerbread-at-at-5046167",
+  "https://www.mydealz.de/deals/hoka-clifton-11-2881123",
+  "https://www.mydealz.de/deals/098-eur-effektiv-fur-2x-teekanne-landertee-versch-sorten-20-beutel-049-eur-packung-mit-rewe-bonus-sonst-138-eur-rewelokalcashback-2881122",
+  "https://www.mydealz.de/deals/rituals-classic-advent-calendar-duschschaum-kitchenset-mit-newsletter-und-rewe-gs-kauf-fur-5939eur-mit-clickcollect-sonst-595-vk-2880579",
+  "https://www.dealabs.com/bons-plans/ruban-adhesif-scotch-50-mm-x-25-m-3468478",
+  "https://www.dealabs.com/bons-plans/bouteille-de-rhum-a1710-bete-a-feu-70cl-509-3468477",
+  "https://www.dealabs.com/bons-plans/aspirateur-balai-dyson-v15-detect-absolute-240-air-watts-40eur-offerts-en-cheque-cadeau-3468475",
+  "https://www.dealabs.com/bons-plans/yamaha-psr-e383-clavier-portable-noir-pour-debutants-650-voix-dinstruments-authentiques-avec-touches-tactiles-polyphonie-de-48-notes-3468474",
+  "https://www.chollometro.com/ofertas/beter-pack-3-charm-cepillo-de-fibra-natural-genius-tribe-llavero-xss-con-arandela-para-bolsomochila-2088970",
+  "https://nl.pepper.com/aanbiedingen/sun-vaatwastabletten-429179",
+  "https://www.hotukdeals.com/deals/acer-chromebook-plus-514-intel-core-i5-8gb-ram-256gb-ssd-14-inch-laptop-nxj5xek005-5046176",
+  "https://www.hotukdeals.com/deals/bayonetta-pc-key-xbox-one-uk-key-ps499-5046175",
+  "https://www.hotukdeals.com/deals/sainsburys-british-or-irish-21-day-matured-lean-beef-roasting-joint-1-18kg-price-per-kg-ps750-nectar-price-5046174",
+  "https://www.hotukdeals.com/deals/star-wars-jedi-fallen-order-deluxe-edition-xbox-one-xbox-series-xs-europe-uk-key-5046173"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795587777.8196514,
-  "ebay": 1795587464.0892239
+  "ebay": 1795588426.2657058
  },
  "ebay_seen": {
   "187110721591": 139.1,
