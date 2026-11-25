@@ -59,9 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/famila-nordost-ribnitz-damgarten-ass-altenburger-22570062-poker-franzosisches-bild-kartenspiel-lokal-2880827",
-  "https://www.preisjaeger.at/deals/zalando-10-sparen-bei-kauf-von-gutscheinen-uber-payback-373315",
-  "https://www.preisjaeger.at/deals/logitech-pop-icon-keys-kabellose-bluetooth-tastatur-373314",
   "https://www.dealabs.com/bons-plans/logitech-g-x56-hotas-3m-system-with-rgb-gas-control-and-joystick-3468009",
   "https://www.dealabs.com/codes-promo/20-de-plus-facialpro-glow-depuffi-3468007",
   "https://www.dealabs.com/bons-plans/brique-de-rangement-lego-6-tenons-gris-pierre-rose-vert-3468005",
@@ -1558,7 +1555,10 @@
   "https://www.hotukdeals.com/deals/jean-paul-gaultier-le-male-elixir-absolu-75ml-with-code-5046103",
   "https://www.dealabs.com/bons-plans/plaid-a-capuche-pour-enfant-90x140cm-divers-modeles-3468414",
   "https://www.dealabs.com/bons-plans/parure-de-lit-en-fausse-fourrure-200-x-200-diverses-couleurs-3468413",
-  "https://www.hotukdeals.com/deals/nintendo-switch-2-console-uk-version-5046106"
+  "https://www.hotukdeals.com/deals/nintendo-switch-2-console-uk-version-5046106",
+  "https://www.mydealz.de/deals/star-wars-galactic-racer-deluxe-edition-ps5-playstation-5-amazon-prime-2881072",
+  "https://www.dealabs.com/bons-plans/montre-pour-enfant-avec-gps-silvergear-diverses-couleurs-3468416",
+  "https://www.dealabs.com/bons-plans/lg-s90tr-barre-de-son-713-670-w-dolby-atmos-dtsx-hi-resaudio-13-haut-parleurs-wow-synergie-3468415"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795572635.4519668,
-  "ebay": 1795572320.895321
+  "ebay": 1795573284.7397888
  },
  "ebay_seen": {
   "187110721591": 139.1,
