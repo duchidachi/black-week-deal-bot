@@ -59,17 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/2-ampoules-h4-osram-night-breaker-led-speed-3469167",
-  "https://www.chollometro.com/ofertas/totto-estuche-escolar-3-compartimentos-modelo-tablero-2089905",
-  "https://www.chollometro.com/ofertas/marshall-acton-iii-altavoz-bluetooth-2089906",
-  "https://www.chollometro.com/ofertas/kitchen-in-the-box-batidora-amasadora-35l-10-vel-mini-2089904",
-  "https://www.chollometro.com/ofertas/rawhead-rex-blu-ray-r-1986-2089902",
-  "https://www.chollometro.com/ofertas/cama-tren-con-2-camas-juveniles-blanco-natural-alistonado-150x271x111-cm-2089901",
-  "https://www.chollometro.com/ofertas/ring-camara-exterior-con-bateria-2089900",
-  "https://www.chollometro.com/ofertas/cb12-cuidado-dental-sensible-16-horas-efectivas-contra-el-mal-aliento-2089898",
-  "https://www.chollometro.com/ofertas/magic-mixies-magic-mixlings-mega-pack-para-ninos-y-ninas-2089897",
-  "https://www.chollometro.com/ofertas/300-comprimidos-l-triptofano-puro-525mg-para-10-meses-l-triptofano-para-dormir-bien-2089896",
-  "https://www.chollometro.com/ofertas/apple-airpods-pro-3-auriculares-inalambricos-con-cancelacion-activa-de-ruido-medicion-de-frecuencia-cardiaca-2089895",
   "https://www.chollometro.com/ofertas/1800-0018eurud-toallitas-dodot-aqua-pure-30-x-60ud-2089894",
   "https://www.chollometro.com/ofertas/guess-gafas-de-sol-2089892",
   "https://www.chollometro.com/ofertas/router-wifi-6-hikvision-rg-ew3000gx-pro-doble-banda-4-puertos-3x-gbe-gaming-2089890",
@@ -1558,7 +1547,18 @@
   "https://www.hotukdeals.com/deals/gritin-under-cabinet-kitchen-lights-rechargeable-2-pack-3-color-temps-5047260",
   "https://www.hotukdeals.com/deals/adidas-originals-manchester-united-2526-og-t-shirt-size-s-5047259",
   "https://www.hotukdeals.com/deals/snack-day-christmas-tree-shaped-winter-pretzels-5047258",
-  "https://www.hotukdeals.com/deals/citric-acid-food-grade-125kg-5047257"
+  "https://www.hotukdeals.com/deals/citric-acid-food-grade-125kg-5047257",
+  "https://www.mydealz.de/deals/910-wp-hyundai-hjt-bifaziales-balkonkraftwerk-hoymiles-hms-800-2wb-2-balkonhalterungen-fur-389eur-inkl-versand-2881954",
+  "https://www.mydealz.de/deals/prime-baseus-enerfill-100w-usb-c-ladegerat-kabel-gan-pd-30-qc-50-pps-charger-kompaktes-schnellladegerat-netzteil-komp-apple-samsung-2881953",
+  "https://www.mydealz.de/deals/black-friday-neukunden-x-subscription-premium-inkl-grok-bot-2-monate-zum-preis-von-1-31-eur-statt-62-eur-2881951",
+  "https://www.dealabs.com/bons-plans/ecouteurs-sans-fil-huawei-freebuds-se-3-3469561",
+  "https://www.dealabs.com/bons-plans/chaussures-nike-air-max-270-divers-coloris-tailles-355-au-40-3469559",
+  "https://www.dealabs.com/bons-plans/smartphone-683-redmi-note-17-pro-5g-8512-go-bleu-ou-noir-batterie-8340-mah-via-odr-70eur-3469560",
+  "https://www.chollometro.com/ofertas/lg-qned-evo-mini-led-55-55qned86b6b-4k-144-hz-por-525eur-2090475",
+  "https://www.chollometro.com/ofertas/chandal-adidas-day-ready-negro-2090471",
+  "https://www.chollometro.com/ofertas/chaqueta-de-plumas-con-capucha-2090469",
+  "https://www.chollometro.com/ofertas/darkflash-cristal-templado-atx-4-ventiladores-argb-blanco-ds900wd-midi-tower-caja-pc-2090466",
+  "https://www.hotukdeals.com/deals/adidas-football-manchester-united-2627-og-t-shirt-size-xs-m-5047261"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795644311.456956,
-  "ebay": 1795643995.787749
+  "ebay": 1795644959.9109287
  },
  "ebay_seen": {
   "187110721591": 139.1,
