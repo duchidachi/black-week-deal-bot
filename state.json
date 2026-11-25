@@ -59,18 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/drone-dji-mini-4k-fly-more-combo-pack-avec-3-batteries-3468874",
-  "https://www.chollometro.com/ofertas/nintendo-switch-2-reanimal-codigo-en-la-caja-2089564",
-  "https://www.chollometro.com/ofertas/vounot-pack-2-ruedas-de-carretilla-inflables-410350-4-260x85-mm-eje-16-mm-2089562",
-  "https://www.chollometro.com/ofertas/mando-gamesir-t3-gy-tegenaria-lite-cableado-gris-retro-2089558",
-  "https://www.chollometro.com/ofertas/polaroid-camara-instantanea-now-gen3-paquete-azul-artico-pelicula-a-color-16-fotos-2089556",
-  "https://www.chollometro.com/ofertas/pop-funko-plus-delicious-in-dungeon-chilchuck-2089552",
-  "https://www.chollometro.com/ofertas/reebok-nano-x5-edge-zapatillas-entrenamiento-hombre-tallas-36-a-47-2089550",
-  "https://www.chollometro.com/ofertas/a-un-paso-de-sevilla-y-de-todo-su-encanto-hotel-3desayuno-en-santiponce-dic-feb-2089548",
-  "https://www.chollometro.com/ofertas/mentiras-arriesgadas-james-cameron-blu-ray-2089546",
-  "https://www.chollometro.com/ofertas/6-x-400-ml-nivea-aceite-en-locion-flor-de-cerezo-aceite-de-jojoba-2089540",
-  "https://www.chollometro.com/ofertas/adidas-terrex-terrex-skychaser-ax5-w-zapatillas-de-senderismo-core-black-core-black-semi-flash-aqua-2089538",
-  "https://www.chollometro.com/ofertas/eukanuba-alimento-seco-para-cachorros-de-razas-medianas-pollo-3kg-2089555",
   "https://www.chollometro.com/ofertas/casio-mtd-140d-3avdf-reloj-hombre-estandar-analogico-esfera-verde-acero-inoxidable-wr-100m-brazalete-acero-fecha-2089553",
   "https://nl.pepper.com/aanbiedingen/25-black-friday-korting-gratis-product-op-de-officiele-disney-site-429286",
   "https://nl.pepper.com/aanbiedingen/anycubic-kobra-3-v2-combo-3d-printer-at-joybuy-429285",
@@ -1558,7 +1546,19 @@
   "https://www.hotukdeals.com/deals/2-x-ninja-thirsti-travel-water-bottle-3-colours-530-ml-add-two-to-basket-then-use-code-ps1499-each-free-cc-5046994",
   "https://www.hotukdeals.com/deals/dji-neo-mini-drone-with-4k-uhd-camera-135g-self-flying-drone-follows-you-palm-takeoff-subject-tracking-quickshots-stabilized-video-5046993",
   "https://www.hotukdeals.com/deals/smart-watch-for-men-143-amoled-military-smart-watch-make-calls-520mah-5046992",
-  "https://www.hotukdeals.com/deals/sekonda-altitude-mens-pilot-style-watch-42mm-bronze-case-brown-leather-strap-with-black-dial-30034-5046991"
+  "https://www.hotukdeals.com/deals/sekonda-altitude-mens-pilot-style-watch-42mm-bronze-case-brown-leather-strap-with-black-dial-30034-5046991",
+  "https://www.mydealz.de/deals/gigabyte-go27q24g-27-zoll-w-oled-gaming-monitor-2881724",
+  "https://www.mydealz.de/deals/stanley-cup-2881723",
+  "https://www.mydealz.de/deals/kreuzfahrten-fur-alleinreisende-attraktive-single-angebote-teilweise-ohne-einzelkabinenzuschlag-zb-8-tage-kanarische-inseln-ab-399eur-2867650",
+  "https://www.mydealz.de/deals/dinner-in-der-grossen-halle-von-hogwarts-harry-potter-an-evening-at-warner-bros-studio-tour-london-2-un-ab-498eur-pp-fluge-ab-67eur-2881722",
+  "https://www.preisjaeger.at/deals/competo-klask-spiel-nordisch-10-373397",
+  "https://www.chollometro.com/ofertas/mochila-xiaomi-computer-18l-2090105",
+  "https://nl.pepper.com/aanbiedingen/flitsdeal-tm-1900-lego-42214-technic-lamborghini-revuelto-supersportwagen-at-bol-429231",
+  "https://www.hotukdeals.com/deals/the-offspring-greatest-hits-vinyl-5047002",
+  "https://www.hotukdeals.com/deals/lefant-m3-max-robot-vacuum-cleaner-with-sweeping-function-ps18899-paypal-20kpa-360-dtof-laser-wcode-at-lefant-overseas-official-store-5047001",
+  "https://www.hotukdeals.com/deals/q-acoustics-q-active-200-wireless-bookshelf-speaker-system-white-or-black-wi-fi-ethernet-bluetooth-airplay-chromecast-wvoucher-5045688",
+  "https://www.hotukdeals.com/deals/pilgrims-choice-mature-extra-mature-cheddar-cheese-350g-vintage-cheddar-cheese-300g-nectar-price-5047000",
+  "https://www.hotukdeals.com/deals/samsung-ceramic-hob-with-4-cooking-zones-with-touch-control-colour-black-material-glass-c61r2aee-5046999"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795629197.7471516,
-  "ebay": 1795628883.0009804
+  "ebay": 1795629854.7185485
  },
  "ebay_seen": {
   "187110721591": 139.1,
@@ -1658,6 +1658,7 @@
   "https://www.mydealz.de/deals/heavy-rain-beyond-two-souls-jeweils-199eur-action-adventure-gog-epic-games-2845706",
   "https://www.mydealz.de/deals/outward-definitive-edition-gog-2843913",
   "https://www.mydealz.de/deals/direktfluge-nach-madeira-funchal-portugal-ab-149eur-inkl-ruckflug-von-berlin-easyjet-mar-2832071",
-  "https://www.mydealz.de/deals/die-hochzeitsbrosche-die-hochzeitsflusterin-1-gratis-ebook-42-2833102"
+  "https://www.mydealz.de/deals/die-hochzeitsbrosche-die-hochzeitsflusterin-1-gratis-ebook-42-2833102",
+  "https://www.mydealz.de/deals/kreuzfahrten-fur-alleinreisende-attraktive-single-angebote-teilweise-ohne-einzelkabinenzuschlag-zb-8-tage-kanarische-inseln-ab-399eur-2867650"
  ]
 }
