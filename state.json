@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-25T01:39:11+00:00"
+   "checked": "2026-11-25T02:10:40+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-25T01:39:21+00:00"
+   "checked": "2026-11-25T02:10:50+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-25T01:39:26+00:00"
+   "checked": "2026-11-25T02:10:55+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,36 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-25T01:39:35+00:00"
+   "checked": "2026-11-25T02:11:04+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
-   "last": 470.26,
-   "checked": "2026-11-25T01:39:40+00:00"
+   "last": 497.53,
+   "checked": "2026-11-25T02:11:09+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-25T01:39:45+00:00"
+   "checked": "2026-11-25T02:11:14+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-25T01:39:31+00:00"
+   "checked": "2026-11-25T02:11:00+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/bombilla-inteligente-philips-smartlighting-led-e27-pack-x3un-rgb-85w-eq60w-806lmwifibt-control-via-app-wizmatteralexaapple-home-2088256",
-  "https://www.chollometro.com/ofertas/cotton-artean-funda-nordica-cama-150-algodon-nansa-beige-botones-2088257",
-  "https://www.hotukdeals.com/deals/adidas-womens-ultraboost-5x-neutral-running-shoes-cloud-whitedash-greylime-burst-size-35-55-5045698",
-  "https://www.hotukdeals.com/deals/bhf-home-stores-rugs-all-ps30-or-less-all-home-stores-nationwide-5045697",
-  "https://www.hotukdeals.com/deals/columbia-whirlibird-watch-cap-beanie-black-friday-deal-ps722-5045694",
   "https://www.hotukdeals.com/deals/phillips-sth503020-hand-clothes-steamer-blue-5045696",
   "https://www.hotukdeals.com/deals/anker-soundcore-p31i-real-time-adaptive-noise-cancelling-hi-res-sound-voucher-price-5045695",
   "https://www.mydealz.de/deals/nintendo-super-mario-adventskalender-2026-fur-2399eur-inkl-versand-20-rabatt-aktionsfehler-2863375",
@@ -1558,7 +1553,12 @@
   "https://www.dealabs.com/bons-plans/friteuse-tefal-easy-pro-2200w-3l-3468407",
   "https://www.dealabs.com/bons-plans/chauffes-oreilles-enfants-divers-modeles-3468409",
   "https://nl.pepper.com/aanbiedingen/wasgij-adventskalender-2026-429168",
-  "https://www.hotukdeals.com/deals/tag-heuer-formula-1-chronograph-44mm-titanium-automatic-mens-watch-5046102"
+  "https://www.hotukdeals.com/deals/tag-heuer-formula-1-chronograph-44mm-titanium-automatic-mens-watch-5046102",
+  "https://www.dealabs.com/bons-plans/lampadaire-135cm-divers-modeles-3468411",
+  "https://www.dealabs.com/bons-plans/drone-sky-cam-gear2play-3468410",
+  "https://www.hotukdeals.com/deals/httpswwwfreemanscomproductsnintendo-switch-2-console-a-49k748-5046105",
+  "https://www.hotukdeals.com/deals/stardew-valley-android-game-app-5046104",
+  "https://www.hotukdeals.com/deals/jean-paul-gaultier-le-male-elixir-absolu-75ml-with-code-5046103"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795570746.0205371,
+  "geizhals": 1795572635.4519668,
   "ebay": 1795572320.895321
  },
  "ebay_seen": {
