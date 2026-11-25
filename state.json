@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-25T00:04:38+00:00"
+   "checked": "2026-11-25T00:36:04+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-25T00:04:48+00:00"
+   "checked": "2026-11-25T00:36:13+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-25T00:04:53+00:00"
+   "checked": "2026-11-25T00:36:18+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,41 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-25T00:05:02+00:00"
+   "checked": "2026-11-25T00:36:27+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 470.26,
-   "checked": "2026-11-25T00:05:07+00:00"
+   "checked": "2026-11-25T00:36:32+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-25T00:05:11+00:00"
+   "checked": "2026-11-25T00:36:37+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-25T00:04:57+00:00"
+   "checked": "2026-11-25T00:36:23+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/diesel-only-the-brave-eau-de-toilette-iconic-citrus-woody-mens-aftershave-with-fresh-lemon-5045673",
-  "https://www.hotukdeals.com/deals/ugreen-finetrack-pro-solar-tracker-tag-for-apple-find-my-110db-key-finder-ios-only-solar-powered-bluetooth-ugreen-group-fba-5045671",
-  "https://www.hotukdeals.com/deals/vans-unisex-spicoli-sunglasses-sunglasses-pack-of-1-5045670",
-  "https://www.hotukdeals.com/deals/cadbury-heroes-chocolate-bulk-share-box-2-kg-pack-of-1-5045669",
-  "https://www.hotukdeals.com/deals/amazon-essentials-mens-regular-fit-long-sleeve-t-shirt-5045668",
-  "https://www.hotukdeals.com/deals/amazon-essentials-womens-cotton-nylon-blend-crew-socks-6-pairs-5045666",
-  "https://www.mydealz.de/deals/lego-icons-burgermeistervilla-11383-1420-teile-18-2880820",
-  "https://www.mydealz.de/gutscheine/15-rabatt-auf-das-gesamte-sortiment-bei-print-pioneer-ohne-mindestbestellwert-2880819",
-  "https://www.mydealz.de/deals/things-3-mac-iphone-ipad-vision-30-gunstiger-2880818",
-  "https://www.mydealz.de/deals/caffe-latte-emmi-230ml-becher-30-payback-punkte-2880817",
   "https://www.preisjaeger.at/deals/bose-smart-dolby-atmos-soundbar-zum-neuen-bestpreis-373285",
   "https://www.dealabs.com/bons-plans/rasoir-electrique-panasonic-series-900-es-pv3b-k803-5-lames-moteur-lineaire-format-paume-3467990",
   "https://www.chollometro.com/ofertas/nintendo-switch-2-octopath-traveler-game-key-card-2088236",
@@ -1558,7 +1548,17 @@
   "https://www.chollometro.com/ofertas/ps5-dragon-ball-sparking-zero-2088843",
   "https://www.chollometro.com/ofertas/apple-funda-de-silicona-con-magsafe-para-iphone-16-plus-azul-ultramar-2088842",
   "https://www.chollometro.com/ofertas/tommy-hilfiger-th-modern-crossover-aw0aw18619-crossover-mujer-2088841",
-  "https://www.hotukdeals.com/deals/gears-of-war-e-day-xbox-series-x-5046076"
+  "https://www.hotukdeals.com/deals/gears-of-war-e-day-xbox-series-x-5046076",
+  "https://www.dealabs.com/bons-plans/dragon-quest-monsters-le-royaume-de-boisfletri-switch-2-3468396",
+  "https://www.dealabs.com/bons-plans/carte-graphique-sapphire-pulse-amd-radeon-rx-9060-xt-gaming-oc-16-go-gddr6-sur-cdiscount-3468395",
+  "https://www.dealabs.com/bons-plans/creatine-monohydrate-en-poudre-zumub-1kg-200-mesh-3468394",
+  "https://www.dealabs.com/bons-plans/bonnet-columbia-whirlibird-noir-3468393",
+  "https://www.dealabs.com/bons-plans/boitier-pc-moyen-tour-apnx-v2-f-noir-3-panneaux-verre-trempe-4-ventilateurs-140mm-argb-inclus-hub-pwm-a-6990eur-990eur-de-port-3468392",
+  "https://www.chollometro.com/ofertas/cantabria-labs-endocare-renewal-retinoid-intensive-serum-30-ml-2088848",
+  "https://www.chollometro.com/ofertas/funko-pop-animation-kaiju-no-8-haruichi-izumo-2088847",
+  "https://www.hotukdeals.com/deals/immortals-fenyx-rising-xbox-one-xbox-series-x-5046079",
+  "https://www.hotukdeals.com/deals/cuisinart-ceramica-xt-non-stick-20cm-frying-pan-5046078",
+  "https://www.hotukdeals.com/deals/baylis-harding-tropical-handwash-500ml-5046077"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795565073.0564885,
+  "geizhals": 1795566959.0761635,
   "ebay": 1795566643.5076904
  },
  "ebay_seen": {
