@@ -59,9 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/the-ordinary-glycolic-acid-7-exfoliating-toner-brightening-and-smoothing-daily-toner-for-more-even-looking-skin-tone-5045692",
-  "https://www.hotukdeals.com/deals/berghaus-elect-u25-25l-backpack-black-with-code-5045691",
-  "https://www.hotukdeals.com/deals/star-wars-outlaws-gold-edition-switch-2-5045690",
   "https://www.hotukdeals.com/deals/human-traffic-4k-uhd-blu-ray-5045687",
   "https://www.mydealz.de/deals/ford-puma-titanium-999ccm-125ps-eu-neuwagen-ab-20290eur-eu-neuwagen-knott-2880824",
   "https://www.mydealz.de/deals/amazon-prime-moet-chandon-imperial-brut-champagner-075-l-in-geschenkverpackung-2880822",
@@ -1558,7 +1555,10 @@
   "https://www.hotukdeals.com/deals/star-wars-galactic-racer-ps5-5046094",
   "https://www.dealabs.com/bons-plans/real-techniques-face-base-set-pinceaux-multi-usages-rose-dore-lot-de-4-3468404",
   "https://www.hotukdeals.com/deals/black-friday-deal-tcl-55v6c-direct-led-4k-hdr-smart-google-tv-55v6cdolby-atmos-aipq-processor-120hz-game-accelerator-5046096",
-  "https://www.hotukdeals.com/deals/7-nts-2-adults-bed-breakfast-31-jan-07-feb-4-star-hotel-ta-48-malta-ps215ppps3071pppn-incl-birmingham-flights-plus-taxes-5046095"
+  "https://www.hotukdeals.com/deals/7-nts-2-adults-bed-breakfast-31-jan-07-feb-4-star-hotel-ta-48-malta-ps215ppps3071pppn-incl-birmingham-flights-plus-taxes-5046095",
+  "https://www.dealabs.com/bons-plans/crocs-noirs-tailles-28-a-38-3468405",
+  "https://www.hotukdeals.com/deals/longines-conquest-42mm-watch-l38354926-5046099",
+  "https://www.hotukdeals.com/deals/sony-dualsense-ps5-wireless-controller-midnight-black-5046097"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795570746.0205371,
-  "ebay": 1795570430.3928936
+  "ebay": 1795571397.3137186
  },
  "ebay_seen": {
   "187110721591": 139.1,
