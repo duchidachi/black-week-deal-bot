@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-25T19:59:26+00:00"
+   "checked": "2026-11-25T20:30:55+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-25T19:59:35+00:00"
+   "checked": "2026-11-25T20:31:04+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-25T19:59:39+00:00"
+   "checked": "2026-11-25T20:31:08+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,42 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-25T19:59:49+00:00"
+   "checked": "2026-11-25T20:31:18+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 499.0,
-   "checked": "2026-11-25T19:59:53+00:00"
+   "checked": "2026-11-25T20:31:22+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-25T19:59:58+00:00"
+   "checked": "2026-11-25T20:31:27+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-25T19:59:44+00:00"
+   "checked": "2026-11-25T20:31:13+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/vouchers/20-off-black-friday-discount-5046757",
-  "https://www.hotukdeals.com/deals/lego-super-mario-game-boy-72046-5046755",
-  "https://www.hotukdeals.com/deals/la-roche-posay-lipikar-ap-max-triple-action-balm-400ml-5046754",
-  "https://www.hotukdeals.com/deals/neutrogena-norwegian-formula-visibly-renew-firming-body-lotion-1-x-400ml-nourishing-body-cream-designed-to-help-restore-skins-5046753",
-  "https://www.hotukdeals.com/deals/football-manager-26-5046749",
-  "https://www.mydealz.de/gutscheine/retroid-offizielle-website-black-friday-sale-handheld-2881576",
-  "https://www.mydealz.de/deals/prime-ugreen-25g-lan-switch-5x-25-gbit-ports-25x-schneller-als-gigabit-lufterlos-plug-play-wandmontage-2881579",
-  "https://www.mydealz.de/deals/tp-link-deco-xe75-mesh-wlan-wi-fi-6e-axe5400-3er-set-fur-24556-eur-pvg-29699-eur-2881577",
-  "https://www.mydealz.de/deals/engelbert-strauss-adventskalender-2026-2881575",
-  "https://www.mydealz.de/deals/flaconiparfumdreams-prada-lhomme-eau-de-toilette-100ml-o-50ml-mitohne-cb-43874987eur-parfumo-herrendufte-topliste-platz-5-2881574",
-  "https://www.mydealz.de/deals/shoop-black-friday-aktionsubersicht-nach-kategorien-technik-mode-reisen-beauty-energie-uvm-2881569",
   "https://www.mydealz.de/deals/gog-chained-echoes-749eur-rollenspiel-pc-2881573",
   "https://www.dealabs.com/bons-plans/offre-mattel-games-uno-teams-jeu-de-cartes-7-ans-et-plus-2-10-joueurs-jeu-en-equipe-avec-regles-speciales-3469067",
   "https://www.dealabs.com/bons-plans/100eur-offerts-pour-toute-1ere-souscription-dune-assurance-vie-avec-un-versement-de-300eur-3469071",
@@ -1558,7 +1547,18 @@
   "https://www.hotukdeals.com/deals/broken-sword-the-serpants-curse-5047151",
   "https://www.hotukdeals.com/deals/meat-grinder-300w-electric-multi-blender-mixer-with-2l-glass-container2-speed-settings4-stainless-steel-blades-5047150",
   "https://www.hotukdeals.com/deals/samsung-55-oled-s85h-4k-samsung-vision-ai-smart-tv-2026-via-student-store-5047149",
-  "https://www.hotukdeals.com/deals/pokemon-how-to-draw-the-official-guide-to-drawing-pokemon-paperback-5047148"
+  "https://www.hotukdeals.com/deals/pokemon-how-to-draw-the-official-guide-to-drawing-pokemon-paperback-5047148",
+  "https://www.mydealz.de/deals/the-last-of-us-part-i-playstation-5-2881864",
+  "https://www.dealabs.com/bons-plans/puma-3469467",
+  "https://www.dealabs.com/bons-plans/l-essayer-c-est-l-adopter-3469466",
+  "https://www.chollometro.com/ofertas/reloj-orient-bambino-small-seconds-ra-ap0104s30b-2090318",
+  "https://www.chollometro.com/ofertas/fregona-electrica-sin-cable-dyson-cleanwash-hygiene-sin-filtro-autolimpieza-secado-aire-caliente-85-c-2090316",
+  "https://www.hotukdeals.com/deals/1-year-nordvpn-and-nordpass-5047157",
+  "https://www.hotukdeals.com/deals/shark-stratos-cordless-stick-vacuum-1-battery-pet-tool-refurb-iz400ukt-5047156",
+  "https://www.hotukdeals.com/deals/eufy-security-poe-nvr-s4-cctv-camera-systems-e40-4-4k-bullet-cams-4k-uhd-5047155",
+  "https://www.hotukdeals.com/deals/felix-original-mixed-selection-in-jelly-wet-cat-food-40x85g-also-fish-selection-clubcard-price-online-and-instore-5047154",
+  "https://www.hotukdeals.com/deals/anti-perspirant-deodorant-pack-of-6-with-triple-moisturising-technology-roll-on-for-48-hours-of-protection-50-ml-5047153",
+  "https://www.hotukdeals.com/deals/shark-blastboss-all-in-one-cordless-air-blasting-system-5047152"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795636760.9590466,
+  "geizhals": 1795638648.4553752,
   "ebay": 1795638331.64052
  },
  "ebay_seen": {
