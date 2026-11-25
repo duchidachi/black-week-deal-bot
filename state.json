@@ -59,8 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/396-capsulas-de-ariel-pods-por-6398eur-016eurcapsula-2088302",
-  "https://www.chollometro.com/ofertas/star-wars-outlaws-ps5-standard-2088297",
   "https://www.chollometro.com/ofertas/amazon-basics-adaptador-de-fuente-de-alimentacion-de-cc-universal-con-7-conectores-intercambiables-3-12-v-polaridad-reversible-2088295",
   "https://www.chollometro.com/ofertas/amazon-basics-panales-desechables-para-perros-macho-m-paquete-de-30-color-blanco-2088300",
   "https://www.chollometro.com/ofertas/amazon-basics-parrilla-plegable-de-alta-resistencia-para-hoguera-2088298",
@@ -1558,7 +1556,9 @@
   "https://www.dealabs.com/bons-plans/casque-sony-wh-1000xm6-black-friday-code-3468451",
   "https://www.dealabs.com/bons-plans/enceinte-bluetooth-portable-jbl-go-4-noir-dans-certains-magasins-3468450",
   "https://www.mydealz.de/deals/einhell-seilhebezug-tc-eh-600-1050-w-tragkraft-ohne-umlenkrolle-300-kg-auf-18-mmit-umlenkrolle-600-kg-auf-9-m-18-m-drahtseil-amalidl-2881095",
-  "https://www.hotukdeals.com/deals/judgeware-enamelled-cast-iron-dutch-oven-casserole-dish-with-lid-35l-45l-ps4050-5046135"
+  "https://www.hotukdeals.com/deals/judgeware-enamelled-cast-iron-dutch-oven-casserole-dish-with-lid-35l-45l-ps4050-5046135",
+  "https://www.dealabs.com/bons-plans/34-ticket-leclerc-sur-une-selection-de-champagnes-3468452",
+  "https://www.hotukdeals.com/deals/food-thoughts-beautiful-400g-chocolate-cake-mix-nectar-card-5046136"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795582068.5110571,
-  "ebay": 1795582715.8860042
+  "ebay": 1795583639.7280664
  },
  "ebay_seen": {
   "187110721591": 139.1,
