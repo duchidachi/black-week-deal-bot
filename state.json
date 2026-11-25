@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-25T20:30:55+00:00"
+   "checked": "2026-11-25T21:02:25+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-25T20:31:04+00:00"
+   "checked": "2026-11-25T21:02:35+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-25T20:31:08+00:00"
+   "checked": "2026-11-25T21:02:39+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,51 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-25T20:31:18+00:00"
+   "checked": "2026-11-25T21:02:49+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 499.0,
-   "checked": "2026-11-25T20:31:22+00:00"
+   "checked": "2026-11-25T21:02:53+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-25T20:31:27+00:00"
+   "checked": "2026-11-25T21:02:58+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-25T20:31:13+00:00"
+   "checked": "2026-11-25T21:02:44+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/bessey-limited-edition-mft-a-1-x-wns-set-mft-and-1-x-tw20-15-8kli-set-5046782",
-  "https://www.hotukdeals.com/deals/delonghi-radia-s-oil-filled-radiator-1500w-7-fins-mechanical-control-white-trrs0715-5046780",
-  "https://www.hotukdeals.com/deals/various-pop-funko-figures-19-more-in-post-league-of-legends-kda-ahri-19-more-in-post-5046779",
-  "https://www.mydealz.de/deals/joybuy-wolfbox-df200-druckluftblaser-mit-3-stufen-6000-mah-akku-wechselbar-usb-c-zubehor-usw-2871772",
-  "https://www.mydealz.de/deals/playshoes-outdoor-jacke-2881607",
-  "https://www.mydealz.de/deals/whoop-70eur-rabatt-auf-das-jahresabo-2881602",
-  "https://www.mydealz.de/deals/donbolso-slim-wallet-xs-mit-munzfach-geldborse-portemonnaie-prime-2881606",
-  "https://www.mydealz.de/deals/cybex-kindersitz-sirona-g3-2881604",
-  "https://www.mydealz.de/deals/cb-deal-nike-air-max-alpha-trainer-6-2-farben-36-495-alternativ-mit-kinder-short-als-fullartikel-fur-4822eur-2878761",
-  "https://www.mydealz.de/deals/schiesser-2er-pack-feinripp-unterhemd-original-classics-ohne-armel-grosse-s-bis-4xl-100-baumwolle-prime-2881600",
-  "https://www.preisjaeger.at/gutschein/afb-shop-22-auf-ausgewahlte-it-hardware-zb-auf-iphones-thinkpads-und-andere-refurbished-hardware-elektronik-373387",
-  "https://www.preisjaeger.at/deals/samsung-galaxy-z-fold8-512gb-beim-yesss-happy-day-zum-neuen-tiefstpreis-373376",
-  "https://www.preisjaeger.at/deals/einhell-schneefrase-ge-st-3640-absoluter-tiefpreis-373386",
-  "https://www.preisjaeger.at/deals/blinkist-jahresabo-um-2800-statt-13999-373358",
-  "https://www.preisjaeger.at/gutschein/pollin-10-auf-das-komplette-sortiment-zb-crucial-udimm-8gb-ddr5-5600-cl46-45-45-1rx16-fur-15006eur-statt-17217eur-373357",
-  "https://www.dealabs.com/bons-plans/blu-ray-4k-la-cite-des-enfants-perdus-3469100",
-  "https://www.dealabs.com/bons-plans/pull-de-noel-pour-homme-2556238-tailles-m-a-xxl-divers-modeles-3469099",
-  "https://www.dealabs.com/bons-plans/kit-construction-130-pieces-cabane-enfant-brillent-dans-le-noir-3469096",
-  "https://www.dealabs.com/bons-plans/barre-de-son-samsung-q990h-3469095",
-  "https://www.dealabs.com/bons-plans/figurine-funko-pop-krypto-3469093",
   "https://www.dealabs.com/bons-plans/four-encastrable-electrolux-eom7p10h-pyrolyse-chaleur-pulsee-ecran-tactile-rails-telescopiques-3469092",
   "https://www.chollometro.com/ofertas/calendario-adviento-calcetines-navidenos-2089800",
   "https://www.chollometro.com/ofertas/akai-professional-mpc-one-g2-2089799",
@@ -1558,7 +1538,27 @@
   "https://www.hotukdeals.com/deals/apple-11-refurbished-ipad-air-2025-128-gb-purple-excellent-condition-5047187",
   "https://www.hotukdeals.com/deals/mishlah-by-lattafa-eau-de-parfum-100ml-unisex-spicy-woody-perfume-ss-ps1519-sold-by-square-business-ltd-fba-5047186",
   "https://www.hotukdeals.com/deals/mountain-warehouse-season-mens-padded-puffer-jacket-5047185",
-  "https://www.hotukdeals.com/deals/on-cloudtilt-remix-5047182"
+  "https://www.hotukdeals.com/deals/on-cloudtilt-remix-5047182",
+  "https://www.mydealz.de/deals/lego-harry-potter-76473-schloss-hogwarts-ostflugel-2881894",
+  "https://www.mydealz.de/deals/call-of-duty-modern-warfare-4-steelbook-edition-playstation-5-2881893",
+  "https://www.dealabs.com/bons-plans/cafe-lor-expresso-assortiment-120-capsules-best-selles-3469505",
+  "https://www.chollometro.com/ofertas/bolas-negra-para-jugar-pelota-squash-dunlop-pro-x3-doble-punto-amarillo-2090372",
+  "https://www.chollometro.com/ofertas/calvin-klein-3-camisetas-hombre-2090371",
+  "https://www.chollometro.com/ofertas/nordico-cama-90-cms-2090370",
+  "https://www.chollometro.com/ofertas/2-unidades-para-y-para-regalar-fallout-76-wastelanders-imp-uk-xbox-one-2090368",
+  "https://www.chollometro.com/ofertas/samsung-secadora-bespoke-ai-9kg-clase-a-grafito-dv90f09f4su3-2090359",
+  "https://www.chollometro.com/ofertas/pelota-de-futbol-infantil-con-ojos-brillantes-y-2-porterias-juego-de-pelota-de-futbol-flotante-para-ninos-2090366",
+  "https://www.chollometro.com/ofertas/forro-polar-solognac-500-hombre-termico-marron-y-verde-2090355",
+  "https://www.chollometro.com/ofertas/nike-sportswear-moon-shoe-og-zapatillas-baroque-brownblack-2090353",
+  "https://www.chollometro.com/ofertas/placa-de-induccion-serie-5000-induction-de-60-cm-2090351",
+  "https://www.chollometro.com/ofertas/botas-de-moto-touring-rst-axiom-waterproof-nivel-2122-membrana-sinaqua-tallas-de-40-a-48-2090364",
+  "https://nl.pepper.com/aanbiedingen/kadokaart-15-kortint-via-klarna-429325",
+  "https://www.hotukdeals.com/deals/asics-gel-sonoma-8-gore-tex-mens-trail-running-shoes-aw26-5047196",
+  "https://www.hotukdeals.com/deals/philips-oneblade-replacement-razor-blade-heads-x-4-qp44050-5047195",
+  "https://www.hotukdeals.com/deals/samsung-galaxy-buds3-white-5047193",
+  "https://www.hotukdeals.com/deals/belvedere-organic-vodka-f1-edition-70cl-5047192",
+  "https://www.hotukdeals.com/deals/2-pack-48w-cigarette-lighter-usb-fast-charger-with-3ft-cable-sold-by-mqinghos-store-fba-5047191",
+  "https://www.hotukdeals.com/deals/belvedere-organic-vodka-70cl-5047190"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795638648.4553752,
+  "geizhals": 1795640538.7568374,
   "ebay": 1795640222.217235
  },
  "ebay_seen": {
