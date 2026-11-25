@@ -59,10 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/10-off-xiaomi-tablets-and-phones-5045699",
-  "https://www.mydealz.de/deals/lego-city-passagierflugzeug-60367-913-teile-fur-5999-eur-inkl-versand-at-otto-2880832",
-  "https://www.mydealz.de/deals/bluebrixx-stargate-auf-planet-675-klemmbausteine-sg-1-team-via-amazon-2880831",
-  "https://www.mydealz.de/deals/prime-intex-downy-luftkissen-43-x-28-x-9-cm-aufblasbares-reisekissen-fur-camping-reisen-blau-2880830",
   "https://www.mydealz.de/deals/telekom-netz-apple-iphone-18-pro-max-256gb-freenet-magenta-allnetsms-flat-unlimited-gb-5g-300mbits-fur-5494eurmonat-349eur-50eur-rnm-2873656",
   "https://www.mydealz.de/deals/sammeldeal-aussergewohnliche-sofas-zum-black-friday-bei-markanto-solar-butter-pillow-sesann-marenco-und-mehr-2880829",
   "https://www.mydealz.de/deals/action-nintendo-switch-spiele-zu-je-895eur-download-code-in-der-box-zb-nickelodeon-allstar-brawl-2-ab-2-dezember-2880828",
@@ -1558,7 +1554,11 @@
   "https://www.hotukdeals.com/deals/buy-3-get-cheapest-free-across-1000s-of-toiletries-inc-shower-gel-hand-wash-toothpaste-toothbrushes-haircare-skincare-nectar-price-5046107",
   "https://www.mydealz.de/deals/tomb-raider-definitive-survivor-trilogy-689eur-einzeln-goty-edition-139eur-rise-20-yc-229eur-shadow-299eur-steam-deck-pc-2881073",
   "https://www.dealabs.com/bons-plans/jouet-lego-botanicals-lorchidee-miniature-10343-3468422",
-  "https://www.hotukdeals.com/deals/galaxy-tab-s12-ultra-256gb-book-cover-via-epp-codes-tablet-trade-in-paypal-checkout-ps45999-5046110"
+  "https://www.hotukdeals.com/deals/galaxy-tab-s12-ultra-256gb-book-cover-via-epp-codes-tablet-trade-in-paypal-checkout-ps45999-5046110",
+  "https://www.mydealz.de/deals/mouse-pi-for-hire-ps5-playstation-5-amazon-prime-2881075",
+  "https://www.mydealz.de/deals/the-lord-of-the-rings-war-in-the-north-legacy-edition-739eur-herr-der-ringe-steam-deck-steam-key-pc-2881074",
+  "https://www.dealabs.com/bons-plans/prime-robot-aspirateur-laveur-dreame-aqua10-ultra-roller-complete-30k-pa-3468424",
+  "https://www.dealabs.com/bons-plans/lot-de-10-boites-alimentaires-en-verre-good-for-you-5-1-040-ml-5-370-ml-vendeur-tiers-3468423"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795572635.4519668,
-  "ebay": 1795573284.7397888
+  "ebay": 1795574213.3902836
  },
  "ebay_seen": {
   "187110721591": 139.1,
