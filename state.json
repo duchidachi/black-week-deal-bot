@@ -59,12 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/adidas-court-30-burgundy-5045680",
-  "https://www.hotukdeals.com/deals/free-cinema-screening-for-dune-part-3-at-cineworld-via-tesco-email-invite-5045684",
-  "https://www.hotukdeals.com/deals/adidas-mens-adilette-aqua-slides-navy-uk-sizes-4-13-5045683",
-  "https://www.hotukdeals.com/deals/the-wages-of-fear-4k-uhd-blu-ray-5045682",
-  "https://www.hotukdeals.com/deals/get-carter-4k-uhd-blu-ray-5045681",
-  "https://www.hotukdeals.com/deals/watership-down-4k-uhd-blu-ray-5045679",
   "https://www.hotukdeals.com/deals/pcspecialist-amd-ryzen-7-7800x3d-rtx-5060-ti-8gb-16gb-2x8gb-ddr5-5600mhz-1tb-m2-ssd-windows-not-activated-5045678",
   "https://www.hotukdeals.com/deals/kikkoman-less-salt-soy-sauce-43-reduced-salt-975-ml-naturally-brewed-pure-ingredients-premium-japanese-soy-sauce-5045677",
   "https://www.mydealz.de/deals/gewerbekunden-snackautomatverkaufsautomat-va-6k-mit-kuhlung-altersverifikation-und-kartenzahlung-tecmaschin-2836781",
@@ -1558,7 +1552,13 @@
   "https://www.chollometro.com/ofertas/shelly-1-mini-gen3-micromodulo-rele-interruptor-wi-fi-y-matter-x2-2088862",
   "https://www.chollometro.com/ofertas/zapatillas-de-running-para-nino-ua-bgs-surge-5-under-armour-negro-2088861",
   "https://www.chollometro.com/ofertas/apple-airpods-pro-3-2088859",
-  "https://nl.pepper.com/aanbiedingen/lego-cosy-plants-10371-alle-lego-en-speelgoed-2e-halve-prijs-trekpleister-429166"
+  "https://nl.pepper.com/aanbiedingen/lego-cosy-plants-10371-alle-lego-en-speelgoed-2e-halve-prijs-trekpleister-429166",
+  "https://www.mydealz.de/deals/mainova-fur-geringe-verbrauche-lohnenswert-210-euro-bonus-auf-stromtarif-mit-50-euro-cashback-kombinierbar-2881068",
+  "https://www.chollometro.com/ofertas/garmin-instinct-e-45-mm-reloj-inteligente-con-gps-2088865",
+  "https://www.chollometro.com/ofertas/somfy-home-alarm-advanced-plus-1875255-alarma-domestica-inalambrica-con-sirena-exterior-2088864",
+  "https://www.hotukdeals.com/deals/lego-harry-potter-book-nook-hogwarts-express-76450-5046087",
+  "https://www.hotukdeals.com/deals/acer-nitro-ed273s3-27-curved-full-hd-180hz-va-gaming-monitor-5046086",
+  "https://www.hotukdeals.com/deals/old-spice-captain-deodorant-stick-5046085"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795566959.0761635,
-  "ebay": 1795567606.2830522
+  "ebay": 1795568529.6946156
  },
  "ebay_seen": {
   "187110721591": 139.1,
