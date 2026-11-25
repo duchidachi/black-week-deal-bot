@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-25T22:05:18+00:00"
+   "checked": "2026-11-25T22:36:43+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-25T22:05:27+00:00"
+   "checked": "2026-11-25T22:36:52+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-25T22:05:32+00:00"
+   "checked": "2026-11-25T22:36:57+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,40 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-25T22:05:41+00:00"
+   "checked": "2026-11-25T22:37:06+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 499.0,
-   "checked": "2026-11-25T22:05:46+00:00"
+   "checked": "2026-11-25T22:37:11+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-25T22:05:51+00:00"
+   "checked": "2026-11-25T22:37:15+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-25T22:05:37+00:00"
+   "checked": "2026-11-25T22:37:01+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/funko-pop-tv-parks-and-recreation-15th-april-ludgate-2089924",
-  "https://www.chollometro.com/ofertas/kitchen-in-the-box-batidora-amasadora-35l-10-vel-mini-800w-amasadora-reposteria-para-principiantes-y-cocinas-pequenas-2089926",
-  "https://www.chollometro.com/ofertas/orient-bambino-small-seconds-automatico-405-mm-esfera-champagne-cristal-abombado-y-fondo-visto-2089918",
-  "https://www.chollometro.com/ofertas/swarovski-pulsera-hyperbola-y-corazon-rosa-2089917",
-  "https://www.chollometro.com/ofertas/helly-hansen-crew-jacket-20-chaqueta-hombre-2089916",
-  "https://www.chollometro.com/ofertas/fender-champion-ii-25-amplificador-combo-guitarra-electrica-25w-amplificador-de-practica-con-efectos-incorporados-altavoz-de-8-2089915",
-  "https://www.hotukdeals.com/deals/mudiro-diesel-air-heater-8kw-diesel-12v24v240v-bluetooth-lcd-auto-start-stop-with-code-at-mudiro-automotive-accessories-uk-store-5046860",
-  "https://www.hotukdeals.com/deals/halo-spartan-strike-pc-game-5046859",
-  "https://www.hotukdeals.com/deals/asus-rog-keris-wireless-aimpoint-gaming-mouse-m-black-5046858",
   "https://www.hotukdeals.com/deals/aunt-bessies-gluten-free-ready-to-bake-crumble-mix-1x225g-5046857",
   "https://www.hotukdeals.com/deals/wolfang-compressed-air-duster-110000-rpm-super-power-cordless-air-duster-5046856",
   "https://www.hotukdeals.com/deals/site-allman-multi-pocket-stretch-work-trousers-grey-black-40-w-32-l-5046855",
@@ -1558,7 +1549,16 @@
   "https://www.chollometro.com/ofertas/cabezales-de-repuesto-oral-b-3d-white-con-tecnologia-cleanmaximiser-2090489",
   "https://nl.pepper.com/aanbiedingen/hifiman-black-friday-tot-77-korting-15-extra-op-open-boxrefurbished-gratis-cadeau-429377",
   "https://www.hotukdeals.com/deals/gritin-plug-in-night-light-4-color-temps-with-dusk-to-dawn-sensor-2-pack-5047273",
-  "https://www.hotukdeals.com/deals/roccat-vulkan-tkl-rgb-mechanical-keyboard-red-switches-red-linear-switch-roccat-titan-5047272"
+  "https://www.hotukdeals.com/deals/roccat-vulkan-tkl-rgb-mechanical-keyboard-red-switches-red-linear-switch-roccat-titan-5047272",
+  "https://www.mydealz.de/deals/dell-15-laptop-intel-core-3-100u-8gb-ddr5-ram-512gb-ssd-2881967",
+  "https://www.dealabs.com/bons-plans/chaussures-nike-revolution-8-easyon-tailles-385-a-495-3469571",
+  "https://www.chollometro.com/ofertas/caldo-pollo-caldo-de-huesos-6x-350ml-2090496",
+  "https://www.chollometro.com/ofertas/new-balance-supercomp-pacer-v2-zapatillas-2090495",
+  "https://www.chollometro.com/ofertas/fellowes-breyta-alfombrilla-base-de-goma-antideslizante-bordes-cosidos-resistentes-proteccion-microban-80x40-5-colores-2090493",
+  "https://www.chollometro.com/ofertas/purina-gourmet-natures-creations-comida-humeda-natural-para-gato-con-pescado-del-oceano-y-atun-12-packs-de-4-latas-de-85g-48-latas-2090492",
+  "https://www.hotukdeals.com/deals/toy-story-kids-buzz-and-woody-silicone-strap-led-watch-5047277",
+  "https://www.hotukdeals.com/deals/roccat-vulkan-tkl-rgb-linear-red-switches-uk-layoutroccat-titan-switch-5047276",
+  "https://www.hotukdeals.com/deals/kinetik-wellbeing-blood-pressure-monitor-5047275"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795644311.456956,
+  "geizhals": 1795646198.0607932,
   "ebay": 1795645883.8695848
  },
  "ebay_seen": {
