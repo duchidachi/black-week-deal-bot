@@ -59,9 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/hamilton-beach-3-in-1-soup-maker-smoothie-blender-jam-maker-16l-grey-5045711",
-  "https://www.hotukdeals.com/deals/hisense-65-65e7stuk-4k-hi-qled-freely-smart-tv-dolby-vision-atmos-2026-model-5045710",
-  "https://www.hotukdeals.com/vouchers/10-off-xiaomi-tablets-and-phones-5045699",
   "https://www.mydealz.de/deals/faithless-insomnia-30th-anniversary-orange-vinyl-edition-fur-1999eur-at-amazon-prime-2880842",
   "https://www.mydealz.de/deals/black-friday-sale-bei-qwertee-shirts-ab-4eurstk-max-9eurstk-ab-8-stk-ohne-versand-2880841",
   "https://www.mydealz.de/deals/kryptonite-evolution-ls-bugelschloss-extra-lang-sicherheitslevel-810-prime-2880840",
@@ -1558,7 +1555,10 @@
   "https://www.mydealz.de/deals/tink-switchbot-hub-2-6x-smarte-heizkorperthermostate-matter-alexa-google-home-apple-home-fur-16995-eur-inkl-versand-pvg-19579-eur-2881088",
   "https://www.mydealz.de/deals/jacobs-kaffeekapseln-espresso-ristretto-200-kapseln-nespresso-kompatibel-prime-spar-abo-2881087",
   "https://www.hotukdeals.com/deals/dairy-box-milk-chocolate-box-160g-5046134",
-  "https://www.hotukdeals.com/deals/black-magic-dark-chocolate-box-174g-5046133"
+  "https://www.hotukdeals.com/deals/black-magic-dark-chocolate-box-174g-5046133",
+  "https://www.mydealz.de/deals/columbia-woodburn-ii-waterproof-wasserdichte-trekking-und-wanderschuhe-fur-herren-grosse-40-bis-50-prime-2881090",
+  "https://www.mydealz.de/deals/amoledwatchfaces-watchfaces-classic-m3-fit-two-glow-digital-google-playstore-2881089",
+  "https://nl.pepper.com/aanbiedingen/shark-gaming-white-shark-r700-sgwr700-22-9070xt-gaming-pc-ryzen-7-9800x3d-rx-9070-xt-16gb-werkgeheugen-1tb-ssd-429169"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795582068.5110571,
-  "ebay": 1795581754.8679342
+  "ebay": 1795582715.8860042
  },
  "ebay_seen": {
   "187110721591": 139.1,
