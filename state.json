@@ -59,9 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/habitants-distribution-gratuite-de-sapin-de-noel-le-26-27-28-novembre-thin-le-moutier-08-3467999",
-  "https://www.chollometro.com/ofertas/chillys-original-taza-de-cafe-taza-termica-portatil-para-bebidas-frias-y-calientes-con-tapa-2088260",
-  "https://www.chollometro.com/ofertas/calendario-de-adviento-pilates-mujer-24-accesorios-fitness-2088258",
   "https://www.chollometro.com/ofertas/bombilla-inteligente-philips-smartlighting-led-e27-pack-x3un-rgb-85w-eq60w-806lmwifibt-control-via-app-wizmatteralexaapple-home-2088256",
   "https://www.chollometro.com/ofertas/cotton-artean-funda-nordica-cama-150-algodon-nansa-beige-botones-2088257",
   "https://www.hotukdeals.com/deals/adidas-womens-ultraboost-5x-neutral-running-shoes-cloud-whitedash-greylime-burst-size-35-55-5045698",
@@ -1558,7 +1555,10 @@
   "https://www.hotukdeals.com/deals/longines-conquest-42mm-chronograph-automatic-mens-watch-5046101",
   "https://www.hotukdeals.com/deals/tower-t513011pets-vl80-cordless-3-in-1-pole-vacuum-with-flexi-polehepa-12-filter-anti-tangle-head-1l-dust-tank-296v-li-ion-ocean-teal-5046100",
   "https://www.dealabs.com/bons-plans/one-million-lucky-eau-de-toilette-100ml-3468408",
-  "https://www.dealabs.com/bons-plans/friteuse-tefal-easy-pro-2200w-3l-3468407"
+  "https://www.dealabs.com/bons-plans/friteuse-tefal-easy-pro-2200w-3l-3468407",
+  "https://www.dealabs.com/bons-plans/chauffes-oreilles-enfants-divers-modeles-3468409",
+  "https://nl.pepper.com/aanbiedingen/wasgij-adventskalender-2026-429168",
+  "https://www.hotukdeals.com/deals/tag-heuer-formula-1-chronograph-44mm-titanium-automatic-mens-watch-5046102"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795570746.0205371,
-  "ebay": 1795571397.3137186
+  "ebay": 1795572320.895321
  },
  "ebay_seen": {
   "187110721591": 139.1,
