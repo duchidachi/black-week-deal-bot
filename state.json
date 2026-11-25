@@ -59,8 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/nauticos-timberland-classic-2-eye-de-piel-marron-por-64-eur-tallas-40-a-455-2088276",
-  "https://www.chollometro.com/ofertas/libro-codigo-rojo-emocion-2088269",
   "https://nl.pepper.com/aanbiedingen/laifen-air-elektrische-haardroger-in-verschillende-kleuren-dyson-alternatief-429122",
   "https://www.hotukdeals.com/deals/aunno-uk-to-us-plug-adaptor-20w-grounded-usa-adapter-2-usb-ports-2-usb-c-ports-5-in-1-adapter-us-canada-mexico-thailand-etc-type-b-5045709",
   "https://www.hotukdeals.com/deals/still-gin-by-dre-snoop-premium-gift-boxed-presentation-amazon-ps25-5045708",
@@ -1558,7 +1556,9 @@
   "https://www.hotukdeals.com/deals/mens-5-pack-black-plain-socks-5046124",
   "https://www.hotukdeals.com/deals/masterclass-non-stick-cast-aluminium-casserole-dish-with-lid-25l-black-5046123",
   "https://www.hotukdeals.com/deals/masterclass-stainless-steel-stockpot-with-lid-22cm-7-litre-silver-5046122",
-  "https://www.mydealz.de/deals/1-monat-disney-standard-werbung-kostenlos-zu-adidas-disney-artikeln-zb-3-paar-adidas-disney-kindersocken-22-39-610eur-mit-cb-2881080"
+  "https://www.mydealz.de/deals/1-monat-disney-standard-werbung-kostenlos-zu-adidas-disney-artikeln-zb-3-paar-adidas-disney-kindersocken-22-39-610eur-mit-cb-2881080",
+  "https://www.mydealz.de/deals/lidl-plus-nutella-450g-fur-179eur-398eurkg-2881081",
+  "https://www.hotukdeals.com/deals/hilltop-infusion-hot-honey-720-g-squeezy-ps315ss-5046127"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795578301.1528666,
-  "ebay": 1795577986.877359
+  "ebay": 1795578951.0111105
  },
  "ebay_seen": {
   "187110721591": 139.1,
