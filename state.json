@@ -59,11 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/ugreen-nasync-dxp4800-gt-3468031",
-  "https://www.chollometro.com/ofertas/samsonite-intuo-maleta-trolley-de-cabina-81-cm-2088312",
-  "https://www.chollometro.com/ofertas/camisetas-to-guapas-desde-4-euros-2088310",
-  "https://www.chollometro.com/ofertas/maletin-tactico-zhierna-2088299",
-  "https://www.chollometro.com/ofertas/estrella-galicia-00-cerveza-lager-sin-alcohol-24-latas-x-33-cl-2088308",
   "https://www.chollometro.com/ofertas/philips-fidelio-x2-auriculares-con-cable-de-alta-resolucion-acusticos-y-abiertos-por-detras-transductores-lmc-de-neodimio-de-50-mm-2088306",
   "https://nl.pepper.com/aanbiedingen/flitsdeal-tot-2200-be-kind-protein-eiwitrijke-notenrepen-12-x-50-g-2-smaken-at-bol-429107",
   "https://nl.pepper.com/aanbiedingen/bol-flitsdeal-travelz-reisbagage-handbagage-en-underseatkoffers-429072",
@@ -1558,7 +1553,12 @@
   "https://www.mydealz.de/deals/angels-egg-2025-4k-hdr-digital-imdb-75-anime-mamoru-oshii-at-amazon-vod-apple-tv-2881106",
   "https://www.preisjaeger.at/deals/interspar-bis-zu-20-auf-alle-spielwaren-im-markt-und-online-373343",
   "https://www.hotukdeals.com/deals/wet-forget-mould-lichen-algae-remover-outdoor-patio-cleaner-black-spot-remover-bleach-free-2l-4l-ps1788-5046142",
-  "https://www.hotukdeals.com/deals/on-running-sale-extra-15-off-wcode-eg-on-running-mens-cloudsurfer-shoes-cloudswift-ps5949-cloudsurfer-next-ps6629-5046141"
+  "https://www.hotukdeals.com/deals/on-running-sale-extra-15-off-wcode-eg-on-running-mens-cloudsurfer-shoes-cloudswift-ps5949-cloudsurfer-next-ps6629-5046141",
+  "https://www.mydealz.de/deals/sonos-era-300-schwarz-weiss-2881110",
+  "https://www.mydealz.de/deals/brettspiel-avalon-hill-heroquest-basisspiel-2881109",
+  "https://www.mydealz.de/deals/alan-wake-2012-pc-at-gog-2881108",
+  "https://nl.pepper.com/aanbiedingen/donald-duck-deal-58-korting-kookboek-kado-429171",
+  "https://www.hotukdeals.com/deals/iceland-giant-cheezies-chicken-bites-400g-5046143"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795583952.8070614,
-  "ebay": 1795584602.2718475
+  "ebay": 1795585562.6202264
  },
  "ebay_seen": {
   "187110721591": 139.1,
