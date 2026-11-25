@@ -59,9 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/tous-timila-lindsay-bolso-bandolera-mujer-2088264",
-  "https://nl.pepper.com/aanbiedingen/veel-goedkoop-speciaalbier-bij-aldi-429121",
-  "https://nl.pepper.com/aanbiedingen/philips-5000-serie-slimme-keramische-torenverwarming-429120",
   "https://www.hotukdeals.com/deals/paco-rabanne-1-million-eau-de-toilette-200ml-5045707",
   "https://www.hotukdeals.com/deals/new-balance-520-trainers-black-multi-or-white-multi-with-code-5045706",
   "https://www.hotukdeals.com/deals/wales-26-home-jersey-all-sizes-wcode-blue-light-code-free-delivery-for-members-5045705",
@@ -1558,7 +1555,10 @@
   "https://www.dealabs.com/bons-plans/sun-tablettes-lave-vaisselle-tout-en-1-regular-86-pastilles-3468428",
   "https://www.dealabs.com/bons-plans/lit-parapluie-bebeconfort-soft-dreams-60-x-120-cm-0-15-kg-matelas-et-sac-de-transport-inclus-3468427",
   "https://www.hotukdeals.com/deals/tomb-raider-i-iii-remastered-tomb-raider-goty-ps119-shadow-of-the-tomb-raider-definitive-edition-ps249-pc-steam-5046114",
-  "https://www.hotukdeals.com/deals/sid-meiers-civilization-vi-pc-steam-5046113"
+  "https://www.hotukdeals.com/deals/sid-meiers-civilization-vi-pc-steam-5046113",
+  "https://www.mydealz.de/deals/tomb-raider-i-iii-remastered-227eur-iv-vi-3eur-i-vi-649eur-steam-deck-pc-2881077",
+  "https://www.preisjaeger.at/deals/nintendo-super-mario-adventkalender-2026-373316",
+  "https://www.dealabs.com/bons-plans/soldes-black-fridaypremiere-paire-gratuite-monture-verres-index-150-nouveaux-clientsuniquement-3468432"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795574528.1027668,
-  "ebay": 1795574213.3902836
+  "ebay": 1795575176.5014582
  },
  "ebay_seen": {
   "187110721591": 139.1,
