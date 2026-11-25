@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-25T23:08:09+00:00"
+   "checked": "2026-11-25T23:39:45+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-25T23:08:18+00:00"
+   "checked": "2026-11-25T23:39:54+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-25T23:08:23+00:00"
+   "checked": "2026-11-25T23:40:00+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,38 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-25T23:08:32+00:00"
+   "checked": "2026-11-25T23:40:09+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 499.0,
-   "checked": "2026-11-25T23:08:37+00:00"
+   "checked": "2026-11-25T23:40:14+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-25T23:08:41+00:00"
+   "checked": "2026-11-25T23:40:18+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-25T23:08:28+00:00"
+   "checked": "2026-11-25T23:40:04+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/color-wow-color-security-conditioner-for-normal-to-thick-hair-250ml-ss-ps768-5046901",
-  "https://www.hotukdeals.com/deals/samsung-55-mini-led-4k-ai-smart-tv-free-ps199-soundbar-5046900",
-  "https://www.hotukdeals.com/deals/lego-pokemon-eevee-figure-model-kit-for-adults-72151-5046899",
-  "https://www.hotukdeals.com/deals/blue-diamond-32-cm-wok-with-lid-ceramic-non-stick-stir-fry-pan-5046898",
-  "https://www.hotukdeals.com/deals/elton-john-breaking-hearts-vinyl-5046897",
-  "https://www.mydealz.de/deals/dolle-treppenschutzgitter-schwarz-2881678",
-  "https://www.mydealz.de/deals/bosch-professional-gsr-12v-32-06019n7003-akku-bohrschrauber-12-v-li-ion-2881677",
   "https://www.mydealz.de/deals/smartbroker-depot-kwk-50eur50eur-2881676",
   "https://www.mydealz.de/deals/lian-li-hydroshift-lcd-360-fanless-2881675",
   "https://www.dealabs.com/bons-plans/super-smash-bros-ultimate-sur-nintendo-switch-3469221",
@@ -1558,7 +1551,14 @@
   "https://www.chollometro.com/ofertas/star-wars-the-black-series-star-wars-the-acolyte-osha-aniseya-15-cm-2090566",
   "https://www.chollometro.com/ofertas/recopilacion-placas-induccionamzchef-7400w-3-zonas-negro-ce-t-74ib3xyzf-cs-pantalla-tactil-placa-de-induccion-2090564",
   "https://www.chollometro.com/ofertas/cisco-glc-ex-smd-modulo-transceptor-sfp-de-fibra-optica-1310-nm-2090563",
-  "https://www.hotukdeals.com/deals/sensodyne-repair-protect-whitening-toothpaste-toothbrush-bundle-3-x-75-ml-subscribe-save-no-rush-delivery-ps938-5047313"
+  "https://www.hotukdeals.com/deals/sensodyne-repair-protect-whitening-toothpaste-toothbrush-bundle-3-x-75-ml-subscribe-save-no-rush-delivery-ps938-5047313",
+  "https://www.dealabs.com/bons-plans/visseuse-a-chocs-sans-fil-20-v-parkside-pdssap-20-li-d3-226-nm-brushless-sans-batterie-ni-chargeur-3469602",
+  "https://www.chollometro.com/ofertas/funko-bitty-pop-pack-de-4-spider-man-venom-y-mas-1-de-cada-6-posibilidades-de-conseguir-la-figura-especial-2090579",
+  "https://www.chollometro.com/ofertas/funko-pop-movies-universal-monsters-invisible-man-2090578",
+  "https://www.chollometro.com/ofertas/cybex-gold-silla-de-coche-pallas-g3-i-size-9-50-kg-fog-grey-2090577",
+  "https://www.chollometro.com/ofertas/funko-pop-sanrio-hello-kitty-kuromi-in-kimono-2090576",
+  "https://www.hotukdeals.com/deals/phillips-lights-and-hue-at-bq-5047317",
+  "https://www.hotukdeals.com/deals/airpods-5-for-ps1-when-you-buy-18-pro-or-18-pro-max-on-selected-tarriff-5047316"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795648082.4309309,
+  "geizhals": 1795649980.1008928,
   "ebay": 1795649664.8936458
  },
  "ebay_seen": {
