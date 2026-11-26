@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-26T00:42:40+00:00"
+   "checked": "2026-11-26T01:14:09+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-26T00:42:49+00:00"
+   "checked": "2026-11-26T01:14:18+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-26T00:42:54+00:00"
+   "checked": "2026-11-26T01:14:23+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,33 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-26T00:43:03+00:00"
+   "checked": "2026-11-26T01:14:33+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 499.0,
-   "checked": "2026-11-26T00:43:08+00:00"
+   "checked": "2026-11-26T01:14:37+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-26T00:43:13+00:00"
+   "checked": "2026-11-26T01:14:42+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-26T00:42:59+00:00"
+   "checked": "2026-11-26T01:14:28+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/black-friday-en-samsung-recopilacion-de-televisores-hasta-57-desde-36465-eur-2090059",
-  "https://www.hotukdeals.com/deals/lego-star-wars-the-dark-falcon-75389-wcode-5046963",
   "https://www.hotukdeals.com/deals/samsung-55-ue55m70h-4k-mini-led-hdr-smart-tv-5046962",
   "https://www.hotukdeals.com/deals/tatay-bathroom-bin-standard-made-in-spain-practical-and-functional-design-5046961",
   "https://www.hotukdeals.com/deals/dreo-electric-heater-1500w-energy-efficient-space-room-heater-5046960",
@@ -1558,7 +1556,9 @@
   "https://www.hotukdeals.com/deals/the-sinking-city-2-deluxe-ps2533-premium-ps2762-the-sinking-city-remastered-ps433-deluxe-ps656-pc-steam-pc-gog-5047405",
   "https://www.mydealz.de/deals/google-play-store-5eur-rabatt-ab-10eur-rabatt-bei-zahlung-mit-paysafecard-personalisiert-2882010",
   "https://www.hotukdeals.com/deals/whole-leg-of-lamb-per-kg-large-beef-joint-ps547-per-kg-pork-joint-ps287-per-kg-5047412",
-  "https://www.hotukdeals.com/deals/lego-pokemon-pikachu-and-poke-ball-model-kit-for-adults-72152-w-code-5047411"
+  "https://www.hotukdeals.com/deals/lego-pokemon-pikachu-and-poke-ball-model-kit-for-adults-72152-w-code-5047411",
+  "https://www.dealabs.com/bons-plans/clavier-gaming-sans-fil-logitech-g915-x-lightspeed-tkl-azerty-gl-brown-rgb-noir-3469633",
+  "https://www.dealabs.com/codes-promo/1-entree-achetee1-entree-offerte-3469632"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795653755.334837,
+  "geizhals": 1795655644.0598454,
   "ebay": 1795655329.6805732
  },
  "ebay_seen": {
