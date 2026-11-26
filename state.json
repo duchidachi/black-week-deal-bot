@@ -59,7 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/couteau-de-poche-suisse-victorinox-climber-multitool-14-fonctions-3469283",
   "https://www.chollometro.com/ofertas/hisense-wf1q9041bw-lavadora-class-a-9kg-1400-rpm-alto-845cm-x-ancho-595cm-color-blanco-funcion-vapor-999-2090092",
   "https://www.chollometro.com/ofertas/fisher-price-gimnasio-piano-kick-play-para-bebe-2090090",
   "https://www.chollometro.com/ofertas/nintendo-switch-2-turbo-boost-racing-codigo-en-la-caja-2-volantes-2090088",
@@ -1558,7 +1557,8 @@
   "https://www.dealabs.com/bons-plans/batterie-externe-ugreen-300-w-48-000-mah-charge-rapide-et-portable-3469642",
   "https://www.dealabs.com/bons-plans/gigabyte-b850-aorus-elite-wifi7-3469641",
   "https://www.hotukdeals.com/deals/mouse-pi-for-hire-steam-deck-verified-pcsteam-5047440",
-  "https://www.hotukdeals.com/deals/ninja-creami-scoop-swirl-13-in-1-ice-cream-soft-serve-maker-ps17999-delivered-at-john-lewis-5047439"
+  "https://www.hotukdeals.com/deals/ninja-creami-scoop-swirl-13-in-1-ice-cream-soft-serve-maker-ps17999-delivered-at-john-lewis-5047439",
+  "https://www.hotukdeals.com/deals/11-non-verbal-reasoning-practice-papers-500-nvr-questions-across-10-practice-papers-answers-5047441"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795659418.1751692,
-  "ebay": 1795660063.6256013
+  "ebay": 1795660985.5915804
  },
  "ebay_seen": {
   "187110721591": 139.1,
