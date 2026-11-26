@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-26T06:28:29+00:00"
+   "checked": "2026-11-26T06:59:52+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-26T06:28:38+00:00"
+   "checked": "2026-11-26T07:00:01+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-26T06:28:43+00:00"
+   "checked": "2026-11-26T07:00:05+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,42 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-26T06:28:52+00:00"
+   "checked": "2026-11-26T07:00:15+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 499.0,
-   "checked": "2026-11-26T06:28:57+00:00"
+   "checked": "2026-11-26T07:00:19+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-26T06:29:01+00:00"
+   "checked": "2026-11-26T07:00:24+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-26T06:28:47+00:00"
+   "checked": "2026-11-26T07:00:10+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/lego-speed-champions-visa-cash-app-rb-vcarb-01-f1-rennauto-77246-prime-2881786",
-  "https://www.mydealz.de/deals/lego-paris-stadt-der-liebe-21064-fur-4749-euro-amazon-prime-2881785",
-  "https://www.mydealz.de/deals/endlich-wieder-billige-kalorien-netto-md-ritter-sport-schokolade-099eur-ohne-app-oder-anderen-quatsch-2881784",
-  "https://www.preisjaeger.at/deals/prime-baseus-picogo-am41-magsafe-powerbank-5000-mah-76-mm-dunn-107-g-20-w-usb-c-magnetisch-373371",
-  "https://www.preisjaeger.at/deals/playseat-formula-instinct-f1-edition-bei-alza-373367",
-  "https://www.preisjaeger.at/deals/philips-sonicare-6500-hx741109-373370",
-  "https://www.dealabs.com/bons-plans/rockstar-games-grand-theft-auto-vi-code-en-boite-ps5-version-francaise-3469376",
-  "https://www.dealabs.com/bons-plans/sunlu-s4-secheur-de-filament-impression-3d-3469375",
-  "https://www.dealabs.com/bons-plans/filament-dimpression-3d-petg-kingroon-10-x-1kg-175mm-multicolore-3469373",
-  "https://www.chollometro.com/ofertas/pack-6x-bombillas-led-philips-e27-95w-equiv-75w-1055-lm-luz-blanca-calida-2700k-no-regulable-por-1850-eur-308-eurud-2090227",
-  "https://www.chollometro.com/ofertas/reloj-suizo-mondaine-sbb-classic-40mm-2090218",
   "https://www.chollometro.com/ofertas/lego-minecraft-la-primera-noche-de-aventuras-creativas-con-alex-y-21593-301-piezas-2090216",
   "https://www.chollometro.com/ofertas/mr-wonderful-portatodo-pata-de-gallo-2090225",
   "https://www.chollometro.com/ofertas/lampara-de-mesita-recargable-lroltef-bateria-2000mah-3-temperaturas-de-color-brillo-regulable-2090223",
@@ -1558,7 +1547,18 @@
   "https://www.hotukdeals.com/deals/ralph-lauren-ralphs-club-eau-de-toilette-100ml-5047513",
   "https://www.hotukdeals.com/deals/sony-bravia-8-k55xr80pu-oled-google-tv-5-yr-warranty-free-sony-ht-s2000-soundbar-or-65-ps1499-wcode-sonyhts2000-ps100-off-wcode-5047512",
   "https://www.hotukdeals.com/deals/ps0-joining-fee-on-selected-gyms-list-in-description-tcs-apply-5047511",
-  "https://www.hotukdeals.com/deals/star-wars-galactic-racer-deluxe-edition-playstation-5-exclusive-to-amazoncouk-5047510"
+  "https://www.hotukdeals.com/deals/star-wars-galactic-racer-deluxe-edition-playstation-5-exclusive-to-amazoncouk-5047510",
+  "https://www.mydealz.de/deals/gympod-fitnessstudio-black-friday-angebot-3monate-gesamtkosten2970eur-ohne-aufnahmegebuhr-2882102",
+  "https://www.mydealz.de/deals/voelknerde-philips-sonicare-series-5500-hx711902-duo-pack-schwarz-weissschwarz-2-elektrische-zahnburste-2882101",
+  "https://www.dealabs.com/bons-plans/saros-sur-ps5-3469700",
+  "https://www.dealabs.com/bons-plans/videoprojecteur-home-cinema-xgimi-horizon-20-4k-ultra-hd-3200-lumens-3469724",
+  "https://www.dealabs.com/bons-plans/solinote-un-parfum-achete-un-offert-3469698",
+  "https://www.dealabs.com/bons-plans/plaque-de-rue-psg-ici-cest-paris-en-metal-3469723",
+  "https://nl.pepper.com/aanbiedingen/darkpark-escaperooms-delft-of-zoetermeer-30-korting-429397",
+  "https://www.hotukdeals.com/deals/heinz-baked-beans-12x415g-5047520",
+  "https://www.hotukdeals.com/deals/lego-sunflowers-5047519",
+  "https://www.hotukdeals.com/deals/hisense-75-4k-ultra-hd-qled-tv-2026-75e78stuk-pro-free-hisense-27g6quk-27-quad-hd-300hz-gaming-monitor-add-both-to-bakset-members-5047518",
+  "https://www.hotukdeals.com/deals/lavazza-qualita-rossa-ground-coffee-6-x-250-g-ps1687-ss-5047516"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795674502.4705734,
+  "geizhals": 1795676386.4579568,
   "ebay": 1795676072.5131235
  },
  "ebay_seen": {
