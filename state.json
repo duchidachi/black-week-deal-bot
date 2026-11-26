@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-26T05:25:40+00:00"
+   "checked": "2026-11-26T05:57:05+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-26T05:25:49+00:00"
+   "checked": "2026-11-26T05:57:14+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-26T05:25:53+00:00"
+   "checked": "2026-11-26T05:57:19+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,37 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-26T05:26:03+00:00"
+   "checked": "2026-11-26T05:57:28+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 499.0,
-   "checked": "2026-11-26T05:26:08+00:00"
+   "checked": "2026-11-26T05:57:33+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-26T05:26:13+00:00"
+   "checked": "2026-11-26T05:57:37+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-26T05:25:58+00:00"
+   "checked": "2026-11-26T05:57:23+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/philips-evnia-27m2c5501-27-qhd-180hz-curved-gaming-monitor-5047011",
-  "https://www.mydealz.de/deals/1-kg-lavazza-crema-e-aroma-kaffeebohnen-sparabo-5-rabattcoupon-personalisiert-prime-nur-1189-eur-bei-versand-ohne-eile-2881739",
-  "https://www.mydealz.de/deals/postenborse-sp-markte-ab-2811-pokemon-battle-feature-figuren-wie-zb-glurak-oder-ash-und-pikachu-fur-je-399-2881738",
-  "https://www.mydealz.de/deals/sevenheavens-15-eur-rabatt-mit-code-lieferverzug15-gratisartikel-aus-restbestand-2881653",
-  "https://www.mydealz.de/deals/joyplus-chiq-9kg-waschmaschine-jw95883g-trommel-530mm-bldc-motor-1400-umin-dampfwasche-15-min-wasche-eek-a-2881737",
-  "https://www.mydealz.de/deals/lego-icons-der-herr-der-ringe-barad-dur-10333-vorbestellung-2866216",
   "https://www.mydealz.de/deals/erben-der-erde-die-grosse-suche-089eur-klassik-adventure-pc-linux-mac-steam-2851872",
   "https://www.preisjaeger.at/deals/cosori-airfryer-mit-sichtfenster-12-in-1-62l-caf-p652-keu-373365",
   "https://www.dealabs.com/bons-plans/promo-lego-amazon-3469322",
@@ -1558,7 +1552,13 @@
   "https://www.mydealz.de/deals/mtg-commander-deck-ein-neues-multiversum-2882073",
   "https://nl.pepper.com/aanbiedingen/ninja-crispi-dualzone-glazen-airfryer-8-in-1-donkerblauw-dd102eubl1-at-sharkninja-429328",
   "https://nl.pepper.com/aanbiedingen/ah-mayonaise-zacht-en-romig-429349",
-  "https://www.hotukdeals.com/deals/a-quiet-place-3-movie-collection-blu-ray-voucher-price-5047478"
+  "https://www.hotukdeals.com/deals/a-quiet-place-3-movie-collection-blu-ray-voucher-price-5047478",
+  "https://www.mydealz.de/deals/wrangler-jeans-herren-regular-straight-fit-authentics-dunkel-stonewash-verschiedene-grossen-2882074",
+  "https://www.preisjaeger.at/gutschein/getgoods-10eur-rabatt-ab-einkauf-von-99eur-373437",
+  "https://www.dealabs.com/bons-plans/devil-may-cry-5-devil-hunter-edition-sur-nintendo-switch-2-3469678",
+  "https://nl.pepper.com/aanbiedingen/bosch-professional-20-delige-reciprozaagbladen-set-hout-metaal-swiss-made-429388",
+  "https://www.hotukdeals.com/deals/stella-artois-18-bottles-5047480",
+  "https://www.hotukdeals.com/deals/apple-macbook-neo-2026-512gb-price-at-checkout-5047479"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795670734.9672687,
+  "geizhals": 1795672620.0745049,
   "ebay": 1795672306.6608448
  },
  "ebay_seen": {
