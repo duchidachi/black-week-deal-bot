@@ -59,19 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/multicuiseur-instant-pot-mini-3469367",
-  "https://www.dealabs.com/bons-plans/10-de-reduction-des-100eur-sur-les-univers-cuisine-salle-de-bain-rangement-hors-exclusions-3469357",
-  "https://www.dealabs.com/bons-plans/nintendo-switch-2-mario-kart-world-manette-filaire-powera-noire-housse-slim-powera-grise-minecraft-3469363",
-  "https://www.dealabs.com/bons-plans/batman-2-films-animes-mr-freeze-le-fantome-masque-blu-ray-3469365",
-  "https://www.dealabs.com/bons-plans/kit-solaire-de-balcon-flexible-sossen-800-w-plugplay-4-panneaux-de-200-w-micro-onduleur-gili-3469362",
-  "https://www.dealabs.com/bons-plans/lunii-pack-baladeur-flam-coque-antichoc-casque-filaire-3469361",
-  "https://www.hotukdeals.com/deals/play-doh-swirlin-smoothies-toy-blender-playset-for-toddlers-5047068",
-  "https://www.hotukdeals.com/deals/all-new-amazon-alexa-tablet-11-8gb-ram-64gb-11-stunning-25k-display-all-day-battery-with-google-play-designed-for-alexa-matcha-5047066",
-  "https://www.hotukdeals.com/deals/all-new-amazon-alexa-tablet-8-4gb-ram-128gb-87-compact-tablet-with-vivid-display-all-day-battery-with-google-play-5047061",
-  "https://www.mydealz.de/deals/mmsaturn-gran-turismo-7-playstation-5-fur-1999eur-2881790",
-  "https://www.mydealz.de/deals/sammeldeal-anker-refurbished-bluetooth-lautsprecher-und-partyboxen-20-zb-boom-2-oder-rave-3s-2881789",
-  "https://www.mydealz.de/gutscheine/nischendeal-20-aus-alles-wegen-shopschliessung-rnd-vertieb-spezialeffekte-maskenbildner-filmzubehor-2881788",
-  "https://www.mydealz.de/deals/metabo-kapp-und-gehrungssage-kgs-216-m-613216000-mit-zugfunktion-im-karton-2881787",
   "https://www.mydealz.de/deals/lego-speed-champions-visa-cash-app-rb-vcarb-01-f1-rennauto-77246-prime-2881786",
   "https://www.mydealz.de/deals/lego-paris-stadt-der-liebe-21064-fur-4749-euro-amazon-prime-2881785",
   "https://www.mydealz.de/deals/endlich-wieder-billige-kalorien-netto-md-ritter-sport-schokolade-099eur-ohne-app-oder-anderen-quatsch-2881784",
@@ -1558,7 +1545,20 @@
   "https://nl.pepper.com/aanbiedingen/black-friday-sale-70-bijv-vitamine-d-veel-meer-at-holland-barret-427582",
   "https://www.hotukdeals.com/deals/ventryn-1500w-15l-wet-dry-vacuum-cleaner-bagless-cylinder-sold-and-ship-by-dextrix-uk-ltd-5047509",
   "https://www.hotukdeals.com/deals/poppy-playtime-triple-pack-nintendo-switch-5047508",
-  "https://www.hotukdeals.com/deals/a-nightmare-on-elm-street-1-7-4k-uhd-blu-ray-5047507"
+  "https://www.hotukdeals.com/deals/a-nightmare-on-elm-street-1-7-4k-uhd-blu-ray-5047507",
+  "https://www.mydealz.de/deals/lokal-volvic-naturelle-6x15-l-fur-055-eur-150-eur-pfand-preisfehler-an-der-sb-kasse-kaufland-koln-ehrenfeld-2882099",
+  "https://www.mydealz.de/deals/sony-playstation-vr2-sense-controller-charging-station-fur-1999eur-media-markt-2882098",
+  "https://www.mydealz.de/gutscheine/youngla-30-auf-alles-black-friday-deal-gym-fitness-2882097",
+  "https://www.dealabs.com/bons-plans/aspirateur-robot-dji-romo-p-40-euros-carte-cadeau-3469720",
+  "https://www.dealabs.com/bons-plans/jouet-train-radiocommande-lupilu-avec-telecommande-marche-avantarriere-effets-lumineux-et-sonores-divers-modeles-4-pieces-3469719",
+  "https://www.dealabs.com/bons-plans/la-box-best-sellers-lot-de-substrats-et-engrais-pour-plantes-dinterieur-3469718",
+  "https://nl.pepper.com/aanbiedingen/50-euro-gratis-bij-ing-gezamenlijke-rekening-429396",
+  "https://www.hotukdeals.com/deals/black-friday-sale-extra-30-off-wcode-free-delivery-via-app-puma-anzarun-lite-trainers-pounce-lite-2-running-shoes-ps1890-5047515",
+  "https://www.hotukdeals.com/deals/dyson-supersonic-nural-hair-dryer-ceramic-pink-straight-to-wavy-ps50-worth-of-advantage-card-points-5047514",
+  "https://www.hotukdeals.com/deals/ralph-lauren-ralphs-club-eau-de-toilette-100ml-5047513",
+  "https://www.hotukdeals.com/deals/sony-bravia-8-k55xr80pu-oled-google-tv-5-yr-warranty-free-sony-ht-s2000-soundbar-or-65-ps1499-wcode-sonyhts2000-ps100-off-wcode-5047512",
+  "https://www.hotukdeals.com/deals/ps0-joining-fee-on-selected-gyms-list-in-description-tcs-apply-5047511",
+  "https://www.hotukdeals.com/deals/star-wars-galactic-racer-deluxe-edition-playstation-5-exclusive-to-amazoncouk-5047510"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795674502.4705734,
-  "ebay": 1795675150.6289377
+  "ebay": 1795676072.5131235
  },
  "ebay_seen": {
   "187110721591": 139.1,
