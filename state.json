@@ -59,10 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/rk-royal-kludge-c98es-he-8k-tecladogamer-interruptores-magneticos-espanol-2090108",
-  "https://www.chollometro.com/ofertas/recopilacion-juegos-de-mesa-navidad-2090106",
-  "https://www.chollometro.com/ofertas/figura-funko-pop-tv-it-welcome-to-derry-periwinkle-1855-95-cm-vinilo-coleccionable-2090113",
-  "https://nl.pepper.com/aanbiedingen/samsung-55-the-frame-pro-2026-samsung-hw-s800d-zwart-2024-429298",
   "https://nl.pepper.com/aanbiedingen/tot-50-korting-op-dames-sweaters-truien-15-extra-korting-met-code-429234",
   "https://www.hotukdeals.com/deals/yooka-laylee-and-the-impossible-lair-definitive-edition-free-upgrade-for-existing-owners-on-ps5-switch-2-pc-5047007",
   "https://www.hotukdeals.com/deals/polar-gl192-g-series-commercial-bullet-ice-machine-50kg-output-5047006",
@@ -1558,7 +1554,11 @@
   "https://www.mydealz.de/deals/magic-the-gathering-universes-beyond-der-hobbit-playbooster-display-deutsch-2882059",
   "https://www.mydealz.de/deals/airpods-max-2-zustand-sehr-gut-auch-andere-farben-amazon-retourenkauf-15-2882037",
   "https://www.mydealz.de/deals/wrangler-texas-jeans-non-stretch-verschiedene-farben-2882006",
-  "https://www.mydealz.de/deals/gigaset-as690-schnurloses-dect-telefon-kontrastreiches-display-freisprechfunktion-weiss-amazon-prime-2882058"
+  "https://www.mydealz.de/deals/gigaset-as690-schnurloses-dect-telefon-kontrastreiches-display-freisprechfunktion-weiss-amazon-prime-2882058",
+  "https://www.mydealz.de/deals/mediamarktsaturn-god-of-war-ragnarok-playstation-4-fur-1499eur-2882061",
+  "https://www.mydealz.de/gutscheine/30-auf-alles-bei-ernstings-family-2882060",
+  "https://www.dealabs.com/bons-plans/scie-sauteuse-makita-djv-186z-3469664",
+  "https://www.hotukdeals.com/deals/mens-classic-fit-wrinkle-resistant-flat-front-chino-trouser-5047466"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795668843.2007859,
-  "ebay": 1795669498.2733262
+  "ebay": 1795670421.4512007
  },
  "ebay_seen": {
   "187110721591": 139.1,
