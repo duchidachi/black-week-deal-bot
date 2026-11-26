@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-26T05:57:05+00:00"
+   "checked": "2026-11-26T06:28:29+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-26T05:57:14+00:00"
+   "checked": "2026-11-26T06:28:38+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-26T05:57:19+00:00"
+   "checked": "2026-11-26T06:28:43+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,38 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-26T05:57:28+00:00"
+   "checked": "2026-11-26T06:28:52+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 499.0,
-   "checked": "2026-11-26T05:57:33+00:00"
+   "checked": "2026-11-26T06:28:57+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-26T05:57:37+00:00"
+   "checked": "2026-11-26T06:29:01+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-26T05:57:23+00:00"
+   "checked": "2026-11-26T06:28:47+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/montre-automatique-bulova-classic-96b447-hudson-miyota-8215-saphir-39mm-3469348",
-  "https://www.dealabs.com/bons-plans/plafond-led-chambre-otren-32w-3200lm-lumiere-blanc-froid-6500k-37-cm-vendeur-tiers-via-remise-au-panier-3469347",
-  "https://www.dealabs.com/bons-plans/casque-star-wars-black-series-3469346",
-  "https://www.chollometro.com/ofertas/liqui-moly-limpiador-de-inyeccion-300-ml-gasolina-2090183",
-  "https://www.chollometro.com/ofertas/seiko-5-sports-field-gmt-hdb001k1-automatico-esfera-verde-y-doble-huso-horario-cupon-3680eur-2090181",
-  "https://nl.pepper.com/aanbiedingen/15-korting-op-alles-muv-verzendkosten-cadeaubonnen-429357",
-  "https://www.hotukdeals.com/deals/deadpool-2-blu-ray-super-duper-cut-5047047",
   "https://www.hotukdeals.com/deals/sonos-arc-ultra-black-or-white-5047046",
   "https://www.hotukdeals.com/deals/sniper-elite-5-pcsteam-5047044",
   "https://www.hotukdeals.com/deals/tapo-d210-2k-battery-video-doorbell-chime-no-monthly-fee-head-to-toe-view-6-month-battery-using-code-free-click-collect-5047043",
@@ -1558,7 +1551,14 @@
   "https://www.hotukdeals.com/deals/ansio-outdoor-christmas-tree-cluster-lights-1000-led-12m-warm-white-5047492",
   "https://www.hotukdeals.com/deals/amazon-basics-adjustable-workout-weight-bench-press-foldable-for-home-gym-black-135-x-38-x-116-cm-5047491",
   "https://www.hotukdeals.com/deals/stormforce-rogue-amd-ryzen-5-gaming-desktop-pc-bundle-16gb-ram-1tb-ssd-win-11-bundle-with-keyboard-mouse-monitor-5047490",
-  "https://www.hotukdeals.com/deals/mario-galaxy-interactive-yoshi-figure-5047489"
+  "https://www.hotukdeals.com/deals/mario-galaxy-interactive-yoshi-figure-5047489",
+  "https://www.mydealz.de/deals/wellensteyn-maverick-wasserdichte-winterjacke-herren-s-xl-2xl-neukunden-fur-13360-2882087",
+  "https://www.dealabs.com/bons-plans/trepied-smallrig-6049-cameras-daction-14-20-pocket-tripod-6049-vendeur-tiers-3469699",
+  "https://www.dealabs.com/bons-plans/ecouteurs-sans-fil-nothing-ear-a-bluetooth-3469697",
+  "https://www.chollometro.com/ofertas/chaqueta-spyke-aragon-gt-negro-antracita-talla-t-50-2090735",
+  "https://nl.pepper.com/aanbiedingen/tijdelijk-verhoogde-cashback-aliexpress-naar-30-max-eur30-429394",
+  "https://www.hotukdeals.com/deals/sony-hts60cek-51-ch-1000w-bravia-theatre-system-6-soundbar-with-rear-speakers-and-subwoofer-with-blc-5047495",
+  "https://www.hotukdeals.com/deals/lego-60488-5047493"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795672620.0745049,
+  "geizhals": 1795674502.4705734,
   "ebay": 1795674189.4177766
  },
  "ebay_seen": {
