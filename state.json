@@ -59,10 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/only-skinny-fit-jeans-onlroyal-high-rise-skinny-fit-jeans-2090078",
-  "https://www.chollometro.com/ofertas/harry-potter-marcapaginas-metalico-con-figura-colgante-marcador-de-libros-plateado-2090075",
-  "https://www.chollometro.com/ofertas/dyson-supersonic-nural-lisoondulado-secador-de-pelo-inteligente-con-5-accesorios-azul-de-prusiacobre-2090079",
-  "https://www.chollometro.com/ofertas/nivea-q10-crema-de-noche-regeneradora-antiarrugas-50-ml-625eur-con-cr-2090071",
   "https://www.chollometro.com/ofertas/moldeador-multifuncion-y-secador-dyson-airwrap-id-rizadomuy-rizado-2090076",
   "https://www.hotukdeals.com/deals/pokemon-scarlet-violet-destined-rivals-elite-trainer-box-5046977",
   "https://www.hotukdeals.com/deals/taylor-swift-official-store-black-friday-sale-has-started-eg-alchemy-tee-shirt-all-sizes-of-reductions-up-to-80-5046976",
@@ -1558,7 +1554,11 @@
   "https://www.hotukdeals.com/deals/lego-creator-3in1-haunted-mansion-31167-wvoucher-5047427",
   "https://www.hotukdeals.com/deals/samsung-smart-tv-65-inch-u8000h-crystal-uhd-4k-tv-hdr10-motion-xcelerator-dynamic-sound-pack-gaming-hub-vision-ai-companion-2026-5047426",
   "https://www.hotukdeals.com/deals/lego-star-wars-jango-fetts-starship-75433-5047431",
-  "https://www.hotukdeals.com/deals/samsung-smart-tv-50-inch-u8000h-crystal-uhd-4k-tv-vision-ai-companion-2026-55-29610-5047430"
+  "https://www.hotukdeals.com/deals/samsung-smart-tv-50-inch-u8000h-crystal-uhd-4k-tv-vision-ai-companion-2026-55-29610-5047430",
+  "https://www.mydealz.de/deals/gutgunstig-sonnenblumen-margarine-500g-198eurkg-bei-edeka-2882015",
+  "https://www.mydealz.de/deals/spiel-mir-das-lied-vom-tod-4k-ultra-hd-blu-ray-2882014",
+  "https://www.mydealz.de/deals/gebraucht-wie-neu-osram-night-breaker-led-speed-h7-450-ggf-prime-2882013",
+  "https://www.hotukdeals.com/deals/eddie-bauer-mens-lancaster-boots-in-black-or-brown-at-costco-online-5047432"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795657530.996018,
-  "ebay": 1795657215.4400973
+  "ebay": 1795658180.033397
  },
  "ebay_seen": {
   "187110721591": 139.1,
