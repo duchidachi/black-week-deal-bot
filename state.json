@@ -59,7 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/sac-de-voyage-columbia-landroamer-40l-4-coloris-pliable-avec-bretelles-escamotables-avec-le-code-bf15-3469288",
   "https://www.dealabs.com/bons-plans/pusher-la-trilogie-3469287",
   "https://www.dealabs.com/bons-plans/macbook-pro-m5-pro-14-cpu-15-gpu-16-24-go-1-to-noir-sideral-mgdr4fna-apple-3469286",
   "https://www.chollometro.com/ofertas/under-armour-ua-w-surge-5-low-zapatillas-deportivas-varios-colores-2090095",
@@ -1558,7 +1557,8 @@
   "https://www.mydealz.de/deals/disney-lorcana-tcg-die-stadt-hyperia-schatzkiste-der-luminari-deutsch-2882026",
   "https://www.mydealz.de/deals/pokemon-tcg-mega-entwicklung-delta-herrschaft-booster-display-box-deutsch-sealed-ovp-2882027",
   "https://www.mydealz.de/deals/amazon-gh-bundesliga-trikot-sammeldeal-2627-fc-bayern-union-berlin-bvb-dortmund-vfb-stuttgart-eintracht-frankfurt-adidas-2882028",
-  "https://www.hotukdeals.com/deals/lego-star-wars-wcode-eg-75417-at-st-walker-75455-boba-fett-ps108-75433-jango-fetts-starship-ps369075438-yoda-bust-ps2340-more-free-cc-5047451"
+  "https://www.hotukdeals.com/deals/lego-star-wars-wcode-eg-75417-at-st-walker-75455-boba-fett-ps108-75433-jango-fetts-starship-ps369075438-yoda-bust-ps2340-more-free-cc-5047451",
+  "https://www.hotukdeals.com/deals/faux-linen-cube-ottoman-free-cc-5047452"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795663188.3722146,
-  "ebay": 1795663836.4615924
+  "ebay": 1795664757.6911669
  },
  "ebay_seen": {
   "187110721591": 139.1,
