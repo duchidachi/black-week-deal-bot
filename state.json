@@ -59,14 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/xiaomi-grooming-kit-pro-all-in-one-cordless-and-corded-beard-trimmer-ipx7-waterproof-rechargeable-usb-c-wcode-5046942",
-  "https://www.hotukdeals.com/deals/salomon-trailblazer-20-versatile-hiking-pack-superior-fabrics-20l-storage-5046941",
-  "https://www.hotukdeals.com/deals/cadbury-animals-mini-biscuits-snack-packs-5-x-199g-95p-85p-ss-5046940",
-  "https://www.hotukdeals.com/deals/calvin-klein-padded-mens-jacket-5046939",
-  "https://www.hotukdeals.com/deals/play-doh-starter-set-shapes-colours-dinosaur-playset-5046938",
-  "https://www.hotukdeals.com/deals/wavytalk-blowout-brush-5046937",
-  "https://www.hotukdeals.com/deals/big-peat-blended-malt-scotch-whisky-536-winter-edition-2025-5046936",
-  "https://www.mydealz.de/deals/apple-tv-4k-3-generation-wifi-64gb-gebraucht-und-ohne-fernbedienung-2881688",
   "https://www.mydealz.de/deals/netto-md-appventskalender-2881687",
   "https://www.dealabs.com/bons-plans/blink-sonnette-video-2k-sans-fil-nouvelle-generation-plan-moyen-audio-ameliore-ip65-piles-longue-duree-configuration-facile-module-3469252",
   "https://www.dealabs.com/bons-plans/ecran-pc-315-iiyama-prolite-xb3270qsu-b1-ips-2560x1440-at-100hz-3ms-250cd-haut-parleurs-hdmi-dp-usb-reglable-en-hauteur-pivot-3469251",
@@ -1558,7 +1550,15 @@
   "https://www.hotukdeals.com/deals/the-lidl-plus-advent-calendar-is-here-24-days-of-deals-starts-1st-dec-5047357",
   "https://www.hotukdeals.com/deals/pokemon-tcg-battle-academy-lycanroc-v-battle-deck-corviknight-v-battle-deck-bundle-5047356",
   "https://www.hotukdeals.com/deals/ocoopa-ut2s-twin-hand-warmers-rechargeable-10000mah-power-banks-5047355",
-  "https://www.hotukdeals.com/deals/lego-city-airplane-service-truck-hovercraft-remix-60505-5047354"
+  "https://www.hotukdeals.com/deals/lego-city-airplane-service-truck-hovercraft-remix-60505-5047354",
+  "https://www.dealabs.com/bons-plans/lidl-projecteur-solaire-a-led-livarno-avec-detecteur-de-mouvements-3469619",
+  "https://www.chollometro.com/ofertas/juego-de-tronos-serie-completa-4k-uhd-edicion-metalica-2026-2090608",
+  "https://www.chollometro.com/ofertas/pack-agarralo-como-puedas-1-2-y-3-blu-ray-2090604",
+  "https://www.chollometro.com/ofertas/kelloggs-smacks-400g-paquete-de-2-2090603",
+  "https://www.hotukdeals.com/deals/pepsi-max-caffeine-free-cola-330ml-can-24-pack-amazons-choice-ps760-ss-5047361",
+  "https://www.hotukdeals.com/deals/klevv-fit-v-ddr5-6000mhz-cl30-pc-ram-16-gb-5047360",
+  "https://www.hotukdeals.com/deals/one-piece-17cm-monkey-d-luffy-action-figure-5047359",
+  "https://www.hotukdeals.com/deals/lego-seasonal-40820-up-scaled-santa-40958-hanging-decoration-ps2250-10350-wreath-ps5850-with-code-free-cc-5047358"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795651866.6151106,
-  "ebay": 1795651550.9739017
+  "ebay": 1795652516.622072
  },
  "ebay_seen": {
   "187110721591": 139.1,
