@@ -59,10 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/sekonda-altitude-mens-pilot-style-watch-42mm-bronze-case-brown-leather-strap-with-black-dial-30034-5046991",
-  "https://www.mydealz.de/deals/gigabyte-go27q24g-27-zoll-w-oled-gaming-monitor-2881724",
-  "https://www.mydealz.de/deals/stanley-cup-2881723",
-  "https://www.mydealz.de/deals/kreuzfahrten-fur-alleinreisende-attraktive-single-angebote-teilweise-ohne-einzelkabinenzuschlag-zb-8-tage-kanarische-inseln-ab-399eur-2867650",
   "https://www.mydealz.de/deals/dinner-in-der-grossen-halle-von-hogwarts-harry-potter-an-evening-at-warner-bros-studio-tour-london-2-un-ab-498eur-pp-fluge-ab-67eur-2881722",
   "https://www.preisjaeger.at/deals/competo-klask-spiel-nordisch-10-373397",
   "https://www.chollometro.com/ofertas/mochila-xiaomi-computer-18l-2090105",
@@ -1558,7 +1554,11 @@
   "https://www.mydealz.de/deals/lennardigital-sylenth1-synthesizer-black-friday-deal-vst-plugin-fur-fl-studio-ableton-2882044",
   "https://www.mydealz.de/deals/amazonfr-person-of-interest-2011-16-komplette-serie-bluray-nur-ov-imdb-85-2882043",
   "https://www.mydealz.de/gutscheine/yab-die-superhantel-2er-set-inkl-belt-aus-die-hohle-der-lowen-2882042",
-  "https://www.dealabs.com/bons-plans/dazn-gratuit-ce-week-end-3469660"
+  "https://www.dealabs.com/bons-plans/dazn-gratuit-ce-week-end-3469660",
+  "https://www.mydealz.de/deals/dexter-2006-13-komplette-serie-dt-ton-imdb-86-michael-c-hall-at-amazon-italia-2882046",
+  "https://www.mydealz.de/deals/herren-sicherheitsschuhe-sicherheitsstiefel-s3-2882045",
+  "https://www.hotukdeals.com/deals/adidas-mens-duramo-rc2-running-trainers-2-colours-sizes-6-12-free-delivery-for-members-5047457",
+  "https://www.hotukdeals.com/deals/sportspower-sport-pro-8ft-trampoline-with-folding-enclosure-free-cc-5047456"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795666957.9912732,
-  "ebay": 1795667604.655008
+  "ebay": 1795668528.207292
  },
  "ebay_seen": {
   "187110721591": 139.1,
