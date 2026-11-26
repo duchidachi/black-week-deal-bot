@@ -59,10 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/skechers-mens-skx-92-spective-sneaker-size-9-other-sizes-discounted-as-well-5047016",
-  "https://www.hotukdeals.com/deals/lego-star-wars-k-2so-security-droid-75434-with-code-free-cc-5047014",
-  "https://www.hotukdeals.com/deals/20-off-everything-wcode-eg-prada-rabanne-boss-gucci-more-eg-moschino-uomo-lattafa-asad-ps1676-prada-luna-rossa-ocean-150ml-ps6436-5047013",
-  "https://www.hotukdeals.com/deals/buzzballz-pip-pip-punch-lemon-tea-200ml-5047012",
   "https://www.hotukdeals.com/deals/philips-evnia-27m2c5501-27-qhd-180hz-curved-gaming-monitor-5047011",
   "https://www.mydealz.de/deals/1-kg-lavazza-crema-e-aroma-kaffeebohnen-sparabo-5-rabattcoupon-personalisiert-prime-nur-1189-eur-bei-versand-ohne-eile-2881739",
   "https://www.mydealz.de/deals/postenborse-sp-markte-ab-2811-pokemon-battle-feature-figuren-wie-zb-glurak-oder-ash-und-pikachu-fur-je-399-2881738",
@@ -1558,7 +1554,11 @@
   "https://www.dealabs.com/bons-plans/samsung-galaxy-s26-chargeur-512-go-version-fr-vendu-par-amazon-3469674",
   "https://nl.pepper.com/aanbiedingen/van-20-tot-40-korting-5-euro-extra-korting-op-parfumado-429385",
   "https://www.hotukdeals.com/vouchers/discounted-digital-gift-cards-10-marks-spencer-15-off-odeon-20-off-virgin-experience-days-minimum-spend-required-5047477",
-  "https://www.hotukdeals.com/deals/anker-nano-10k-power-bank-with-built-in-usb-c-cable-2-pack-5047476"
+  "https://www.hotukdeals.com/deals/anker-nano-10k-power-bank-with-built-in-usb-c-cable-2-pack-5047476",
+  "https://www.mydealz.de/deals/mtg-commander-deck-ein-neues-multiversum-2882073",
+  "https://nl.pepper.com/aanbiedingen/ninja-crispi-dualzone-glazen-airfryer-8-in-1-donkerblauw-dd102eubl1-at-sharkninja-429328",
+  "https://nl.pepper.com/aanbiedingen/ah-mayonaise-zacht-en-romig-429349",
+  "https://www.hotukdeals.com/deals/a-quiet-place-3-movie-collection-blu-ray-voucher-price-5047478"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795670734.9672687,
-  "ebay": 1795671383.3354821
+  "ebay": 1795672306.6608448
  },
  "ebay_seen": {
   "187110721591": 139.1,
