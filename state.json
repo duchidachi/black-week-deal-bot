@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-26T02:17:03+00:00"
+   "checked": "2026-11-26T02:48:25+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-26T02:17:12+00:00"
+   "checked": "2026-11-26T02:48:35+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-26T02:17:17+00:00"
+   "checked": "2026-11-26T02:48:39+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,32 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-26T02:17:26+00:00"
+   "checked": "2026-11-26T02:48:48+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 499.0,
-   "checked": "2026-11-26T02:17:31+00:00"
+   "checked": "2026-11-26T02:48:53+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-26T02:17:35+00:00"
+   "checked": "2026-11-26T02:48:57+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-26T02:17:21+00:00"
+   "checked": "2026-11-26T02:48:44+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/hisense-wf1q9041bw-lavadora-class-a-9kg-1400-rpm-alto-845cm-x-ancho-595cm-color-blanco-funcion-vapor-999-2090092",
   "https://www.chollometro.com/ofertas/fisher-price-gimnasio-piano-kick-play-para-bebe-2090090",
   "https://www.chollometro.com/ofertas/nintendo-switch-2-turbo-boost-racing-codigo-en-la-caja-2-volantes-2090088",
   "https://www.chollometro.com/ofertas/leatherman-wave-multiherramienta-made-in-usa-negro-2090082",
@@ -1558,7 +1557,8 @@
   "https://www.dealabs.com/bons-plans/gigabyte-b850-aorus-elite-wifi7-3469641",
   "https://www.hotukdeals.com/deals/mouse-pi-for-hire-steam-deck-verified-pcsteam-5047440",
   "https://www.hotukdeals.com/deals/ninja-creami-scoop-swirl-13-in-1-ice-cream-soft-serve-maker-ps17999-delivered-at-john-lewis-5047439",
-  "https://www.hotukdeals.com/deals/11-non-verbal-reasoning-practice-papers-500-nvr-questions-across-10-practice-papers-answers-5047441"
+  "https://www.hotukdeals.com/deals/11-non-verbal-reasoning-practice-papers-500-nvr-questions-across-10-practice-papers-answers-5047441",
+  "https://www.dealabs.com/bons-plans/cyberpunk-2077-ultimate-edition-sur-xbox-series-x-3469644"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795659418.1751692,
+  "geizhals": 1795661300.564866,
   "ebay": 1795660985.5915804
  },
  "ebay_seen": {
