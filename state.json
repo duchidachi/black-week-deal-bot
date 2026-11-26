@@ -59,10 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/dreo-electric-heater-1500w-energy-efficient-space-room-heater-5046960",
-  "https://www.mydealz.de/deals/das-werk-modellbausatz-bundeswehr-kampfpanzer-leopard-2a7v-im-massstab-116-2881705",
-  "https://www.mydealz.de/deals/qbrick-system-pro-set-5in1-cart-toolbox-toolcase-organizer-100-organizer-multi-fur-8679-eur-at-toolandia-neukunden-2881704",
-  "https://www.mydealz.de/deals/bambulab-a1-combo-ams-lite-2881697",
   "https://www.mydealz.de/deals/name-it-baby-schlafoverall-2er-pack-mit-reisverschluss-in-grosse-80-2881699",
   "https://www.preisjaeger.at/deals/mova-fresh-pro-3dclean-elektrische-zahnburste-373394",
   "https://www.dealabs.com/bons-plans/maizena-fecule-de-mais-400-g-3469279",
@@ -1558,7 +1554,11 @@
   "https://www.dealabs.com/bons-plans/clavier-gaming-sans-fil-logitech-g915-x-lightspeed-tkl-azerty-gl-brown-rgb-noir-3469633",
   "https://www.dealabs.com/codes-promo/1-entree-achetee1-entree-offerte-3469632",
   "https://www.hotukdeals.com/deals/50-off-any-dozen-krispy-kreme-doughnuts-both-in-store-online-free-cc-rewards-users-5047414",
-  "https://www.hotukdeals.com/deals/dkny-mens-logo-tee-black-white-navy-olive-5047413"
+  "https://www.hotukdeals.com/deals/dkny-mens-logo-tee-black-white-navy-olive-5047413",
+  "https://www.hotukdeals.com/deals/parkside-screwdriver-bit-set-37-pieces-5047419",
+  "https://www.hotukdeals.com/deals/lego-architecture-21063-neuschwanstein-castle-set-for-adults-w-code-5047418",
+  "https://www.hotukdeals.com/deals/delonghi-magnifica-plus-ecam32060b-bean-to-cup-coffee-machine-black-at-ao-5047417",
+  "https://www.hotukdeals.com/deals/garmin-instinct-3-45mm-with-amoled-screen-black-5047416"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795655644.0598454,
-  "ebay": 1795655329.6805732
+  "ebay": 1795656290.6840005
  },
  "ebay_seen": {
   "187110721591": 139.1,
