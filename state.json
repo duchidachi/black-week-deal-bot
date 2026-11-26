@@ -59,10 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/apple-iphone-18-pro-512gb-collect-voucher-5046964",
-  "https://www.mydealz.de/deals/aescolab-blutanalyse-2881712",
-  "https://www.mydealz.de/deals/kabellose-elektrische-munddusche-ipx7-prime-2881711",
-  "https://www.mydealz.de/deals/garmin-fenix-8-47-mm-gps-multisport-smartwatch-schwarzschiefergrau-2881710",
   "https://www.mydealz.de/deals/die-hochzeitsbrosche-die-hochzeitsflusterin-1-gratis-ebook-42-2833102",
   "https://www.mydealz.de/deals/nutriment-leckerli-lamm-hunde-snack-mhd-deal-2881708",
   "https://www.mydealz.de/deals/adidas-rucksack-linear-45-x-275-x-14-cm-185-liter-cb-adiclub-2881707",
@@ -1558,7 +1554,11 @@
   "https://www.hotukdeals.com/deals/bush-65-inch-65usf26-smart-4k-uhd-hdr-freely-fire-tv-ps324-w-signup-code-inc-free-delivery-2-x-nectar-points-5046562",
   "https://www.hotukdeals.com/deals/lego-speed-champions-ferrari-sf90-xx-stradale-sports-car-77254-wvoucher-5047422",
   "https://www.hotukdeals.com/deals/ambiano-mini-waffle-maker-5047423",
-  "https://www.hotukdeals.com/deals/comte-de-senneval-champagne-brut-lidlplus-price-5047421"
+  "https://www.hotukdeals.com/deals/comte-de-senneval-champagne-brut-lidlplus-price-5047421",
+  "https://www.preisjaeger.at/deals/mova-fresh-pro-3dclean-elektrische-zahnburste-373394",
+  "https://www.dealabs.com/bons-plans/chaussure-addidas-sl-72-rs-3469636",
+  "https://www.hotukdeals.com/deals/dr-oetker-pizza-lidlplus-price-5047425",
+  "https://www.hotukdeals.com/deals/hilka-83300055-soft-grip-ice-scraper-5047424"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795655644.0598454,
-  "ebay": 1795656290.6840005
+  "ebay": 1795657215.4400973
  },
  "ebay_seen": {
   "187110721591": 139.1,
