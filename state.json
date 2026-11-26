@@ -59,7 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/40-off-selected-items-2500-extra-20-off-sale-with-codes-via-app-mens-tee-ps479-mens-jacket-ps879-more-5046974",
   "https://www.hotukdeals.com/deals/revlon-rvdr5371uk-one-step-5-in-1-hair-styler-black-5046973",
   "https://www.hotukdeals.com/deals/gearlite-solar-fence-lights-4pack-5-convex-lens-solar-lights-outdoor-garden-5046972",
   "https://www.hotukdeals.com/deals/me-and-my-golf-breaking-ball-11ft-putting-mat-5046971",
@@ -1558,7 +1557,8 @@
   "https://www.hotukdeals.com/deals/eddie-bauer-mens-lancaster-boots-in-black-or-brown-at-costco-online-5047432",
   "https://www.mydealz.de/deals/magic-the-gathering-universes-beyond-der-hobbit-playbooster-display-deutsch-2882016",
   "https://nl.pepper.com/aanbiedingen/dyson-cyclone-v10s-submarine-steelstofzuiger-met-dweilfunctie-429222",
-  "https://www.hotukdeals.com/deals/hunter-unisex-cascade-rainboot-in-black-or-green-at-costco-online-5047434"
+  "https://www.hotukdeals.com/deals/hunter-unisex-cascade-rainboot-in-black-or-green-at-costco-online-5047434",
+  "https://www.hotukdeals.com/deals/cordless-window-vacuum-cleaner-free-shipping-from-uk-5047435"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795657530.996018,
-  "ebay": 1795658180.033397
+  "ebay": 1795659103.301256
  },
  "ebay_seen": {
   "187110721591": 139.1,
