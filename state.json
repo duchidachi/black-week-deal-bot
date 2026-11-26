@@ -59,10 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/new-balance-fresh-foam-680-v8-zapatillas-2090104",
-  "https://www.chollometro.com/ofertas/powerbank-magnetica-baseus-picogo-ultra-mini-5000-mah-qi2-15-w-inalambrica-usb-c-20-w-soporte-plegable-varios-colores-2090097",
-  "https://www.chollometro.com/ofertas/pop-funko-disney-lilo-stitch-snorkeling-stitch-2090102",
-  "https://www.chollometro.com/ofertas/dji-brazo-extensible-de-control-remoto-action-2-2090100",
   "https://www.hotukdeals.com/deals/apple-airpods-5-wireless-earbuds-5046997",
   "https://www.hotukdeals.com/deals/samsung-27-odyssey-oled-g6-qhd-500hz-qd-oled-gaming-monitor-5046996",
   "https://www.hotukdeals.com/deals/nectar-price-sainsburys-british-free-range-eggs-medium-x12-nectar-price-5046995",
@@ -1558,7 +1554,11 @@
   "https://www.dealabs.com/bons-plans/sodastream-ultimate-multi-drink-2-cylindres-via-odr-30eur-3469654",
   "https://www.dealabs.com/bons-plans/jouet-lego-star-wars-smart-play-75426-faucon-millenium-3469658",
   "https://www.dealabs.com/bons-plans/ninja-multicuiseur-foodi-max-air-fryer-smart-lid-14-1-75l-3469657",
-  "https://www.hotukdeals.com/deals/lg-us95ar-915-ch-soundbar-with-dolby-atmos-dtsx-subwoofer-surround-speakers-5047455"
+  "https://www.hotukdeals.com/deals/lg-us95ar-915-ch-soundbar-with-dolby-atmos-dtsx-subwoofer-surround-speakers-5047455",
+  "https://www.preisjaeger.at/deals/philips-55oled76112-2026-55-zoll-4k-oled-ambilight-tv-373425",
+  "https://www.preisjaeger.at/deals/google-pixel-10a-128-gb-obsidian-dual-sim-373422",
+  "https://www.preisjaeger.at/deals/segway-ninebot-e3-e-e-scooter-373423",
+  "https://www.preisjaeger.at/deals/samsung-galaxy-s25-fe-128gb-jetblack-373421"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795666957.9912732,
-  "ebay": 1795666644.9200592
+  "ebay": 1795667604.655008
  },
  "ebay_seen": {
   "187110721591": 139.1,
