@@ -59,10 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/bianchi-infinito-cv-disc-105-di2-t30-defy-type-endurance-road-bike-celeste-5046988",
-  "https://www.hotukdeals.com/deals/dyson-gen5detect-absolute-cordless-vacuum-ironpurple-renewed-1yr-warranty-dyson-outlet-5046987",
-  "https://www.hotukdeals.com/deals/giant-propel-advanced-pro-0-ultegra-di2-road-bike-in-metallic-bluecarbon-5046986",
-  "https://www.hotukdeals.com/deals/gabbys-dollhouse-the-movie-cakeys-sprinkle-cake-tastic-kitchen-5046985",
   "https://www.hotukdeals.com/deals/morphy-richards-fastbake-bread-maker-12-programmes-3-loaf-sizes-white-5046984",
   "https://www.mydealz.de/deals/unidays-27-zoll-lg-ultragear-evo-gm9-hyper-mini-led-5k-gaming-monitor-2881721",
   "https://www.dealabs.com/bons-plans/yu-gi-oh-early-days-collection-switch-3469298",
@@ -1558,7 +1554,11 @@
   "https://www.mydealz.de/deals/one-piece-op18-display-jp-2882034",
   "https://www.mydealz.de/deals/fur-uns-shop-bosch-heissluftfritteuse-serie-4-mafd440b0-2882036",
   "https://www.dealabs.com/bons-plans/beurer-ts-17-surmatelas-chauffant-matiere-douce-non-tissee-antiderapante-grace-a-la-fixation-avec-elastique-3469653",
-  "https://www.dealabs.com/bons-plans/xgimi-horizon-20-videoprojecteur-4k-triple-laser-home-cinema-3200-iso-zoom-optique-lens-shift-imax-enhanced-dolby-vision-3469652"
+  "https://www.dealabs.com/bons-plans/xgimi-horizon-20-videoprojecteur-4k-triple-laser-home-cinema-3200-iso-zoom-optique-lens-shift-imax-enhanced-dolby-vision-3469652",
+  "https://www.mydealz.de/deals/fur-uns-shop-bosch-nass-trockensauger-serie-4-bhf41wl-2882038",
+  "https://www.preisjaeger.at/deals/billa-pickerl-diesmal-in-der-heute-in-wien-373432",
+  "https://www.preisjaeger.at/deals/wolverine-ps5-den-hohen-preis-mit-adamantiumklingen-zerschnetzelt-373431",
+  "https://www.hotukdeals.com/deals/remington-d5220-pro-air-turbo-hair-dryer-with-diffuser-5047454"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795665073.237678,
-  "ebay": 1795665722.3717413
+  "ebay": 1795666644.9200592
  },
  "ebay_seen": {
   "187110721591": 139.1,
