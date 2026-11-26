@@ -59,18 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/transport-gratuit-noel-reseau-solea-mulhouse-3470526",
-  "https://www.dealabs.com/bons-plans/montre-automatique-west-end-watch-co-the-classics-eta-2836-2-37-mm-verre-saphir-swiss-made-5-atm-3470541",
-  "https://www.dealabs.com/bons-plans/jbl-go-5-enceinte-bluetooth-ultraportable-etanche-noir-via-coupon-3470538",
-  "https://www.dealabs.com/bons-plans/tv-led-43-hisense-43a6s-108-cm-4k-uhd-3840x2160-hdr10-smart-tv-vidaa-3xhdmi-21-wifi-3470536",
-  "https://www.dealabs.com/bons-plans/atari-50-the-anniversary-celebration-3470535",
-  "https://nl.pepper.com/aanbiedingen/waterdrop-11-429566",
-  "https://www.hotukdeals.com/deals/armani-she-eau-de-parfum-spray-100ml-tester-with-code-jean-paul-gaultier-scandal-eau-de-parfum-80ml-tester-with-code-jpg10-5048363",
-  "https://www.hotukdeals.com/deals/haden-kettle-jersey-15l-rapid-boil-ergonomic-design-steel-blue-5048362",
-  "https://www.hotukdeals.com/deals/tom-ford-eau-dombre-leather-eau-de-toilette-100ml-using-code-5048361",
-  "https://www.mydealz.de/deals/onkyo-tx-nr6050-72-kanal-av-receiver-2882654",
-  "https://www.mydealz.de/deals/cb-samsung-q-serie-soundbar-hw-q935gh-914-kanal-subwoofer-rucklautsprecher-2026-2877861",
-  "https://www.preisjaeger.at/deals/ninja-creami-party-pack-mit-2-extra-behaltern-mit-cb-13599eur-moglich-373509",
   "https://www.preisjaeger.at/deals/ecovacs-deebot-mini-blue-saug-wischroboter-inkl-absaug-reinigungsstation-373487",
   "https://www.dealabs.com/bons-plans/machine-a-granite-ninja-slushi-fs301eu-capacite-25l-800w-via-38eur-fidelite-3470550",
   "https://www.dealabs.com/bons-plans/aspirateur-robot-laveur-dyson-spotscrub-ai-18-000-pa-140-min-via-130eur-fidelite-3470549",
@@ -1558,7 +1546,19 @@
   "https://www.chollometro.com/ofertas/nivea-q10-leche-corporal-reafirmante-y-extrahidratante-400-ml-2092282",
   "https://www.chollometro.com/ofertas/estante-de-almacenamiento-para-inodoro-2092277",
   "https://www.hotukdeals.com/deals/twirest-super-king-mattressmemory-foam-mattress-in-a-box180x200x20cm-5048710",
-  "https://www.hotukdeals.com/deals/bha-paulas-choice-toner-in-30-off-5048709"
+  "https://www.hotukdeals.com/deals/bha-paulas-choice-toner-in-30-off-5048709",
+  "https://www.mydealz.de/deals/prime-nerf-loadout-galactic-commander-blaster-mit-48-n1-darts-g1580-2882966",
+  "https://www.mydealz.de/deals/bauhaus-tpg-durch-globus-baumarkt-einhell-pxc-18v-akku-astsage-ge-ps-125cm-schnittlange-brushless-2882965",
+  "https://www.mydealz.de/deals/blade-runner-enhanced-edition-nintendo-switch-switch-2-kompatibel-digital-im-nintendo-eshop-2882964",
+  "https://www.mydealz.de/deals/dyson-spot-scrub-ai-saugroboter-2882948",
+  "https://www.mydealz.de/deals/geschenkkartenguthaben-im-playstore-mobile-10-auf-zalando-adidas-breuninger-ca-hm-lieferando-ubereats-2882963",
+  "https://www.mydealz.de/deals/prime-schmidt-spiele-schiffe-versenken-49092-reisevariante-fur-2-spieler-2882962",
+  "https://www.mydealz.de/deals/tessie-black-friday-rabattcodes-50-100-2882960",
+  "https://www.mydealz.de/deals/prime-moroccanoil-perfect-defense-hitzeschutzspray-225-ml-2882959",
+  "https://www.dealabs.com/bons-plans/ea-sports-fc-27-nintendo-switch-3470991",
+  "https://www.dealabs.com/bons-plans/franck-provost-gelee-boucles-5-en-1-definition-hydratation-brillance-250ml-3470990",
+  "https://www.dealabs.com/bons-plans/dragon-quest-i-ii-hd-2d-remake-ps5-3470989",
+  "https://nl.pepper.com/aanbiedingen/goliath-fiercelings-4-smaken-at-bolcom-429604"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795730937.4851441,
-  "ebay": 1795730625.239526
+  "ebay": 1795731586.0589998
  },
  "ebay_seen": {
   "187110721591": 139.1,
