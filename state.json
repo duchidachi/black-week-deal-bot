@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-26T01:14:09+00:00"
+   "checked": "2026-11-26T01:45:37+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-26T01:14:18+00:00"
+   "checked": "2026-11-26T01:45:46+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-26T01:14:23+00:00"
+   "checked": "2026-11-26T01:45:51+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,35 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-26T01:14:33+00:00"
+   "checked": "2026-11-26T01:46:01+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 499.0,
-   "checked": "2026-11-26T01:14:37+00:00"
+   "checked": "2026-11-26T01:46:05+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-26T01:14:42+00:00"
+   "checked": "2026-11-26T01:46:10+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-26T01:14:28+00:00"
+   "checked": "2026-11-26T01:45:56+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/die-hochzeitsbrosche-die-hochzeitsflusterin-1-gratis-ebook-42-2833102",
-  "https://www.mydealz.de/deals/nutriment-leckerli-lamm-hunde-snack-mhd-deal-2881708",
-  "https://www.mydealz.de/deals/adidas-rucksack-linear-45-x-275-x-14-cm-185-liter-cb-adiclub-2881707",
-  "https://www.mydealz.de/deals/option-o-lagom-casa-single-dosing-kaffeemuhle-2881706",
   "https://www.dealabs.com/bons-plans/ampli-home-cinema-denon-avr-x2900h-3469282",
   "https://www.dealabs.com/codes-promo/10-sur-tout-le-site-3469281",
   "https://www.chollometro.com/ofertas/only-skinny-fit-jeans-onlroyal-high-rise-skinny-fit-jeans-2090078",
@@ -1558,7 +1554,11 @@
   "https://www.preisjaeger.at/deals/mova-fresh-pro-3dclean-elektrische-zahnburste-373394",
   "https://www.dealabs.com/bons-plans/chaussure-addidas-sl-72-rs-3469636",
   "https://www.hotukdeals.com/deals/dr-oetker-pizza-lidlplus-price-5047425",
-  "https://www.hotukdeals.com/deals/hilka-83300055-soft-grip-ice-scraper-5047424"
+  "https://www.hotukdeals.com/deals/hilka-83300055-soft-grip-ice-scraper-5047424",
+  "https://www.mydealz.de/deals/konigreich-der-himmel-directors-cut-uhd-blu-ray-2882012",
+  "https://www.hotukdeals.com/deals/hisense-rb327n4wce-55cm-freestanding-5050-fridge-freezer-256-l-capacity-no-frost-non-plumbed-water-dispenser-silver-w-voucher-5047429",
+  "https://www.hotukdeals.com/deals/lego-creator-3in1-haunted-mansion-31167-wvoucher-5047427",
+  "https://www.hotukdeals.com/deals/samsung-smart-tv-65-inch-u8000h-crystal-uhd-4k-tv-hdr10-motion-xcelerator-dynamic-sound-pack-gaming-hub-vision-ai-companion-2026-5047426"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795655644.0598454,
+  "geizhals": 1795657530.996018,
   "ebay": 1795657215.4400973
  },
  "ebay_seen": {
