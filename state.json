@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-26T22:09:02+00:00"
+   "checked": "2026-11-26T22:40:28+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-26T22:09:12+00:00"
+   "checked": "2026-11-26T22:40:38+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-26T22:09:17+00:00"
+   "checked": "2026-11-26T22:40:43+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,55 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-26T22:09:26+00:00"
+   "checked": "2026-11-26T22:40:52+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 490.9,
-   "checked": "2026-11-26T22:09:31+00:00"
+   "checked": "2026-11-26T22:40:57+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-26T22:09:35+00:00"
+   "checked": "2026-11-26T22:41:02+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 519.99,
-   "checked": "2026-11-26T22:09:21+00:00"
+   "checked": "2026-11-26T22:40:47+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/tefal-inox-et-design-appareil-a-raclette-et-plancha-3en1-10-personnes-frontaliers-belgique-3470554",
-  "https://www.dealabs.com/bons-plans/blade-runner-enhanced-edition-3470552",
-  "https://www.dealabs.com/bons-plans/shadow-man-remastered-3470545",
-  "https://www.dealabs.com/bons-plans/pc-fixe-gamer-ryzen-5-5600-rtx-5060-8go-16go-ram-500go-ssd-65-w-win-11-via-220eur-sur-la-carte-3470553",
-  "https://www.chollometro.com/ofertas/dragon-ball-z-monster-box-2025-serie-completa-57-dvd-2091782",
-  "https://www.chollometro.com/ofertas/moroccanoil-tratamiento-de-aceite-capilar-2091781",
-  "https://www.chollometro.com/ofertas/huawei-watch-gt-7-46mm-acero-inoxidable-5-atm-ip69-sensor-cardiaco-azul-freebuds-se-4-correa-adicional-proteccion-total-24-meses-2091779",
-  "https://www.hotukdeals.com/deals/rayspace-15-tilt-treadmill-upgraded-35hp-low-noise-treadmill-for-home-4-in-1-folding-treadmill-walking-mat-handle-350-lbs-capacity-5048375",
-  "https://www.hotukdeals.com/deals/hy-pro-avengers-basketball-size-5-marvel-design-with-avengers-graphic-5048374",
-  "https://www.hotukdeals.com/deals/tcomas-cube-360-white-aio-cpu-cooler-supports-intel-lga-18511700-amd-am5am4-wcoupon-5048373",
-  "https://www.hotukdeals.com/deals/tom-ford-ombre-leather-eau-de-parfum-150ml-using-code-5048371",
-  "https://www.mydealz.de/deals/ab-2711-anker-solix-power-dock-multisystem-bis-645-kwh-48-kw-ac-144-kw-pv-lifepo4-ev-laden-bis-11-kw-2882667",
-  "https://www.mydealz.de/deals/vodafone-netz-nintendo-switch-2-konsole-austauschbarer-akku-mit-otelo-allnetsms-flat-250gb-5g-fur-2249eurmonat-6995eur-50eur-rnm-2870794",
-  "https://www.mydealz.de/deals/twenty4tim-parfum-reduziert-2882666",
-  "https://www.mydealz.de/deals/vodafone-netz-fairphone-gen-6-256gb-fairbuds-2-im-otelo-allnetsms-flat-50gb-5g-fur-1999eurmonat-189eur-2862407",
-  "https://www.mydealz.de/deals/vodafone-netz-fairphone-6-im-otelo-allnetsms-flat-250gb-5g-100mbits-fur-2249eurmonat-59eur-50eur-wechselbonus-2875176",
-  "https://www.dealabs.com/bons-plans/tv-xiaomi-qled-a-pro-55-55-4k-ultrahd-60hz-3470566",
-  "https://www.dealabs.com/bons-plans/samsung-galaxy-s26-chargeur-512-go-version-fr-vendu-par-amazon-3470565",
-  "https://www.dealabs.com/bons-plans/gigabyte-gaming-radeon-rx-9070-gre-12gb-gddr6-3470564",
-  "https://www.dealabs.com/bons-plans/baskets-breaknet-30-dessus-cuir-plusieurs-tailles-3470563",
-  "https://www.dealabs.com/bons-plans/ssd-msi-spatium-s270-480-go-sata-iii-25-jusqua-500-mos-en-lecture-3470562",
-  "https://www.dealabs.com/bons-plans/eau-de-parfum-pour-femme-chloe-3470561",
-  "https://www.dealabs.com/codes-promo/nausicaa-remise-de-fin-dannee-sur-les-billets-dentree-3470560",
-  "https://www.dealabs.com/bons-plans/pc-gamer-black-cyber-rtx-5060-3470557",
   "https://www.dealabs.com/bons-plans/pc-portable-153-lenovo-ideapad-83rl0018fr-wqxga-oled-2560-x-1600-snapdragon-x2-plus-16go-ram-512go-ssd-547-wh-win-11-200eur-fid-3470559",
   "https://www.dealabs.com/bons-plans/mini-lave-vaisselle-de-table-comfee-mfd42s110w-it-7-programme-classe-energetique-d-3470558",
   "https://www.dealabs.com/bons-plans/vinyle-3lp-rolling-stones-grrr-live-3470556",
@@ -1558,7 +1534,31 @@
   "https://www.chollometro.com/ofertas/sawyer-bikes-bicicleta-sin-pedales-ultraligera-ninos-2-3-4-y-5-anos-2092295",
   "https://www.chollometro.com/ofertas/lexibook-stitch-altavoz-karaoke-2092297",
   "https://www.chollometro.com/ofertas/clementoni-puzzle-peace-puzzle-raindrops-lullaby-500-piezas-2092298",
-  "https://www.chollometro.com/ofertas/mchaus-chimenea-electrica-pantalla-tactil-panel-de-vidrio-colorido-inserto-de-llama-calentador-montado-en-la-pared-con-cristal-9001800-w-2092284"
+  "https://www.chollometro.com/ofertas/mchaus-chimenea-electrica-pantalla-tactil-panel-de-vidrio-colorido-inserto-de-llama-calentador-montado-en-la-pared-con-cristal-9001800-w-2092284",
+  "https://www.mydealz.de/deals/cb-samsung-65-oled-s82h-4k-smart-tv-2026-gratis-samsung-music-studio-7-ls70h-lautsprecher-fur-860-eur-2882985",
+  "https://www.mydealz.de/deals/20-im-bvb-shop-2882978",
+  "https://www.mydealz.de/deals/toom-bosch-professional-akku-aktion-40-ah-akku-gratis-2882984",
+  "https://www.mydealz.de/deals/prime-maisto-tech-red-bull-rb19-verstappen-rc-auto-124-24-ghz-mit-akku-2882983",
+  "https://www.mydealz.de/deals/cb-aeg-waschtrockner-9000-sensydry-l9wef80690-mit-warmepumpe-2882982",
+  "https://www.mydealz.de/deals/xbox-wireless-controller-nano-4699eur-fur-xbox-series-x-xbox-series-s-xbox-onexbox-cloud-pc-amazon-prime-mediamarkt-saturn-abholen-2878979",
+  "https://www.mydealz.de/deals/prime-furreal-gogo-mein-tanzendes-hundchen-f1971-interaktives-spielzeug-ab-4-jahren-2882980",
+  "https://www.mydealz.de/deals/amazon-echo-spot-smart-alarm-clock-with-vibrant-sound-alexa-black-2882979",
+  "https://www.mydealz.de/deals/nike-air-force-1-luxe-weiss-oder-schwarz-gr385-495-sneaker-at-nike-2882977",
+  "https://www.mydealz.de/deals/bosch-professional-gbh-18v-22-l-boxx-gratis-4-ah-akku-2882976",
+  "https://www.dealabs.com/bons-plans/roborock-qrevo-curv-2-pro-3471001",
+  "https://www.dealabs.com/bons-plans/manette-sans-fil-turtle-beach-afterglow-nintendo-switch-2-transparente-3471000",
+  "https://www.chollometro.com/ofertas/tv-55-tcl-55p8l-qd-mini-led-4k-144hz-google-tv-2092309",
+  "https://www.chollometro.com/ofertas/new-balance-mega-recopilacion-de-ropa-streetwear-en-oferta-desde-1750-eur-2092303",
+  "https://www.chollometro.com/ofertas/gorra-adidas-unisex-adulto-en-dos-colores-a-elegir-y-tallas-disponibles-2092306",
+  "https://www.chollometro.com/ofertas/guardianes-de-la-noche-nichirin-box-5-arcos-completos-bluray-2092305",
+  "https://nl.pepper.com/aanbiedingen/xiaomi-17-ultra-16gb512gb-met-ing-429606",
+  "https://www.hotukdeals.com/deals/lewiss-2in1-upright-stick-and-hand-vacuum-hoover-5048725",
+  "https://www.hotukdeals.com/deals/43-off-the-fullstar-pro-original-vegetable-chopper-cutter-spiralizer-4-in-1-4-blades-5048724",
+  "https://www.hotukdeals.com/deals/warhammer-40000-space-marine-2-playstation-5-golden-joystick-nominee-5048723",
+  "https://www.hotukdeals.com/deals/per-una-at-ms-takes-20-off-twice-5048722",
+  "https://www.hotukdeals.com/deals/macbook-pro-m5-pro-14-24gb1tb-5048721",
+  "https://www.hotukdeals.com/deals/strattos-s8-disc-ultegra-r8000-road-bike-size-s-members-price-5048720",
+  "https://www.hotukdeals.com/deals/samsung-galaxy-z-fold8-smartphone-256gb-storage-12gb-ps117360-ps10-top-up-5048719"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795730937.4851441,
+  "geizhals": 1795732822.7956915,
   "ebay": 1795732510.352413
  },
  "ebay_seen": {
@@ -1687,6 +1687,7 @@
   "https://www.mydealz.de/deals/adidas-galaxy-6-laufschuh-cb-2875044",
   "https://www.mydealz.de/deals/nbb-black-weeks-zb-lenovo-legion-27q-11-gaming-monitor-mit-27-ps-qhd-300hz-vrr-notebooks-monitore-gaming-zubehor-smart-home-2864204",
   "https://www.mydealz.de/deals/bioshock-2-remastered-299eur-inkl-bioshock-2-classic-gog-metacritic-88-2845921",
-  "https://www.mydealz.de/deals/ubiquiti-unifi-u7-lite-wi-fi-7-access-point-dual-band-25-gbe-poe-fur-99-eur-inkl-versand-at-voelkner-2882900"
+  "https://www.mydealz.de/deals/ubiquiti-unifi-u7-lite-wi-fi-7-access-point-dual-band-25-gbe-poe-fur-99-eur-inkl-versand-at-voelkner-2882900",
+  "https://www.mydealz.de/deals/xbox-wireless-controller-nano-4699eur-fur-xbox-series-x-xbox-series-s-xbox-onexbox-cloud-pc-amazon-prime-mediamarkt-saturn-abholen-2878979"
  ]
 }
