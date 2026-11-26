@@ -59,8 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/monitor-gaming-samsung-ls27fg506euxen-27-qhd-180-hz-1-ms-ips-conmutacion-en-el-plano-altura-ajustable-negro-2090083",
-  "https://www.chollometro.com/ofertas/puma-pacer-futuresneaker-zapatillas-para-mujer-2090098",
   "https://www.chollometro.com/ofertas/recopilacion-zapatillas-deportivas-new-balance-todas-al-50-de-descuento-2090094",
   "https://www.chollometro.com/ofertas/horno-whirlpool-akz9-7891-ix-multifuncion-hidrolitico-73l-guias-telescopicas-6th-sense-60cm-acero-inoxidable-2090096",
   "https://nl.pepper.com/aanbiedingen/bosch-professional-zeer-robuuste-gereedschapstas-maat-l-amazon-429354",
@@ -1558,7 +1556,9 @@
   "https://www.mydealz.de/deals/sicario-1-2-jeweils-399eur-uhd-digital-apple-tv-amazon-video-2882029",
   "https://www.dealabs.com/bons-plans/paire-de-baskets-blanches-under-armour-du-40-au-495-a-40-3469651",
   "https://www.dealabs.com/bons-plans/kit-de-linogravure-decouverte-3469650",
-  "https://www.hotukdeals.com/deals/lego-technic-wcode-42232-koenigsegg-sadairs-spear-megacar-42240-aston-martin-aramco-amr25-f1-ps120-42213-ford-bronco-uv-ps3510-free-cc-5047453"
+  "https://www.hotukdeals.com/deals/lego-technic-wcode-42232-koenigsegg-sadairs-spear-megacar-42240-aston-martin-aramco-amr25-f1-ps120-42213-ford-bronco-uv-ps3510-free-cc-5047453",
+  "https://www.mydealz.de/deals/gog-anno-bundle-pc-inkl-1404-gold-1503-1602-1701-2882033",
+  "https://www.mydealz.de/deals/prime-firefly-2002-komplette-serie-blu-ray-imdb-90-2882032"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795665073.237678,
-  "ebay": 1795664757.6911669
+  "ebay": 1795665722.3717413
  },
  "ebay_seen": {
   "187110721591": 139.1,
