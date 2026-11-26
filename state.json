@@ -59,21 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.preisjaeger.at/gutschein/ernstings-family-30-rabatt-auf-alles-inklusive-sale-373445",
-  "https://www.dealabs.com/bons-plans/10-de-reduction-des-400eur-dachat-sur-les-pc-portables-pc-de-bureau-tablettes-hors-pc-gaming-et-apple-imprimantes-et-consommables-3469802",
-  "https://www.dealabs.com/bons-plans/adam-audio-d3v-enceintes-de-monitoring-amplifiees-format-desktop-noires-3469788",
-  "https://www.dealabs.com/bons-plans/here-be-dragons-sur-nintendo-switch-dematerialise-3469799",
-  "https://www.dealabs.com/bons-plans/bosch-dot-4-liquide-de-frein-05-l-3469760",
-  "https://www.dealabs.com/codes-promo/the-fork-20-sur-lachats-de-cartes-cadeaux-3469798",
-  "https://www.dealabs.com/bons-plans/couteau-de-chef-tefal-eversharp-k2579104-3469797",
-  "https://www.dealabs.com/bons-plans/housse-asus-rog-ally-3469796",
-  "https://www.dealabs.com/bons-plans/sac-a-outils-bosch-gwt-20-3469793",
-  "https://www.dealabs.com/bons-plans/ssd-nvme-4to-pcie-40-3469792",
-  "https://www.dealabs.com/bons-plans/lego-star-trek-10356-star-trek-uss-enterprise-ncc-1701-d-3600-pieces-9-minifigurines-3469791",
-  "https://nl.pepper.com/aanbiedingen/aliexpress-momenteel-30-cashback-bij-cashbackxl-429405",
-  "https://nl.pepper.com/aanbiedingen/3x-250ml-palmolive-men-douchegel-spice-up-429404",
-  "https://www.hotukdeals.com/deals/ysl-black-opium-over-red-eau-de-parfum-50ml-ps47-was-ps107-better-than-half-price-at-boots-5047537",
-  "https://www.hotukdeals.com/deals/samsung-galaxy-s10-fe-tablet-wifi-128gb-8gb-ps14792-with-trade-of-any-ipad-pro-codes-via-gocertify-epp-etc-5047573",
   "https://www.hotukdeals.com/deals/zippo-fuel-canister-keychain-refill-with-zippo-fluid-windproof-lighter-hand-warmer-accessory-5047572",
   "https://www.hotukdeals.com/deals/ugg-womens-tasman-x-shoes-sawdust-size-4-9-5047571",
   "https://www.hotukdeals.com/deals/tineco-pure-one-a30s-cordless-vacuum-cleaner-160aw-suction-60min-runtime-1l-larger-dustbin-5047570",
@@ -1558,7 +1543,22 @@
   "https://www.hotukdeals.com/deals/mcvities-jamaica-ginger-cake-at-farmfoods-5048003",
   "https://www.hotukdeals.com/deals/havit-space-s1-adaptive-active-noise-cancelling-headphones-lhdc-bluetooth-60-hi-res-wireless-5048002",
   "https://www.hotukdeals.com/deals/claw-tails-peach-daiquiri-can-6-5048001",
-  "https://www.hotukdeals.com/deals/lego-star-wars-cobb-vanths-speeder-75437-5048000"
+  "https://www.hotukdeals.com/deals/lego-star-wars-cobb-vanths-speeder-75437-5048000",
+  "https://www.mydealz.de/deals/25-auf-alle-champagner-cremant-sekt-prosecco-etc-zb-dom-perignon-rose-2009-fur-26242eur-25-auch-auf-blaufrankisch-rotwein-2882397",
+  "https://www.mydealz.de/deals/amazon-prime-substral-naturen-bio-grundstoff-urtica-25l-brennnessel-spray-25-liter-fur-597-euro-2882396",
+  "https://www.mydealz.de/deals/josera-hundefutter-lachs-und-kartoffel-und-andere-sorten-mal-wieder-gunstig-zu-haben-2882392",
+  "https://www.dealabs.com/bons-plans/visseuse-a-chocs-dewalt-dcf809-en-coffret-3470158",
+  "https://www.dealabs.com/bons-plans/aspirateur-balai-sans-fil-shark-floordetect-iy143heu-3470154",
+  "https://www.dealabs.com/bons-plans/peche-pose-resifight-100-350-3470157",
+  "https://www.dealabs.com/bons-plans/casque-sans-fil-logitech-g-pro-x-2-lightspeed-blanc-ou-rose-support-casque-offert-3470155",
+  "https://www.chollometro.com/ofertas/casper-dvd-edicion-horizontal-2091333",
+  "https://www.chollometro.com/ofertas/black-friday-granada-cf-hasta-66-en-equipaciones-adidas-y-ropa-deportiva-2091331",
+  "https://www.hotukdeals.com/deals/louis-delayney-champagne-5048016",
+  "https://www.hotukdeals.com/deals/bob-dylans-greatest-hits-volume-11-double-180gm-vinyl-album-5048015",
+  "https://www.hotukdeals.com/deals/lego-star-wars-jango-fett-helmet-75408-5048014",
+  "https://www.hotukdeals.com/deals/samsung-odyssey-oled-g5-27-qhd-180hz-003ms-gaming-monitor-flat-1440p-hdmi-dp-sold-by-tab-retail-uk-mainland-5048013",
+  "https://www.hotukdeals.com/deals/lego-star-wars-offworld-sandcrawler-and-mudhorn-75453-5048012",
+  "https://www.hotukdeals.com/deals/up-to-50-off-black-friday-sale-now-live-mens-womens-home-including-brands-free-delivery-over-ps40-5048011"
  ],
  "errors": {
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": 4,
@@ -1580,7 +1580,7 @@
  ],
  "last_run": {
   "geizhals": 1795695187.4784193,
-  "ebay": 1795694875.2776155
+  "ebay": 1795695827.8038437
  },
  "ebay_seen": {
   "187110721591": 139.1,
