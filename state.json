@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-26T00:11:13+00:00"
+   "checked": "2026-11-26T00:42:40+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-26T00:11:22+00:00"
+   "checked": "2026-11-26T00:42:49+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-26T00:11:27+00:00"
+   "checked": "2026-11-26T00:42:54+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,42 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-26T00:11:36+00:00"
+   "checked": "2026-11-26T00:43:03+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 499.0,
-   "checked": "2026-11-26T00:11:41+00:00"
+   "checked": "2026-11-26T00:43:08+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-26T00:11:46+00:00"
+   "checked": "2026-11-26T00:43:13+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 514.9,
-   "checked": "2026-11-26T00:11:32+00:00"
+   "checked": "2026-11-26T00:42:59+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/uk-xmas-markets-1-night-stay-travelodge-2-people-5045631",
-  "https://www.hotukdeals.com/deals/hisense-55-55e6stuk-4k-ai-smart-tv-with-freely-dolby-vision-5046950",
-  "https://www.hotukdeals.com/deals/cyber-power-32gb-ram-amd-ryzen-7-9800x3d-processor-nvidia-geforce-rtx-5080-graphics-5046949",
-  "https://www.mydealz.de/deals/pattex-montagekleber-2881692",
-  "https://www.mydealz.de/deals/knipex-flachrundzange-mit-schneide-vde-gepruft-26-16-200-t-bk-200mm-prime-2881691",
-  "https://www.mydealz.de/deals/ansons-30-black-week-rabatt-ab-249eur-warenkorb-2881690",
-  "https://www.dealabs.com/bons-plans/remise-black-friday-ford-3469262",
-  "https://www.dealabs.com/bons-plans/scheppach-compresseur-a-air-hc30ox-1100-w-admission-dair-200-lmin-cuve-de-24-l-8-bar-sans-huile-raccord-rapide-detendeur-inclus-3469261",
-  "https://www.dealabs.com/codes-promo/35eur-des-70eur-dachat-sur-une-selection-de-smartbox-3469260",
-  "https://www.dealabs.com/bons-plans/box-fibre-orange-sous-conditions-de-ressources-jusqua-500-mbits-en-debit-descendant-et-500-mbits-en-debit-montant-3469259",
-  "https://www.dealabs.com/bons-plans/chauffe-eau-thermodynamique-mural-100l-3469258",
   "https://www.dealabs.com/bons-plans/precommande-dragon-quest-monsters-le-royaume-de-boisfletri-sur-ps5-nintendo-switch-1-et-2-3469257",
   "https://www.dealabs.com/bons-plans/sejour-bien-etre-2j1n-a-la-grande-motte-hotel-4-petit-dejeuner-piscine-bains-a-remous-exterieurs-chauffes-ex-2305-au-2405-3469255",
   "https://www.chollometro.com/ofertas/hoka-speedgoat-7-zapatillas-trail-hombre-tallas-40-a-47-descuento-solo-aplicable-desde-la-aplicacion-2090055",
@@ -1558,7 +1547,18 @@
   "https://www.hotukdeals.com/deals/tango-orange-original-330ml-can-24-pack-ps698-ss-5047353",
   "https://www.hotukdeals.com/deals/lego-ideas-mineral-collection-21362-5047384",
   "https://www.hotukdeals.com/deals/parkside-12v-cordless-sander-polisher-5047383",
-  "https://www.hotukdeals.com/deals/lego-donkey-kong-arcade-building-set-for-adults-72051-w-code-5047382"
+  "https://www.hotukdeals.com/deals/lego-donkey-kong-arcade-building-set-for-adults-72051-w-code-5047382",
+  "https://www.dealabs.com/bons-plans/ecran-pc-msi-mag-274qp-qd-oled-x24-3469625",
+  "https://www.dealabs.com/bons-plans/marvel-cosmic-invasion-sur-nintendo-switch-1-et-ps5-3469624",
+  "https://www.chollometro.com/ofertas/lindt-lindor-bombones-surtido-aproximadamente-80-bolas1kg-2090626",
+  "https://www.chollometro.com/ofertas/colhogar-ultra-suave-original-x108-papel-higienico-blanco-de-2-capas-9-paquetes-de-12-rollos-sin-perfume-2090625",
+  "https://www.chollometro.com/ofertas/speedo-gafas-de-natacion-vanquisher-30-de-espejo-gafas-de-natacion-unisex-adulto-2090624",
+  "https://www.chollometro.com/ofertas/funko-pop-disney-lilo-stitch-mermaid-angel-2090623",
+  "https://www.hotukdeals.com/deals/ultimate-speed-full-car-cover-5047392",
+  "https://www.hotukdeals.com/deals/lego-botanicals-wildflower-bouquet-10313-wvoucher-5047391",
+  "https://www.hotukdeals.com/deals/parkside-performance-made-by-nws-5047390",
+  "https://www.hotukdeals.com/deals/acer-aspire-go-15-snapdragon-c-8gb-ram-128gb-ufs-156-inch-laptop-instore-online-costco-5047389",
+  "https://www.hotukdeals.com/deals/lego-speed-champions-ferrari-sf90-xx-stradale-car-wvode-5047388"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795651866.6151106,
+  "geizhals": 1795653755.334837,
   "ebay": 1795653440.314075
  },
  "ebay_seen": {
