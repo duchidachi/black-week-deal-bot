@@ -59,20 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/the-last-of-us-part-ii-sur-ps4-3469751",
-  "https://www.chollometro.com/ofertas/fc-barcelona-camiseta-portero-nike-20212022-dri-fit-tallas-s-a-xxl-2090809",
-  "https://www.chollometro.com/ofertas/funko-pop-animation-one-piece-nico-robin-egghead-arc-no-2137-2090807",
-  "https://www.chollometro.com/ofertas/reebok-nfx-trainer-zapatillasmujer-2090806",
-  "https://www.chollometro.com/ofertas/bering-cazadora-lady-anika-nebei-2090805",
-  "https://www.chollometro.com/ofertas/asrock-pgo27qfv-monitor-27-qd-oled-quad-hd-360hz-amd-freesync-2090804",
-  "https://www.chollometro.com/ofertas/pack-gaming-trust-gxt-794-3-in-1-gaming-teclado-raton-alfombrilla-teclas-iluminadas-negro-2090803",
-  "https://www.chollometro.com/ofertas/tv-tcl-qd-mini-led-55p8l-55-4k-ultrahd-144hz-smart-tv-google-tv-dolby-vision-barra-de-sonido-tcl-s55h-2090801",
-  "https://www.chollometro.com/ofertas/lincoln-2012-steven-spielberg-blu-ray-2090799",
-  "https://www.chollometro.com/ofertas/zapatillas-mujer-reebok-ultra-lo-tallas-35-a-425-2090797",
-  "https://www.chollometro.com/ofertas/recopilacion-juegos-y-apps-para-android-2090795",
-  "https://www.chollometro.com/ofertas/marvel-legends-series-daredevil-born-again-mascara-premium-para-juego-de-rol-y-baston-de-combate-2090793",
-  "https://www.chollometro.com/ofertas/nike-air-winflo-12-zapatillas-running-asfalto-tallas-38-a-49-2090791",
-  "https://www.chollometro.com/ofertas/perfume-hombre-calvin-klein-eternity-amber-essence-parfum-intense-200-ml-ambar-vainilla-bourbon-y-benjui-2090789",
   "https://www.chollometro.com/ofertas/adidas-polo-real-madrid-tallas-s-a-xl-2090785",
   "https://www.chollometro.com/ofertas/set-de-4-cuchillos-de-carne-tefal-ice-force-11-cm-acero-inoxidable-aleman-2090783",
   "https://www.chollometro.com/ofertas/gaudi-bolso-de-mano-marron-claro-2090779",
@@ -1558,7 +1544,21 @@
   "https://www.hotukdeals.com/deals/hp-laserjet-pro-mfp-3302fdw-laser-printer-colour-printer-for-small-medium-business-print-scan-copy-5047944",
   "https://www.hotukdeals.com/deals/4x5l-autocare-screen-wash-10c-cherry-scented-removes-dirt-grime-cherrybubblegumapple-with-code-sold-by-gsf-uk-mainland-5047941",
   "https://www.hotukdeals.com/deals/cyberpunk-2077-ultimate-edition-xbox-series-xs-5047940",
-  "https://www.hotukdeals.com/deals/sony-wh-1000xm5sa-special-edition-soft-case-premium-noise-cancelling-wireless-over-ear-headphones-like-new-amazon-resale-15-off-at-checkout-5047939"
+  "https://www.hotukdeals.com/deals/sony-wh-1000xm5sa-special-edition-soft-case-premium-noise-cancelling-wireless-over-ear-headphones-like-new-amazon-resale-15-off-at-checkout-5047939",
+  "https://www.mydealz.de/deals/dragons-dogma-2-fur-nintendo-switch-2-2882374",
+  "https://www.mydealz.de/deals/garmin-venu-4-41-mm-gps-fitness-smartwach-beigelunargold-2882372",
+  "https://www.mydealz.de/deals/nikka-coffey-gin-07l-prime-2882373",
+  "https://www.mydealz.de/deals/blockhaus-gartenhaus-ardee-700x817x317cm-wandstarke-70mm-5060m2-2865010",
+  "https://www.mydealz.de/deals/igpsport-bsc300t-gps-fahrradcomputer-8gb-touchscreen-2882371",
+  "https://www.dealabs.com/bons-plans/6-paires-chaussettes-adidas-beiges-37-au-48-3470129",
+  "https://www.chollometro.com/ofertas/generador-solar-oscal-power-storage-2000-ip65-para-exteriores-resistente-a-la-intemperie-1920wh-bateria-lifepo4-de-gran-capacidad-2091282",
+  "https://nl.pepper.com/aanbiedingen/epic-oc-gratis-vanaf-03-12-strange-antiquities-windows-429476",
+  "https://www.hotukdeals.com/deals/stanley-12in-bi-material-maxsteel-adjustable-wrench-5047958",
+  "https://www.hotukdeals.com/deals/las-iguanas-hash-brown-churros-600g-online-5047957",
+  "https://www.hotukdeals.com/deals/trespass-boys-waterproof-jacket-windproof-hood-school-casual-coat-upbeat-all-colours-wcode-sold-by-trespass-5047956",
+  "https://www.hotukdeals.com/deals/lego-city-police-prisoner-transport-van-60479-wvoucher-5047955",
+  "https://www.hotukdeals.com/deals/ninja-luxe-cafe-premier-espresso-es601uk-5047954",
+  "https://www.hotukdeals.com/deals/adidas-terrex-trailmaker-2-gore-tex-gtx-eva-speed-lace-hiking-shoes-sizes-7-12-5047953"
  ],
  "errors": {
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": 3,
@@ -1580,7 +1580,7 @@
  ],
  "last_run": {
   "geizhals": 1795693314.8088322,
-  "ebay": 1795693003.0874288
+  "ebay": 1795693955.0759895
  },
  "ebay_seen": {
   "187110721591": 139.1,
@@ -1683,6 +1683,7 @@
   "https://www.mydealz.de/deals/ansmann-1900-0119-emobility-ladekabel-autoladekabel-22kw-typ-2-5-meter-ev-ladekabel-2876242",
   "https://www.mydealz.de/deals/netto-md-ticketdeal-flixbus-und-flixtrain-deutschland-und-daruber-hinaus-je-1499eur-2872446",
   "https://www.mydealz.de/deals/amazon-apple-mac-mini-m6-12c12c-16gb-ram-256gb-ssd-4fach-payback-86144eur-effektiv-2869020",
-  "https://www.mydealz.de/deals/prime-wera-05008873001-kraftform-kompakt-stubby-1-schraubendreher-mit-bit-magazin-6-teilig-2874998"
+  "https://www.mydealz.de/deals/prime-wera-05008873001-kraftform-kompakt-stubby-1-schraubendreher-mit-bit-magazin-6-teilig-2874998",
+  "https://www.mydealz.de/deals/blockhaus-gartenhaus-ardee-700x817x317cm-wandstarke-70mm-5060m2-2865010"
  ]
 }
