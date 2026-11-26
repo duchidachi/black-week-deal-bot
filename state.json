@@ -59,15 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/cinta-de-correr-plegable-toputure-6-en-1-16-kmh-inclinacion-12-bluetooth-en-amazon-2090007",
-  "https://www.chollometro.com/ofertas/ring-intercom-audio-y-video-fire-tv-stick-4k-select-o-fire-tv-stick-4k-plus-2066641",
-  "https://www.chollometro.com/ofertas/zapatillas-adidas-vl-court-30-2090005",
-  "https://www.chollometro.com/ofertas/zapatillas-deportivas-run-70s-20-para-mujer-adidas-2090003",
-  "https://www.chollometro.com/ofertas/traje-chaqueta-hombre-disponible-blue-y-dark-blue-2090001",
-  "https://www.chollometro.com/ofertas/chromagun-2-dye-hard-switch-2-2089999",
-  "https://www.chollometro.com/ofertas/zapatillas-adidas-runvista-2089998",
-  "https://nl.pepper.com/aanbiedingen/lego-star-wars-adventskalender-2026-75456-marvel-friends-disney-princess-laagste-prijs-ooit-429345",
-  "https://nl.pepper.com/aanbiedingen/baseus-bass-ep10-pro-in-ear-true-wireless-oordopjes-429344",
   "https://www.hotukdeals.com/deals/louis-delaunay-brut-champagne-75cl-ps10-70cl-buy-6-for-ps45-tesco-5046929",
   "https://www.hotukdeals.com/deals/all-quiet-on-the-western-front-no-english-dub-delayed-delivery-5046928",
   "https://www.hotukdeals.com/deals/edifier-m60-multimedia-speakers-bluetooth-53-66w-rms-hi-res-audio-hi-res-wireless-audio-2-colours-joyplus-members-5046926",
@@ -1558,7 +1549,16 @@
   "https://nl.pepper.com/aanbiedingen/hogwarts-legacy-ps5-versie-429374",
   "https://www.hotukdeals.com/deals/5-golden-keys-for-borderlands-4-5047324",
   "https://www.hotukdeals.com/deals/large-360g-cadbury-dairy-milk-chopped-fruit-nut-gift-bar-clubcard-price-online-instore-national-5047323",
-  "https://www.hotukdeals.com/deals/swizzels-scrumptious-mixed-bag-1x-173g-5047322"
+  "https://www.hotukdeals.com/deals/swizzels-scrumptious-mixed-bag-1x-173g-5047322",
+  "https://www.mydealz.de/deals/the-meatlovers-blackweek-angebote-zb-japanisches-wagyu-mit-40-rabatt-2882005",
+  "https://www.mydealz.de/deals/lego-harry-potter-dobby-der-freie-elf-76469-amazon-prime-2882004",
+  "https://www.preisjaeger.at/deals/hm-black-friday-25-ab-40eur-373419",
+  "https://www.dealabs.com/bons-plans/cabaia-sac-a-dos-adventurer-rennes-10l-taille-s-deperlant-3469615",
+  "https://nl.pepper.com/aanbiedingen/bbq-smoker-controller-wifi-bluetooth-met-draadloze-sondes-isc-029bw-429380",
+  "https://www.hotukdeals.com/deals/dyson-supersonic-origin-hair-dryer-in-prussian-blue-rich-copper-5047328",
+  "https://www.hotukdeals.com/deals/star-wars-galactic-racer-deluxe-edition-playstation-5-exclusive-to-amazoncouk-5047327",
+  "https://www.hotukdeals.com/deals/lego-icons-mayor-manor-11383-5047326",
+  "https://www.hotukdeals.com/deals/shokz-openfit-2-se-open-ear-headphones-5047325"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795649980.1008928,
-  "ebay": 1795650626.8831391
+  "ebay": 1795651550.9739017
  },
  "ebay_seen": {
   "187110721591": 139.1,
