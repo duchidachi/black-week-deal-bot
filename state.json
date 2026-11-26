@@ -59,14 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/theme-park-pcgog-5047010",
-  "https://www.hotukdeals.com/deals/tera-wireless-handheld-barcode-scanner-works-with-bluetooth-hw0009-orange-5047009",
-  "https://www.mydealz.de/deals/hovding-3-airbag-fahrradhelm-unsichtbarer-kopfschutz-mit-airbag-technologie-bluetooth-8-facher-sensoruberwachung-2881735",
-  "https://www.mydealz.de/deals/black-month-deals-rundreisen-zb-turkei-indien-tunesien-usbekistan-namibia-togo-uvm-2876288",
-  "https://www.mydealz.de/deals/tink-eufy-solocam-e42-4k-solar-uberwachungskamera-indoor-cam-c220-gratis-dazu-fur-129-eur-inkl-versand-pvg-15399-eur-2881734",
-  "https://www.mydealz.de/deals/mattel-brick-shop-hot-wheels-speed-series-honda-civic-jhf62-fur-1999-euro-248-klemmbausteine-amazon-prime-2881733",
-  "https://www.mydealz.de/deals/lenovo-thinkbook-14x-ill-laptop-ultra-5-226v-16gb512gb-14-wuxga-ips-120hz-400nits-100-srgb-wi-fi-7-65wh-1kg-win11-pro-2881732",
-  "https://www.mydealz.de/deals/tp-toys-up12-trampolin-o-366-cm-mit-sicherheitsnetz-und-patent-eingang-ohne-reissverschluss-markenprodukt-2881730",
   "https://www.mydealz.de/deals/1kg-lavazza-caffe-crema-classico-oder-1kg-e-gusto-tradizione-italiana-sparabo-5-rabattcoupon-personalisiert-prime-ohne-eile-1189eur-2881729",
   "https://www.dealabs.com/bons-plans/radio-cassette-cd-medion-p66538-dab-bluetooth-cd-usb-sd-cassettes-vendeur-tiers-3469315",
   "https://www.dealabs.com/bons-plans/shimano-kit-de-mise-a-niveau-de-transmission-shimano-xtr-di2-m9250-3469317",
@@ -1558,7 +1550,15 @@
   "https://www.hotukdeals.com/deals/cosori-dual-blaze-smart-air-fryer-64l-dark-grey-12-customizable-functions-caf-p584s-kukr-ps5999-5047471",
   "https://www.hotukdeals.com/deals/tu-clothing-up-to-50-off-sale-1000-items-kids-leggings-90p-kids-tee-ps120-more-free-click-collect-5047470",
   "https://www.hotukdeals.com/deals/anker-zolo-10000mah-power-bank-with-built-in-usb-c-cable-2-pack-5047469",
-  "https://www.hotukdeals.com/deals/greenkinder-h2-kids-instant-print-camera-3-screen-32gb-card-3-paper-rolls-5047468"
+  "https://www.hotukdeals.com/deals/greenkinder-h2-kids-instant-print-camera-3-screen-32gb-card-3-paper-rolls-5047468",
+  "https://www.mydealz.de/deals/amazon-und-joybuy-pelonis-keramik-heizlufter-mini-2000w-mit-fernbedienung-2s-schnellheizung-led-display-tischheizung-2882067",
+  "https://www.preisjaeger.at/deals/universalat-30eur-black-friday-gutschein-auf-fast-alles-ab-179eur-mbw-z-b-mode-mobel-haushalt-373435",
+  "https://www.preisjaeger.at/deals/mcdondals-eis-mission-2026-keine-tauschborse-373434",
+  "https://www.dealabs.com/bons-plans/ecran-pc-27-ktc-h27d9-ips-qhd-2k-2560x1440-100hz-120hz-oc-adaptive-sync-3469672",
+  "https://nl.pepper.com/aanbiedingen/zyxel-gs1900-8hp-v3-poe-managed-switch-429353",
+  "https://nl.pepper.com/kortingscode/appic-kortingscode-oa-voor-mysteryland-intents-429334",
+  "https://www.hotukdeals.com/deals/apple-iphone-duo-256gb-star-white-5047474",
+  "https://www.hotukdeals.com/deals/hisense-65u7q-pro-mini-led-4k-hdr-smart-vidaa-os-tv-65u7qtuk-pro-with-voucher-5047473"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795670734.9672687,
-  "ebay": 1795670421.4512007
+  "ebay": 1795671383.3354821
  },
  "ebay_seen": {
   "187110721591": 139.1,
