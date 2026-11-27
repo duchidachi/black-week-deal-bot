@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-27T02:20:17+00:00"
+   "checked": "2026-11-27T02:51:48+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-27T02:20:26+00:00"
+   "checked": "2026-11-27T02:51:58+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-27T02:20:31+00:00"
+   "checked": "2026-11-27T02:52:03+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,37 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-27T02:20:41+00:00"
+   "checked": "2026-11-27T02:52:12+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 490.9,
-   "checked": "2026-11-27T02:20:46+00:00"
+   "checked": "2026-11-27T02:52:17+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-27T02:20:51+00:00"
+   "checked": "2026-11-27T02:52:22+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 519.99,
-   "checked": "2026-11-27T02:20:37+00:00"
+   "checked": "2026-11-27T02:52:07+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/nzxt-f240-rgb-core-240mm-single-frame-rgb-fan-unit-black-5048572",
-  "https://www.mydealz.de/deals/bioshock-2-remastered-299eur-inkl-bioshock-2-classic-gog-metacritic-88-2845921",
-  "https://www.mydealz.de/deals/segway-ninebot-f3-pro-d-e-scooter-2882845",
-  "https://www.mydealz.de/deals/mclaren-dewalt-werkzeugrollkoffe4-2882844",
-  "https://www.mydealz.de/deals/neukunden-50-rabatt-auf-die-privathaushalttarife-fur-6-monate-2882843",
-  "https://www.dealabs.com/bons-plans/adherents-fnac-the-corner-airfryer-ninja-crispi-pro-7-en-1-as101eulg-2100w-7-modes-de-cuisson-2-contenants-verre-57l-23l-3470838",
   "https://www.dealabs.com/bons-plans/boss-lot-de-3-t-shirts-en-coton-taille-m-3470836",
   "https://www.dealabs.com/bons-plans/aspirateur-eau-et-poussiere-parkside-pwd-12-b1-3470827",
   "https://www.dealabs.com/codes-promo/jusqua-ce-soir-minuit-pour-des-chaussures-barefoot-de-super-qualite-3470835",
@@ -1558,7 +1552,13 @@
   "https://www.hotukdeals.com/deals/lego-fortnite-77073-battle-bus-ps5579-creator-31167-haunted-mansion-ps4949-city-60511-vintage-steam-train-ps5399-wcode-free-cc-5048976",
   "https://www.mydealz.de/deals/thalia-15-auf-fast-alles-tonies-lego-schleich-uvm-2883150",
   "https://www.preisjaeger.at/deals/lego-star-wars-ultimate-collector-series-millennium-falcon-75192-black-friday-deal-legocom-373528",
-  "https://www.hotukdeals.com/deals/nicce-mens-edt-100ml-and-body-wash-100ml-gift-set-multi-5048979"
+  "https://www.hotukdeals.com/deals/nicce-mens-edt-100ml-and-body-wash-100ml-gift-set-multi-5048979",
+  "https://www.mydealz.de/deals/sovol-sh02-filamenttrockner-150-w-ptc-40-70-c-2-spulen-touchscreen-98-h-timer-pla-petg-tpu-abs-nylon-cashback-mogl-2883154",
+  "https://www.mydealz.de/deals/magic-the-gathering-zersplitterte-realitat-play-booster-display-deutsche-version-2883153",
+  "https://www.mydealz.de/deals/xiaomi-17t-pro-aliexpress-black-friday-zahlung-mit-paypal-2883152",
+  "https://www.dealabs.com/bons-plans/passerelle-multimedia-amazon-fire-tv-stick-hd-2026-3471214",
+  "https://www.hotukdeals.com/deals/mms-crispy-milk-chocolate-sweets-bulk-sharing-snacks-party-bag-675g-ps680-or-ps612-subscribe-save-5048981",
+  "https://www.hotukdeals.com/deals/dji-osmo-mobile-7p-3-axis-gimbal-stabilizer-native-tracking-built-in-tripod-extension-rod-10-hour-battery-5048980"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795746011.7177503,
+  "geizhals": 1795747903.2334988,
   "ebay": 1795747590.2154021
  },
  "ebay_seen": {
