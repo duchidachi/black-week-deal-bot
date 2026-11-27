@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-27T23:07:24+00:00"
+   "checked": "2026-11-27T23:40:44+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-27T23:06:59+00:00"
+   "checked": "2026-11-27T23:39:43+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-27T23:07:57+00:00"
+   "checked": "2026-11-27T23:39:25+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,40 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 319.0,
    "last": 319.0,
-   "checked": "2026-11-27T23:07:13+00:00"
+   "checked": "2026-11-27T23:39:58+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 490.9,
-   "checked": "2026-11-27T23:06:22+00:00"
+   "checked": "2026-11-27T23:40:58+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 599.9,
    "last": 599.9,
-   "checked": "2026-11-27T23:07:41+00:00"
+   "checked": "2026-11-27T23:40:13+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 519.99,
-   "checked": "2026-11-27T23:06:38+00:00"
+   "checked": "2026-11-27T23:39:09+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/bluebrixx-grosses-futuristisches-mutterschiff-kampfstern-galactica-2884146",
-  "https://www.mydealz.de/deals/iphone-18-pro-im-doppelkarten-tarif-50gb-25gb-2874149",
-  "https://www.mydealz.de/deals/cetaphil-feuchtigkeitscreme-453g-fur-trockene-empfindliche-haut-spendet-intensiv-48h-feuchtigkeit-mit-vitamin-b3-amazon-2884143",
-  "https://www.preisjaeger.at/deals/samsung-65-oled-s92h-4k-smart-tv-372359",
-  "https://www.dealabs.com/bons-plans/puma-future-9-ultimate-city-edition-mexico-fg-rose-3472747",
-  "https://www.dealabs.com/bons-plans/tchoupi-raconte-moi-une-histoire-conteuse-veilleuse-18-mois-3472746",
-  "https://www.dealabs.com/bons-plans/garmin-enduro-3-3472739",
-  "https://www.dealabs.com/bons-plans/jeu-snowrunner-nintendo-switch-2-3472743",
-  "https://www.chollometro.com/ofertas/lg-65nu800b6la-smart-tv-nano-uhd-ai-4k-sin-reflejos-94-2026-65-2093922",
   "https://www.chollometro.com/ofertas/realme-16-pro-5g-2093921",
   "https://www.chollometro.com/ofertas/nilfisk-aspiradora-one-con-cable-y-filtro-epa-wb10p05a-hb15-2093920",
   "https://www.chollometro.com/ofertas/suunto-a-10-nh-brujula-de-orientacion-para-senderismo-y-montana-2093918",
@@ -1558,7 +1549,16 @@
   "https://www.chollometro.com/ofertas/cargador-magnetico-plegable-belkin-boostcharge-qi2-15w-iphone-airpods-magsafe-iphone-17air-pixelsnap-base-firme-2094407",
   "https://www.hotukdeals.com/deals/serious-sam-4-ps5-ps-price-5050418",
   "https://www.hotukdeals.com/deals/oneplus-15-512gb-16-ram-proper-global-version-cph2747-ps62147-with-paypal-5050417",
-  "https://www.hotukdeals.com/deals/the-north-face-antora-waterproof-jacket-sizes-s-xxl-in-cloud-wdfc-free-delivery-xplr-members-free-sign-up-5050416"
+  "https://www.hotukdeals.com/deals/the-north-face-antora-waterproof-jacket-sizes-s-xxl-in-cloud-wdfc-free-delivery-xplr-members-free-sign-up-5050416",
+  "https://www.preisjaeger.at/deals/der-orf-shop-schliesst-mit-20-dezember-2026-20-auf-fast-alles-373642",
+  "https://www.dealabs.com/bons-plans/matelas-morphea-lumea-infinite-a-208220eur-3473201",
+  "https://www.dealabs.com/bons-plans/tv-oled-lg55c6-3473212",
+  "https://www.dealabs.com/bons-plans/skate-3-sur-xbox-one-series-xs-dematerialise-3473210",
+  "https://www.chollometro.com/ofertas/bicicleta-electrica-20-fat-bike-toplife-e-2500-por-699eur-20970eur-en-cupon-se-queda-en-48930eur-en-carrefour-2094413",
+  "https://www.chollometro.com/ofertas/redkey-w13se-aspiradora-fregadora-sin-cable-75-min-max-23kpa-2094412",
+  "https://nl.pepper.com/aanbiedingen/flex-pxce-18-ec-set-535578-429992",
+  "https://www.hotukdeals.com/deals/lego-city-the-lego-van-60500-price-at-checkout-5050420",
+  "https://www.hotukdeals.com/deals/the-north-face-antora-jacket-sizes-s-xl-in-navy-5050419"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795820755.3650222,
+  "geizhals": 1795822729.0922444,
   "ebay": 1795822411.3023229
  },
  "ebay_seen": {
