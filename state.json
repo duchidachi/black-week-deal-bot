@@ -59,13 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/amazon-kindle-vietnam-black-horror-thriller-kreaturenhorror-killer-tausendfussler-im-vietnam-dschungel-40-378-bewertungen-2884100",
-  "https://www.dealabs.com/bons-plans/ballerines-jonak-3472691",
-  "https://www.dealabs.com/codes-promo/25-extra-sur-toutes-les-promos-black-friday-3472695",
-  "https://www.dealabs.com/bons-plans/abonnement-ubisoft-classics-gratuit-pendant-7-jours-dematerialise-sans-engagement-3472692",
-  "https://www.dealabs.com/bons-plans/aspirateur-dyson-v8-cyclone-3472338",
-  "https://www.chollometro.com/ofertas/lavadora-secadora-chiq-cw85862hx-8-kg-5-kg-gris-oscuro-2093878",
-  "https://www.chollometro.com/ofertas/juego-ropa-de-cama-matrimonio-2093876",
   "https://www.chollometro.com/ofertas/mocasines-clarks-de-nobuk-flexway-azul-marino-2093875",
   "https://www.chollometro.com/ofertas/cafetera-italiana-de-acero-venus-bialetti-acero-10-tazas-2093874",
   "https://www.chollometro.com/ofertas/monitor-lg-ultrafine-27-pantalla-ips-4k-uhd-negr-2093873",
@@ -1558,7 +1551,14 @@
   "https://www.chollometro.com/ofertas/mochila-deportiva-extensible-venum-challenger-xtrem-evo-hasta-63-l-080-kg-respaldo-acolchado-gym-y-artes-marciales-3-modelos-2094334",
   "https://www.chollometro.com/ofertas/he-man-y-los-masters-del-universo-temporada-1-y-2-10-discos-blu-ray-1983-2094333",
   "https://www.hotukdeals.com/deals/tom-ford-black-orchid-eau-de-parfum-spray-100ml-unboxed-5050384",
-  "https://www.hotukdeals.com/deals/lost-in-play-pc-steam-game-ps269-at-steam-5050382"
+  "https://www.hotukdeals.com/deals/lost-in-play-pc-steam-game-ps269-at-steam-5050382",
+  "https://www.preisjaeger.at/deals/humble-choice-jahresabonnement-373641",
+  "https://www.dealabs.com/bons-plans/playmobil-porsche-carrera-gt-71859-3473167",
+  "https://www.chollometro.com/ofertas/sesion-continua-1984-jose-luis-garci-blu-ray-2094352",
+  "https://www.chollometro.com/ofertas/kit-maquillaje-mujer-con-pintalabios-sombras-de-ojos-colorete-set-de-manicura-y-pedicura-y-mas-maletin-transparente-portatil-2094349",
+  "https://www.hotukdeals.com/deals/philips-hue-ambiance-signe-table-lamp-5050389",
+  "https://www.hotukdeals.com/deals/elemis-cleansing-balm-50mls-5050387",
+  "https://www.hotukdeals.com/deals/we-are-celebrating-the-opening-of-our-newly-refurbished-shop-by-dropping-7p-a-litre-off-both-products-5050386"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795818785.4063725,
-  "ebay": 1795818466.9227378
+  "ebay": 1795819511.9027417
  },
  "ebay_seen": {
   "187110721591": 139.1,
