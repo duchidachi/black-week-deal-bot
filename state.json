@@ -59,9 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/caseta-de-exterior-para-perros-domus-mini-robusta-madera-ecosostenible-2092115",
-  "https://www.chollometro.com/ofertas/recopilacion-lego-con-descuentos-totales-de-44-varios-sets-a-combinar-2-unidades-2092113",
-  "https://www.chollometro.com/ofertas/ea-sports-fc-27-ultimate-edition-xbox-windows-10-2092111",
   "https://www.chollometro.com/ofertas/asus-tuf-gaming-750w-gold-evo-fuente-de-alimentacion-2092109",
   "https://www.chollometro.com/ofertas/control-resonant-ps5-exclusiva-amazon-2092110",
   "https://www.hotukdeals.com/deals/bosch-34pc-x-line-drill-and-screwdriver-bit-set-5048584",
@@ -1558,7 +1555,10 @@
   "https://www.mydealz.de/deals/anker-soundcore-liberty-5-pro-in-ear-kopfhorer-178-amoled-case-display-adaptives-anc-bluetooth-54-ip55-in-4-farben-cyberport-2883157",
   "https://www.mydealz.de/deals/sammelkartenspiel-boosterbundle-30-jahre-2883158",
   "https://www.dealabs.com/bons-plans/koorui-27in-235hz-ips-qhd-3471219",
-  "https://www.hotukdeals.com/deals/9060xt-nitro-16gb-reasonablish-deal-for-16gb-card-5048985"
+  "https://www.hotukdeals.com/deals/9060xt-nitro-16gb-reasonablish-deal-for-16gb-card-5048985",
+  "https://www.mydealz.de/deals/ikea-10-auf-wohnaccessoires-ikea-app-und-shopgo-zb-lampe-boja-2883159",
+  "https://www.hotukdeals.com/deals/logitech-g29-steering-wheel-g321-headset-bundle-for-ps-pc-black-5048988",
+  "https://www.hotukdeals.com/deals/lego-30-off-inc-sale-sets-w-code-eg-creator-3in1-space-shuttle-31134-ps419-botanicals-flowers-11514-ps681-free-del-ps15-amazon-haul-5048987"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795747903.2334988,
-  "ebay": 1795748552.4051707
+  "ebay": 1795749492.612222
  },
  "ebay_seen": {
   "187110721591": 139.1,
