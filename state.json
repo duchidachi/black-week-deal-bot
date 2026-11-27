@@ -59,11 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/3-monate-electra-gratis-auch-fuer-bestandskunden-2882840",
-  "https://www.mydealz.de/deals/apple-iphone-17-pro-charger-mit-freenet-magenta-allnetsms-flat-unlimited-5g-300mbits-fur-4995eurmonat-119eur-50eur-wechselbonus-2882839",
-  "https://www.mydealz.de/deals/call-of-duty-mw4-fur-switch2-2882836",
-  "https://www.mydealz.de/deals/obi-eufy-omni-c28-saug-wischroboter-15000-pa-hydrojet-wischrolle-5-in-1-reinigungsstation-fur-34999-eur-inkl-versand-pvg-379-eur-2882837",
-  "https://www.mydealz.de/deals/garmin-varia-rct716-radar-rucklicht-mit-cam-2882834",
   "https://www.preisjaeger.at/deals/asics-outlet-20-on-top-ab-2-artikeln-zb-2-paar-gel-excite-10-fur-herren-grosse-43-49-fur-80eur-statt-140eur-373498",
   "https://www.dealabs.com/bons-plans/puma-rebound-slam-unisex-baskets-basses-whiteblack-tailles-26-3470828",
   "https://www.dealabs.com/bons-plans/camera-exterieure-sans-fil-avec-sonnette-2k-blink-noir-3470826",
@@ -1558,7 +1553,12 @@
   "https://www.hotukdeals.com/deals/mubi-1-year-subscription-5048963",
   "https://www.dealabs.com/bons-plans/the-corner-ecran-pc-incurve-49-samsung-odyssey-oled-g9-g91f-ls49fg910euxen-dual-qhd-144hz-003ms-freesync-via-paypal-3471011",
   "https://www.dealabs.com/bons-plans/unidays-pc-portable-omen-16-3471209",
-  "https://www.dealabs.com/bons-plans/lot-de-2-cartes-traceurs-bluetooth-ugreen-finetrack-slim-apple-localiser-ios-autonomie-7-ans-100-db-3471208"
+  "https://www.dealabs.com/bons-plans/lot-de-2-cartes-traceurs-bluetooth-ugreen-finetrack-slim-apple-localiser-ios-autonomie-7-ans-100-db-3471208",
+  "https://www.mydealz.de/deals/eff-131860-lg-oled65g59ls-tv-65-zoll-165-cm-4k-oled-evo-ai-tv-a11-gen2-4k-ai-prozessor-vrr-bis-zu-165hz10fach-payback-amazonmm-2883146",
+  "https://www.dealabs.com/bons-plans/40-credits-offerts-sur-le-photobooth-pixiclic-3471210",
+  "https://www.hotukdeals.com/deals/9070-gre-below-ps600-seems-only-live-amazon-deals-at-that-price-5048968",
+  "https://www.hotukdeals.com/deals/lego-harry-potter-76444-diagon-alley-wizarding-shops-set-for-adults-5048967",
+  "https://www.hotukdeals.com/deals/gray-nicolls-cricket-bat-ventus-11-300-sh-2lb8-9-10-english-willow-5048966"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795744127.2124665,
-  "ebay": 1795744777.2172065
+  "ebay": 1795745698.945621
  },
  "ebay_seen": {
   "187110721591": 139.1,
