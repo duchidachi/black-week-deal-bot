@@ -59,16 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/intercom-cardo-packtalk-neo-3470859",
-  "https://www.dealabs.com/bons-plans/tv-65-tcl-65rm7l-rgb-mini-led-4k-uhd-144-hz-2000-nits-1344-zones-dolby-vision-iq-atmos-audio-21-onkyo-google-tv-3470857",
-  "https://www.dealabs.com/bons-plans/dreame-a2-1200-robot-tondeuse-sans-fil-sans-rtk-pour-1200-m2-3470856",
-  "https://www.dealabs.com/bons-plans/eau-de-parfum-yves-saint-laurent-ysl-myslf-40-ml-3470855",
-  "https://www.dealabs.com/bons-plans/pistolet-de-soudage-pour-plastique-parkside-3470854",
-  "https://www.dealabs.com/bons-plans/jouet-table-de-mixage-dj-mix-clavier-de-synthe-et-disque-noir-3470853",
-  "https://www.chollometro.com/ofertas/dreame-l10s-ultra-gen-3-kit-robot-aspirador-y-fregasuelos-succion-25000pa-2092133",
-  "https://www.chollometro.com/ofertas/vinilo-color-the-beatles-1958-1962-2092131",
-  "https://www.chollometro.com/ofertas/nike-zapatillas-deportivas-wildhorse-10-reactx-trail-running-tallas-355-385-40-2092129",
-  "https://www.chollometro.com/ofertas/maxi-cosi-eva3-cochecito-compacto-0-22-kg-select-grey-silla-de-paseo-ligero-82kg-2092127",
   "https://www.chollometro.com/ofertas/tommy-hilfiger-collar-de-cadena-de-cordon-bicolor-ajustable-para-mujer-2092134",
   "https://www.chollometro.com/ofertas/philips-avent-vigilabebes-conectado-con-app-cifrado-privado-y-seguro-2092132",
   "https://www.chollometro.com/ofertas/le-llamaban-trinidad-le-seguian-llamando-trinidad-blu-ray-pack-2-peliculas-they-call-me-trinity-trinity-is-still-my-name-2092130",
@@ -1558,7 +1548,17 @@
   "https://www.dealabs.com/bons-plans/lidl-set-perceuse-visseuse-sans-fil-12v-parkside-performance-pbspa-12-e4-2-batteries-chargeur-accessoires-inclus-3471245",
   "https://nl.pepper.com/kortingscode/zalando-lounge-10-extra-korting-vanaf-70-429638",
   "https://nl.pepper.com/aanbiedingen/nintendo-switch-2-sports-resorts-bundel-turtle-beach-playtrek-charcoal-black-429637",
-  "https://www.hotukdeals.com/deals/xbotgo-elite-pack-falcon-4k-ai-sports-camera-with-auto-tracking-and-nt4-13ft-tripod-wcoupon-5049015"
+  "https://www.hotukdeals.com/deals/xbotgo-elite-pack-falcon-4k-ai-sports-camera-with-auto-tracking-and-nt4-13ft-tripod-wcoupon-5049015",
+  "https://www.mydealz.de/deals/atari-50-the-anniversary-celebration-nintendo-switch-eshop-2883179",
+  "https://www.mydealz.de/deals/tetris-forever-nintendo-switch-eshop-2883178",
+  "https://www.mydealz.de/deals/bestsecret-nike-pegasus-trail-5-gore-tex-trailrunning-schuhe-fur-8190-eur-inkl-versand-vergleichspreis-ab-112-eur-2883177",
+  "https://www.mydealz.de/deals/compel-rxs-150-gravelbike-nabendynamo-shimano-grx812600-steckachse-equipped-cb-2883176",
+  "https://www.mydealz.de/deals/esimcc-reise-esims-black-friday-offer-30-auf-alles-thailand-indien-pakistan-china-vietnam-und-vieles-mehr-ab-027gb-2883175",
+  "https://www.hotukdeals.com/deals/g-shock-full-metal-5000-series-432mm-solar-powered-digital-mens-watch-5049020",
+  "https://www.hotukdeals.com/deals/two-pack-of-crayola-pokemon-colouringsticker-books-5049019",
+  "https://www.hotukdeals.com/deals/25-off-costa-gift-card-ps25-to-ps100-5049018",
+  "https://www.hotukdeals.com/deals/soyo-y5-pro-mini-pc-intel-core-i5-8250u8350u-8gb-ram-256gb-ssd-windows-11-wvoucher-5049017",
+  "https://www.hotukdeals.com/deals/great-game-with-hundreds-of-hours-of-quality-content-5049016"
  ],
  "errors": {
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": 4,
@@ -1580,7 +1580,7 @@
  ],
  "last_run": {
   "geizhals": 1795755444.965269,
-  "ebay": 1795755131.299648
+  "ebay": 1795756092.2626507
  },
  "ebay_seen": {
   "187110721591": 139.1,
