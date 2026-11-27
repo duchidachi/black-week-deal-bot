@@ -59,8 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.preisjaeger.at/deals/lego-creator-legendares-piratenschiff-31387-373519",
-  "https://www.preisjaeger.at/deals/amazon-bis-zu-3-rabatt-auf-eure-bestellung-durch-versand-ohne-eile-372783",
   "https://www.dealabs.com/bons-plans/veste-de-pluie-nike-park-20-dri-fit-bleublanc-tailles-s-a-xxl-3470837",
   "https://www.dealabs.com/bons-plans/quansheng-uv-k5-deux-canaux-uhf-vhf-air-band-walkie-talkie-200ch-5w-dtmf-fm-scrambler-noaa-3470844",
   "https://www.dealabs.com/bons-plans/grille-pain-haier-i-master-serie-5-acier-inoxydable-7-niveaux-fentes-extra-profondes-couvercle-inclus-noir-3470832",
@@ -1558,16 +1556,19 @@
   "https://www.hotukdeals.com/deals/playstation5-disc-console-1tb-adata-legend-900-2tb-solid-state-drive-5048994",
   "https://www.mydealz.de/deals/neo-the-world-ends-with-you-nintendo-switch-at-coolshop-2883163",
   "https://www.dealabs.com/bons-plans/apple-watch-series-12-gps-boitier-en-aluminium-noir-de-46-mm-3471224",
-  "https://www.hotukdeals.com/deals/samsung-galaxy-s26-fe-blueberry-128-gb-unlocked-galaxy-ai-ai-photo-editor-50mp-photo-assist-my-fancam-super-steady-video-5048996"
+  "https://www.hotukdeals.com/deals/samsung-galaxy-s26-fe-blueberry-128-gb-unlocked-galaxy-ai-ai-photo-editor-50mp-photo-assist-my-fancam-super-steady-video-5048996",
+  "https://www.mydealz.de/deals/pragmata-playstation-5-physisch-thalia-2883164",
+  "https://www.hotukdeals.com/deals/crocs-black-friday-sale-up-to-50-off-extra-10-off-at-checkout-stacks-with-15-blc-newsletter-eg-baya-slide-baya-clog-ps1912-5048997"
  ],
  "errors": {
-  "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": 1,
-  "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": 1,
-  "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": 1,
-  "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": 1,
-  "https://geizhals.eu/ugreen-dxp2800-a3162972.html": 1,
-  "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": 1,
-  "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": 1
+  "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": 2,
+  "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": 2,
+  "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": 2,
+  "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": 2,
+  "https://geizhals.eu/ugreen-dxp2800-a3162972.html": 2,
+  "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": 2,
+  "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": 2,
+  "https://geizhals.eu/wise-advanced-cfx-b-series-r1700-w1550-cfexpress-1-0-type-b-1tb-cfx-b1024-a2358469.html": 1
  },
  "feeds_bootstrapped": [
   "https://www.mydealz.de/rss/alles",
@@ -1578,7 +1579,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795749806.3015501,
+  "geizhals": 1795751686.9609945,
   "ebay": 1795751373.9384422
  },
  "ebay_seen": {
