@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-27T01:48:52+00:00"
+   "checked": "2026-11-27T02:20:17+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-27T01:49:01+00:00"
+   "checked": "2026-11-27T02:20:26+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-27T01:49:06+00:00"
+   "checked": "2026-11-27T02:20:31+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,37 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-27T01:49:16+00:00"
+   "checked": "2026-11-27T02:20:41+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 490.9,
-   "checked": "2026-11-27T01:49:21+00:00"
+   "checked": "2026-11-27T02:20:46+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-27T01:49:25+00:00"
+   "checked": "2026-11-27T02:20:51+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 519.99,
-   "checked": "2026-11-27T01:49:11+00:00"
+   "checked": "2026-11-27T02:20:37+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.preisjaeger.at/deals/asics-outlet-20-on-top-ab-2-artikeln-zb-2-paar-gel-excite-10-fur-herren-grosse-43-49-fur-80eur-statt-140eur-373498",
-  "https://www.dealabs.com/bons-plans/puma-rebound-slam-unisex-baskets-basses-whiteblack-tailles-26-3470828",
-  "https://www.dealabs.com/bons-plans/camera-exterieure-sans-fil-avec-sonnette-2k-blink-noir-3470826",
-  "https://www.dealabs.com/bons-plans/roborock-qrevo-edge-2x-aspirateur-robot-laveur-25000-pa-autonomie-180-minutes-3470825",
-  "https://www.dealabs.com/bons-plans/bureau-assis-debout-160x70-3470823",
-  "https://www.dealabs.com/bons-plans/logitech-g-driving-force-levier-de-vitesse-pour-volant-de-course-g29-g920-g923-3470821",
   "https://www.dealabs.com/bons-plans/the-elder-scrolls-iv-oblivion-game-of-the-year-edition-deluxe-3470811",
   "https://www.chollometro.com/ofertas/menu-degustacion-en-el-restaurante-tamara-de-barcelona-para-2-personas-coctel-delicias-gourmet-arroz-caldoso-de-bogavante-cava-y-mas-2092107",
   "https://www.chollometro.com/ofertas/cazadora-relaxed-fit-efecto-piel-2092105",
@@ -1558,7 +1552,13 @@
   "https://www.dealabs.com/bons-plans/40-credits-offerts-sur-le-photobooth-pixiclic-3471210",
   "https://www.hotukdeals.com/deals/9070-gre-below-ps600-seems-only-live-amazon-deals-at-that-price-5048968",
   "https://www.hotukdeals.com/deals/lego-harry-potter-76444-diagon-alley-wizarding-shops-set-for-adults-5048967",
-  "https://www.hotukdeals.com/deals/gray-nicolls-cricket-bat-ventus-11-300-sh-2lb8-9-10-english-willow-5048966"
+  "https://www.hotukdeals.com/deals/gray-nicolls-cricket-bat-ventus-11-300-sh-2lb8-9-10-english-willow-5048966",
+  "https://www.mydealz.de/deals/nintendo-eshop-black-friday-monster-hunter-rise-sunbreak-switch-959eur-oblivion-remastered-switch-2-4549eur-2883147",
+  "https://www.dealabs.com/bons-plans/50-en-bon-dachat-sur-les-rayons-surgeles-fromagesdesserts-et-cafethe-3471212",
+  "https://www.dealabs.com/bons-plans/traceur-bluetooth-ugreen-finetrack-slim-compatible-apple-localiser-ios-recharge-sans-fil-format-carte-ultra-fin-ip68-vendeur-ugreen-3471211",
+  "https://www.hotukdeals.com/deals/2-x-tapo-p110-smart-plug-energy-monitoring-wifi-plug-max-13a-w-code-ps629-each-5048971",
+  "https://www.hotukdeals.com/deals/lg-wt1210nbtn1-12kg10kg-1400rpm-washtower-rated-in-aa-in-green-beige-5048970",
+  "https://www.hotukdeals.com/deals/ufp-ax9810040-96-led-string-lights-white-7m-indooroutdoor-timer-ps199-was-ps999-save-ps800-80-off-5048969"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795744127.2124665,
+  "geizhals": 1795746011.7177503,
   "ebay": 1795745698.945621
  },
  "ebay_seen": {
