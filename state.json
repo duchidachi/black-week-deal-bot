@@ -59,9 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/baskets-de-running-new-balance-fresh-foam-trainer-tailles-36-a-475-3470813",
-  "https://www.dealabs.com/bons-plans/harry-potter-coffret-integrale-8-films-4k-ultra-hd-blu-ray-3470833",
-  "https://www.dealabs.com/bons-plans/z-fokd-8-3470815",
   "https://www.dealabs.com/bons-plans/recepteur-audio-sans-fil-dji-mic-3-jusqua-4-emetteurs-8-recepteurs-4tx8rx-gain-adaptatif-adaptateur-usb-c-inclus-3470824",
   "https://www.dealabs.com/bons-plans/amazfit-t-rex-3-pro-44mm-3470822",
   "https://www.dealabs.com/bons-plans/nike-x-hyperice-hyperboot-bottes-chauffantes-et-de-compression-pour-les-pieds-a-52499-eur-au-lieu-de-74999-eur-30-3470831",
@@ -1558,7 +1555,10 @@
   "https://www.mydealz.de/deals/wolfcraft-xl-einhandzwingen-set-2-pro-l-zwingen-mit-connector-2883155",
   "https://www.dealabs.com/bons-plans/the-corner-ecran-pc-incurve-49-samsung-odyssey-oled-g9-g91sd-ls49dg912suxen-dual-qhd-144hz-003ms-freesync-via-paypal-3471216",
   "https://www.dealabs.com/bons-plans/the-corner-ecran-pc-32-samsung-odyssey-oled-g7-g73sh-4k-165hz-1080p-330hz-dual-mode-003ms-true-black-400-via-paypal-3471215",
-  "https://www.hotukdeals.com/deals/xbox-elite-wireless-controller-series-2-core-white-refurbished-very-good-with-code-sold-by-argos-uk-mainland-5048982"
+  "https://www.hotukdeals.com/deals/xbox-elite-wireless-controller-series-2-core-white-refurbished-very-good-with-code-sold-by-argos-uk-mainland-5048982",
+  "https://www.dealabs.com/codes-promo/tonies-50-sur-votre-2eme-produit-achete-3471217",
+  "https://www.hotukdeals.com/deals/mms-friends-milk-chocolate-christmas-selection-box-137g-amazon-fresh-selected-locations-5048984",
+  "https://www.hotukdeals.com/deals/lego-marvel-avengers-doomsday-new-avengers-tower-76352-free-cc-5048983"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795747903.2334988,
-  "ebay": 1795747590.2154021
+  "ebay": 1795748552.4051707
  },
  "ebay_seen": {
   "187110721591": 139.1,
