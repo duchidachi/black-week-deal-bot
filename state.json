@@ -59,8 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/jbl-xtreme-4-musikbox-tragbare-bluetooth-lautsprecher-box-schwarz-2882866",
-  "https://www.mydealz.de/deals/capita-pathfinder-snowboard-202627-2882865",
   "https://www.mydealz.de/deals/prime-trixie-streifenhornchen-pluschtier-28-cm-robustes-hundespielzeug-bitte-098eur-coupon-aktivieren-2882864",
   "https://www.mydealz.de/deals/xiaomi-poco-f9-ultra-51212gb-bei-amazon-2-jahre-garantie-2882863",
   "https://www.mydealz.de/deals/blackfriday-stanley-werkbank-2882862",
@@ -1558,17 +1556,19 @@
   "https://www.hotukdeals.com/deals/karcher-wv-2-plus-d500-cordless-window-vacuum-3-year-guarantee-wcode-5049012",
   "https://www.dealabs.com/bons-plans/tv-oled-4k-77-194-cm-tq77s85haexxc-samsung-via-360eur-sur-la-carte-3471243",
   "https://nl.pepper.com/aanbiedingen/black-friday-dagdeals-clubactie-uber-en-uber-eats-25-korting-429636",
-  "https://www.hotukdeals.com/deals/pandora-50-off-selected-styles-today-only-5049013"
+  "https://www.hotukdeals.com/deals/pandora-50-off-selected-styles-today-only-5049013",
+  "https://www.mydealz.de/deals/mammut-barryvox-2-lvs-gerat-skitour-bestpreis-2883172",
+  "https://www.mydealz.de/deals/image-to-pdf-png-to-pdf-google-playstore-2856376"
  ],
  "errors": {
-  "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": 3,
-  "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": 3,
-  "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": 3,
-  "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": 3,
-  "https://geizhals.eu/ugreen-dxp2800-a3162972.html": 3,
-  "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": 3,
-  "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": 3,
-  "https://geizhals.eu/wise-advanced-cfx-b-series-r1700-w1550-cfexpress-1-0-type-b-1tb-cfx-b1024-a2358469.html": 2
+  "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": 4,
+  "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": 4,
+  "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": 4,
+  "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": 4,
+  "https://geizhals.eu/ugreen-dxp2800-a3162972.html": 4,
+  "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": 4,
+  "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": 4,
+  "https://geizhals.eu/wise-advanced-cfx-b-series-r1700-w1550-cfexpress-1-0-type-b-1tb-cfx-b1024-a2358469.html": 3
  },
  "feeds_bootstrapped": [
   "https://www.mydealz.de/rss/alles",
@@ -1579,7 +1579,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795753566.0797415,
+  "geizhals": 1795755444.965269,
   "ebay": 1795755131.299648
  },
  "ebay_seen": {
@@ -1707,6 +1707,7 @@
   "https://www.mydealz.de/gutscheine/canyon-rennrad-gravel-mtb-sale-2856480",
   "https://www.mydealz.de/deals/amd-ryzen-7-7800x3d-19884eur-mit-20eur-paypal-tray-ohne-lufter-8-core16-thread-50-ghz-boost-96-mb-l3-cache-sockel-am5-120-w-2883035",
   "https://www.mydealz.de/deals/parkside-performance-12v-akku-bohrschrauber-starterset-pbspa-12-b2-mit-2-akkus-mit-ladegerat-2871554",
-  "https://www.mydealz.de/deals/otto-up-plus-apple-airpods-pro-3-wireless-in-ear-kopfhorer-2883073"
+  "https://www.mydealz.de/deals/otto-up-plus-apple-airpods-pro-3-wireless-in-ear-kopfhorer-2883073",
+  "https://www.mydealz.de/deals/image-to-pdf-png-to-pdf-google-playstore-2856376"
  ]
 }
