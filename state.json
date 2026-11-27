@@ -59,18 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/vans-mens-atwood-canvas-trainers-black-5049879",
-  "https://www.hotukdeals.com/deals/37-off-1-year-railcard-w-code-ps13-off-train-ticket-to-activate-new-customers-5049878",
-  "https://www.hotukdeals.com/deals/lg-215-fhd-100hz-hdr-10-monitor-22u401a-baekq-5049876",
-  "https://www.hotukdeals.com/deals/sennheiser-rs-255-tv-headphones-bluetooth-auracast-virtual-surround-upto-50-hours-5049877",
-  "https://www.mydealz.de/deals/koorui-e2711f-monitor-27-fhd-1920x1080-ips-100hz-adaptive-sync-250cdm2-matt-hdmi-14-vga-vesa-100x100-2884014",
-  "https://www.mydealz.de/deals/black-friday-sale-bei-helicon-focus-software-fur-focus-stacking-insbesondere-makrofotografie-2884013",
-  "https://www.mydealz.de/deals/20-rabatt-auf-socken-2884011",
-  "https://www.mydealz.de/deals/one-personlicher-ki-assisstent-1eur-statt-5eur-80-2884010",
-  "https://www.preisjaeger.at/deals/stanley-1913-quencher-h20-flowstate-trinkbecher-19l-bei-amazon-373579",
-  "https://www.preisjaeger.at/deals/samsonite-litebeam-spinner-check-in-koffer-77-cm-373574",
-  "https://www.preisjaeger.at/deals/amd-ryzen-7-9700x-prozessor-8-kerne16-threads-65w-dtp-am5-sockel-40mb-cache-bis-zu-55-ghz-max-boost-frequenz-kein-kuhler-373578",
-  "https://www.dealabs.com/bons-plans/a-defaut-de-ne-pas-avoir-eu-lautre-promo-nous-avons-celle-ci-3472504",
   "https://www.dealabs.com/bons-plans/set-de-3-valises-gyl-1-cabine-2-soutes-3472502",
   "https://www.dealabs.com/codes-promo/13-de-reduction-sur-une-selection-de-jeux-pc-dematerialise-3472503",
   "https://www.dealabs.com/codes-promo/10-supplementaire-3472501",
@@ -1558,7 +1546,19 @@
   "https://www.hotukdeals.com/deals/sony-wh-1000xm6-wireless-noise-cancelling-headphones-black-via-unidays-discount-in-basket-5050229",
   "https://www.hotukdeals.com/deals/msi-mag-274updf-e16m-27-4k-uhd-mini-led-gaming-monitor-160hz-hdr-1000-dual-mode-05ms-hdmi-21-usb-c-5050228",
   "https://www.hotukdeals.com/deals/dyson-v8-advanced-cordless-vacuum-cleaner-4-attachment-refurbished-free-next-day-delivery-wcode-5050227",
-  "https://www.hotukdeals.com/deals/supergrass-supergrass-vinyl-5050226"
+  "https://www.hotukdeals.com/deals/supergrass-supergrass-vinyl-5050226",
+  "https://www.mydealz.de/deals/waipu-tv-perfect-plus-netflix-50-rabatt-uber-12-monate-2884294",
+  "https://www.mydealz.de/deals/microsoft-xbox-wireless-headset-forza-horizon-6-limited-edition-fur-7999eur-amazon-2884293",
+  "https://www.dealabs.com/bons-plans/camera-sport-vlog-insta-osmo-pocket-3-dji-3473004",
+  "https://www.dealabs.com/bons-plans/saucony-endorphin-pro-4-3473003",
+  "https://www.dealabs.com/bons-plans/crashbars-moto-nx500-3473002",
+  "https://www.dealabs.com/bons-plans/hyrule-warriors-les-chroniques-du-sceau-nintendo-switch-2-3473001",
+  "https://www.chollometro.com/ofertas/funsol-polvo-desodorante-para-pies-60-g-2094162",
+  "https://www.chollometro.com/ofertas/vasagle-armario-de-bano-alto-3-compartimentos-abiertos-2-estantes-2094160",
+  "https://nl.pepper.com/aanbiedingen/sonos-beam-gen-2-429976",
+  "https://www.hotukdeals.com/deals/boss-bottled-eau-de-toilette-50ml-duo-gift-set-5050234",
+  "https://www.hotukdeals.com/deals/beats-flex-wireless-earbuds-12-hours-listening-time-smoke-grey-5050233",
+  "https://www.hotukdeals.com/deals/ticket-to-ride-london-the-addictive-bus-adventure-board-game-5050232"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795808895.064975,
-  "ebay": 1795808575.7709045
+  "ebay": 1795809662.0570903
  },
  "ebay_seen": {
   "187110721591": 139.1,
