@@ -59,9 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/kinderkraft-2way-next-balance-bike-use-voucher-5048576",
-  "https://www.hotukdeals.com/deals/dualsense-wireless-controller-marvels-wolverine-adamantium-limited-edition-for-ps5-pc-mac-mobile-5048575",
-  "https://www.hotukdeals.com/deals/samsonite-intuo-spinner-check-in-suitcase-75-cm-5048573",
   "https://www.hotukdeals.com/deals/nzxt-f240-rgb-core-240mm-single-frame-rgb-fan-unit-black-5048572",
   "https://www.mydealz.de/deals/bioshock-2-remastered-299eur-inkl-bioshock-2-classic-gog-metacritic-88-2845921",
   "https://www.mydealz.de/deals/segway-ninebot-f3-pro-d-e-scooter-2882845",
@@ -1558,7 +1555,10 @@
   "https://www.mydealz.de/deals/brennenstuhl-garant-v2-ip44-cable-reel-25-m-outdoor-cable-h05vv-f3g15-2883149",
   "https://www.hotukdeals.com/deals/monster-energy-9-packs-in-iceland-for-ps450-5048978",
   "https://www.hotukdeals.com/deals/lego-icons-10330-mclaren-mp44-ayrton-senna-wcode-free-cc-5048977",
-  "https://www.hotukdeals.com/deals/lego-fortnite-77073-battle-bus-ps5579-creator-31167-haunted-mansion-ps4949-city-60511-vintage-steam-train-ps5399-wcode-free-cc-5048976"
+  "https://www.hotukdeals.com/deals/lego-fortnite-77073-battle-bus-ps5579-creator-31167-haunted-mansion-ps4949-city-60511-vintage-steam-train-ps5399-wcode-free-cc-5048976",
+  "https://www.mydealz.de/deals/thalia-15-auf-fast-alles-tonies-lego-schleich-uvm-2883150",
+  "https://www.preisjaeger.at/deals/lego-star-wars-ultimate-collector-series-millennium-falcon-75192-black-friday-deal-legocom-373528",
+  "https://www.hotukdeals.com/deals/nicce-mens-edt-100ml-and-body-wash-100ml-gift-set-multi-5048979"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795746011.7177503,
-  "ebay": 1795746661.9359498
+  "ebay": 1795747590.2154021
  },
  "ebay_seen": {
   "187110721591": 139.1,
