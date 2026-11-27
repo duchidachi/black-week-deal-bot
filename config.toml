@@ -7,7 +7,7 @@
 run_every_min = 5         # muss zum Cron-Intervall passen
 geizhals_every_min = 30   # Geizhals nur alle 30 min abfragen (höflich)
 ebay_every_min = 15       # eBay-API alle 15 min (Limit 5.000 Abfragen/Tag)
-delay_s = 4               # Pause zwischen Geizhals-Seiten
+delay_s = 10              # Pause zwischen Geizhals-Seiten (plus Zufall bis 10 s); bei 429 pausiert der Bot Geizhals automatisch
 drop_alert_pct = 12
 
 # ------------------------------------------------ PRIO 1: CFexpress Type B 1 TB
@@ -45,8 +45,8 @@ buy_now = 250
 prio = "PRIO 1 Speicher"
 name = "WD Elements Desktop 20TB"
 url = "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html"
-target = 480     # 24 €/TB
-buy_now = 440    # 22 €/TB
+target = 499     # 25 €/TB (Normalpreis 519 €)
+buy_now = 460    # 23 €/TB
 
 [[product]]
 prio = "PRIO 2"
@@ -59,15 +59,15 @@ buy_now = 269
 prio = "PRIO 2"
 name = "Seagate IronWolf 12TB"
 url = "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html"
-target = 400
-buy_now = 360
+target = 320     # ≈ 27 €/TB
+buy_now = 290    # ≈ 24 €/TB
 
 [[product]]
 prio = "PRIO 2"
 name = "WD Red Plus 12TB"
 url = "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html"
-target = 400
-buy_now = 360
+target = 320     # ≈ 27 €/TB (leise, gut fürs Schlafzimmer)
+buy_now = 290    # ≈ 24 €/TB
 
 # ======================================================= Deal-Feeds (EU)
 # Pepper-Netzwerk: neue Deals aus DE, AT, FR, ES, NL, UK (pepper.it ist seit 08/2025 geschlossen)
@@ -131,8 +131,28 @@ label = "HDD Archiv/NAS"
 prio = "PRIO 1 Speicher"
 none = ["compatib", "refurb", "recertified", "generalüberholt", "ricondizionato", "reacondicionado", "gebraucht", "used"]
 any = ["ironwolf", "wd red", "n300", "exos", "ultrastar", "mg08", "mg09", "mg10", "wd elements", "wd _elements", "elements desktop", "seagate expansion", "my book", "toshiba canvio", "red plus", "red pro"]
-max_eur_per_tb = 24      # = WD Elements 20 TB für 480 €
-hot_eur_per_tb = 22
+max_eur_per_tb = 24.5    # = WD Elements 20 TB für 490 €
+hot_eur_per_tb = 23      # = WD Elements 20 TB für 460 €
+
+# Rezertifiziert/generalüberholt: nur melden, wenn klar billiger als neu (Exos 18 TB für 360 € ≈ 20 €/TB)
+[[watch]]
+label = "HDD recertified"
+prio = "PRIO 1 Speicher"
+any = ["ironwolf", "wd red", "n300", "exos", "ultrastar", "mg08", "mg09", "mg10", "red plus", "red pro", "wd elements", "seagate expansion", "my book"]
+also_any = ["refurb", "recertified", "recertifiziert", "rezertifiziert", "generalüberholt", "ricondizionato", "reacondicionado", "reconditionné", "renewed"]
+none = ["compatib"]
+max_eur_per_tb = 21.5    # 18 TB für ≤ 387 €
+hot_eur_per_tb = 20.5    # 18 TB für ≤ 369 €
+
+# Gebraucht: nur mit deutlichem Abstand zu recertified (Laufzeit/SMART im Angebot prüfen!)
+[[watch]]
+label = "HDD gebraucht"
+prio = "PRIO 1 Speicher"
+any = ["ironwolf", "wd red", "n300", "exos", "ultrastar", "mg08", "mg09", "mg10", "red plus", "red pro"]
+also_any = ["gebraucht", "used", "usato", "usado", "occasion"]
+none = ["compatib", "defekt", "defect", "für bastler", "for parts"]
+max_eur_per_tb = 17      # 18 TB für ≤ 306 €
+hot_eur_per_tb = 15
 
 [[watch]]
 label = "NAS-Gehäuse"
@@ -186,7 +206,8 @@ any = ["molton"]
 # ======================================================= eBay (offizielle Browse API)
 # Nur Neuware, Sofortkauf, Versand nach DE, Preis inkl. Versand.
 # Die Bewertung wird anhand der passenden [[watch]]-Regel (rule = label) berechnet.
-# Budget: Suchen × Marktplätze × 4/h × 24 muss unter 5.000 Abfragen/Tag bleiben (aktuell 6 × 4 × 96 = 2.304).
+# Budget: Suchen × Marktplätze × 4/h × 24 muss unter 5.000 Abfragen/Tag bleiben (aktuell 8 × 4 × 96 = 3.072).
+# conditions = eBay-Zustands-IDs (Standard 1000 = neu; 2000/2010/2020/2030/2500 = generalüberholt; 3000 = gebraucht)
 [ebay]
 marketplaces = ["EBAY_DE", "EBAY_IT", "EBAY_FR", "EBAY_ES"]
 deliver_to = "DE"
@@ -230,6 +251,20 @@ q = "(wd elements, seagate expansion, wd my book) (12tb, 14tb, 16tb, 18tb, 20tb)
 rule = "HDD Archiv/NAS"
 min_price = 150
 max_price = 700
+
+[[ebay.search]]
+q = "(ironwolf, wd red plus, seagate exos, toshiba mg, wd ultrastar) (14tb, 16tb, 18tb, 20tb, 22tb, 24tb)"
+rule = "HDD recertified"
+conditions = "2000|2010|2020|2030|2500"
+min_price = 150
+max_price = 600
+
+[[ebay.search]]
+q = "(ironwolf, wd red plus, seagate exos, toshiba mg, wd ultrastar) (14tb, 16tb, 18tb, 20tb, 22tb, 24tb)"
+rule = "HDD gebraucht"
+conditions = "3000"
+min_price = 150
+max_price = 500
 
 # ======================================================= Katzen
 # Referenz: Bitiba-Bestellung 09/2026 – catz finefood 12×800 g = 4,71 €/kg, MAC's Cat 12×400 g = 4,91 €/kg

@@ -14,7 +14,7 @@ Schickt dir Deals per Telegram aufs Handy. Zwei Wege:
 | 🛒 Deal / 🔥 Zielpreis | unter `max_eur_per_tb` bzw. `target` |
 | 📉 −X % | Geizhals-Preis mind. 12 % unter dem Startpreis |
 | ❔ prüfen | CFexpress-Deal, aber Preis/Kapazität nicht im Titel erkennbar |
-| ⚠️ | eine Produktseite lässt sich seit ~1,5 h nicht mehr abrufen |
+| ⚠️ | eine Produktseite lässt sich mehrere Runden am Stück nicht abrufen, oder Geizhals drosselt den Bot seit über 12 h (stumm). Bei Drosselung (HTTP 429) pausiert der Bot Geizhals automatisch 1 bis 6 h. |
 
 Aktuelle Grenzen (in `config.toml` änderbar):
 
@@ -22,7 +22,9 @@ Aktuelle Grenzen (in `config.toml` änderbar):
 |---|---|---|
 | CFexpress Type B | ≤ 320 €/TB | ≤ 250 €/TB |
 | Portable SSD | ≤ 150 €/TB | ≤ 115 €/TB |
-| HDD (NAS/extern) | ≤ 28 €/TB | ≤ 22 €/TB |
+| HDD neu (NAS/extern) | ≤ 24,5 €/TB | ≤ 23 €/TB |
+| HDD recertified | ≤ 21,5 €/TB | ≤ 20,5 €/TB |
+| HDD gebraucht | ≤ 17 €/TB | ≤ 15 €/TB |
 | NAS-Gehäuse | ≤ 450 € | – |
 
 ## Einrichtung (ca. 10 min)
