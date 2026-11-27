@@ -59,9 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://nl.pepper.com/aanbiedingen/bruder-mannesmann-gereedschapsset-429584",
-  "https://www.hotukdeals.com/deals/brother-hl-l2400dwe-mono-laser-5048593",
-  "https://www.hotukdeals.com/deals/power-action-dust-pan-brush-5048592",
   "https://www.hotukdeals.com/deals/amazon-now-groceries-ps5-off-first-order-ps25-ps3ps4ps5-off-5-orders-5048591",
   "https://www.hotukdeals.com/deals/tracer-200mm-deep-hole-construction-pencil-2b-5048590",
   "https://www.hotukdeals.com/deals/asus-rog-strix-xg259cs-1080p-gamingonitor-hdr400-180-hz-5048589",
@@ -1558,7 +1555,10 @@
   "https://nl.pepper.com/aanbiedingen/crua-30-curved-ultrawide-gaming-monitor-2560x1080-200hz-1500r-va-429634",
   "https://www.hotukdeals.com/deals/space-nk-beauty-advent-calendar-5049003",
   "https://www.dealabs.com/bons-plans/lidl-set-4-outils-sans-fil-20v-parkside-performance-perceuse-a-percussion-visseuse-a-chocs-scie-sabre-lampe-led-2-bat-chargeur-3471231",
-  "https://www.hotukdeals.com/deals/clarins-12-day-beauty-advent-calendar-5049004"
+  "https://www.hotukdeals.com/deals/clarins-12-day-beauty-advent-calendar-5049004",
+  "https://www.dealabs.com/bons-plans/segway-max-g3-e-trottinette-electrique-autonomie-de-80-km-double-systeme-de-freinage-3471232",
+  "https://www.hotukdeals.com/deals/apple-mac-mini-with-apple-m6-chip-silver-12-core-cpu-and-12-core-gpu-24-gb-unified-memory-512-gb-5049006",
+  "https://www.hotukdeals.com/deals/maxsun-nvidia-geforce-rtx-3050-6gb-slim-low-profile-video-graphics-card-sff-wcoupon-5049005"
  ],
  "errors": {
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": 2,
@@ -1580,7 +1580,7 @@
  ],
  "last_run": {
   "geizhals": 1795751686.9609945,
-  "ebay": 1795752332.2688165
+  "ebay": 1795753254.260311
  },
  "ebay_seen": {
   "187110721591": 139.1,
