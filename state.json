@@ -59,10 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/chaussures-moto-course-shorty-v4-noir-tailles-du-37-au-48-3470816",
-  "https://www.dealabs.com/bons-plans/videophone-sans-fil-ezviz-ep7-3470812",
-  "https://www.dealabs.com/bons-plans/baskets-new-balance-u1906w-tailles-375-a-465-3470806",
-  "https://www.dealabs.com/bons-plans/elden-ring-nightreign-collectors-edition-ps5-3470810",
   "https://www.dealabs.com/bons-plans/sony-bravia-8-ll-65p-3470809",
   "https://www.chollometro.com/ofertas/xiaomi-redmi-buds-8-auriculares-inalambricos-anc-50-db-44-h-2092101",
   "https://www.chollometro.com/ofertas/puzzle-educa-el-maravilloso-mundo-de-disney-ii-1000-piezas-2092100",
@@ -1558,7 +1554,11 @@
   "https://www.dealabs.com/bons-plans/mini-pc-ia-olares-one-ultra-9-275hx-rtx-5090-mobile-24-go-96-go-ddr5-ssd-2-to-via-lien-video-3471199",
   "https://www.dealabs.com/bons-plans/emby-premiere-cyberweek-3471198",
   "https://www.hotukdeals.com/deals/tiny-barbaras-little-book-of-weather-5048953",
-  "https://www.hotukdeals.com/deals/xiaomi-poco-f8-ultra-12256gb-6500mah-69-120hz-sd8-elite-gen-5-bose-sound-system-with-auto-discount-15-discount-5048952"
+  "https://www.hotukdeals.com/deals/xiaomi-poco-f8-ultra-12256gb-6500mah-69-120hz-sd8-elite-gen-5-bose-sound-system-with-auto-discount-15-discount-5048952",
+  "https://www.mydealz.de/deals/one-piece-op18-display-jp-2883143",
+  "https://www.dealabs.com/bons-plans/pour-lachat-dun-menu-profitez-de-votre-place-de-cinema-pathe-a-seulement-790-eur-ou-1190-eur-en-imax-ou-4dx-reims-witry-3471201",
+  "https://www.hotukdeals.com/deals/glenlivet-15-instore-3118-online-3319-5048957",
+  "https://www.hotukdeals.com/deals/ninja-dualzone-xl-95l-2-drawer-air-fryer-refurb-dz901uk-at-ninja-kitchen-ebay-store-5048955"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795742244.3316815,
-  "ebay": 1795742892.6038723
+  "ebay": 1795743813.9981527
  },
  "ebay_seen": {
   "187110721591": 139.1,
