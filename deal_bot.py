@@ -324,8 +324,8 @@ def evaluate(w: dict, title: str, price: float | None) -> tuple[str, str] | None
         if not (price and cap):
             return ("❔ prüfen", "Preis/Kapazität nicht erkannt") if w.get("alert_unknown") else None
         per_tb = price / (cap * pack)
-        if per_tb > w["max_eur_per_tb"]:
-            return None
+        if per_tb > w["max_eur_per_tb"] or per_tb < w.get("min_eur_per_tb", 0):
+            return None  # zu teuer, oder unplausibel billig (Ersatzteil, Fake, nur Gehäuse …)
         detail = f"≈ {eur(per_tb)}/TB" + (f" · {pack} Stück à {eur(price / pack)}" if pack > 1 else "")
         if w.get("hot_eur_per_tb") and per_tb <= w["hot_eur_per_tb"]:
             return ("🚨 TOP-DEAL", detail)

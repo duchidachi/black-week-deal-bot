@@ -129,7 +129,8 @@ hot_eur_per_tb = 90
 [[watch]]
 label = "HDD Archiv/NAS"
 prio = "PRIO 1 Speicher"
-none = ["compatib", "refurb", "recertified", "generalüberholt", "ricondizionato", "reacondicionado", "gebraucht", "used"]
+none = ["compatib", "refurb", "recertified", "generalüberholt", "ricondizionato", "reacondicionado", "gebraucht", "used", "pcb", "platine", "controller", "logic board", "board", "ersatzteil", "spare part", "replacement", "ricambio", "repuesto", "pièce", "caddy", "tray", "einbaurahmen", "adapter", "dock", "gehäuse leer", "leergehäuse", "enclosure only"]
+min_eur_per_tb = 12      # darunter ist es fast nie eine echte Platte
 any = ["ironwolf", "wd red", "n300", "exos", "ultrastar", "mg08", "mg09", "mg10", "wd elements", "wd _elements", "elements desktop", "seagate expansion", "my book", "toshiba canvio", "red plus", "red pro"]
 max_eur_per_tb = 24.5    # = WD Elements 20 TB für 490 €
 hot_eur_per_tb = 23      # = WD Elements 20 TB für 460 €
@@ -140,7 +141,8 @@ label = "HDD recertified"
 prio = "PRIO 1 Speicher"
 any = ["ironwolf", "wd red", "n300", "exos", "ultrastar", "mg08", "mg09", "mg10", "red plus", "red pro", "wd elements", "seagate expansion", "my book"]
 also_any = ["refurb", "recertified", "recertifiziert", "rezertifiziert", "generalüberholt", "ricondizionato", "reacondicionado", "reconditionné", "renewed"]
-none = ["compatib"]
+none = ["compatib", "pcb", "platine", "controller", "logic board", "board", "ersatzteil", "spare part", "replacement", "ricambio", "repuesto", "pièce", "caddy", "tray", "einbaurahmen", "adapter", "dock", "gehäuse leer", "leergehäuse", "enclosure only"]
+min_eur_per_tb = 12
 max_eur_per_tb = 21.5    # 18 TB für ≤ 387 €
 hot_eur_per_tb = 20.5    # 18 TB für ≤ 369 €
 
@@ -150,7 +152,8 @@ label = "HDD gebraucht"
 prio = "PRIO 1 Speicher"
 any = ["ironwolf", "wd red", "n300", "exos", "ultrastar", "mg08", "mg09", "mg10", "red plus", "red pro"]
 also_any = ["gebraucht", "used", "usato", "usado", "occasion"]
-none = ["compatib", "defekt", "defect", "für bastler", "for parts"]
+none = ["compatib", "defekt", "defect", "für bastler", "for parts", "pcb", "platine", "controller", "logic board", "board", "ersatzteil", "spare part", "replacement", "ricambio", "repuesto", "pièce", "caddy", "tray", "einbaurahmen", "adapter", "dock", "gehäuse leer", "leergehäuse", "enclosure only"]
+min_eur_per_tb = 10
 max_eur_per_tb = 17      # 18 TB für ≤ 306 €
 hot_eur_per_tb = 15
 
