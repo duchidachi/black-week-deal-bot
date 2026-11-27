@@ -19,10 +19,12 @@ from __future__ import annotations
 import html
 import json
 import os
+import random
 import re
 import sys
 import time
 import tomllib
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -195,23 +197,67 @@ def geizhals_price(page: str) -> tuple[float | None, str]:
     return (parse_eur(m.group(1)) if m else None), name
 
 
-def check_products(cfg: dict, state: dict, dry: bool) -> list[str]:
+GZ_BLOCK_ALERT_H = 12  # so lange darf Geizhals blocken, bevor einmal (stumm) Bescheid kommt
+
+
+def geizhals_pause(state: dict, retry_after: str | None) -> tuple[float, list]:
+    """Geizhals drosselt (HTTP 429): Pause verdoppeln (60, 120, 240, max. 360 min), Retry-After beachten."""
+    gz = state.setdefault("geizhals", {})
+    gz["blocks"] = gz.get("blocks", 0) + 1
+    minutes = min(60 * 2 ** (gz["blocks"] - 1), 360)
+    if retry_after and retry_after.strip().isdigit():
+        minutes = max(minutes, int(retry_after) / 60)
+    gz["pause_until"] = time.time() + minutes * 60
+    gz.setdefault("blocked_since", time.time())
+    alerts = []
+    hours = (time.time() - gz["blocked_since"]) / 3600
+    if hours >= GZ_BLOCK_ALERT_H and not gz.get("block_alerted"):
+        gz["block_alerted"] = True
+        alerts.append((f"⚠️ Geizhals blockt den Bot seit {hours:.0f} h (zu viele Anfragen). "
+                       "Deals von mydealz & Co. und eBay kommen weiter, Geizhals versuche ich automatisch weiter.", True))
+    print(f"Geizhals drosselt (429) → Pause {minutes:.0f} min")
+    return minutes, alerts
+
+
+def check_products(cfg: dict, state: dict, dry: bool) -> list:
     alerts, report = [], []
     drop = cfg["settings"].get("drop_alert_pct", 12) / 100
-    for p in cfg.get("product", []):
+    gz = state.setdefault("geizhals", {})
+    if not dry and time.time() < gz.get("pause_until", 0):
+        print(f"Geizhals: Pause wegen Drosselung, noch {(gz['pause_until'] - time.time()) / 60:.0f} min")
+        return []
+    products = list(cfg.get("product", []))
+    random.shuffle(products)  # nicht immer dieselbe Reihenfolge
+    delay = cfg["settings"].get("delay_s", 4)
+    for p in products:
         key = p["url"]
         st = state["products"].setdefault(key, {})
         try:
             price, name = geizhals_price(fetch(p["url"]))
             state["errors"].pop(key, None)
+            if gz.get("blocks"):
+                print("Geizhals antwortet wieder")
+            for k in ("blocks", "blocked_since", "block_alerted", "pause_until"):
+                gz.pop(k, None)
+        except urllib.error.HTTPError as e:
+            if e.code == 429:  # Drosselung gilt für alle Seiten → sofort aufhören, nicht weiter anklopfen
+                _, a = geizhals_pause(state, e.headers.get("Retry-After"))
+                alerts += a
+                break
+            state["errors"][key] = state["errors"].get(key, 0) + 1
+            report.append(f"FEHLER {p['name']}: {e}")
+            if state["errors"][key] == 6:
+                alerts.append(f"⚠️ Abruf klappt nicht mehr: <a href=\"{p['url']}\">{html.escape(p['name'])}</a> ({html.escape(str(e))[:120]})")
+            time.sleep(delay + random.uniform(0, delay))
+            continue
         except Exception as e:  # noqa: BLE001
             state["errors"][key] = state["errors"].get(key, 0) + 1
             report.append(f"FEHLER {p['name']}: {e}")
-            if state["errors"][key] == 6:  # ~1,5 h am Stück kaputt → einmal melden
+            if state["errors"][key] == 6:  # 6 Geizhals-Runden am Stück kaputt → einmal melden
                 alerts.append(f"⚠️ Abruf klappt nicht mehr: <a href=\"{p['url']}\">{html.escape(p['name'])}</a> ({html.escape(str(e))[:120]})")
-            time.sleep(cfg["settings"].get("delay_s", 4))
+            time.sleep(delay + random.uniform(0, delay))
             continue
-        time.sleep(cfg["settings"].get("delay_s", 4))
+        time.sleep(delay + random.uniform(0, delay))
         if price is None:
             report.append(f"{'kein Angebot':>12}  {p['name']}")
             continue
@@ -258,6 +304,8 @@ def rule_matches(w: dict, low: str) -> bool:
     if w.get("all") and not all(t.lower() in low for t in w["all"]):
         return False
     if w.get("any") and not any(t.lower() in low for t in w["any"]):
+        return False
+    if w.get("also_any") and not any(t.lower() in low for t in w["also_any"]):
         return False
     return not any(t.lower() in low for t in w.get("none", []))
 
@@ -425,7 +473,7 @@ def ebay_token() -> str | None:
 def ebay_search(token: str, marketplace: str, q: str, s: dict, deliver_to: str) -> list[dict]:
     flt = [
         "buyingOptions:{FIXED_PRICE}",
-        "conditionIds:{1000}",  # neu
+        f"conditionIds:{{{s.get('conditions', '1000')}}}",  # Standard: nur neu
         f"price:[{s.get('min_price', 20)}..{s.get('max_price', 2000)}]",
         "priceCurrency:EUR",
         f"deliveryCountry:{deliver_to}",
@@ -457,7 +505,9 @@ def ebay_evaluate(cfg: dict, s: dict, it: dict) -> tuple[str, str, float] | None
     rules = {w["label"]: w for w in cfg.get("watch", [])}
     w = rules[s["rule"]]
     title = it.get("title", "")
-    if not rule_matches(w, title.lower()):
+    cid = str(it.get("conditionId", "1000"))
+    cond = " refurbished" if cid.startswith("2") else (" gebraucht" if cid.startswith(("3", "4", "5", "6")) else "")
+    if not rule_matches(w, (title + cond).lower()):
         return None
     eb = cfg.get("ebay", {})
     seller = it.get("seller", {})
@@ -522,6 +572,8 @@ def check_ebay(cfg: dict, state: dict, dry: bool) -> list[str]:
                 + f"{level} · {html.escape(s['rule'])} · {EBAY_FLAGS.get(mp, '')} eBay"
                 + (" (billiger geworden)" if last else "")
                 + f"\n<b>{html.escape(it.get('title', ''))}</b>\n"
+                + (f"Zustand: {html.escape(it.get('condition', ''))}\n" if it.get("condition") and str(it.get("conditionId")) != "1000" else "")
+                + f""
                 f"{eur(total)} inkl. Versand – {html.escape(seller.get('username', '?'))} "
                 f"({seller.get('feedbackPercentage', '?')} %, {seller.get('feedbackScore', '?')} Bew.) · Standort {loc}"
                 + (f"\n{detail}" if detail else "")
