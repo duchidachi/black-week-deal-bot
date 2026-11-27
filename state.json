@@ -59,16 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.preisjaeger.at/deals/das-letzte-oneplus-nord-6-8256-bei-aliexpress-reduziert-373502",
-  "https://www.preisjaeger.at/deals/porsche-design-roadster-trolley-trolley-blau-373501",
-  "https://www.dealabs.com/bons-plans/montre-tissot-prx-chronographe-automatique-cadran-bleu-bracelet-acier-42-mm-3470874",
-  "https://www.dealabs.com/bons-plans/smartphone-5g-tcl-p80-pro-ecran-683-amoled-15k-120-hz-nxtpaper-dimensity-7400-elite-8-go-ram-256-go-bleu-3470865",
-  "https://www.dealabs.com/bons-plans/bowtex-elite-v2-niveau-aaa-3470873",
-  "https://www.dealabs.com/bons-plans/seche-linge-pompe-a-chaleur-beko-d0h1910fb-9-kg-l60cm-15-programmes-noir-3470864",
-  "https://www.dealabs.com/bons-plans/gigabyte-b650m-aorus-elite-ax-ice-motherboard-amd-ryzen-9000-series-3470872",
-  "https://www.dealabs.com/bons-plans/guilty-gear-strive-nintendo-switch-edition-switch-3470871",
-  "https://www.dealabs.com/bons-plans/lego-75372-3470868",
-  "https://www.dealabs.com/bons-plans/gran-turismo-7-ps4-3470866",
   "https://www.dealabs.com/bons-plans/super-station-dj-sans-fil-avec-microphone-3470863",
   "https://www.chollometro.com/ofertas/vaude-bag-bolsa-cruiser-unisex-adulto-2092141",
   "https://www.chollometro.com/ofertas/joola-mesa-de-ping-pong-unisex-adulto-2092139",
@@ -1558,7 +1548,17 @@
   "https://www.dealabs.com/bons-plans/scie-circulaire-a-metaux-125mm-hikoki-cd3605daw2z-36v-en-hitcase-3471252",
   "https://nl.pepper.com/aanbiedingen/nintendo-switch-console-mario-kart-8-deluxe-bundel-429639",
   "https://www.hotukdeals.com/deals/fleetwood-mac-greatest-hits-vinyl-fleetwood-mac-rumours-vinyl-ps1914-wcode-5049022",
-  "https://www.hotukdeals.com/deals/lego-star-wars-tie-interceptor-ucs-75382-5049021"
+  "https://www.hotukdeals.com/deals/lego-star-wars-tie-interceptor-ucs-75382-5049021",
+  "https://www.mydealz.de/deals/mapo-mobel-10-auf-alle-artikel-ledersofas-kinosofas-fernsehsessel-kein-code-notig-nur-heute-2711-2883192",
+  "https://www.mydealz.de/deals/rowenta-x-force-flex-1360-allergy-rh9a36-akku-staubsauger-150-aw-flex-gelenk-led-wechselakku-fur-189-eur-amazon-2883191",
+  "https://www.mydealz.de/deals/villeroy-boch-toys-delight-besteckset-30-teilig-2883190",
+  "https://www.mydealz.de/deals/voelkner-black-friday-2026-einen-555-euro-gutschein-ab-49-euro-bis-0112-2883189",
+  "https://www.mydealz.de/deals/jack-jones-herren-glenn-original-jeans-verschiedene-grossen-2883187",
+  "https://www.mydealz.de/deals/gog-stronghold-crusader-hd-159-stronghold-crusader-2-299-special-edition-inkl-teil-1-in-hd-auch-pc-2883188",
+  "https://www.dealabs.com/bons-plans/igraal-cashback-asus-de-30-ex-strix-g16-ryzen-9-5070ti-32go-1to-a-174999-3471255",
+  "https://nl.pepper.com/aanbiedingen/mand-429640",
+  "https://www.hotukdeals.com/deals/currys-shopping-card-save-55-even-on-top-of-black-friday-sale-5049024",
+  "https://www.hotukdeals.com/deals/lego-star-wars-k-2so-security-droid-75434-with-code-free-cc-5049023"
  ],
  "errors": {
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": 4,
@@ -1580,7 +1580,7 @@
  ],
  "last_run": {
   "geizhals": 1795755444.965269,
-  "ebay": 1795756092.2626507
+  "ebay": 1795757014.3799455
  },
  "ebay_seen": {
   "187110721591": 139.1,
