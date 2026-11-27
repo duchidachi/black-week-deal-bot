@@ -59,18 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/tienda-familiar-para-5-6-personas-con-altura-de-pie-carpa-familiar-300-x-270-x-200-cm-2093783",
-  "https://www.chollometro.com/ofertas/delonghi-magnifica-start-desde-espana-2093782",
-  "https://www.chollometro.com/ofertas/google-pixel-11-smartphone-android-libre-glaciar-512gb-2093790",
-  "https://nl.pepper.com/aanbiedingen/ecovacs-winbot-mini-2-glazenwasrobot-429907",
-  "https://nl.pepper.com/aanbiedingen/wusthof-classic-ikon-chefs-knife-23-cm-black-429906",
-  "https://www.hotukdeals.com/deals/asics-sale-extra-20-off-dynablast-6-trabucco-terra-3-mens-running-shoes-gel-nimbus-28-ps80-free-in-post-locker-collect-5049961",
-  "https://www.hotukdeals.com/deals/ryzen-7-5700x-cpu-processor-ps9832-paypal-8c-zen3-socket-am4-ddr4-with-code-at-pc-diy-monster-store-5049960",
-  "https://www.hotukdeals.com/deals/shark-flexbreeze-hydrogo-fan-misting-cordless-portable-refurb-charcoalglacierlilacmintquartz-5049959",
-  "https://www.hotukdeals.com/deals/kopparberg-cider-with-raspberry-10-x-330ml-max-only-ss-ps727-5049958",
-  "https://www.mydealz.de/deals/apple-macbook-zubehor-anker-547-usb-c-hub-7-in-2-4k-hdmi-100w-pd-2x-usb-a-sdmicrosd-neupreis-2846-eur-refurbished-anker-outlet-2884074",
-  "https://www.mydealz.de/deals/galakto-token-20-auf-alle-token-2884073",
-  "https://www.mydealz.de/deals/solarplay-q2501-fur-40201-eur-mit-code-11debf60-2884070",
   "https://www.mydealz.de/deals/citizen-chronograph-eco-drive-armbanduhr-2884069",
   "https://www.dealabs.com/bons-plans/40-sut-toute-la-boutique-une-heure-pour-soi-et-le-manege-a-bijou-3472620",
   "https://www.dealabs.com/bons-plans/pc-rampage-geforce-rtx-5070-3472616",
@@ -1558,7 +1546,19 @@
   "https://www.hotukdeals.com/deals/apple-iphone-17-256gb-ps20-voucher-with-code-5050334",
   "https://www.hotukdeals.com/deals/50-off-coffee-and-machines-5050304",
   "https://www.hotukdeals.com/deals/apple-magic-keyboard-british-english-5050333",
-  "https://www.hotukdeals.com/deals/hallmark-jolly-santa-lego-keepsake-ornament-hanging-ornament-red-5050331"
+  "https://www.hotukdeals.com/deals/hallmark-jolly-santa-lego-keepsake-ornament-hanging-ornament-red-5050331",
+  "https://www.mydealz.de/deals/bundlepreis-amazon-fire-tv-stick-4k-max-effektiv-3357eur-2884362",
+  "https://www.dealabs.com/bons-plans/delief-kimchi-de-chou-napa-emince-en-boite-160-g-3473105",
+  "https://www.dealabs.com/bons-plans/robot-patissier-1000w-khc30050gy-kenwood-3473091",
+  "https://www.dealabs.com/bons-plans/eau-de-toilette-ralph-lauren-big-pony-women-pink-40ml-3473098",
+  "https://www.chollometro.com/ofertas/valeo-silencio-2x-limpiaparabrisas-vf826-delanteras-600-mm-475-mm-2094288",
+  "https://www.chollometro.com/ofertas/los-aristogatos-edicion-especial-2094286",
+  "https://www.chollometro.com/ofertas/ps5-assassins-creed-shadows-2094287",
+  "https://www.chollometro.com/ofertas/crock-pot-olla-de-presion-lenta-digital-56l-time-select-7personas-csc121x-2094285",
+  "https://www.hotukdeals.com/deals/songmics-6-tier-shoe-rack-metal-shoe-storage-organiser-fits-12-to-18-pairs-shoe-storage-rack-45-x-30-x-106-cm-5050342",
+  "https://www.hotukdeals.com/deals/dkny-mens-warriors-mens-t-shirt-pack-of-3-5050341",
+  "https://www.hotukdeals.com/deals/essentials-4-tier-plastic-garage-shelving-unit-600mm-x-300mm-x-1300mm-5050340",
+  "https://www.hotukdeals.com/deals/tommy-jeans-mens-hoodie-5050339"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795814851.901413,
-  "ebay": 1795814534.3716748
+  "ebay": 1795815578.2336824
  },
  "ebay_seen": {
   "187110721591": 139.1,
