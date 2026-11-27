@@ -59,19 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.preisjaeger.at/deals/muller-varta-longlife-batterien-24-st-373517",
-  "https://www.dealabs.com/bons-plans/calendrier-de-lavent-uno-3470804",
-  "https://www.dealabs.com/bons-plans/smartphone-galaxy-z-flip8-256-go-3470801",
-  "https://www.dealabs.com/bons-plans/pack-famille-ea-sur-xbox-one-series-xs-dematerialise-3470799",
-  "https://www.chollometro.com/ofertas/amazfit-balance-3-reloj-inteligente-gps-48mm-bateria-21-dias-linternanfc-2092080",
-  "https://www.chollometro.com/ofertas/huggies-pure-72-packs-de-56-toallitas-con-99-agua-2092078",
-  "https://www.chollometro.com/ofertas/rinonera-levis-color-negro-2092081",
-  "https://www.chollometro.com/ofertas/cortina-decoracion-fiesta2pcs-cortinas-de-espumillon-rosa-laser-2092079",
-  "https://www.chollometro.com/ofertas/maxi-cosi-pebble-360-silla-coche-bebe-i-size-silla-coche-360-recien-nacido-con-giro-de-360-grados-0-15-meses-40-83-cm-climaflow-2092077",
-  "https://www.chollometro.com/ofertas/paco-rabanne-invictus-eau-de-toilette-hombre-200ml-precio-con-10-descuento-aplicado-2092075",
-  "https://www.chollometro.com/ofertas/bebeconfort-ride-2-in-1-i-safe-elevador-coche-100-150-cm-full-black-2092073",
-  "https://www.chollometro.com/ofertas/kit-manualidades-canal-toys-style-4ever-unicornio-lampara-led-con-cajon-secreto-8-colores-llave-rotuladores-gemas-2092069",
-  "https://www.chollometro.com/ofertas/diesel-reloj-para-hombre-mega-chief-movimiento-cronografo-de-cuarzo-caja-de-acero-inoxidable-plateado-de-59-mm-2092067",
   "https://www.chollometro.com/ofertas/sensilis-glow-stick-barra-solar-facial-spf50-glow-10-g-spf50-uva-uvb-efecto-glow-luminosidad-inmediata-previene-manchas-2092074",
   "https://www.chollometro.com/ofertas/tcl-p80-ultra-2092065",
   "https://www.chollometro.com/ofertas/arrasando-nike-zapatillas-de-running-air-zoom-pegasus-42-tallas-405-42-44-15-extra-por-black-friday-2092072",
@@ -1558,7 +1545,20 @@
   "https://www.hotukdeals.com/deals/id-mobile-sim-only-120gb-data-unlimited-minstexts-eu-roaming-ps10pm12m-claim-ps84-cashback-by-redemption-ps16-tcb-ps167pm-effective-5048928",
   "https://www.hotukdeals.com/deals/amazon-hygiene-hand-wash-refill-2-x-1000ml-hygienemilkaloesensitiveolivemangolemon-5048927",
   "https://www.hotukdeals.com/deals/3-x-sensodyne-daily-care-sensitive-toothpaste-original-mint-75-ml-5048926",
-  "https://www.hotukdeals.com/deals/12-pack-amazon-basics-rechargeable-aaa-nimh-high-capacity-batteries-850-mah-wcode-sold-and-ship-by-amazon-haul-5048924"
+  "https://www.hotukdeals.com/deals/12-pack-amazon-basics-rechargeable-aaa-nimh-high-capacity-batteries-850-mah-wcode-sold-and-ship-by-amazon-haul-5048924",
+  "https://www.mydealz.de/deals/amazon-10-fach-punkte-auf-online-einkauf-payback-black-week-deal-2883130",
+  "https://www.mydealz.de/deals/samsung-galaxy-s26-512gb-cobalt-violet-neu-zubehorpaket-schutzhulle-gratis-fur-71206-eur-ebay-2883129",
+  "https://www.dealabs.com/bons-plans/lot-de-6-boxers-homme-freegun-en-coton-stretch-noir-tailles-s-a-xxl-358-eur-lunite-3471189",
+  "https://www.dealabs.com/bons-plans/processeur-amd-9800x3d-3471188",
+  "https://www.dealabs.com/bons-plans/iscooter-w12-trottinette-electrique-double-moteur-3000-w-batterie-52-v-25-ah-pneus-11-pouces-3471187",
+  "https://www.dealabs.com/bons-plans/smartphone-683-redmi-note-17-pro-xiaomi-noir-6gb256gb-amoled-gen4-paiement-avec-paypal-3471186",
+  "https://www.dealabs.com/bons-plans/velo-electrique-s800-3471185",
+  "https://www.dealabs.com/bons-plans/ecouteurs-sans-fil-apple-airpods-pro-3-reduction-active-du-bruit-audio-spatial-3471184",
+  "https://nl.pepper.com/aanbiedingen/apple-airpods-pro-3-at-amazon-de-429628",
+  "https://nl.pepper.com/aanbiedingen/alleen-vandaag-oral-b-io-3-io5-voor-eur62-en-io6-voor-eur85-kruidvat-429627",
+  "https://www.hotukdeals.com/deals/lego-icons-11386-spongebob-squarepants-bikini-bottom-free-cc-5048936",
+  "https://www.hotukdeals.com/deals/applied-nutrition-critical-whey-protein-powder-strawberry-milkshake-825g-ps844-if-you-spend-ps40-and-use-discount-code-5048935",
+  "https://www.hotukdeals.com/deals/60-off-the-monopoly-app-banking-board-game-5048934"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795740361.2408216,
-  "ebay": 1795741010.2281148
+  "ebay": 1795741932.4051933
  },
  "ebay_seen": {
   "187110721591": 139.1,
