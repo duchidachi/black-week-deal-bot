@@ -128,6 +128,7 @@ hot_eur_per_tb = 90
 
 [[watch]]
 label = "HDD Archiv/NAS"
+exclude_locations = ["CN", "HK", "US", "CA", "GB"]   # außerhalb EU: Zoll + Einfuhr-USt, teure Rücksendung
 prio = "PRIO 1 Speicher"
 none = ["compatib", "refurb", "recertified", "generalüberholt", "ricondizionato", "reacondicionado", "gebraucht", "used", "pcb", "platine", "controller", "logic board", "board", "ersatzteil", "spare part", "replacement", "ricambio", "repuesto", "pièce", "caddy", "tray", "einbaurahmen", "adapter", "dock", "gehäuse leer", "leergehäuse", "enclosure only"]
 min_eur_per_tb = 12      # darunter ist es fast nie eine echte Platte
@@ -138,6 +139,7 @@ hot_eur_per_tb = 23      # = WD Elements 20 TB für 460 €
 # Rezertifiziert/generalüberholt: nur melden, wenn klar billiger als neu (Exos 18 TB für 360 € ≈ 20 €/TB)
 [[watch]]
 label = "HDD recertified"
+exclude_locations = ["CN", "HK", "US", "CA", "GB"]   # außerhalb EU: Zoll + Einfuhr-USt, teure Rücksendung
 prio = "PRIO 1 Speicher"
 any = ["ironwolf", "wd red", "n300", "exos", "ultrastar", "mg08", "mg09", "mg10", "red plus", "red pro", "wd elements", "seagate expansion", "my book"]
 also_any = ["refurb", "recertified", "recertifiziert", "rezertifiziert", "generalüberholt", "ricondizionato", "reacondicionado", "reconditionné", "renewed"]
@@ -149,6 +151,7 @@ hot_eur_per_tb = 20.5    # 18 TB für ≤ 369 €
 # Gebraucht: nur mit deutlichem Abstand zu recertified (Laufzeit/SMART im Angebot prüfen!)
 [[watch]]
 label = "HDD gebraucht"
+exclude_locations = ["CN", "HK", "US", "CA", "GB"]   # außerhalb EU: Zoll + Einfuhr-USt, teure Rücksendung
 prio = "PRIO 1 Speicher"
 any = ["ironwolf", "wd red", "n300", "exos", "ultrastar", "mg08", "mg09", "mg10", "red plus", "red pro"]
 also_any = ["gebraucht", "used", "usato", "usado", "occasion"]
