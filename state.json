@@ -59,19 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/lg-oled48c54la-48-c5-4k-120hz-oled-tv-using-blc-or-health-service-discount-5049863",
-  "https://www.hotukdeals.com/deals/lifetime-subscription-to-fastestvpn-possible-100-cashback-black-friday-wcode-5049862",
-  "https://www.mydealz.de/deals/greedfall-2-the-dying-world-ps5-playstation-usk-16-nacon-disc-version-deluxe-2699eur-preis-bei-abholung-at-mmsat-2883983",
-  "https://www.mydealz.de/deals/maurten-gel-100-12er-box-premium-energygel-furs-laufen-2883982",
-  "https://www.mydealz.de/deals/nintendo-eshop-pocky-rocky-reshrined-1199eur-nintendo-switch-2883981",
-  "https://www.mydealz.de/deals/yogi-tea-bio-christmas-calendar-adventskalender-2883979",
-  "https://www.mydealz.de/deals/bon-bon-restaurant-gutschein-ab-60-eur-kaufen-10-eur-gutschein-fur-peter-pane-oder-the-ash-geschenkt-bis-3011-2883978",
-  "https://www.mydealz.de/deals/amazon-steelseries-rival-pro-wireless-qck-performance-bundle-neues-modell-vom-letzten-monat-2883974",
-  "https://www.mydealz.de/deals/black-friday-informaten-vserver-deal-2883977",
-  "https://www.mydealz.de/deals/ca-black-week-50-rabatt-auf-ausgewahlte-artikel-fur-member-kostenlose-anmeldung-online-filiale-2883976",
-  "https://www.mydealz.de/deals/bike24-evoc-seat-pack-boa-wp-6-satteltasche-fahrrad-6-liter-wasserdicht-farbe-steel-fur-4999eur-idealo-ab-7391eur-2883975",
-  "https://www.mydealz.de/deals/jack-jones-herren-sweatshirt-mit-rundhals-crewneck-pullover-sweater-fur-manner-im-regular-fit-2883971",
-  "https://www.dealabs.com/bons-plans/hyperx-cloud-iii-s-wireless-black-blue-gaming-headset-3472480",
   "https://www.dealabs.com/bons-plans/casque-bluetooth-sony-wh-1000xm4c-reduction-de-bruit-active-hi-res-audio-ldac-bluetooth-multipoint-autonomie-27-h-via-code-3472479",
   "https://www.dealabs.com/bons-plans/xiaomi-17t-256-go-rom-noir-3472478",
   "https://www.dealabs.com/bons-plans/baquet-turn-one-eco-simracing-3472476",
@@ -1558,7 +1545,20 @@
   "https://www.hotukdeals.com/deals/hp-laserjet-m110w-wireless-black-white-printer-1-year-limited-warranty-print-from-phone-or-tablet-smallest-laser-in-its-class-5050186",
   "https://www.hotukdeals.com/deals/tommy-hilfiger-shirt-xxl-plus-5050185",
   "https://www.hotukdeals.com/deals/apple-watch-series-12-gps-46mm-smartwatch-black-aluminium-case-black-sport-band-ml-5050184",
-  "https://www.hotukdeals.com/deals/yeni-raki-ala-70cl-47-abv-distilled-from-100-raisins-aged-in-oak-barrels-premium-craft-aniseed-spirit-award-winning-product-of-turkiye-5050183"
+  "https://www.hotukdeals.com/deals/yeni-raki-ala-70cl-47-abv-distilled-from-100-raisins-aged-in-oak-barrels-premium-craft-aniseed-spirit-award-winning-product-of-turkiye-5050183",
+  "https://www.mydealz.de/deals/lego-star-wars-der-mandalorianer-und-grogu-auf-ihrem-speeder-bike-75436-prime-2861366",
+  "https://www.mydealz.de/deals/dreame-aqua20-pro-ultra-roller-x-complete-2884270",
+  "https://www.mydealz.de/deals/essentials-french-terry-tapered-cuff-3-streifen-hose-cb-2884268",
+  "https://www.mydealz.de/deals/1-eur-sofort-rabatt-auf-kitkat-ciniminis-leon-nestquick-crunchy-nut-cereals-2884269",
+  "https://www.dealabs.com/bons-plans/robot-tondeuse-tout-terrain-a-chenilles-lymow-one-plus-10a-3472972",
+  "https://www.dealabs.com/bons-plans/bose-barre-de-son-intelligente-dolby-atmos-avec-controle-vocal-et-amazon-alexa-integre-compatibilite-avec-lassistant-google-noir-3472971",
+  "https://www.dealabs.com/bons-plans/mortal-kombat-legacy-kollection-sur-nintendo-switch-2-3472970",
+  "https://www.dealabs.com/bons-plans/eau-de-parfum-armaf-aura-fresh-100ml-3472969",
+  "https://www.chollometro.com/ofertas/playmobil-asterix-tienda-de-legionario-set-de-juego-de-asterix-asterix-y-obelix-2094126",
+  "https://www.chollometro.com/ofertas/babaria-aloe-vera-roll-on-anti-perspirant-deodorant-50ml-2094122",
+  "https://www.hotukdeals.com/deals/ring-spotlight-cam-plus-plug-in-outdoor-security-camera-1080p-hd-video-5050196",
+  "https://www.hotukdeals.com/deals/lg-oled48g66ls-48-inch-oled-evo-4k-ultra-hd-hdr-smart-tv-stand-version-2026-5050195",
+  "https://www.hotukdeals.com/deals/keychron-k2v2-bluetooth-rgb-backlit-aluminium-macpc-keyboard-5050194"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795806907.7152863,
-  "ebay": 1795806589.497071
+  "ebay": 1795807648.0306177
  },
  "ebay_seen": {
   "187110721591": 139.1,
