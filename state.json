@@ -59,13 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/cb-meater-pro-xl-smartes-wlan-fleischthermometer-mit-4-fuhlern-2882883",
-  "https://www.mydealz.de/deals/die-quacksalber-von-quedlinburg-das-duell-brettspiel-familienspiel-bgg-75-schmidt-spiele-49447-prime-2882882",
-  "https://www.mydealz.de/deals/raspberry-pi-5-b-8gb-16999-inkl-versand-2882881",
-  "https://www.mydealz.de/deals/prime-playstation-5-medienfernbedienung-ps5-fernbedienung-2882880",
-  "https://www.mydealz.de/deals/lego-grosse-weihnachtsmann-minifigur-40820-fur-3499eur-joybuy-app-2882879",
-  "https://www.mydealz.de/deals/viltrox-objektiv-af-40-mm-f25-fx-nikon-z-mount-2882878",
-  "https://www.mydealz.de/deals/vodafone-orginal-unlimited-iphone-18-pro-nur-fur-familiy-2882877",
   "https://www.mydealz.de/deals/11teamsports-black-friday-sale-zb-nike-park-viii-trikot-fur-1197eur-adidas-predator-league-fg-fur-2698eur-2882876",
   "https://www.dealabs.com/bons-plans/thirdreality-capteur-intelligent-dhumidite-du-sol-zigbee-gen2-3470883",
   "https://www.dealabs.com/bons-plans/vinyle-public-enemy-yo-bum-rush-the-show-edition-limitee-3470881",
@@ -1558,7 +1551,14 @@
   "https://www.dealabs.com/bons-plans/50-de-reduction-sur-le-2eme-jouet-lexibook-achete-sur-le-moins-cher-des-2-3471258",
   "https://www.dealabs.com/bons-plans/station-electrique-portable-bluetti-elite-200-v2-3471257",
   "https://nl.pepper.com/kortingscode/eur5-korting-bij-mr-filet-ivm-black-friday-429641",
-  "https://www.hotukdeals.com/deals/apple-mac-mini-with-m6-chip-silver-12-core-cpu-and-12-core-gpu-16gb-unified-memory-256gb-used-like-new-5049025"
+  "https://www.hotukdeals.com/deals/apple-mac-mini-with-m6-chip-silver-12-core-cpu-and-12-core-gpu-16gb-unified-memory-256gb-used-like-new-5049025",
+  "https://www.mydealz.de/deals/conquistadorio-2d-point-and-click-adventure-google-playstore-2883203",
+  "https://www.mydealz.de/gutscheine/10eur-carsharing-guthaben-bei-deer-2883204",
+  "https://www.mydealz.de/deals/babyliss-pro-fxone-clipper-in-gold-2883202",
+  "https://www.mydealz.de/deals/meccano-baukoffer-5-in-1-makers-toolbox-437-teile-werkzeug-fahrzeuge-roboter-eiffelturm-2883201",
+  "https://www.mydealz.de/deals/noco-boost-hd-gb70-2000a-starthilfe-powerbank-bis-80-l-benzin-60-l-diesel-ultrasafe-400-lm-led-ip65-2883198",
+  "https://www.preisjaeger.at/deals/preisfehler-dell-s2425h-24-monitor-ips-full-hd-100-hz-lautsprecher-373531",
+  "https://www.hotukdeals.com/deals/philips-5400-series-bean-to-cup-coffee-machine-lattego-12-drinks-onetouch-fully-automatic-fastest-to-clean-ceramic-grinder-ep544670-5049027"
  ],
  "errors": {
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": 5,
@@ -1579,7 +1579,7 @@
  ],
  "last_run": {
   "geizhals": 1795757328.6959958,
-  "ebay": 1795757014.3799455
+  "ebay": 1795757973.4779894
  },
  "ebay_seen": {
   "187110721591": 139.1,
