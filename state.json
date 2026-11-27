@@ -59,8 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/cazadora-relaxed-fit-efecto-piel-2092105",
-  "https://www.chollometro.com/ofertas/dia-3-de-diciembre-6-donuts-por-6-eur-en-dunkin-donuts-2092103",
   "https://www.chollometro.com/ofertas/teclado-gaming-mecanico-logitech-g413-tkl-se-qwerty-espanol-negro-2092106",
   "https://www.chollometro.com/ofertas/adidas-barreda-decode-blanco-azul-tallas-40-a-47-2092104",
   "https://www.hotukdeals.com/deals/dairy-milk-180g-bar-for-ps2-5048580",
@@ -1558,7 +1556,9 @@
   "https://www.hotukdeals.com/deals/lg-wt1210nbtn1-12kg10kg-1400rpm-washtower-rated-in-aa-in-green-beige-5048970",
   "https://www.hotukdeals.com/deals/ufp-ax9810040-96-led-string-lights-white-7m-indooroutdoor-timer-ps199-was-ps999-save-ps800-80-off-5048969",
   "https://nl.pepper.com/aanbiedingen/nintendo-switch-2-met-vervangbare-batterij-the-legend-of-zelda-ocarina-of-time-cdiscount-429631",
-  "https://www.hotukdeals.com/deals/yakuza-0-directors-cut-nintendo-switch-2-game-5048972"
+  "https://www.hotukdeals.com/deals/yakuza-0-directors-cut-nintendo-switch-2-game-5048972",
+  "https://www.mydealz.de/deals/20-doppelter-rabatt-auf-die-kreya-basic-kollektion-auf-zipper-jogger-2883148",
+  "https://www.hotukdeals.com/deals/sonos-beam-gen-2-white-5048974"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795746011.7177503,
-  "ebay": 1795745698.945621
+  "ebay": 1795746661.9359498
  },
  "ebay_seen": {
   "187110721591": 139.1,
