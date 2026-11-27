@@ -59,22 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/souris-sans-fil-logitech-signature-m650-l-3472731",
-  "https://www.dealabs.com/bons-plans/refrigerateur-combine-encastrable-246l-hisense-rib312f4awe-no-frost-3472730",
-  "https://www.chollometro.com/cupones/40eur-dto-pedidos-235eur-2093917",
-  "https://www.chollometro.com/ofertas/ea-sports-fc-27-edicion-estandar-para-ps5-2093915",
-  "https://www.chollometro.com/ofertas/vimar-k40990-kit-videoportero-7in-1-2093914",
-  "https://www.chollometro.com/ofertas/nike-zapatillas-altas-aj1-mid-cuero-tallas-36-375-39-2093913",
-  "https://nl.pepper.com/aanbiedingen/sonos-sub-4-grens-deal-duitsland-429932",
-  "https://nl.pepper.com/aanbiedingen/plus-grolsch-voordeelpack-12-blikjes-33cl-050-cent-per-blikje-150-per-liter-429935",
-  "https://nl.pepper.com/aanbiedingen/ecovacs-goat-o800-rtk-care-kit-robotmaaier-zelfde-prijs-amazon-eur519-bolcom-429934",
-  "https://nl.pepper.com/aanbiedingen/sonos-premium-thuisbioscoopset-arc-ultra-sub-4-era-300-2-pack-at-tink-428779",
-  "https://nl.pepper.com/aanbiedingen/amazon-black-friday-overzicht-de-beste-deals-per-categorie-427632",
-  "https://www.hotukdeals.com/deals/the-last-of-us-part-1-ps5-5050034",
-  "https://www.hotukdeals.com/deals/mortal-kombat-legacy-kollection-deluxe-edition-switch-2-5050035",
-  "https://www.hotukdeals.com/deals/babyliss-air-power-pro-less-than-half-price-5050033",
-  "https://www.hotukdeals.com/deals/silentnight-autumn-fleece-throw-5050032",
-  "https://www.mydealz.de/deals/ski-skifahren-tageskarte-am-goldeck-a-mit-50-rabatt-2884147",
   "https://www.mydealz.de/deals/bluebrixx-grosses-futuristisches-mutterschiff-kampfstern-galactica-2884146",
   "https://www.mydealz.de/deals/iphone-18-pro-im-doppelkarten-tarif-50gb-25gb-2874149",
   "https://www.mydealz.de/deals/cetaphil-feuchtigkeitscreme-453g-fur-trockene-empfindliche-haut-spendet-intensiv-48h-feuchtigkeit-mit-vitamin-b3-amazon-2884143",
@@ -1558,7 +1542,23 @@
   "https://www.chollometro.com/ofertas/bruce-lee-edicion-coleccionista-blu-ray-2094399",
   "https://www.chollometro.com/ofertas/adizero-evo-sl-2094397",
   "https://www.chollometro.com/ofertas/audibax-seattle-1000-sistema-pa-line-array-bluetooth-soportes-2094396",
-  "https://www.hotukdeals.com/deals/irobot-roomba-875-combo-black-or-white-5050415"
+  "https://www.hotukdeals.com/deals/irobot-roomba-875-combo-black-or-white-5050415",
+  "https://www.mydealz.de/deals/rode-procaster-dynamisches-broadcast-mikrofon-2884446",
+  "https://www.mydealz.de/deals/lounge-by-zalando-napapijri-damen-winterjacke-amira-beige-fur-6580-eur-inkl-versand-5990-eur-vsk-2884445",
+  "https://www.mydealz.de/deals/new-balance-x-shoop-17-cashback-10eur-shoop-gutschein-2884444",
+  "https://www.mydealz.de/deals/apple-iphone-17-pro-256gb-fur-199eur-doppelkarte-o2-mobile-unlimited-m-o2-mobile-l-150gb-fur-4498eur-2884443",
+  "https://www.mydealz.de/deals/anker-solix-solarbank-4-e5000-pro-5-kwh-2000-wp-ja-solar-glas-glas-balkonkraftwerk-smart-meter-100-eur-amazon-gutschein-fur-1799-eur-2864381",
+  "https://www.dealabs.com/bons-plans/coffret-4k-blu-ray-jackie-brown-3473207",
+  "https://www.dealabs.com/bons-plans/lidl-perforateur-burineur-sans-fil-20-v-parkside-performance-3j-batterie-smart-4-ah-chargeur-rapide-45-a-3473206",
+  "https://www.dealabs.com/bons-plans/montre-automatique-orient-bambino-ra-ac0030l30b-405-mm-bracelet-cuir-fond-transparent-3-atm-3473209",
+  "https://www.dealabs.com/bons-plans/souris-gaming-filaire-asus-rog-gladius-iii-19-000-dpi-noir-3473208",
+  "https://www.chollometro.com/ofertas/urban-factory-tcd49uf-docking-station-usb-c-con-cargador-de-130w-2094411",
+  "https://www.chollometro.com/ofertas/babymoov-nutribaby-robot-de-cocina-bebe-6-en-1-2094409",
+  "https://www.chollometro.com/ofertas/assassins-creed-black-flag-resynced-2094408",
+  "https://www.chollometro.com/ofertas/cargador-magnetico-plegable-belkin-boostcharge-qi2-15w-iphone-airpods-magsafe-iphone-17air-pixelsnap-base-firme-2094407",
+  "https://www.hotukdeals.com/deals/serious-sam-4-ps5-ps-price-5050418",
+  "https://www.hotukdeals.com/deals/oneplus-15-512gb-16-ram-proper-global-version-cph2747-ps62147-with-paypal-5050417",
+  "https://www.hotukdeals.com/deals/the-north-face-antora-waterproof-jacket-sizes-s-xxl-in-cloud-wdfc-free-delivery-xplr-members-free-sign-up-5050416"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795820755.3650222,
-  "ebay": 1795821485.9544244
+  "ebay": 1795822411.3023229
  },
  "ebay_seen": {
   "187110721591": 139.1,
@@ -1730,7 +1730,8 @@
   "https://www.mydealz.de/deals/lenovo-thinkbook-plus-g7-auto-twist-ultra-x7-358h-32512gb-14-28k-oled-120hz-touch-500nits-100dci-p3-75wh-14kg-win11-pro-2884026",
   "https://www.mydealz.de/deals/cyberport-philips-hue-white-color-ambiance-ensis-pendelleuchte-schwarz-weiss-inkl-dimmschalter-v2-mit-topcashback-effektiv-26870eur-2876001",
   "https://www.mydealz.de/deals/weider-protein-peanut-butter-cups-20-42-g-40-stuck-26-protein-low-sugar-glutenfrei-palmolfrei-mhd-0127-2851144",
-  "https://www.mydealz.de/deals/vorbestellung-valor-mortis-playstation-5-fur-3383eur-amazonfr-2841020"
+  "https://www.mydealz.de/deals/vorbestellung-valor-mortis-playstation-5-fur-3383eur-amazonfr-2841020",
+  "https://www.mydealz.de/deals/anker-solix-solarbank-4-e5000-pro-5-kwh-2000-wp-ja-solar-glas-glas-balkonkraftwerk-smart-meter-100-eur-amazon-gutschein-fur-1799-eur-2864381"
  ],
  "geizhals": {}
 }
