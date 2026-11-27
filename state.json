@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-27T01:17:29+00:00"
+   "checked": "2026-11-27T01:48:52+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-27T01:17:39+00:00"
+   "checked": "2026-11-27T01:49:01+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-27T01:17:44+00:00"
+   "checked": "2026-11-27T01:49:06+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,33 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-27T01:17:54+00:00"
+   "checked": "2026-11-27T01:49:16+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 490.9,
-   "checked": "2026-11-27T01:17:58+00:00"
+   "checked": "2026-11-27T01:49:21+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-27T01:18:03+00:00"
+   "checked": "2026-11-27T01:49:25+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 519.99,
-   "checked": "2026-11-27T01:17:49+00:00"
+   "checked": "2026-11-27T01:49:11+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/sony-bravia-8-ll-65p-3470809",
-  "https://www.chollometro.com/ofertas/xiaomi-redmi-buds-8-auriculares-inalambricos-anc-50-db-44-h-2092101",
   "https://www.chollometro.com/ofertas/puzzle-educa-el-maravilloso-mundo-de-disney-ii-1000-piezas-2092100",
   "https://www.chollometro.com/ofertas/new-balance-rebel-zapatillas-de-trail-hombre-con-suela-vibram-tallas-40-a-465-2092094",
   "https://www.chollometro.com/ofertas/nike-mens-air-max-pulse-runners-tallas-385-39-475-485-495-2092092",
@@ -1558,7 +1556,9 @@
   "https://www.mydealz.de/deals/one-piece-op18-display-jp-2883143",
   "https://www.dealabs.com/bons-plans/pour-lachat-dun-menu-profitez-de-votre-place-de-cinema-pathe-a-seulement-790-eur-ou-1190-eur-en-imax-ou-4dx-reims-witry-3471201",
   "https://www.hotukdeals.com/deals/glenlivet-15-instore-3118-online-3319-5048957",
-  "https://www.hotukdeals.com/deals/ninja-dualzone-xl-95l-2-drawer-air-fryer-refurb-dz901uk-at-ninja-kitchen-ebay-store-5048955"
+  "https://www.hotukdeals.com/deals/ninja-dualzone-xl-95l-2-drawer-air-fryer-refurb-dz901uk-at-ninja-kitchen-ebay-store-5048955",
+  "https://www.mydealz.de/deals/msi-mag-345cqrde-gaming-monitor-34-uwqhd-180-hz-va-curved-fur-20499-eur-inkl-versand-notebooksbilliger-2883137",
+  "https://www.dealabs.com/bons-plans/traceur-bluetooth-ugreen-finetrack-duo-2-compatible-android-et-ios-ip68-110-db-design-football-noir-3471203"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795742244.3316815,
+  "geizhals": 1795744127.2124665,
   "ebay": 1795743813.9981527
  },
  "ebay_seen": {
