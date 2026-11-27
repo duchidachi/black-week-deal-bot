@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-27T00:14:41+00:00"
+   "checked": "2026-11-27T00:46:06+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-27T00:14:51+00:00"
+   "checked": "2026-11-27T00:46:16+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-27T00:14:55+00:00"
+   "checked": "2026-11-27T00:46:20+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,49 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 322.98,
    "last": 322.98,
-   "checked": "2026-11-27T00:15:05+00:00"
+   "checked": "2026-11-27T00:46:30+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 490.9,
-   "checked": "2026-11-27T00:15:11+00:00"
+   "checked": "2026-11-27T00:46:35+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 609.0,
    "last": 609.0,
-   "checked": "2026-11-27T00:15:15+00:00"
+   "checked": "2026-11-27T00:46:39+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
-   "last": 514.99,
-   "checked": "2026-11-27T00:15:00+00:00"
+   "last": 519.99,
+   "checked": "2026-11-27T00:46:25+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/the-one-brush-homebargains-5048536",
-  "https://www.hotukdeals.com/deals/tomtoc-360-laptop-sleve-case-5048535",
-  "https://www.hotukdeals.com/deals/regatta-mens-micro-lightweight-half-zip-fleece-in-7-colours-sizds-xs-3xl-with-code-free-delivery-with-free-sign-up-5048534",
-  "https://www.hotukdeals.com/deals/revolutionary-16x-optical-zoom-ptz-camera-with-a-180-panoramic-view-5048533",
-  "https://www.mydealz.de/deals/telekom-netz-apple-iphone-18-pro-im-freenet-allnetsms-flat-50gb-5g-2-sim-fur-5498eurmonat-149eur-2851941",
-  "https://www.mydealz.de/deals/25-auf-goldis-finest-sammelkartenzubehor-gratisgeschenke-zu-jeder-bestellung-gewinnspiel-2882808",
-  "https://www.mydealz.de/deals/villeroy-boch-for-me-kombiservice-30-tlg-6-personen-premium-porzellan-made-in-germany-fur-17598-eur-inkl-versand-segmuller-2882813",
-  "https://www.mydealz.de/deals/flaconi-givenchy-gentleman-reserve-privee-eau-de-parfum-geschenkset-100ml-edp-125ml-miniflakon-75ml-duschgel-2882812",
-  "https://www.dealabs.com/bons-plans/veste-moto-femme-ventilee-homologuee-shima-openair-protections-airforce-incluses-3470778",
-  "https://www.dealabs.com/bons-plans/kit-solaire-plug-play-dmegc-520-wc-dm520g12rt-b54hbt-micro-onduleur-sossen-500w-bifacial-n-type-3470773",
-  "https://www.dealabs.com/bons-plans/columbia-crestwood-chaussures-basses-de-randonnee-et-trekking-pour-homme-3470776",
-  "https://www.dealabs.com/bons-plans/jeu-de-cartes-gribouillis-chrono-3470775",
-  "https://www.chollometro.com/ofertas/el-ilusionista-blu-ray-2092039",
-  "https://www.chollometro.com/ofertas/timberland-botas-britton-drive-piel-plantilla-ortholite-suela-eva-tallas-40-a-475-2092050",
-  "https://www.chollometro.com/ofertas/squier-by-fender-debut-stratocaster-guitarra-electrica-principiantes-sb-2092048",
-  "https://www.chollometro.com/ofertas/televisor-philips-ambilight-65oled91112-2092046",
-  "https://www.chollometro.com/ofertas/ziaja-champu-de-girasol-para-cabello-tenido-500-ml-2092044",
-  "https://www.chollometro.com/ofertas/playmobil-heroes-vehiculo-multifuncion-de-los-heroes-juguete-a-partir-de-4-anos-vehiculo-de-accion-versatil-2092040",
   "https://www.chollometro.com/ofertas/apple-mac-mini-chip-m6-2092030",
   "https://www.hotukdeals.com/deals/sainsburys-calcium-vitamin-d-tablets-reduced-to-50p-from-ps630-5048543",
   "https://www.hotukdeals.com/deals/prada-luna-rossa-ocean-eau-de-toilette-150ml-refill-prada-ocean-le-perfume-150ml-refill-ps6781-with-code-5048542",
@@ -1558,7 +1540,25 @@
   "https://www.hotukdeals.com/deals/dji-mini-5-pro-drone-fly-more-bundle-5048886",
   "https://www.hotukdeals.com/deals/tomb-raider-legacy-of-atlantis-ps5-xbox-series-x-5048885",
   "https://www.hotukdeals.com/deals/32-oz-water-bottle-with-time-marker-leakproof-bpa-free-wide-mouth-red-black-w-code-sold-dispatched-by-amazon-haul-global-5048884",
-  "https://www.hotukdeals.com/deals/under-armour-mens-mens-tech-20-12-zip-sweatshirt-largemarine-green-xssmxl-marineblackgreycarbonacademy-ps20-5048883"
+  "https://www.hotukdeals.com/deals/under-armour-mens-mens-tech-20-12-zip-sweatshirt-largemarine-green-xssmxl-marineblackgreycarbonacademy-ps20-5048883",
+  "https://www.mydealz.de/deals/serious-sam-collection-3-games-und-erweiterungen-ps4-playstation-digital-usk-18-devolver-ps-erfohne-599eur-at-ps-store-2883120",
+  "https://www.mydealz.de/deals/the-quarry-standard-edition-ps5-playstation-digital-usk-18-2k-games-at-ps-store-2883118",
+  "https://www.dealabs.com/bons-plans/rowenta-force-pro-500-centrale-vapeur-reservoir-18l-5-bars-brun-3471170",
+  "https://www.dealabs.com/bons-plans/msi-mag-274qp-qd-oled-x24-265-wqhd-3471169",
+  "https://www.dealabs.com/bons-plans/apple-ipad-air-11-pouces-m4-ecran-liquid-retina-128-go-cameras-avantarriere-12-mp-wifi-7-avec-apple-n1-bleu-3471168",
+  "https://www.dealabs.com/bons-plans/enceinte-amplifiee-jbl-partybox-club-120-3471167",
+  "https://www.chollometro.com/ofertas/case-bo-targus-16-elite-bp-2092564",
+  "https://www.chollometro.com/ofertas/lg-df142fv-lavavajillas-quadwash-clase-d-ancho-60-cm-capacidad-14-2092563",
+  "https://www.hotukdeals.com/deals/moon-titan-max-bike-light-5048901",
+  "https://www.hotukdeals.com/deals/xiaomi-redmi-note-17-5g-6gb-128gb-smartphone-with-automatic-discount-at-checkout-5048900",
+  "https://www.hotukdeals.com/deals/the-glenlivet-caribbean-reserve-single-malt-whisky-70-cl-with-gift-box-5048899",
+  "https://www.hotukdeals.com/deals/xbox-game-pass-essential-6-months-12-months-ps4260-wcode-5048887",
+  "https://www.hotukdeals.com/deals/star-wars-galactic-racer-ps5-xbox-series-x-free-click-collect-5048898",
+  "https://www.hotukdeals.com/deals/20-pack-microfiber-cleaning-cloths-multi-colour-w-code-sold-by-amazon-haul-ps15-spend-for-free-delivery-5048897",
+  "https://www.hotukdeals.com/deals/sony-ult500-bluetooth-party-speaker-discount-when-added-to-cart-5048896",
+  "https://www.hotukdeals.com/deals/lenovo-legion-go-2-88in-144hz-2k-oled-handheld-pc-gaming-amd-ryzen-z2-32gb-512gb-windows-with-code-5048895",
+  "https://www.hotukdeals.com/deals/up-to-50-almost-everything-extra-10-off-with-code-mens-tee-ps1125-authentic-shoes-ps27-old-skool-shoes-ps3150-more-5048894",
+  "https://www.hotukdeals.com/deals/tamnavulin-whisky-sauvignon-blanc-edition-70cl-5048893"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795738476.2174554,
+  "geizhals": 1795740361.2408216,
   "ebay": 1795740048.8498538
  },
  "ebay_seen": {
