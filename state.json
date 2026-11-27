@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-27T03:23:31+00:00"
+   "checked": "2026-11-27T05:28:53+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -59,11 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/super-station-dj-sans-fil-avec-microphone-3470863",
-  "https://www.chollometro.com/ofertas/vaude-bag-bolsa-cruiser-unisex-adulto-2092141",
-  "https://www.chollometro.com/ofertas/joola-mesa-de-ping-pong-unisex-adulto-2092139",
-  "https://www.chollometro.com/ofertas/amazon-echo-dot-max-grafito-ring-intercom-audio-devolviendo-ring-por-4608eur-2092137",
-  "https://www.chollometro.com/ofertas/jbl-tune-680nc-auriculares-supraaurales-inalambricos-con-bluetooth-blanco-2092135",
   "https://www.chollometro.com/ofertas/sudadera-con-capucha-oficial-new-era-nfl-team-logo-hoodie-varios-equipos-corte-regular-bolsillo-canguro-licencia-nfl-2092117",
   "https://nl.pepper.com/aanbiedingen/11-vlucht-ticket-via-jordaanse-airlines-429590",
   "https://www.hotukdeals.com/deals/nestle-quality-street-tin-193kg-instore-5048609",
@@ -1558,17 +1553,21 @@
   "https://www.dealabs.com/bons-plans/igraal-cashback-asus-de-30-ex-strix-g16-ryzen-9-5070ti-32go-1to-a-174999-3471255",
   "https://nl.pepper.com/aanbiedingen/mand-429640",
   "https://www.hotukdeals.com/deals/currys-shopping-card-save-55-even-on-top-of-black-friday-sale-5049024",
-  "https://www.hotukdeals.com/deals/lego-star-wars-k-2so-security-droid-75434-with-code-free-cc-5049023"
+  "https://www.hotukdeals.com/deals/lego-star-wars-k-2so-security-droid-75434-with-code-free-cc-5049023",
+  "https://www.mydealz.de/deals/gog-sid-meiers-civilization-iii-complete-pc-spiel-civ-iv-fur-399eur-2860792",
+  "https://www.mydealz.de/deals/paypal-ecoflow-stream-ultra-balkonkraftwerk-ac-speicher-mit-1920wh-4x-mppt-2300-w-ac-ausgang-max-bis-12-kwh-upgradebar-pbshooptcb-2883193",
+  "https://www.preisjaeger.at/deals/3-monate-electra-gratis-auch-fur-bestandskunden-27-29112026-373529",
+  "https://www.preisjaeger.at/deals/das-letzte-oneplus-nord-6-8256-bei-aliexpress-reduziert-373502",
+  "https://www.dealabs.com/bons-plans/enceinte-sans-fil-portable-bluetooth-audio-pro-t3-jusqua-30h-dautonomie-3471256"
  ],
  "errors": {
-  "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": 4,
-  "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": 4,
-  "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": 4,
-  "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": 4,
-  "https://geizhals.eu/ugreen-dxp2800-a3162972.html": 4,
-  "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": 4,
-  "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": 4,
-  "https://geizhals.eu/wise-advanced-cfx-b-series-r1700-w1550-cfexpress-1-0-type-b-1tb-cfx-b1024-a2358469.html": 3
+  "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": 5,
+  "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": 5,
+  "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": 5,
+  "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": 5,
+  "https://geizhals.eu/ugreen-dxp2800-a3162972.html": 5,
+  "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": 5,
+  "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": 5
  },
  "feeds_bootstrapped": [
   "https://www.mydealz.de/rss/alles",
@@ -1579,7 +1578,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795755444.965269,
+  "geizhals": 1795757328.6959958,
   "ebay": 1795757014.3799455
  },
  "ebay_seen": {
