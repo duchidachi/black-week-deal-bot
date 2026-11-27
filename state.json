@@ -59,10 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/bac-musculation-poids-3470840",
-  "https://www.dealabs.com/bons-plans/clair-obscur-expedition-33-sur-xbox-series-x-3470839",
-  "https://www.chollometro.com/ofertas/hewlett-packard-enterprise-ah220a-unidad-de-fuente-de-alimentacion-gris-2092121",
-  "https://www.chollometro.com/ofertas/pack-paquete-poseidon-indomito-2092119",
   "https://www.chollometro.com/ofertas/famatel-regleta-ecosockets-6-tomas-enchufes-con-interruptor-de-encendido-3-metros-hasta-3680w-proteccion-infantil-2092120",
   "https://www.chollometro.com/ofertas/stellar-blade-ps5-2092118",
   "https://www.chollometro.com/cupones/maquillalia-25-de-descuento-en-todo-2092116",
@@ -1558,7 +1554,11 @@
   "https://www.mydealz.de/deals/elden-ring-shadows-of-the-erdtree-edition-playstation-5-amazon-prime-2883165",
   "https://www.preisjaeger.at/deals/lego-creator-legendares-piratenschiff-31387-373519",
   "https://www.dealabs.com/bons-plans/lidl-perforateur-burineur-sans-fil-20v-brushless-parkside-pkhap-2034-li-b1-edition-30-ans-3j-sds-modele-nu-via-code-coupon-3471227",
-  "https://www.hotukdeals.com/deals/photopills-photography-planning-app-5049000"
+  "https://www.hotukdeals.com/deals/photopills-photography-planning-app-5049000",
+  "https://www.dealabs.com/bons-plans/jeu-de-societe-3471229",
+  "https://www.dealabs.com/bons-plans/ecran-gaming-oled-incurve-lg-ultragear-45gx90sa-b-45-wqhd-240-hz-3471228",
+  "https://www.hotukdeals.com/deals/great-game-very-good-price-5049002",
+  "https://www.hotukdeals.com/deals/no7-the-ultimate-skincare-collection-gift-set-5049001"
  ],
  "errors": {
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": 2,
@@ -1580,7 +1580,7 @@
  ],
  "last_run": {
   "geizhals": 1795751686.9609945,
-  "ebay": 1795751373.9384422
+  "ebay": 1795752332.2688165
  },
  "ebay_seen": {
   "187110721591": 139.1,
