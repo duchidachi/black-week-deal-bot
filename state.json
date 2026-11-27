@@ -59,9 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/joybuy-tom-ford-private-blend-santal-blush-eau-de-parfum-50ml-fur-11299eur-beim-kauf-von-2x-50ml-19598eur-entspricht-9799eur-pro-50ml-2881040",
-  "https://www.mydealz.de/deals/app-store-gymfile-pro-lifetime-workout-tracker-fur-iphone-ipad-apple-watch-fur-4499-eur-statt-8999-eur-2882848",
-  "https://www.mydealz.de/deals/tommy-hilfiger-lw-down-knit-mix-jacket-steppjacke-grosse-m-2882847",
   "https://www.preisjaeger.at/deals/lego-creator-legendares-piratenschiff-31387-373519",
   "https://www.preisjaeger.at/deals/amazon-bis-zu-3-rabatt-auf-eure-bestellung-durch-versand-ohne-eile-372783",
   "https://www.dealabs.com/bons-plans/veste-de-pluie-nike-park-20-dri-fit-bleublanc-tailles-s-a-xxl-3470837",
@@ -1558,7 +1555,10 @@
   "https://www.dealabs.com/bons-plans/sony-manette-playstation-5-officielle-dualsense-collection-hyperpop-couleur-rhythm-blue-3471223",
   "https://www.dealabs.com/bons-plans/jouet-lego-ideas-21367-la-fusee-de-tintin-via-2-bons-de-20eur-3471222",
   "https://www.dealabs.com/bons-plans/jusqua-30-sur-une-selection-de-produits-de-la-boutique-square-enix-3471221",
-  "https://www.hotukdeals.com/deals/playstation5-disc-console-1tb-adata-legend-900-2tb-solid-state-drive-5048994"
+  "https://www.hotukdeals.com/deals/playstation5-disc-console-1tb-adata-legend-900-2tb-solid-state-drive-5048994",
+  "https://www.mydealz.de/deals/neo-the-world-ends-with-you-nintendo-switch-at-coolshop-2883163",
+  "https://www.dealabs.com/bons-plans/apple-watch-series-12-gps-boitier-en-aluminium-noir-de-46-mm-3471224",
+  "https://www.hotukdeals.com/deals/samsung-galaxy-s26-fe-blueberry-128-gb-unlocked-galaxy-ai-ai-photo-editor-50mp-photo-assist-my-fancam-super-steady-video-5048996"
  ],
  "errors": {
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": 1,
@@ -1579,7 +1579,7 @@
  ],
  "last_run": {
   "geizhals": 1795749806.3015501,
-  "ebay": 1795750450.9872084
+  "ebay": 1795751373.9384422
  },
  "ebay_seen": {
   "187110721591": 139.1,
