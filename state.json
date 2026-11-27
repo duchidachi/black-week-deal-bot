@@ -59,10 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/multi-styler-dyson-airwrap-co-anda2x-3470829",
-  "https://www.dealabs.com/bons-plans/sac-banane-the-north-face-kaki-3470850",
-  "https://www.dealabs.com/bons-plans/cheque-cadeau-games-factory-20-eur-a-seulement-10-eur-black-friday-5-000-premiers-3470849",
-  "https://www.dealabs.com/bons-plans/macif-samsung-q990h-via-reprise-3470846",
   "https://www.dealabs.com/bons-plans/ecran-pc-msi-mag-341cqp-qd-oled-x28-34-ultrawide-quad-hd-280hz-qd-oled-incurve-reglable-3470845",
   "https://www.chollometro.com/ofertas/tommy-jeans-retro-runner-archive-2092126",
   "https://www.chollometro.com/ofertas/octopath-traveler-ii-para-nintendo-switch-2-2092122",
@@ -1558,7 +1554,11 @@
   "https://www.dealabs.com/bons-plans/clavier-razer-huntsman-v3-he-magnetic-tenkeyless-switches-effet-hall-polling-8-000-hz-azerty-3471236",
   "https://nl.pepper.com/aanbiedingen/coca-cola-12-pack-033l-laagste-prijs-429635",
   "https://www.hotukdeals.com/deals/tcl-65-inch-65c8l-uk-smart-4k-uhd-hdr-mini-led-google-tv-5049009",
-  "https://www.hotukdeals.com/deals/lego-star-wars-jabbas-sail-barge-75397-5049008"
+  "https://www.hotukdeals.com/deals/lego-star-wars-jabbas-sail-barge-75397-5049008",
+  "https://www.mydealz.de/deals/best-secret-adidas-supernova-rise-3-2883171",
+  "https://www.preisjaeger.at/deals/muller-fissler-kochtopfset-vivario-5tlg-373520",
+  "https://www.dealabs.com/bons-plans/kit-watercooling-nzxt-kraken-elite-240-refroidisseur-cpu-aio-240mm-lcd-noir-3471241",
+  "https://www.dealabs.com/bons-plans/google-pixel-10a-128go-3471240"
  ],
  "errors": {
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": 3,
@@ -1580,7 +1580,7 @@
  ],
  "last_run": {
   "geizhals": 1795753566.0797415,
-  "ebay": 1795753254.260311
+  "ebay": 1795754210.2532039
  },
  "ebay_seen": {
   "187110721591": 139.1,
