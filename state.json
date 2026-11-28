@@ -59,8 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://nl.pepper.com/aanbiedingen/gta-6-standard-edition-ps5-digital-key-429946",
-  "https://nl.pepper.com/aanbiedingen/phantasialand-hotel-black-deal-tot-54-korting-op-een-winterverblijf-met-ontbijt-in-hotel-matamba-ling-bao-of-charles-lindbergh-427341",
   "https://www.hotukdeals.com/deals/lego-star-wars-jango-fetts-starship-75433-5050075",
   "https://www.hotukdeals.com/deals/parker-jotter-originals-ballpoint-pen-classic-5050074",
   "https://www.hotukdeals.com/deals/sony-bravia-8-ii-65-richer-sounds-5050072",
@@ -1558,7 +1556,9 @@
   "https://www.hotukdeals.com/deals/scalextric-cars-c4524-james-bond-amc-hornet-the-man-with-the-golden-gun-5050470",
   "https://www.dealabs.com/bons-plans/blender-personnel-nutribullet-ultra-1200-w-nb1206dgcc-2-bouteilles-900-700-ml-via-odr-de-30-eur-3473267",
   "https://www.dealabs.com/codes-promo/20eur-de-remise-sur-votre-parking-a-cdg-ou-ory-3473268",
-  "https://www.dealabs.com/bons-plans/dji-bundle-standard-osmo-pocket-4-camera-vlog-de-poche-avec-nacelle-3473266"
+  "https://www.dealabs.com/bons-plans/dji-bundle-standard-osmo-pocket-4-camera-vlog-de-poche-avec-nacelle-3473266",
+  "https://www.hotukdeals.com/deals/shark-cryoglow-plus-under-eye-cooling-wider-coverage-led-anti-ageing-blemish-repair-mask-pastel-dusk-7000-advantage-card-points-ps70-5050472",
+  "https://www.hotukdeals.com/deals/fat-face-30-off-black-friday-5050471"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795830651.2585578,
-  "ebay": 1795831384.8981247
+  "ebay": 1795832315.335509
  },
  "ebay_seen": {
   "187110721591": 139.1,
