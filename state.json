@@ -59,7 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/tv-qned-mini-led-75-lg-75qned72b6a-uhd-4k-procesador-inteligente-a7-ai-processor-4k-gen9-smart-tv-dvb-t2-h265-negro-2093981",
   "https://nl.pepper.com/aanbiedingen/black-friday-lindt-adventskalenders-11-gratis-lindt-429947",
   "https://www.hotukdeals.com/deals/lindt-christmas-chocolate-advent-calendar-160g-with-clubcard-5050085",
   "https://www.hotukdeals.com/deals/online-fitness-programs-boxing-5050087",
@@ -1558,7 +1557,8 @@
   "https://www.mydealz.de/deals/kindle-11-generation-2024-generaluberholt-2884480",
   "https://www.dealabs.com/bons-plans/jeu-de-construction-lego-speed-champions-77244-voiture-f1-mercedes-amg-w15-3473278",
   "https://www.hotukdeals.com/deals/stella-artois-premium-lager-beer-cans-18-x-440ml-in-store-england-5050490",
-  "https://www.hotukdeals.com/deals/amazon-basics-electric-kettle-17l-3000-w-bpa-free-with-360-base-auto-shut-off-and-removable-anti-scale-filter-matte-black-5050489"
+  "https://www.hotukdeals.com/deals/amazon-basics-electric-kettle-17l-3000-w-bpa-free-with-360-base-auto-shut-off-and-removable-anti-scale-filter-matte-black-5050489",
+  "https://www.hotukdeals.com/deals/smeg-espresso-with-cold-brew-ecf03-coffee-machine-black-5050491"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795838606.403012,
-  "ebay": 1795839348.4640634
+  "ebay": 1795840279.003855
  },
  "ebay_seen": {
   "187110721591": 139.1,
