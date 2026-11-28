@@ -41,7 +41,7 @@
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 490.9,
-   "checked": "2026-11-28T06:50:22+00:00"
+   "checked": "2026-11-28T10:27:26+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
@@ -59,16 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/barra-de-sonido-lg-s95arobspto-bluetooth-810w-915-canales-con-subwoofer-67859eur-300eur-cashback-37859eur-2094330",
-  "https://www.chollometro.com/ofertas/arnidol-gel-stick-efecto-frio-con-arnica-y-harpagofito-15-g-2094332",
-  "https://www.chollometro.com/ofertas/philips-24e1n1190a-monitor-24-pulgadas-120hz-2094329",
-  "https://www.chollometro.com/ofertas/procesador-de-alimentos-11l-picar-rallar-pure-batir-cuchilla-acero-disco-reversible-batidorbladelock-toque-unico-pulso-sin-bpa-2094328",
-  "https://www.chollometro.com/ofertas/x-2-vitakraft-poesie-mousse-comida-humeda-para-gatos-mousse-aireada-con-pollo-en-tamano-reserva-sin-azucar-anadido-12-x-85-g-2094326",
-  "https://www.chollometro.com/ofertas/nike-air-max-sndr-blanco-y-negro-2094327",
-  "https://www.chollometro.com/ofertas/razer-iskur-v2-x-2094322",
-  "https://www.chollometro.com/ofertas/star-wars-titan-series-stormtrooper-soldado-de-asalto-figura-de-accion-de-30-cm-y-accesorio-2094320",
-  "https://nl.pepper.com/aanbiedingen/5-mac-cosmetics-producten-pouch-twv-eur156-voor-eur3986-430001",
-  "https://nl.pepper.com/aanbiedingen/garmin-forerunner-265-amoled-sporthorloge-voor-eur21126-429999",
   "https://nl.pepper.com/aanbiedingen/garmin-venu-x1-429998",
   "https://www.hotukdeals.com/deals/apple-ipad-mini-85-oled-wi-fi-128gb-a20-pro-super-retina-xdr-midnight-2026-wcode-ps20-voucher-5050376",
   "https://www.hotukdeals.com/deals/ninja-slushi-frozen-drinks-maker-5050375",
@@ -1558,7 +1548,17 @@
   "https://nl.pepper.com/aanbiedingen/heinrichs-hdu-7620-edelstalen-afzuigkap-430076",
   "https://www.hotukdeals.com/deals/boss-the-scent-le-parfum-for-him-ambery-fragrance-with-notes-of-ginger-maninka-fruit-iris-and-leather-accord-high-longevity-5050701",
   "https://www.hotukdeals.com/deals/talkmobile-140gb-ps895pm-30-day-contract-5050700",
-  "https://www.hotukdeals.com/deals/all-sky-sports-via-nowtv-ps1999-a-month-for-6-months-cancel-anytime-5050699"
+  "https://www.hotukdeals.com/deals/all-sky-sports-via-nowtv-ps1999-a-month-for-6-months-cancel-anytime-5050699",
+  "https://www.mydealz.de/deals/kaufland-curry-king-big-box-3-stuck-2884669",
+  "https://www.dealabs.com/bons-plans/selection-de-film-4k-sur-apple-tv-ex-dune-2-mortal-kombat-2-superman-a-499eur-ou-lot-3-films-insaisissables-a-1299eur-3473566",
+  "https://www.dealabs.com/bons-plans/console-nintendo-switch-2-batterie-remplacable-via-100eur-en-bons-dachats-eleclerc-chambly-60-3473549",
+  "https://www.dealabs.com/bons-plans/refrigerateur-multi-portes-lg-gmbs30sdep-580-l-no-frost-graphite-fonce-classe-d-3473563",
+  "https://www.chollometro.com/ofertas/camiseta-levis-red-tab-vintage-tee-varias-tallas-y-modelos-2094868",
+  "https://www.hotukdeals.com/deals/brakeburn-60-off-entire-site-extra-10-off-wcode-dress-ps9-mens-shirt-ps1044-mens-sweatshirt-ps2159-mens-jacket-ps3060-more-5050707",
+  "https://www.hotukdeals.com/deals/puremate-20lday-portable-compact-dehumidifier-with-65-litre-tank-5050706",
+  "https://www.hotukdeals.com/deals/33000ft-mens-waterproof-softshell-jackets-lightweight-hooded-rain-coat-5050705",
+  "https://www.hotukdeals.com/deals/2-x-any-sol-de-janeiro-bum-bum-jet-set-cream-fragrance-mist-gift-sets-beija-flor-bom-dia-bum-bum-62-delicia-drench-ps2430-wsd-5050704",
+  "https://www.hotukdeals.com/deals/weber-smokefire-ex4-gbs-pellet-grill-with-night-light-with-code-sold-by-iforcemarket-5050702"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795859776.851018,
+  "geizhals": 1795861625.7861893,
   "ebay": 1795861310.1388314
  },
  "ebay_seen": {
@@ -1734,11 +1734,12 @@
   "https://www.mydealz.de/deals/anker-solix-solarbank-4-e5000-pro-5-kwh-2000-wp-ja-solar-glas-glas-balkonkraftwerk-smart-meter-100-eur-amazon-gutschein-fur-1799-eur-2864381",
   "https://www.mydealz.de/deals/adidas-terrex-anylander-mid-rainrdy-gr-39-bis-48-fur-5391eur-amazon-2873328",
   "https://www.mydealz.de/deals/manor-lords-gog-2843606",
-  "https://www.mydealz.de/deals/primesparabo-pfandfehler-6x-red-bull-energy-drink-250ml-mit-in-game-code-fur-ea-sports-fc-2027-effektiv-069-eur-dose-2881396"
+  "https://www.mydealz.de/deals/primesparabo-pfandfehler-6x-red-bull-energy-drink-250ml-mit-in-game-code-fur-ea-sports-fc-2027-effektiv-069-eur-dose-2881396",
+  "https://www.mydealz.de/deals/tcl-75p8k-189-cm-75-qled-tv-2866639"
  ],
  "geizhals": {
-  "blocks": 2,
-  "pause_until": 1795861425.8661537,
-  "blocked_since": 1795850522.2526572
+  "blocks": 1,
+  "pause_until": 1795865246.5456524,
+  "blocked_since": 1795861646.545654
  }
 }
