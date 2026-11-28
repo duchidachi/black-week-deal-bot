@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-28T00:12:38+00:00"
+   "checked": "2026-11-28T00:45:42+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-28T00:12:21+00:00"
+   "checked": "2026-11-28T00:46:48+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-28T00:13:41+00:00"
+   "checked": "2026-11-28T00:45:10+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,42 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 319.0,
    "last": 319.0,
-   "checked": "2026-11-28T00:13:21+00:00"
+   "checked": "2026-11-28T00:46:36+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 490.9,
-   "checked": "2026-11-28T00:12:08+00:00"
+   "checked": "2026-11-28T00:46:22+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 599.9,
    "last": 599.9,
-   "checked": "2026-11-28T00:13:58+00:00"
+   "checked": "2026-11-28T00:45:26+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 519.99,
-   "checked": "2026-11-28T00:12:51+00:00"
+   "checked": "2026-11-28T00:46:07+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/lego-barcaza-velera-de-java-75397-2092353",
-  "https://www.chollometro.com/ofertas/bluey-zapatillas-nino-zapatillas-casa-nino-tallas-22-24-26-27-28-2093955",
-  "https://www.chollometro.com/ofertas/recopilacion-the-north-face-en-asos-con-20-extra-blackfri-polares-cortavientos-y-triclimate-desde-20-eur-2093960",
-  "https://www.chollometro.com/ofertas/stanley-1913-iceflow-flip-straw-20-jug-19l-3-colores-mantiene-las-bebidas-frias-hasta-20-horas-4-dias-con-hieloapta-para-lavavajillas-2093958",
-  "https://www.chollometro.com/ofertas/poco-f9-pro-5g-12gb512gb-nfc-snapdragon-8-elite-gen-5-659-pulgadas-185-hz-camara-de-200-mp-bateria-de-6330-mah-ip68-2093953",
-  "https://www.chollometro.com/ofertas/under-armour-armour-heatgear-pantalones-cortos-de-compresion-pantalones-cortos-hombre-2093952",
-  "https://nl.pepper.com/aanbiedingen/philips-2000-serie-snoerloze-stofzuiger-eureur85-met-ing-punten-15-korting-429944",
-  "https://www.hotukdeals.com/deals/yaheetech-3-tier-computer-desk-with-printer-shelf-and-keyboard-tray-black-5050066",
-  "https://www.hotukdeals.com/deals/httpswwwcostcocoukp536064-5050065",
-  "https://www.hotukdeals.com/deals/piz-buin-moisturising-sun-lotion-spf-15-200ml-advanced-skincare-cream-with-uvauvb-filters-5050064",
-  "https://www.hotukdeals.com/deals/apple-iphone-18-pro-256gb-ps20-currys-gift-card-id-500gb-data-eu-roaming-ps149-upfront-wcode-ps4499pm24m-all-colours-5050063",
   "https://www.hotukdeals.com/deals/asus-rog-strix-b550-f-gaming-wifi-ii-atx-motherboard-5050062",
   "https://www.mydealz.de/deals/laifen-t1-pro-aluminium-rasierapparat-space-grau-2884173",
   "https://www.mydealz.de/deals/units-untd-hoodies-shirts-rugby-shirts-longsleeves-und-jogger-bis-zu-70-2884172",
@@ -1558,7 +1547,18 @@
   "https://www.dealabs.com/bons-plans/80nm-einhell-professional-perceuse-visseuse-a-percussion-sans-fil-tp-cd-1880-li-i-bl-pxc-18v-avec-2-batteries-2ah-et-1-chargeur-3473239",
   "https://www.chollometro.com/ofertas/by-amazon-guantes-desechables-de-nitrilo-azules-sin-polvo-sin-latex-talla-sm-o-xl-paquete-de-100-2094455",
   "https://nl.pepper.com/aanbiedingen/apple-iphone-air-256-gb-alle-kleuren-430013",
-  "https://www.hotukdeals.com/deals/car-boot-organiser-multi-compartment-foldable-and-dividers-black-wcode-amazon-haul-free-delivery-wps15-spend-5050452"
+  "https://www.hotukdeals.com/deals/car-boot-organiser-multi-compartment-foldable-and-dividers-black-wcode-amazon-haul-free-delivery-wps15-spend-5050452",
+  "https://www.mydealz.de/deals/ron-barcelo-anejo-rum-07-l-2884464",
+  "https://www.dealabs.com/bons-plans/jeu-de-societe-disney-villainous-extension-mauvais-jusqua-los-vf-a-1595-eur-50-3473244",
+  "https://www.dealabs.com/bons-plans/friteuse-sans-huile-philips-airfryer-serie-1000-42l-3473237",
+  "https://www.dealabs.com/bons-plans/pokemon-display-36-boosters-me03-equilibre-parfait-vf-a-18696-eur-15-3473243",
+  "https://www.dealabs.com/bons-plans/machine-a-cafe-expresso-avec-broyeur-philips-omnia-serie-1200-ep122400-15-bars-ecran-tactile-mousseur-a-lait-3473236",
+  "https://www.dealabs.com/bons-plans/calvin-klein-lace-up-baskets-basses-white-3473242",
+  "https://www.dealabs.com/bons-plans/air-fryer-ninja-dualzone-95l-6-en-1-gris-3473234",
+  "https://www.chollometro.com/ofertas/the-notorious-big-greatest-hits-cd-2094460",
+  "https://www.chollometro.com/ofertas/grabador-de-video-en-red-ubiquiti-unvr-2094458",
+  "https://www.chollometro.com/ofertas/el-senor-de-los-anillos-dobble-juego-de-cartas-de-observacion-y-velocidad-en-la-tierra-media-a-partir-de-6-anos-2-a-8-jugadores15-minutos-2094457",
+  "https://www.chollometro.com/ofertas/malta-para-gatos-gimcat-200gr-2094456"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795824707.9126334,
+  "geizhals": 1795826689.8868213,
   "ebay": 1795826372.2570012
  },
  "ebay_seen": {
