@@ -59,14 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/lampe-frontale-ledlenser-hf8r-core-2023-502801-3472788",
-  "https://www.dealabs.com/bons-plans/petrole-pour-chauffage-3472786",
-  "https://www.dealabs.com/bons-plans/50-sapin-de-noel-gifi-3472769",
-  "https://www.dealabs.com/bons-plans/funko-pop-star-wars-mandalorian-grogu-3472784",
-  "https://www.chollometro.com/ofertas/hkc-monitor-gaming-27-pulgadas-oled-qhd-25601440-240-hz-003-ms-qd-oled-107-mil-millones-de-colores-2093963",
-  "https://www.chollometro.com/ofertas/poco-f7-pro-5g-nfc-12gb-256gb-2093961",
-  "https://www.chollometro.com/ofertas/reloj-deportivo-xiaomi-redmi-watch-6-526-mm-135-mm-205-mm-pantalla-amoled-de-207-hasta-24-dias-de-autonomia-hyperos-2093962",
-  "https://www.chollometro.com/ofertas/tv-led-65-lg-65nu850b6la-uhd-4k-procesador-inteligente-7-ai-processor-4k-gen9-smart-tv-dvb-t2-h265-negro-2093957",
   "https://www.chollometro.com/ofertas/lego-barcaza-velera-de-java-75397-2092353",
   "https://www.chollometro.com/ofertas/bluey-zapatillas-nino-zapatillas-casa-nino-tallas-22-24-26-27-28-2093955",
   "https://www.chollometro.com/ofertas/recopilacion-the-north-face-en-asos-con-20-extra-blackfri-polares-cortavientos-y-triclimate-desde-20-eur-2093960",
@@ -1558,7 +1550,15 @@
   "https://www.hotukdeals.com/deals/because-its-you-by-giorgio-armani-eau-de-parfum-for-women-100ml-5050451",
   "https://www.hotukdeals.com/deals/titan-hose-reel-25m-5050450",
   "https://www.hotukdeals.com/deals/lego-stranger-things-the-creel-house-11370-5050449",
-  "https://www.hotukdeals.com/deals/sistema-ultra-airtight-pantry-storage-container-700-ml-3-for-2-5050448"
+  "https://www.hotukdeals.com/deals/sistema-ultra-airtight-pantry-storage-container-700-ml-3-for-2-5050448",
+  "https://www.mydealz.de/deals/haier-einbaukuhlgefrierkombination-hbq7518at-1772-cm-182-liter-kuhlbereich-86-liter-gefrierbereich-energieklasse-a-98kwh-2884463",
+  "https://www.preisjaeger.at/deals/ancel-mt700-motorrad-diagnosegerat-zahlung-mit-klarna-373621",
+  "https://www.dealabs.com/bons-plans/disney-lorcana-display-24-boosters-chapitre-7-lile-darchazia-vf-a-10392-eur-20-3473241",
+  "https://www.dealabs.com/bons-plans/smartphone-69-samsung-galaxy-s26-ultra-256-go-chargeur-25w-blanc-via-200eur-dodr-3473240",
+  "https://www.dealabs.com/bons-plans/80nm-einhell-professional-perceuse-visseuse-a-percussion-sans-fil-tp-cd-1880-li-i-bl-pxc-18v-avec-2-batteries-2ah-et-1-chargeur-3473239",
+  "https://www.chollometro.com/ofertas/by-amazon-guantes-desechables-de-nitrilo-azules-sin-polvo-sin-latex-talla-sm-o-xl-paquete-de-100-2094455",
+  "https://nl.pepper.com/aanbiedingen/apple-iphone-air-256-gb-alle-kleuren-430013",
+  "https://www.hotukdeals.com/deals/car-boot-organiser-multi-compartment-foldable-and-dividers-black-wcode-amazon-haul-free-delivery-wps15-spend-5050452"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795824707.9126334,
-  "ebay": 1795825446.3504734
+  "ebay": 1795826372.2570012
  },
  "ebay_seen": {
   "187110721591": 139.1,
