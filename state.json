@@ -59,13 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/wholesale-ts61-60-mechanical-wired-gaming-rgb-keyboard-61-key-compact-standard-keyboard-5050101",
-  "https://www.hotukdeals.com/deals/samsung-s99h-oled-tv-65-ps145137-after-codes-tcb-trade-in-5050102",
-  "https://www.hotukdeals.com/deals/sharp-soundbar-sbw310-21-dolby-atmos-5050100",
-  "https://www.hotukdeals.com/deals/sony-85mm-f18-full-frame-e-mount-prime-lens-ideal-for-portraits-weddings-and-shallow-depth-of-field-shots-black-5050099",
-  "https://www.mydealz.de/deals/netto-kerrygold-butter-250g-nur-088-eur-mit-app-max-4-stuck-2884202",
-  "https://www.mydealz.de/deals/govee-5eur-gutschein-fur-neukunden-in-der-app-govee-bluetooth-thermometer-hygrometer-fur-468eur-govee-wi-fi-thermo-hygrometer-fur-999eur-2884200",
-  "https://www.mydealz.de/deals/miele-duoflex-zubehor-zum-top-preis-2884199",
   "https://www.mydealz.de/deals/hillmiles-milecity-1-city-e-bike-26-250w-motor-36v-13ah-468wh-akku-bis-120km-reichweite-7-gang-2884198",
   "https://www.mydealz.de/deals/herman-miller-embody-gaming-125937eur-moglich-mit-shoop-2884191",
   "https://www.dealabs.com/bons-plans/lot-de-24-boites-de-patee-pour-chat-purina-gourmet-gold-coeur-doux-au-poulet-85-g-par-boite-204-kg-prevoyez-et-economisez-3472847",
@@ -1558,7 +1551,14 @@
   "https://www.dealabs.com/bons-plans/reobrix-le-hollandais-volant-3473294",
   "https://www.dealabs.com/codes-promo/15-de-reduction-sur-les-pieces-et-figurines-lego-chez-toypro-jusquau-30-novembre-3473293",
   "https://www.dealabs.com/bons-plans/lego-icons-star-trek-uss-enterprise-ncc-1701-d-10356-3473292",
-  "https://www.hotukdeals.com/deals/lego-creator-3in1-cute-hamster-with-a-flower-31376-5050506"
+  "https://www.hotukdeals.com/deals/lego-creator-3in1-cute-hamster-with-a-flower-31376-5050506",
+  "https://www.mydealz.de/deals/ortovox-punta-berrino-hooded-jacket-s-bis-xl-2884493",
+  "https://www.mydealz.de/deals/tcl-98t8d-mini-led-98-zoll-tv-2884492",
+  "https://www.mydealz.de/deals/jetzt-personalisierte-5-rabatt-bei-amazon-versand-ohne-eile-2884491",
+  "https://www.dealabs.com/bons-plans/bbllet-a-9-euros-3473298",
+  "https://www.hotukdeals.com/deals/nivea-men-sensitive-shower-gel-3-in-1-500-ml-get-3-for-the-price-of-2-6-bottles-ps620-no-rush-ps584-5050509",
+  "https://www.hotukdeals.com/deals/lego-40926-sega-mega-drive-console-5050508",
+  "https://www.hotukdeals.com/deals/lego-ideas-21369-the-x-files-5050507"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795844555.8332975,
-  "ebay": 1795844237.299082
+  "ebay": 1795845298.7203796
  },
  "ebay_seen": {
   "187110721591": 139.1,
