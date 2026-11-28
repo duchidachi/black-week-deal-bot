@@ -59,9 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/lounge-by-zalando-nike-air-max-tw-sneaker-schwarz-restgrossen-385-39-495-fur-4380-eur-inkl-versand-3790-eur-vsk-2884193",
-  "https://www.mydealz.de/gutscheine/nzbfinder-black-friday-15-rabatt-auf-alle-premium-tarife-2884192",
-  "https://www.preisjaeger.at/deals/mediamarkt-die-preisjager-sportskanone-garmin-fenix-8-amoled-47-mm-slate-greyblack-zum-tiefstpreis-373329",
   "https://www.dealabs.com/bons-plans/montre-automatique-orient-star-m42-diver-1964-v2-re-au0602e00b-41-mm-verre-saphir-lunette-rotative-200-m-3472834",
   "https://www.dealabs.com/bons-plans/plaque-induction-saphirmatt-se-serie-600-bridge-60-cm-zone-flexible-3472833",
   "https://www.dealabs.com/bons-plans/apple-watch-ultra-4-gps-cellular-49-mm-titanium-case-black-3472832",
@@ -1558,7 +1555,10 @@
   "https://nl.pepper.com/aanbiedingen/lego-botanicals-hibiscus-10372-laagste-prijs-ooit-430017",
   "https://www.hotukdeals.com/deals/tcl-65c8l-uk-65-inch-sqd-mini-led-4k-ultra-hd-hdr-smart-tv-5000-nit-144hz-6-year-warranty-5050494",
   "https://www.mydealz.de/deals/lego-shop-15-fach-payback-personalisierten-10-auf-fast-alles-im-lego-shop-2884483",
-  "https://nl.pepper.com/aanbiedingen/haribo-lovers-spenen-fzz-of-konfekties-nettorama-430018"
+  "https://nl.pepper.com/aanbiedingen/haribo-lovers-spenen-fzz-of-konfekties-nettorama-430018",
+  "https://www.dealabs.com/bons-plans/google-pixel-11-pro-xl-256go-et-enceinte-bo-explore-3473282",
+  "https://www.hotukdeals.com/deals/elf-skin-holy-hydration-makeup-melting-cleansing-balm-face-cleanser-and-makeup-remover-5050496",
+  "https://www.hotukdeals.com/deals/hisense-ax5125h-512ch-sound-bar-with-rear-speakers-sub-2-x-nectar-points-5050495"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795840597.0009406,
-  "ebay": 1795841339.5593228
+  "ebay": 1795842265.458932
  },
  "ebay_seen": {
   "187110721591": 139.1,
