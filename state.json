@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-28T05:44:17+00:00"
+   "checked": "2026-11-28T06:17:35+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-28T05:43:21+00:00"
+   "checked": "2026-11-28T06:16:45+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-28T05:43:58+00:00"
+   "checked": "2026-11-28T06:15:55+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,37 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 319.0,
    "last": 319.0,
-   "checked": "2026-11-28T05:42:49+00:00"
+   "checked": "2026-11-28T06:16:29+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 490.9,
-   "checked": "2026-11-28T05:44:36+00:00"
+   "checked": "2026-11-28T06:16:10+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 599.9,
    "last": 599.9,
-   "checked": "2026-11-28T05:43:39+00:00"
+   "checked": "2026-11-28T06:17:49+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 519.99,
-   "checked": "2026-11-28T05:43:08+00:00"
+   "checked": "2026-11-28T06:17:00+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.preisjaeger.at/deals/die-bambu-lab-alternative-fur-tuftler-anycubic-kobra-s1-ace-2-pro-combo-373626",
-  "https://www.preisjaeger.at/deals/rituals-25-auf-handseifen-handbalsame-und-nachfullpackungen-373190",
-  "https://www.dealabs.com/bons-plans/rayman-30th-anniversary-edition-ps5-3472859",
-  "https://www.dealabs.com/bons-plans/lot-de-6-barquettes-de-patee-naturelle-pour-chien-lilys-kitchen-classic-dinner-multipack-6-150-g-chacune-900-g-prevoyez-et-economisez-3472855",
-  "https://www.dealabs.com/codes-promo/10-de-remise-supplementaire-sur-tout-le-site-linvosges-3472857",
-  "https://www.dealabs.com/bons-plans/robot-patissier-krafstman-en-metal-3472854",
   "https://www.dealabs.com/bons-plans/gothic-1-remake-playstation-5-3472849",
   "https://www.dealabs.com/bons-plans/tv-97-lg-oled97g5-oled-evo-4k-uhd-245-cm-vrr-120hz-pixel-dimming-freesync-premium-via-remise-panier-3472853",
   "https://www.dealabs.com/bons-plans/tv-sony-bravia-8-ll-3472851",
@@ -1558,7 +1552,13 @@
   "https://www.hotukdeals.com/deals/gucci-flora-gorgeous-jasmine-eau-de-parfum-100ml-5050515",
   "https://www.hotukdeals.com/vouchers/15-off-sitewide-no-minimum-spend-required-5050514",
   "https://www.hotukdeals.com/vouchers/15-off-sitewide-no-minimum-spend-required-5050513",
-  "https://www.hotukdeals.com/deals/40-off-disney-x-pandora-today-only-free-delivery-store-cc-5050512"
+  "https://www.hotukdeals.com/deals/40-off-disney-x-pandora-today-only-free-delivery-store-cc-5050512",
+  "https://www.mydealz.de/deals/amazon-30x-lavazza-ristretto-kaffee-kapseln-nespresso-kompatibel-im-spar-abo-fur-021eur-kapsel-2884501",
+  "https://www.mydealz.de/deals/pulp-fiction-1994-by-quentin-tarantino-1-oscar-imdb-8810-travolta-samuel-l-jackson-blu-ray-prime-2884500",
+  "https://www.mydealz.de/deals/muller-cb-kosmos-exit-das-spiel-puzzle-das-gold-der-piraten-2884499",
+  "https://www.dealabs.com/bons-plans/assassins-creed-black-flag-resynced-edition-de-lancement-sur-xbox-series-x-3473304",
+  "https://www.dealabs.com/bons-plans/funko-pop-disney-lilo-stitch-snorkeling-stitch-3473303",
+  "https://www.hotukdeals.com/deals/usn-bluelab-whey-protein-powder-i-chocolate-caramel-i-2kg-58-servings-5050517"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795844555.8332975,
+  "geizhals": 1795846543.3288865,
   "ebay": 1795846224.9801888
  },
  "ebay_seen": {
