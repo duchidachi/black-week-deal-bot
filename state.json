@@ -59,17 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/asus-rog-strix-oled-xg27aqwmg-moniteur-de-gaming-oled-qhd-280-hz-compatible-g-sync-27-pouces-3472800",
-  "https://www.dealabs.com/bons-plans/chaussure-salomon-genesis-2-noirgris-3472799",
-  "https://www.dealabs.com/bons-plans/parfum-bleu-de-chanel-100ml-3472798",
-  "https://www.dealabs.com/bons-plans/plan-de-travail-bois-hetre-lamelle-brut-l200-x-p65-cm-ep26-mm-3472795",
-  "https://www.chollometro.com/ofertas/garmin-instinct-e-45-mm-reloj-gps-multideporte-resistencia-militar-brujula-altimetro-y-16-dias-de-bateria-2093970",
-  "https://www.chollometro.com/ofertas/geyser-euro-3000l-filtro-agua-grifo-aragon-reduce-cloro-e-impurezas-2093967",
-  "https://www.chollometro.com/ofertas/tous-kaos-icon-mujer-bolso-2093965",
-  "https://www.chollometro.com/ofertas/auriculares-supraaurales-con-cable-para-ninos-belkin-soundform-mini-reacondicionado-como-nuevo-2093969",
-  "https://www.chollometro.com/ofertas/8bitdo-retro-receiver-for-n64-and-windows-para-usar-mandos-compatible-con-8bitdo-64-xbox-switch-y-ps5ps4-2093966",
-  "https://www.chollometro.com/ofertas/tailandia-vuelos-de-ida-y-vuelta-por-solo-466eur-mayo-salidas-desde-barcelona-2093964",
-  "https://nl.pepper.com/aanbiedingen/canyon-stealth-sale-black-friday-tot-33-korting-op-fietsen-en-e-bikes-en-40-op-fietskleding-en-schoenen-427386",
   "https://nl.pepper.com/aanbiedingen/ugg-black-friday-tot-60-korting-op-laarzen-pantoffels-en-sneakers-voor-dames-heren-en-kids-428752",
   "https://www.hotukdeals.com/deals/kitkat-chunky-milk-chocolate-bar-4-x-40g-ps128-with-max-ss-5050071",
   "https://www.hotukdeals.com/deals/grand-theft-auto-vi-dualsense-wireless-controller-white-playstation-5-5050070",
@@ -1558,7 +1547,18 @@
   "https://www.chollometro.com/ofertas/lego-titanic-10294-2094461",
   "https://nl.pepper.com/aanbiedingen/nike-air-force-1-07-wit-eur6220-met-amazon-zalandobon-zalando-430014",
   "https://www.hotukdeals.com/deals/samsung-qe65s90h-65-oled-5050455",
-  "https://www.hotukdeals.com/deals/quechua-20-l-backpack-arpenaz-100-beigecherry-purpleabyss-greengolden-brownsmoked-green-free-cc-5050453"
+  "https://www.hotukdeals.com/deals/quechua-20-l-backpack-arpenaz-100-beigecherry-purpleabyss-greengolden-brownsmoked-green-free-cc-5050453",
+  "https://www.preisjaeger.at/deals/ray-ban-bis-zu-50-rabatt-10-on-top-am-black-friday-zb-rb3516-fur-7785eur-inkl-versand-statt-13840eur-373622",
+  "https://www.dealabs.com/bons-plans/table-basse-vasagle-barnet-avec-plateau-relevable-et-2-tiroirs-de-rangement-100-x-50-cm-3473252",
+  "https://www.dealabs.com/bons-plans/pc-banger-geforce-rtx-5060-3473251",
+  "https://www.chollometro.com/ofertas/nike-heritage-20-rinonera-pequena-2094467",
+  "https://www.chollometro.com/ofertas/the-x-files-21369-2094466",
+  "https://www.chollometro.com/ofertas/bluey-peluche-suave-20-cm-2094465",
+  "https://www.chollometro.com/ofertas/lego-stranger-things-la-casa-creel-11370-2094464",
+  "https://www.chollometro.com/ofertas/guardians-of-the-galaxy-awesome-mix-vol-1-cd-2094463",
+  "https://www.chollometro.com/ofertas/star-trek-uss-enterprise-ncc-1701-d-10356-2094462",
+  "https://nl.pepper.com/aanbiedingen/lego-titanic-430015",
+  "https://www.hotukdeals.com/deals/byoma-body-set-get-3-for-ps23-max-ss-5050456"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795826689.8868213,
-  "ebay": 1795826372.2570012
+  "ebay": 1795827414.7923367
  },
  "ebay_seen": {
   "187110721591": 139.1,
