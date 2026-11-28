@@ -59,7 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/8bitdo-pro-3-bluetooth-controller-for-switchswitch-2-tmr-joysticks-swappable-abxy-buttons-windows-apple-steamos-android-2093984",
   "https://www.hotukdeals.com/deals/lego-architecture-new-york-city-the-big-apple-21066-wvoucher-5050080",
   "https://www.hotukdeals.com/deals/wireless-earbuds-bluetooth-54-headphones-wireless-in-ear-5050079",
   "https://www.hotukdeals.com/deals/ikt-ear-buds-wireless-earbuds-5050078",
@@ -1558,7 +1557,8 @@
   "https://www.mydealz.de/deals/ticktype-evo75-iso-de-nebula-2884477",
   "https://www.dealabs.com/bons-plans/de-buyer-poele-ronde-antiadhesive-choc-intense-twisty-diametre-32-cm-3473271",
   "https://www.dealabs.com/bons-plans/om-system-om-5-mark-ii-mzuiko-digital-12-45mm-f4-pro-3473273",
-  "https://www.dealabs.com/bons-plans/casque-audio-sonos-ace-noir-3473272"
+  "https://www.dealabs.com/bons-plans/casque-audio-sonos-ace-noir-3473272",
+  "https://www.dealabs.com/bons-plans/stanley-1913-quencher-h20-flowstate-trinkbecher-19l-black-3473274"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795836611.182665,
-  "ebay": 1795836288.65652
+  "ebay": 1795837356.8057752
  },
  "ebay_seen": {
   "187110721591": 139.1,
