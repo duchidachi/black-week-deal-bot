@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-28T05:11:41+00:00"
+   "checked": "2026-11-28T05:44:17+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-28T05:10:10+00:00"
+   "checked": "2026-11-28T05:43:21+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-28T05:09:57+00:00"
+   "checked": "2026-11-28T05:43:58+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,35 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 319.0,
    "last": 319.0,
-   "checked": "2026-11-28T05:10:30+00:00"
+   "checked": "2026-11-28T05:42:49+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 490.9,
-   "checked": "2026-11-28T05:11:01+00:00"
+   "checked": "2026-11-28T05:44:36+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 599.9,
    "last": 599.9,
-   "checked": "2026-11-28T05:10:44+00:00"
+   "checked": "2026-11-28T05:43:39+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 519.99,
-   "checked": "2026-11-28T05:11:26+00:00"
+   "checked": "2026-11-28T05:43:08+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/macif-tv-65-samsung-tq65s95h-enceinte-music-studio-5-2026-qd-oled-4k-via-reprise-de-100eur-3472845",
-  "https://www.dealabs.com/bons-plans/tv-lg-4k-oled-evo-oled55c6-139-cm-2026-3472844",
-  "https://www.dealabs.com/bons-plans/dazn-gratuit-pour-ce-weekend-3472843",
-  "https://www.dealabs.com/bons-plans/humble-bundle-arc-system-works-evo-collection-10-jeux-pc-dematerialises-steam-guilty-gear-strive-blazblue-centralfiction-3472842",
   "https://www.dealabs.com/bons-plans/four-a-pizza-ziipa-a-gaz-12-3472840",
   "https://www.dealabs.com/bons-plans/nintendo-switch-2-batterie-standard-3472841",
   "https://www.dealabs.com/bons-plans/elitewheels-pro-gravel-700c-jeu-de-roues-en-carbone-3472839",
@@ -1558,7 +1554,11 @@
   "https://www.hotukdeals.com/deals/missoma-jewellery-up-40-off-everything-to-5050501",
   "https://www.mydealz.de/deals/amazon-prime-falke-tk2-cool-wandersocken-44-45-und-46-48-2884488",
   "https://www.dealabs.com/bons-plans/foco-offizielles-lizenzprodukt-paris-saint-germain-3473290",
-  "https://www.hotukdeals.com/deals/amblers-as501r-size-9-black-steel-toe-cap-safety-boots-5050503"
+  "https://www.hotukdeals.com/deals/amblers-as501r-size-9-black-steel-toe-cap-safety-boots-5050503",
+  "https://www.preisjaeger.at/gutschein/lieferando-6eur-rabatt-ab-12eur-bestellwert-fur-alle-373625",
+  "https://www.dealabs.com/bons-plans/astronaute-a-construire-astronaute-spatial-70131-3473291",
+  "https://www.hotukdeals.com/deals/lego-gingerbread-at-at-walker-40806-5050505",
+  "https://www.hotukdeals.com/deals/g-shock-mens-impact-digital-watch-5050504"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795842583.7447627,
+  "geizhals": 1795844555.8332975,
   "ebay": 1795844237.299082
  },
  "ebay_seen": {
