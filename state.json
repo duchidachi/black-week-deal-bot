@@ -59,9 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/parker-jotter-originals-ballpoint-pen-classic-5050074",
-  "https://www.hotukdeals.com/deals/sony-bravia-8-ii-65-richer-sounds-5050072",
-  "https://www.mydealz.de/deals/schallplatten-wandhalterung-fur-12-vinyl-flate-2884188",
   "https://www.mydealz.de/deals/tcl-9000-btu-26-kw-mobile-klimaanlage-als-geprufte-b-ware-2884184",
   "https://www.mydealz.de/deals/dyson-v8-cyclone-fluffy-2884187",
   "https://www.mydealz.de/deals/samsung-warmepumpentrockner-dv5000h-2884186",
@@ -1558,7 +1555,10 @@
   "https://www.dealabs.com/bons-plans/dji-bundle-standard-osmo-pocket-4-camera-vlog-de-poche-avec-nacelle-3473266",
   "https://www.hotukdeals.com/deals/shark-cryoglow-plus-under-eye-cooling-wider-coverage-led-anti-ageing-blemish-repair-mask-pastel-dusk-7000-advantage-card-points-ps70-5050472",
   "https://www.hotukdeals.com/deals/fat-face-30-off-black-friday-5050471",
-  "https://www.hotukdeals.com/deals/30th-anniversary-celebration-m6a-japanese-booster-box-5050473"
+  "https://www.hotukdeals.com/deals/30th-anniversary-celebration-m6a-japanese-booster-box-5050473",
+  "https://www.hotukdeals.com/deals/lego-icons-star-trek-uss-enterprise-ncc-1701-d-10356-5050476",
+  "https://www.hotukdeals.com/deals/scarlet-violet-destined-rivals-elite-trainer-box-5050475",
+  "https://www.hotukdeals.com/deals/bankhall-british-blended-whisky-malt-corn-rye-40-1l-5050474"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795832634.2375865,
-  "ebay": 1795832315.335509
+  "ebay": 1795833377.866894
  },
  "ebay_seen": {
   "187110721591": 139.1,
