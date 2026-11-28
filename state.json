@@ -59,21 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/pantalon-de-travail-a-poches-site-dunbar-noir-genoux-renforces-plusieurs-tailles-3473187",
-  "https://www.dealabs.com/bons-plans/homcom-chaise-bureau-ergonomique-3473186",
-  "https://www.dealabs.com/bons-plans/ecouteurs-bluetooth-anc-multipoint-48h-dautonomie-3473185",
-  "https://www.dealabs.com/bons-plans/carte-eleclerc-34-de-remise-immediate-sur-une-selection-philips-ex-machine-a-expresso-philips-ep082000-3472751",
-  "https://www.dealabs.com/bons-plans/marsupilami-le-secret-du-sarcophage-sur-nintendo-switch-3473183",
-  "https://www.dealabs.com/bons-plans/tp-link-wifi-7-deco-be25-x-3-frontaliers-belges-3473182",
-  "https://www.chollometro.com/ofertas/chancla-adilette-shower-adidas-2094379",
-  "https://www.chollometro.com/ofertas/elf-niebla-de-coco-hidratante-refresca-calma-y-vigoriza-la-piel-aroma-tropical-80-ml-2094378",
-  "https://www.chollometro.com/ofertas/vinilo-nina-hagen-highway-to-heaven-2094377",
-  "https://www.chollometro.com/ofertas/hawkers-royal-flush-gafas-unisex-adulto-2094376",
-  "https://nl.pepper.com/aanbiedingen/lidl-6-kipster-eieren-drie-sterren-beter-leven-keurmerk-430004",
-  "https://nl.pepper.com/aanbiedingen/bol-dagdeal-11-gratis-op-kambukka-flessen-429863",
-  "https://nl.pepper.com/aanbiedingen/bolcom-2e-halve-prijs-op-heel-veel-speelgoed-430003",
-  "https://nl.pepper.com/aanbiedingen/tot-20-korting-op-lego-sets-met-oa-harry-potter-429773",
-  "https://www.hotukdeals.com/deals/ecovacs-deebot-x12-omnicyclone-robot-vacuum-cleaner-and-mop-22000pa-suction-instant-self-washing-mop-aivi-3d-smart-navigation-5050391",
   "https://www.mydealz.de/deals/napoleon-travelq-pro285-kompakt-gasgrill-schwarz-mit-untergestell-2884436",
   "https://www.mydealz.de/deals/lego-fortnite-77078-mecha-anfuhrer-2884435",
   "https://www.mydealz.de/deals/anker-solix-max-mit-7-kwh-speicher-2884434",
@@ -1558,7 +1543,22 @@
   "https://www.hotukdeals.com/deals/venom-charging-dock-with-rechargeable-battery-pack-black-xbox-series-x-sxbox-one-5050727",
   "https://www.hotukdeals.com/deals/cheap-egypt-all-inclusive-holiday-doubletree-by-hilton-resort-11-19-jan-2027-2-adults-and-2-children-flights-from-london-southend-5050627",
   "https://www.hotukdeals.com/deals/einhell-grass-strimmer-23cm-300w-corded-trimmer-refurb-grade-a-free-delivery-5050726",
-  "https://www.hotukdeals.com/deals/lego-super-mario-71426-piranha-plant-model-set-5050725"
+  "https://www.hotukdeals.com/deals/lego-super-mario-71426-piranha-plant-model-set-5050725",
+  "https://www.mydealz.de/deals/de-buyer-edelstahlsieb-mit-4-auswechselbaren-siebeinsatzen-3mm-2mm-1mm-05mm-durchmesser-2884695",
+  "https://www.mydealz.de/deals/specialized-crux-gravelbike-2884693",
+  "https://www.mydealz.de/deals/pokemon-tonies-glumanda-pikachu-bisasam-schiggy-fur-je-999-eur-mit-ottoup-2884689",
+  "https://www.preisjaeger.at/deals/samsung-bespoke-ai-jet-lite-complete-akkustaubsauger-3-burstenaufsatze-cleanstation-373657",
+  "https://www.dealabs.com/bons-plans/xiaomi-pad-7-256go-3473555",
+  "https://www.chollometro.com/ofertas/pack-amazon-echo-show-8-ultima-gen-camara-exterior-ring-2k-con-bateria-blanco-en-amazon-2094922",
+  "https://www.chollometro.com/ofertas/azul-mini-juego-de-mesa-de-estrategia-y-colocacion-de-losetas-2094921",
+  "https://www.chollometro.com/ofertas/jordan-jumpman-jack-tr-green-spark-2094920",
+  "https://www.chollometro.com/ofertas/canon-pixma-tr4755i-impresora-multifuncion-wi-fi-inyeccion-de-tinta-2094919",
+  "https://www.chollometro.com/ofertas/dto-en-app-acer-nitro-v-16-ai-anv16-42-r39b-16-wuxga-amd-ryzen-7-260-16gb-ram-512-gb-ssd-geforce-rtx-5050-sin-sistema-operativo-2094918",
+  "https://www.chollometro.com/ofertas/piz-buin-allergy-crema-solar-corporal-spf-30-pieles-sensibles-400-ml-proteccion-alta-24-h-filtros-uvauvb-con-calmanelle-y-feverfew-2094917",
+  "https://www.chollometro.com/ofertas/dji-osmo-360-8k-por-28495eur-en-aliexpress-26495eur-con-paypal-20eur-267eur-con-relleno-y-cupon-68eur-2094916",
+  "https://www.chollometro.com/ofertas/lego-editions-mclaren-mastercard-f1-team-casco-de-lando-norris-43023-2094915",
+  "https://www.chollometro.com/ofertas/blazer-only-onlberry-34-zip-cc-tlr-para-mujer-tallas-de-36-a-44-2094913",
+  "https://nl.pepper.com/aanbiedingen/lotto-heren-trainingspak-2xlxxl-430079"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795861625.7861893,
+  "geizhals": 1795863507.4747372,
   "ebay": 1795863192.5775833
  },
  "ebay_seen": {
