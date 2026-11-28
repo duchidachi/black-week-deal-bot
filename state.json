@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-28T06:17:35+00:00"
+   "checked": "2026-11-28T06:49:13+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-28T06:16:45+00:00"
+   "checked": "2026-11-28T06:48:59+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-28T06:15:55+00:00"
+   "checked": "2026-11-28T06:49:53+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,39 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 319.0,
    "last": 319.0,
-   "checked": "2026-11-28T06:16:29+00:00"
+   "checked": "2026-11-28T06:50:04+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 490.9,
-   "checked": "2026-11-28T06:16:10+00:00"
+   "checked": "2026-11-28T06:50:22+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 599.9,
    "last": 599.9,
-   "checked": "2026-11-28T06:17:49+00:00"
+   "checked": "2026-11-28T06:49:41+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 519.99,
-   "checked": "2026-11-28T06:17:00+00:00"
+   "checked": "2026-11-28T06:50:34+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/merrell-zapatilla-accentor-4-sport-gtx-rosa-morado-mulch-mujer-2094026",
-  "https://www.chollometro.com/ofertas/under-armour-hovr-apparition-zapatillas-azul-marino-2094024",
-  "https://www.chollometro.com/ofertas/samsung-tv-mini-led-m80h-65-4k-2094022",
-  "https://www.chollometro.com/ofertas/delonghi-magnifica-duo-cafetera-superautomatica-20-bebidas-plata-2094020",
-  "https://www.chollometro.com/ofertas/jbl-tune-770nc-2094018",
-  "https://www.hotukdeals.com/deals/yh-45a-mppt-solar-charge-controller-12v-24v-36v-48v-auto-app-remote-wifi-bluetooth-rs485-max-pv-120v-with-code30-tcb-yh-flagship-store-5050125",
-  "https://www.hotukdeals.com/deals/sony-fe-100-400mm-f45-oss-g-master-lens-5050124",
-  "https://www.hotukdeals.com/deals/ventryn-9l-dual-zone-digital-air-fryer-oven-cooker-oil-free-low-fat-large-with-100-tray-with-code-30-tcb-ventryn-store-5050117",
   "https://www.mydealz.de/deals/roborock-qrevo-edget-saugroboter-mit-wischfunktion-18500-pa-dual-anti-tangle-flexiarm-75-c-moppwasche-2884225",
   "https://www.mydealz.de/deals/hsn-blackfriday-deal-2884224",
   "https://www.dealabs.com/bons-plans/tv-65-philips-65oled801-2026-oled-4k-120-hz-ambilight-dolby-vision-hdmi-21-3472877",
@@ -1558,7 +1550,15 @@
   "https://nl.pepper.com/aanbiedingen/nivea-men-adventskalender-2026-24-verzorgingsproducten-voor-eur5996-430023",
   "https://www.hotukdeals.com/vouchers/10-off-sitewide-no-minimum-spend-required-5050528",
   "https://www.hotukdeals.com/vouchers/15-off-sitewide-no-minimum-spend-required-5050527",
-  "https://www.hotukdeals.com/deals/sonos-arc-ultra-sub-4-era-300-pair-6-year-warranty-with-code-5050526"
+  "https://www.hotukdeals.com/deals/sonos-arc-ultra-sub-4-era-300-pair-6-year-warranty-with-code-5050526",
+  "https://www.mydealz.de/deals/tamagotchi-original-virtuelles-haustier-sortiert-at-penny-2884522",
+  "https://www.dealabs.com/bons-plans/aspirateur-traineau-avec-sac-philips-serie-3000-xd311009-900-w-3-l-brosse-triactive-filtre-allergy-h13-3473321",
+  "https://www.dealabs.com/bons-plans/titanic-lego-creator-10294-2-gwp-3473320",
+  "https://www.dealabs.com/bons-plans/samsung-galaxy-z-fold8-256-go-avec-adap-25w-via-odr-300-euros-3473319",
+  "https://nl.pepper.com/aanbiedingen/pelonis-2-kw-energiezuinige-keramische-kachel-430025",
+  "https://nl.pepper.com/aanbiedingen/sony-a7r-v-body-430024",
+  "https://www.hotukdeals.com/vouchers/10-off-sitewide-no-minimum-spend-required-5050530",
+  "https://www.hotukdeals.com/deals/007-first-light-simplified-chinese-english-korean-japanese-traditional-chinese-hong-kong-psn-store-5050529"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795846543.3288865,
+  "geizhals": 1795848525.5441084,
   "ebay": 1795848207.2896109
  },
  "ebay_seen": {
