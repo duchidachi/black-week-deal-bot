@@ -59,22 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/boursobank-tv-oled-65-4k-samsung-s85h-vision-ai-smart-tv-2026-3472948",
-  "https://www.dealabs.com/bons-plans/windows-11-professionnel-3472947",
-  "https://www.dealabs.com/bons-plans/ecran-pc-265-lenovo-legion-27q-10-oled-qhd-240hz-003ms-hdr10-3472946",
-  "https://www.dealabs.com/bons-plans/coffret-blu-ray-4k-ultra-hd-hunger-games-lintegrale-5-films-edition-speciale-metropolitan-5-disques-3472945",
-  "https://www.dealabs.com/bons-plans/lego-star-wars-75454-at-at-des-vestiges-de-lempire-3472943",
-  "https://www.dealabs.com/bons-plans/espresso-broyeur-my-coffee-ea201be0-blanc-krups-3472942",
-  "https://www.dealabs.com/bons-plans/hell-is-us-sur-xbox-series-3472939",
-  "https://www.chollometro.com/ofertas/gamesir-g8-plus-mando-bluetooth-edicion-cuddle-team-leader-2094095",
-  "https://www.chollometro.com/ofertas/cargador-para-coche-belkin-doble-usb-a-24-w-cable-usb-a-a-lightning-negro-2094093",
-  "https://www.chollometro.com/ofertas/gamesir-g8-plus-mando-bluetooth-edicion-peely-2094091",
-  "https://www.chollometro.com/ofertas/gamesir-pocket-taco-controlador-de-juegos-movil-vertical-gamepad-bluetooth-de-arcade-retro-para-android-2094087",
-  "https://www.chollometro.com/ofertas/vox-amplug-2-lead-2094089",
-  "https://www.chollometro.com/ofertas/mochila-escolar-vans-old-skool-drop-negro-2094096",
-  "https://www.chollometro.com/ofertas/aceite-de-oliva-virgen-extra-2094094",
-  "https://www.chollometro.com/ofertas/fender-x-hello-kitty-white-stratocaster-limited-edition-2094092",
-  "https://www.hotukdeals.com/deals/republic-of-pirates-ps5-new-wcode-sold-by-musicmagpie-shop-5050172",
   "https://www.hotukdeals.com/deals/narc-2003-4k-dolby-vision-to-buy-5050170",
   "https://www.hotukdeals.com/deals/vitapremium-vitamin-d3-4000-iu-supplement-365-tablets-5050171",
   "https://www.hotukdeals.com/deals/amazon-basics-painters-tape-pack-of-4-rolls-36-cm-x-55-m-blue-5050169",
@@ -1558,7 +1542,23 @@
   "https://www.chollometro.com/ofertas/rimworld-pc-key-steam-2094583",
   "https://nl.pepper.com/aanbiedingen/tennis-point-black-friday-tot-70-korting-code-extra-10-430032",
   "https://www.hotukdeals.com/deals/lego-star-wars-bb-8-astromech-droid-75452-wvoucher-5050551",
-  "https://www.hotukdeals.com/deals/blue-orange-taco-cat-goat-cheese-pizza-the-high-energy-party-game-race-to-slap-the-deck-5050550"
+  "https://www.hotukdeals.com/deals/blue-orange-taco-cat-goat-cheese-pizza-the-high-energy-party-game-race-to-slap-the-deck-5050550",
+  "https://www.mydealz.de/deals/iphone-16-pro-256-gb-vodafone-unlimited-2999-euro-gigakombi-2884547",
+  "https://www.mydealz.de/deals/tommy-jeans-damen-t-shirt-kurzarm-1xl-prime-2884546",
+  "https://www.preisjaeger.at/deals/15-auf-alles-bei-thalia-ausser-bucher-373647",
+  "https://www.dealabs.com/bons-plans/lot-de-10-steaks-haches-charal-grand-cru-race-charolaise-ou-limousine-1kg-via-818eur-en-bon-dachat-3473332",
+  "https://www.dealabs.com/bons-plans/panasonic-cordless-phone-kx-tg6821-single-silver-with-answering-machine-3473366",
+  "https://www.dealabs.com/bons-plans/hnor-600-5g-512-go-noir-version-ue-3473361",
+  "https://www.dealabs.com/bons-plans/lego-disney-43269-le-chiot-des-101-dalmatiens-3473365",
+  "https://www.dealabs.com/bons-plans/shure-sm7b-3473364",
+  "https://www.dealabs.com/bons-plans/figurines-lego-de-onze-max-demogorgon-et-holly-3473363",
+  "https://www.dealabs.com/bons-plans/lego-stranger-things-11370-3473362",
+  "https://www.chollometro.com/ofertas/ebook-amazon-kindle-2026-16-gb-ultima-generacion-pantalla-6-16gb-wifi-5-fino-ligero-y-rapido-grafito-2094587",
+  "https://www.chollometro.com/ofertas/tcl-c1-proyector-portatil-4k-compatible-googletvnetflixapv-integrees-mini-proyector-full-hd-2094584",
+  "https://nl.pepper.com/aanbiedingen/kerstvrouw-lego-40875-laagste-ooit-430033",
+  "https://www.hotukdeals.com/deals/stanley-1913-classic-wide-mouth-hip-flask-023l-hammertone-green-5050554",
+  "https://www.hotukdeals.com/deals/mcvities-wafer-rolls-with-hazelnut-cream-filling-170g-ps140-ps120-max-ss-discount-at-checkout-5050553",
+  "https://www.hotukdeals.com/deals/costa-calma-fuerteventura-spain-4-nights-in-4-bluesea-golden-beach-incl-flights-all-inclusive-2-travelers-ps260pp-dec-6-10-5050552"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795850504.4423416,
-  "ebay": 1795850187.3592386
+  "ebay": 1795851132.9552362
  },
  "ebay_seen": {
   "187110721591": 139.1,
