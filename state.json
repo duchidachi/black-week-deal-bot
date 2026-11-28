@@ -59,10 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/tenda-sg105-switch-ethernet-gigabit-5-puertos-101001000-rj45-2093979",
-  "https://www.chollometro.com/ofertas/cargador-de-pared-belkin-boostcharge-pro-cargador-usb-c-gan-de-4-puertos-de-200-w-universal-blanco-2093977",
-  "https://www.chollometro.com/ofertas/msi-mag-274qpa-qd-oled-x24-de-27-monitor-gaming-wqhd-panel-qd-oled-2560x1440-240-hz-2093975",
-  "https://www.chollometro.com/ofertas/laser-6758-juego-de-llaves-combinadas-color-plateado-juego-de-18-2093973",
   "https://www.chollometro.com/ofertas/chandal-north-face-2093976",
   "https://www.chollometro.com/ofertas/ring-intercom-video-echo-hub-2093974",
   "https://www.chollometro.com/ofertas/maquina-de-coser-singer-sm024-rd-24-puntadas-utiles-luz-led-enhebrador-automatico-blancorojo-2093972",
@@ -1558,7 +1554,11 @@
   "https://www.dealabs.com/bons-plans/carte-eleclerc-airfryer-philips-serie-3000-na35100-2-bacs-9l-8-prereglages-2750w-via-odr-20eur-3473262",
   "https://www.hotukdeals.com/deals/russell-hobbs-colour-control-steampower-steam-generator-iron-9195806-5050469",
   "https://www.mydealz.de/deals/qcy-melobuds-n70-in-ear-kopfhorer-mit-anc-bt-60-50h10h-akku-ldac-2884472",
-  "https://nl.pepper.com/aanbiedingen/danish-endurance-sportboxers-heren-normale-of-lange-pijpen-6-pack-430016"
+  "https://nl.pepper.com/aanbiedingen/danish-endurance-sportboxers-heren-normale-of-lange-pijpen-6-pack-430016",
+  "https://www.dealabs.com/bons-plans/four-a-pizza-et-pinsa-electrique-g3-ferrari-g10216w-400c-1400w-double-resistance-pizza-o31-cm-rouge-3473265",
+  "https://www.dealabs.com/bons-plans/le-hacker-solitaire-gratuit-sur-android-dematerialise-play-store-3473264",
+  "https://www.dealabs.com/bons-plans/abonnement-1-an-dashlane-friends-family-gestionnaire-de-mots-de-passe-avec-le-code-bf60-ff-3473263",
+  "https://www.hotukdeals.com/deals/scalextric-cars-c4524-james-bond-amc-hornet-the-man-with-the-golden-gun-5050470"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795830651.2585578,
-  "ebay": 1795830332.7158673
+  "ebay": 1795831384.8981247
  },
  "ebay_seen": {
   "187110721591": 139.1,
