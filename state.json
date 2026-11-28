@@ -59,9 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/braun-black-friday-week-bis-zu-55-rabatt-5-extra-rabatt-mit-blackfriday-2884144",
-  "https://www.mydealz.de/deals/stanley-1913-047l-2884176",
-  "https://www.mydealz.de/deals/5-extra-auf-die-bladk-friday-bestellung-bis-zu-30-2884175",
   "https://www.mydealz.de/deals/fender-x-teufel-rockster-cross-2-outdoor-bluetooth-lautsprecher-fur-20999-eur-inkl-versand-7-2884174",
   "https://www.preisjaeger.at/deals/kommunalkredit-festgeld-mit-33-zinsen-pa-bei-12-monaten-laufzeit-373624",
   "https://www.preisjaeger.at/deals/bestpreis-einhell-power-x-change-plus-18v-4ah-twinpack-373623",
@@ -1558,7 +1555,10 @@
   "https://www.hotukdeals.com/deals/utility-warehouse-runs-on-ee-sim-only-10gb-5g-data-with-eu-roaming-monthly-rolling-plan-ps14-cashback-5050458",
   "https://www.hotukdeals.com/deals/theo-klein-8300-bosch-ixolino-cordless-screwdriver-toy-for-children-3-5050457",
   "https://www.chollometro.com/ofertas/sd-toys-it-taza-pennywise-2094473",
-  "https://www.hotukdeals.com/deals/old-spice-gift-set-rockstar-deodorant-stick-shower-gel-5050460"
+  "https://www.hotukdeals.com/deals/old-spice-gift-set-rockstar-deodorant-stick-shower-gel-5050460",
+  "https://www.hotukdeals.com/deals/baxters-super-good-pea-broccoli-basil-pesto-soup-400-g-pack-of-6-5050463",
+  "https://www.hotukdeals.com/deals/ff-womens-2-piece-cotton-pyjama-sets-6-designs-to-choose-from-instore-online-clubcard-price-5050462",
+  "https://www.hotukdeals.com/deals/7-nts-2-adults-bb-4-ramla-bay-resort-mellieha-malta-47-tripadvisor-05-12-dec-ps2928pppn-incl-bournemouth-flights-breakfast-taxes-5050461"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795826689.8868213,
-  "ebay": 1795827414.7923367
+  "ebay": 1795828338.980216
  },
  "ebay_seen": {
   "187110721591": 139.1,
