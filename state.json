@@ -59,12 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.hotukdeals.com/deals/thermaltake-cte-e600-mx-computer-case-5-colours-tempered-glass-3-orientations-400mm-pcie-40-riser-cable-and-bracket-included-5050104",
-  "https://www.mydealz.de/deals/personalisiert-black-friday-samsung-galaxy-s26-256-gb-und-512-gb-2884211",
-  "https://www.mydealz.de/deals/netto-melitta-kaffee-500g-nur-333-eur-mit-payback-am-1112-2884209",
-  "https://www.mydealz.de/deals/apple-tv-6-monate-fur-499-personalisiert-2884207",
-  "https://www.mydealz.de/deals/1500-3x500stk-spax-gix-c-trockenbauschrauben-39-45-mm-fur-1499eur-inkl-versand-fur-gipsfaserplatten-trockenestrich-2884206",
-  "https://www.mydealz.de/deals/kauf-2-ausgewahlte-lego-sets-erhalte-50-rabatt-auf-das-zweite-ca-359-sets-star-wars-ideas-z-b-2x-gameboy-72046-74eur-cdiscount-2884205",
   "https://www.preisjaeger.at/deals/die-bambu-lab-alternative-fur-tuftler-anycubic-kobra-s1-ace-2-pro-combo-373626",
   "https://www.preisjaeger.at/deals/rituals-25-auf-handseifen-handbalsame-und-nachfullpackungen-373190",
   "https://www.dealabs.com/bons-plans/rayman-30th-anniversary-edition-ps5-3472859",
@@ -1558,7 +1552,13 @@
   "https://www.dealabs.com/bons-plans/cosori-air-fryer-twinfry-10l-double-resistance-grande-capacite-dual-zone-avec-separateur-amovible-cuisson-optimale-70-recettes-3473301",
   "https://www.dealabs.com/bons-plans/lego-40875-minifigurine-de-la-mere-noel-grand-format-3473300",
   "https://www.hotukdeals.com/deals/medicube-txa-niacinamide-capsule-cream-55g-5050511",
-  "https://www.hotukdeals.com/deals/sim-free-google-pixel-10a-5g-128gb-ai-mobile-phone-obsidian-5050510"
+  "https://www.hotukdeals.com/deals/sim-free-google-pixel-10a-5g-128gb-ai-mobile-phone-obsidian-5050510",
+  "https://www.mydealz.de/deals/dji-rc-pro-2-fernsteuerung-fur-dji-drohnen-zum-absoluten-schnappchenpreis-sonderposten-2884498",
+  "https://www.hotukdeals.com/vouchers/20-off-sitewide-no-minimum-spend-required-5050516",
+  "https://www.hotukdeals.com/deals/gucci-flora-gorgeous-jasmine-eau-de-parfum-100ml-5050515",
+  "https://www.hotukdeals.com/vouchers/15-off-sitewide-no-minimum-spend-required-5050514",
+  "https://www.hotukdeals.com/vouchers/15-off-sitewide-no-minimum-spend-required-5050513",
+  "https://www.hotukdeals.com/deals/40-off-disney-x-pandora-today-only-free-delivery-store-cc-5050512"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795844555.8332975,
-  "ebay": 1795845298.7203796
+  "ebay": 1795846224.9801888
  },
  "ebay_seen": {
   "187110721591": 139.1,
