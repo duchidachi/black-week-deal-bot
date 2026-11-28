@@ -59,13 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/ikea-liljebagge-thermostat-matter-1349-eur-schon-vor-de-start-hannover-2884214",
-  "https://www.dealabs.com/bons-plans/sacs-a-dos-de-randonnee-amythe-33l-3472870",
-  "https://www.dealabs.com/bons-plans/surchemise-ample-matelassee-carhartt-rain-defender-107270-tailles-du-s-au-2xl-deperlante-noir-ou-marron-carhartt-3472869",
-  "https://www.dealabs.com/bons-plans/25-sur-le-panier-chez-animalis-credite-sur-la-carte-3472868",
-  "https://www.dealabs.com/bons-plans/lidl-coffret-de-cles-a-douilles-avec-cliquet-a-tete-orientable-pack-au-choix-37-ou-39-pieces-3472863",
-  "https://www.chollometro.com/ofertas/sennheiser-momentum-5-black-wireless-2094032",
-  "https://www.chollometro.com/ofertas/fisher-price-koala-calmante-y-achuchable-para-bebe-peluche-lavable-sonido-portatil-movimientos-respiratorios-musica-y-luces-2094028",
   "https://www.chollometro.com/ofertas/merrell-zapatilla-accentor-4-sport-gtx-rosa-morado-mulch-mujer-2094026",
   "https://www.chollometro.com/ofertas/under-armour-hovr-apparition-zapatillas-azul-marino-2094024",
   "https://www.chollometro.com/ofertas/samsung-tv-mini-led-m80h-65-4k-2094022",
@@ -1558,7 +1551,14 @@
   "https://nl.pepper.com/aanbiedingen/soundcore-aerofit-pro-oordopjes-430022",
   "https://www.hotukdeals.com/deals/sealskinz-unisex-all-weather-waterproof-socks-medium-length-xl-only-at-this-price-5050525",
   "https://www.hotukdeals.com/deals/lego-star-wars-c-3po-75398-voucher-price-5050524",
-  "https://www.hotukdeals.com/deals/victorinox-swiss-army-knife-sportsman-pocket-knife-13-functions-5050523"
+  "https://www.hotukdeals.com/deals/victorinox-swiss-army-knife-sportsman-pocket-knife-13-functions-5050523",
+  "https://www.mydealz.de/deals/rosle-95610-schlagbesen-27-cm-hochwertiger-schneebesen-mit-massivem-rundgriff-und-aufhangeose-silbern-2884521",
+  "https://www.dealabs.com/bons-plans/console-nintendo-switch-2-nouveau-modele-2026-a-batterie-remplacable-3473318",
+  "https://www.dealabs.com/bons-plans/defroisseur-vapeur-portatif-steamone-s-travel-2-2000-w-cuve-260-ml-pret-en-30s-3473317",
+  "https://nl.pepper.com/aanbiedingen/nivea-men-adventskalender-2026-24-verzorgingsproducten-voor-eur5996-430023",
+  "https://www.hotukdeals.com/vouchers/10-off-sitewide-no-minimum-spend-required-5050528",
+  "https://www.hotukdeals.com/vouchers/15-off-sitewide-no-minimum-spend-required-5050527",
+  "https://www.hotukdeals.com/deals/sonos-arc-ultra-sub-4-era-300-pair-6-year-warranty-with-code-5050526"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795846543.3288865,
-  "ebay": 1795847278.8054338
+  "ebay": 1795848207.2896109
  },
  "ebay_seen": {
   "187110721591": 139.1,
