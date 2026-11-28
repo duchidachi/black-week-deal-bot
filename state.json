@@ -59,9 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/veste-isolee-ample-carhartt-montana-xl-2xl-3472809",
-  "https://www.dealabs.com/bons-plans/ventilateur-plafond-avec-lumiere-cecotec-aero-4260-3472808",
-  "https://www.dealabs.com/bons-plans/bloc-couteaux-ninja-staysharp-de-13-pieces-avec-aiguiseur-amovible-noir-3472807",
   "https://www.dealabs.com/bons-plans/smartphone-samsung-galaxy-s25-128go-via-11980eur-sur-cagnotte-3472785",
   "https://www.chollometro.com/ofertas/chandal-ninos-10-a-16-anos-2093982",
   "https://www.chollometro.com/ofertas/link-dgs-105gl-switch-gigabit-5-puertos-sin-gestion-1000-megas-por-puerto-ethernet-lan-rj-45-plugplay-2093980",
@@ -1558,7 +1555,10 @@
   "https://www.mydealz.de/deals/sammelkartenspiel-top-trainer-box-30-jahre-2884470",
   "https://www.mydealz.de/deals/adidas-mens-terrex-anylander-mid-wanderschuh-2884469",
   "https://www.hotukdeals.com/deals/msi-sword-16hx-16-inch-1610-qhd-240hz-gaming-laptop-intel-core-i7-14700hx-nvidia-geforce-rtx-4070-16gb-ram-1tb-ssd-windows-11-home-5050466",
-  "https://www.hotukdeals.com/deals/11-verbal-reasoning-practice-papers-1000-questions-with-answers-5050465"
+  "https://www.hotukdeals.com/deals/11-verbal-reasoning-practice-papers-1000-questions-with-answers-5050465",
+  "https://www.mydealz.de/deals/iosmac-secure-shellfish-ssh-terminal-2884471",
+  "https://www.hotukdeals.com/deals/matteo-smart-hollywood-vanity-mirror-bluetooth-audio-dimmable-led-5050468",
+  "https://www.hotukdeals.com/deals/flatout-4-total-insanity-xbox-one-xbox-series-xs-5050467"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795828655.175343,
-  "ebay": 1795829403.017664
+  "ebay": 1795830332.7158673
  },
  "ebay_seen": {
   "187110721591": 139.1,
