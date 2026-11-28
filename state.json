@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-28T01:18:42+00:00"
+   "checked": "2026-11-28T01:51:11+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-28T01:19:45+00:00"
+   "checked": "2026-11-28T01:51:55+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-28T01:18:55+00:00"
+   "checked": "2026-11-28T01:51:41+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,33 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 319.0,
    "last": 319.0,
-   "checked": "2026-11-28T01:19:29+00:00"
+   "checked": "2026-11-28T01:52:31+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 490.9,
-   "checked": "2026-11-28T01:18:24+00:00"
+   "checked": "2026-11-28T01:51:29+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 599.9,
    "last": 599.9,
-   "checked": "2026-11-28T01:18:05+00:00"
+   "checked": "2026-11-28T01:52:43+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 519.99,
-   "checked": "2026-11-28T01:19:10+00:00"
+   "checked": "2026-11-28T01:52:14+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/smartphone-samsung-galaxy-s25-128go-via-11980eur-sur-cagnotte-3472785",
-  "https://www.chollometro.com/ofertas/chandal-ninos-10-a-16-anos-2093982",
   "https://www.chollometro.com/ofertas/link-dgs-105gl-switch-gigabit-5-puertos-sin-gestion-1000-megas-por-puerto-ethernet-lan-rj-45-plugplay-2093980",
   "https://www.chollometro.com/ofertas/marques-de-riscal-2021-reserva-y-remelluri-2017-reserva-2093978",
   "https://www.chollometro.com/ofertas/tenda-sg105-switch-ethernet-gigabit-5-puertos-101001000-rj45-2093979",
@@ -1558,7 +1556,9 @@
   "https://www.hotukdeals.com/deals/11-verbal-reasoning-practice-papers-1000-questions-with-answers-5050465",
   "https://www.mydealz.de/deals/iosmac-secure-shellfish-ssh-terminal-2884471",
   "https://www.hotukdeals.com/deals/matteo-smart-hollywood-vanity-mirror-bluetooth-audio-dimmable-led-5050468",
-  "https://www.hotukdeals.com/deals/flatout-4-total-insanity-xbox-one-xbox-series-xs-5050467"
+  "https://www.hotukdeals.com/deals/flatout-4-total-insanity-xbox-one-xbox-series-xs-5050467",
+  "https://www.dealabs.com/bons-plans/carte-eleclerc-airfryer-philips-serie-3000-na35100-2-bacs-9l-8-prereglages-2750w-via-odr-20eur-3473262",
+  "https://www.hotukdeals.com/deals/russell-hobbs-colour-control-steampower-steam-generator-iron-9195806-5050469"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795828655.175343,
+  "geizhals": 1795830651.2585578,
   "ebay": 1795830332.7158673
  },
  "ebay_seen": {
