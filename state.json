@@ -59,15 +59,6 @@
   }
  },
  "mydealz_seen": [
-  "https://www.chollometro.com/ofertas/adidas-mens-sudadera-de-felpa-con-capucha-essentials-feelcozy-talla-m-y-l-2094001",
-  "https://www.chollometro.com/ofertas/higrometro-y-termometro-digital-de-interiormonitor-de-temperatura-y-humedad-con-indicador-de-confort-reloj-efecto-madera-2093999",
-  "https://www.hotukdeals.com/deals/armaf-club-de-nuit-intense-man-eau-de-parfum-spray-200ml-5050111",
-  "https://www.hotukdeals.com/deals/garmin-edge-540-uk-central-and-west-eu-mapscompact-gps-cycling-computer-with-button-controls-targeted-adaptive-coaching-5050110",
-  "https://www.mydealz.de/gutscheine/bis-zu-35-bei-200eur-warenwert-auf-sortiment-von-greenbomb-auf-mernioshirts-shirts-mit-sportlichen-motiven-und-nachhaltige-mode-2884217",
-  "https://www.mydealz.de/deals/cb-samsung-gu55m1ehauxzg-55-mini-led-m1eh-4k-smart-tv-2026-2884215",
-  "https://www.mydealz.de/deals/degoogle-workspace-auf-halbpreis-2884208",
-  "https://www.dealabs.com/bons-plans/aspirateur-sans-fil-dreame-u20-370w-60-min-blanc-ampoule-intelligente-nivian-rgbw-3472861",
-  "https://www.chollometro.com/ofertas/puma-anzarun-lite-zapatillas-unisex-blancas-con-softfoam-varias-tallas-2094015",
   "https://www.chollometro.com/ofertas/vans-upland-unisex-zapatillas-blanco-2094019",
   "https://www.chollometro.com/ofertas/sapphero-reloj-hombre-cronografo-analogico-movimiento-cuarzo-50m-impermeable-relojes-para-hombre-banda-de-acero-inoxidable-2094027",
   "https://www.chollometro.com/ofertas/dickies-anorak-summerdale-corte-ancho-2094025",
@@ -1558,7 +1549,16 @@
   "https://www.dealabs.com/bons-plans/lego-architecture-21067-tower-bridge-3473305",
   "https://www.hotukdeals.com/deals/ps349-samsung-fridge-freezer-with-a-ps300-discount-for-john-lewis-members-5050520",
   "https://www.hotukdeals.com/deals/lego-technic-mclaren-p1-car-set-for-adults-42172-with-code-5050519",
-  "https://www.hotukdeals.com/deals/lego-disney-pixar-wall-e-and-eve-43279-wcode-free-cc-5050518"
+  "https://www.hotukdeals.com/deals/lego-disney-pixar-wall-e-and-eve-43279-wcode-free-cc-5050518",
+  "https://www.mydealz.de/deals/80s-overdrive-retro-rennspiel-at-nintendo-switch-eshop-2884512",
+  "https://www.mydealz.de/deals/lego-star-wars-set-smart-play-mos-eisley-cantina-75425-2884511",
+  "https://www.mydealz.de/deals/black-week-20-rabatt-auf-led-leuchtmittel-bei-longlife-led-tagesangebote-bis-zu-66-reduziert-gu10-e27-e14-g9-mehr-2884510",
+  "https://www.mydealz.de/deals/camel-active-wasserdichte-3in1-jacke-m-bis-3xl-2884509",
+  "https://www.mydealz.de/deals/adventurous-mind-bundle-beyond-a-steel-sky-vertigo-syberia-3-nintendo-switch-eshop-2884508",
+  "https://www.mydealz.de/deals/tommy-jeans-tjm-classic-runner-schuhe-2884459",
+  "https://www.mydealz.de/deals/oddworld-soulstorm-nintendo-switch-at-eshop-2884507",
+  "https://www.dealabs.com/bons-plans/funko-pop-deluxe-how-to-train-your-dragon-3473309",
+  "https://www.dealabs.com/bons-plans/telescope-intelligent-automatise-unistellar-odyssey-85320-mm-trepied-inclus-4-kg-format-bagage-cabine-3473257"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1571,7 +1571,7 @@
  ],
  "last_run": {
   "geizhals": 1795846543.3288865,
-  "ebay": 1795846224.9801888
+  "ebay": 1795847278.8054338
  },
  "ebay_seen": {
   "187110721591": 139.1,
