@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-28T04:38:13+00:00"
+   "checked": "2026-11-28T05:11:41+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-28T04:36:49+00:00"
+   "checked": "2026-11-28T05:10:10+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-28T04:37:54+00:00"
+   "checked": "2026-11-28T05:09:57+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,33 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 319.0,
    "last": 319.0,
-   "checked": "2026-11-28T04:38:29+00:00"
+   "checked": "2026-11-28T05:10:30+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 490.9,
-   "checked": "2026-11-28T04:37:40+00:00"
+   "checked": "2026-11-28T05:11:01+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 599.9,
    "last": 599.9,
-   "checked": "2026-11-28T04:37:27+00:00"
+   "checked": "2026-11-28T05:10:44+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 519.99,
-   "checked": "2026-11-28T04:38:50+00:00"
+   "checked": "2026-11-28T05:11:26+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/montre-automatique-orient-star-m42-diver-1964-v2-re-au0602e00b-41-mm-verre-saphir-lunette-rotative-200-m-3472834",
-  "https://www.dealabs.com/bons-plans/plaque-induction-saphirmatt-se-serie-600-bridge-60-cm-zone-flexible-3472833",
   "https://www.dealabs.com/bons-plans/apple-watch-ultra-4-gps-cellular-49-mm-titanium-case-black-3472832",
   "https://www.dealabs.com/bons-plans/nuki-keypad-2-nfc-noir-3472831",
   "https://www.dealabs.com/bons-plans/sharpie-marqueurs-creatifs-feutres-acrylique-pointe-pinceau-feutres-de-coloriage-adulte-a-base-deau-rose-lot-de-6-3472830",
@@ -1558,7 +1556,9 @@
   "https://nl.pepper.com/aanbiedingen/haribo-lovers-spenen-fzz-of-konfekties-nettorama-430018",
   "https://www.dealabs.com/bons-plans/google-pixel-11-pro-xl-256go-et-enceinte-bo-explore-3473282",
   "https://www.hotukdeals.com/deals/elf-skin-holy-hydration-makeup-melting-cleansing-balm-face-cleanser-and-makeup-remover-5050496",
-  "https://www.hotukdeals.com/deals/hisense-ax5125h-512ch-sound-bar-with-rear-speakers-sub-2-x-nectar-points-5050495"
+  "https://www.hotukdeals.com/deals/hisense-ax5125h-512ch-sound-bar-with-rear-speakers-sub-2-x-nectar-points-5050495",
+  "https://www.preisjaeger.at/deals/mediamarkt-die-preisjager-sportskanone-garmin-fenix-8-amoled-47-mm-slate-greyblack-zum-tiefstpreis-373329",
+  "https://www.hotukdeals.com/deals/lego-star-wars-at-at-75440-wvoucher-5050497"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795840597.0009406,
+  "geizhals": 1795842583.7447627,
   "ebay": 1795842265.458932
  },
  "ebay_seen": {
