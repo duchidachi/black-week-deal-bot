@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-28T00:45:42+00:00"
+   "checked": "2026-11-28T01:18:42+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-28T00:46:48+00:00"
+   "checked": "2026-11-28T01:19:45+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-28T00:45:10+00:00"
+   "checked": "2026-11-28T01:18:55+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,32 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 319.0,
    "last": 319.0,
-   "checked": "2026-11-28T00:46:36+00:00"
+   "checked": "2026-11-28T01:19:29+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 490.9,
-   "checked": "2026-11-28T00:46:22+00:00"
+   "checked": "2026-11-28T01:18:24+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 599.9,
    "last": 599.9,
-   "checked": "2026-11-28T00:45:26+00:00"
+   "checked": "2026-11-28T01:18:05+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 519.99,
-   "checked": "2026-11-28T00:46:07+00:00"
+   "checked": "2026-11-28T01:19:10+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.mydealz.de/deals/fender-x-teufel-rockster-cross-2-outdoor-bluetooth-lautsprecher-fur-20999-eur-inkl-versand-7-2884174",
   "https://www.preisjaeger.at/deals/kommunalkredit-festgeld-mit-33-zinsen-pa-bei-12-monaten-laufzeit-373624",
   "https://www.preisjaeger.at/deals/bestpreis-einhell-power-x-change-plus-18v-4ah-twinpack-373623",
   "https://www.dealabs.com/bons-plans/kit-solaire-plug-and-play-1000-wc-structure-pose-au-sol-incluse-bifacial-full-black-suivi-de-production-integre-3472820",
@@ -1558,7 +1557,8 @@
   "https://www.hotukdeals.com/deals/old-spice-gift-set-rockstar-deodorant-stick-shower-gel-5050460",
   "https://www.hotukdeals.com/deals/baxters-super-good-pea-broccoli-basil-pesto-soup-400-g-pack-of-6-5050463",
   "https://www.hotukdeals.com/deals/ff-womens-2-piece-cotton-pyjama-sets-6-designs-to-choose-from-instore-online-clubcard-price-5050462",
-  "https://www.hotukdeals.com/deals/7-nts-2-adults-bb-4-ramla-bay-resort-mellieha-malta-47-tripadvisor-05-12-dec-ps2928pppn-incl-bournemouth-flights-breakfast-taxes-5050461"
+  "https://www.hotukdeals.com/deals/7-nts-2-adults-bb-4-ramla-bay-resort-mellieha-malta-47-tripadvisor-05-12-dec-ps2928pppn-incl-bournemouth-flights-breakfast-taxes-5050461",
+  "https://www.dealabs.com/bons-plans/veste-impermeable-bosfield-iii-pour-homme-3473256"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795826689.8868213,
+  "geizhals": 1795828655.175343,
   "ebay": 1795828338.980216
  },
  "ebay_seen": {
