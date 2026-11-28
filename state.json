@@ -5,7 +5,7 @@
    "first_seen": "2026-11-10T20:04:15+00:00",
    "lowest": 499.99,
    "last": 499.99,
-   "checked": "2026-11-27T23:40:44+00:00"
+   "checked": "2026-11-28T00:12:38+00:00"
   },
   "https://geizhals.eu/wise-advanced-cfx-b-series-mk-ii-r1700-w1550-cfexpress-type-b-1tb-cfx-b1024m2-a3127875.html": {},
   "https://geizhals.eu/angelbird-av-pro-cfexpress-mk2-r1785-w1550-cfexpress-type-b-1tb-avp1t0cfxbmk2-a2683882.html": {
@@ -13,14 +13,14 @@
    "first_seen": "2026-11-10T20:04:25+00:00",
    "lowest": 499.0,
    "last": 499.0,
-   "checked": "2026-11-27T23:39:43+00:00"
+   "checked": "2026-11-28T00:12:21+00:00"
   },
   "https://geizhals.eu/lexar-professional-silver-4-0-r3600-w3000-cfexpress-type-b-1tb-lcxexs4001t-rneng-a3380198.html": {
    "baseline": 438.27,
    "first_seen": "2026-11-10T20:04:30+00:00",
    "lowest": 438.27,
    "last": 438.27,
-   "checked": "2026-11-27T23:39:25+00:00"
+   "checked": "2026-11-28T00:13:41+00:00"
   },
   "https://geizhals.eu/samsung-portable-ssd-t7-shield-schwarz-2tb-mu-pe2t0s-a2722502.html": {
    "baseline": 388.68,
@@ -34,41 +34,31 @@
    "first_seen": "2026-11-10T20:04:40+00:00",
    "lowest": 319.0,
    "last": 319.0,
-   "checked": "2026-11-27T23:39:58+00:00"
+   "checked": "2026-11-28T00:13:21+00:00"
   },
   "https://geizhals.eu/seagate-ironwolf-nas-hdd-12tb-st12000vn0008-a1888717.html": {
    "baseline": 469.9,
    "first_seen": "2026-11-10T20:04:45+00:00",
    "lowest": 469.0,
    "last": 490.9,
-   "checked": "2026-11-27T23:40:58+00:00"
+   "checked": "2026-11-28T00:12:08+00:00"
   },
   "https://geizhals.eu/western-digital-wd-red-plus-12tb-wd120efbx-a2425268.html": {
    "baseline": 609.0,
    "first_seen": "2026-11-10T20:04:50+00:00",
    "lowest": 599.9,
    "last": 599.9,
-   "checked": "2026-11-27T23:40:13+00:00"
+   "checked": "2026-11-28T00:13:58+00:00"
   },
   "https://geizhals.eu/western-digital-wd-elements-desktop-schwarz-20tb-wdbwlg0200hbk-a2694729.html": {
    "baseline": 514.9,
    "first_seen": "2026-11-23T21:52:43+00:00",
    "lowest": 452.14,
    "last": 519.99,
-   "checked": "2026-11-27T23:39:09+00:00"
+   "checked": "2026-11-28T00:12:51+00:00"
   }
  },
  "mydealz_seen": [
-  "https://www.dealabs.com/bons-plans/selection-de-pantalons-homme-jules-en-promotion-chinos-jeans-du-34-au-46-ex-pantalon-chino-loose-jules-100-coton-noir-3472772",
-  "https://www.dealabs.com/bons-plans/1-jeu-de-societe-achete-le-2eme-a-50-parmi-une-selection-asmodee-3472771",
-  "https://www.dealabs.com/bons-plans/robot-aspirateur-laveur-ecovacs-deebot-t30c-gen2-avec-station-omni-25-000-pa-lavage-a-75-c-3472767",
-  "https://www.chollometro.com/ofertas/estan-vivos-de-john-carpenter-blu-ray-2093945",
-  "https://www.chollometro.com/ofertas/black-myth-wukong-pc-steam-clave-global-2093943",
-  "https://www.chollometro.com/ofertas/xiaomi-redmi-pad-2-pro-8gb-256gb-2093944",
-  "https://www.chollometro.com/ofertas/samsung-lavadora-carga-frontal-9kg-clase-a-10-ww90dg6u85hhu3-2093942",
-  "https://www.chollometro.com/ofertas/blokees-marvel-deadpool-y-wolverine-champion-class-04-deadpool-modelo-para-montar-en-casa-sin-herramientas-2093938",
-  "https://www.chollometro.com/ofertas/lenovo-legion-5-gen-11-portatil-gaming-ia-153-oled-amd-ryzen-7-250-nvidia-geforce-rtx-5050-165hz-16gb-ram-512gb-ssd-wi-fi7sin-w11-2093934",
-  "https://www.chollometro.com/ofertas/gorra-ajustable-de-mujer-new-era-9forty-new-york-yankees-tech-jersey-camuflaje-2093937",
   "https://www.chollometro.com/ofertas/cafetera-espresso-hibrew-h2b-06-l-19-bares-con-intensidad-ajustable-2093935",
   "https://www.chollometro.com/ofertas/chapela-chocolate-dulcesol-135g-alcampo-sanlucar-de-barrameda-2093933",
   "https://nl.pepper.com/aanbiedingen/iphone-18-pro-429942",
@@ -1558,7 +1548,17 @@
   "https://www.hotukdeals.com/deals/matchmakers-cool-mint-110g-at-heron-foods-5050431",
   "https://www.hotukdeals.com/deals/ps15-bonus-on-ps70-spend-at-adidas-first-3000-opt-ins-5050430",
   "https://www.hotukdeals.com/deals/lego-creator-3in1-iconic-pirate-ship-31387-5050429",
-  "https://www.hotukdeals.com/deals/dave-the-diver-steam-deck-verified-pcsteam-5050428"
+  "https://www.hotukdeals.com/deals/dave-the-diver-steam-deck-verified-pcsteam-5050428",
+  "https://www.dealabs.com/bons-plans/matelas-emma-original-version-2025-3473228",
+  "https://www.dealabs.com/bons-plans/adherent-fnac-pc-portable-samsung-galaxy-book-5-pro-14-amoled-woxga-120-hz-ecran-tactile-copilot-pc-intel-core-ultra-al-5-16-go-3473227",
+  "https://www.dealabs.com/bons-plans/tondeuse-a-barbe-serie-5000-bt578015-philips-via-640eur-credite-sur-carte-club-3473223",
+  "https://www.hotukdeals.com/deals/lego-titanic-5050436",
+  "https://www.hotukdeals.com/deals/150g-bags-taylors-crisps-festive-flavours-69p-at-farmfoods-5-day-special-5049937",
+  "https://www.hotukdeals.com/deals/specially-selected-xxl-caramelised-onion-sausages-5047180",
+  "https://www.hotukdeals.com/deals/ps50-off-ps500-spend-at-samsung-with-paypal-black-friday-offer-5045850",
+  "https://www.hotukdeals.com/deals/new-museum-of-london-opening-day-free-tickets-28th-of-november-5017046",
+  "https://www.hotukdeals.com/deals/jamesons-ruffles-raspberry-coconut-135g-at-heron-foods-5050438",
+  "https://www.hotukdeals.com/deals/nicky-elite-24-rolls-of-toilet-tissue-3-ply-168-sheets-per-roll-5050437"
  ],
  "errors": {},
  "feeds_bootstrapped": [
@@ -1570,7 +1570,7 @@
   "https://www.hotukdeals.com/rss/new"
  ],
  "last_run": {
-  "geizhals": 1795822729.0922444,
+  "geizhals": 1795824707.9126334,
   "ebay": 1795824390.2151475
  },
  "ebay_seen": {
